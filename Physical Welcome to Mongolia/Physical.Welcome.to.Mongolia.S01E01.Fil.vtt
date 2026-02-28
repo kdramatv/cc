@@ -1,0 +1,679 @@
+WEBVTT
+
+[Impormasyon ng script]
+; Ang script ay nabuo ng FFmpeg/Lavc61.24.100
+Uri ng Iskrip: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: oo
+YCbCr Matrix: Wala
+
+[V4+ Styles]
+Format: Pangalan, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Estilo: Default,Arial,16,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,1
+
+[Mga Kaganapan]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:07.47,0:00:08.54,Default,,0,0,0,,Nakakamangha ang lugar na ito.
+Dialogue: 0,0:00:08.60,0:00:09.54,Default,,0,0,0,,Hindi ako makapaniwala na nandito ako.
+Dialogue: 0,0:00:13.94,0:00:14.94,Default,,0,0,0,,Nakakabaliw ito!
+Dialogue: 0,0:00:18.91,0:00:20.22,Default,,0,0,0,,Gusto kong manirahan sa Mongolia!
+Dialogue: 0,0:00:20.28,0:00:22.45,Default,,0,0,0,,PISIKAL: WELCOME TO MONGOLIA
+Dialogue: 0,0:00:23.02,0:00:26.92,Default,,0,0,0,,INCHEON INTERNATIONAL AIRPORT
+Dialogue: 0,0:00:27.49,0:00:28.32,Default,,0,0,0,,Pupunta kami.
+Dialogue: 0,0:00:28.39,0:00:30.23,Default,,0,0,0,,Pupunta na kami sa wakas.
+Dialogue: 0,0:00:30.96,0:00:32.13,Default,,0,0,0,,Gaano katagal tayo mananatili?
+Dialogue: 0,0:00:32.19,0:00:33.50,Default,,0,0,0,,Ito ay tatlong gabi, apat na araw na biyahe.
+Dialogue: 0,0:00:33.56,0:00:34.40,Default,,0,0,0,,Ano ang iyong mga bag?
+Dialogue: 0,0:00:34.46,0:00:35.66,Default,,0,0,0,,Napakarami mo.
+Dialogue: 0,0:00:35.73,0:00:38.37,Default,,0,0,0,,Alam kong marami ako,\Npero mas malala ka pa sa akin.
+Dialogue: 0,0:00:38.43,0:00:39.70,Default,,0,0,0,,Well, ako…
+Dialogue: 0,0:00:39.77,0:00:41.10,Default,,0,0,0,,-Ang lamig talaga.\N-Tama.
+Dialogue: 0,0:00:41.17,0:00:44.81, Default,,0,0,0,,Kaya nag-impake ako ng mga bota, isang mahabang puffer coat,\Nand malalaki ang damit.
+Dialogue: 0,0:00:44.87,0:00:45.74,Default,,0,0,0,,Tama.
+Dialogue: 0,0:00:45.81,0:00:48.48,Default,,0,0,0,,-Ang halaga ng isang araw ay tumatagal ng kalahating maleta.\N-Naiintindihan ko.
+Dialogue: 0,0:00:48.54,0:00:50.61,Default,,0,0,0,,-Nakatanggap ka ba ng anumang mga mensahe?\N-Anong mga mensahe?
+Dialogue: 0,0:00:50.68,0:00:53.01,Default,,0,0,0,,Sinasabi ng mga tao sa Mongolia\Nwag munang pumunta ngayon.
+Dialogue: 0,0:00:53.08,0:00:54.72,Default,,0,0,0,,-Bakit?\N-Dahil sobrang lamig.
+Dialogue: 0,0:00:54.78,0:00:56.75,Default,,0,0,0,,Sabi nila hindi ngayon ang oras\Nto bisitahin ang Mongolia.
+Dialogue: 0,0:00:56.82,0:00:58.42,Default,,0,0,0,,-Ito ba ang pinakamalamig na oras ng taon doon?\N-Oo.
+Dialogue: 0,0:00:58.49,0:01:00.26,Default,,0,0,0,,Sabi nila ito ang pinakamalamig ngayon.
+Dialogue: 0,0:01:00.32,0:01:01.79,Default,,0,0,0,,Kailangan nating magsuot ng lima o anim na layer.
+Dialogue: 0,0:01:02.46,0:01:04.13,Default,,0,0,0,,-I think this is it.\N-Nandito ba?
+Dialogue: 0,0:01:04.19,0:01:06.29,Default,,0,0,0,,-Mongolian Airlines.\N-Wow, Mongolian Airlines.
+Dialogue: 0,0:01:06.36,0:01:08.93,Default,,0,0,0,,-Nacurious ako pagdating namin sa Mongolia.\N-Tungkol saan?
+Dialogue: 0,0:01:09.00,0:01:11.17,Default,,0,0,0,,May makikilala ba tayo?
+Dialogue: 0,0:01:11.93,0:01:13.44,Default,,0,0,0,,Curious din ako diyan.
+Dialogue: 0,0:01:13.50,0:01:16.47,Default,,0,0,0,,Balita ko marami kang tagasunod, Motti.
+Dialogue: 0,0:01:16.54,0:01:17.91,Default,,0,0,0,,Oo, nakakuha ako ng kaunti pa.
+Dialogue: 0,0:01:17.97,0:01:19.97,Default,,0,0,0,,-Any Mongolian followers?\N-Marami sa kanila ang umabot...
+Dialogue: 0,0:01:20.04,0:01:21.44,Default,,0,0,0,,-Wow, talaga?\N-Oo.
+Dialogue: 0,0:01:21.51,0:01:25.91,Default,,0,0,0,,-Pero--\N-Hi. Oh my god, pwede ba kitang yakapin?
+Dialogue: 0,0:01:25.98,0:01:27.65,Default,,0,0,0,,-Oh my gosh.\N-Salamat.
+Dialogue: 0,0:01:27.72,0:01:28.82,Default,,0,0,0,,Kilala mo ba ang babaeng ito?
+Dialogue: 0,0:01:31.15,0:01:36.12,Default,,0,0,0,,-Sikat na sikat.\N-Oh, wow.
+Dialogue: 0,0:01:36.19,0:01:37.99,Default,,0,0,0,,Tayo ba… Mongolia...
+Dialogue: 0,0:01:38.06,0:01:40.50,Default,,0,0,0,,-Para ba tayo ng BTS sa Mongolia?\N-Yeah.
+Dialogue: 0,0:01:41.86,0:01:43.50,Default,,0,0,0,,A QUICK SHOT SA ISANG MONGOLIAN FAN
+Dialogue: 0,0:01:43.57,0:01:46.13,Default,,0,0,0,,Pisikal ba: Asia\Hindi talaga sikat sa Mongolia?
+Dialogue: 0,0:01:46.20,0:01:47.54,Default,,0,0,0,,Hindi biro.
+Dialogue: 0,0:01:47.60,0:01:50.24,Default,,0,0,0,,-Nakikilala ba sila sa kalye?\N-Oo.
+Dialogue: 0,0:01:50.31,0:01:52.04,Default,,0,0,0,,Lahat ito sa social media.
+Dialogue: 0,0:01:52.11,0:01:53.74,Default,,0,0,0,,ISA PANG QUICK SHOT
+Dialogue: 0,0:01:53.81,0:01:54.78,Default,,0,0,0,,Galing.
+Dialogue: 0,0:01:54.84,0:01:57.05,Default,,0,0,0,,Dong-hyun, medyo gumaan ang pakiramdam ko ngayon.
+Dialogue: 0,0:01:57.11,0:02:00.18,Default,,0,0,0,,Tama, nakakatuwang pakinggan\Nnagustuhan ng mga tao ang palabas.
+Dialogue: 0,0:02:00.25,0:02:02.32,Default,,0,0,0,,Inaasahan ko ito.
+Dialogue: 0,0:02:02.38,0:02:03.25,Default,,0,0,0,,Salamat.
+Dialogue: 0,0:02:05.22,0:02:06.19,Default,,0,0,0,,Wow, ito ay kumportable.
+Dialogue: 0,0:02:07.02,0:02:08.76,Default,,0,0,0,,-Mukhang sobrang komportable ka.\N-Oo.
+Dialogue: 0,0:02:08.82,0:02:10.29,Default,,0,0,0,,Gusto ko talaga.
+Dialogue: 0,0:02:13.56,0:02:14.63,Default,,0,0,0,,Well...
+Dialogue: 0,0:02:17.23,0:02:19.03,Default,,0,0,0,,Nagcha-champagne ka?
+Dialogue: 0,0:02:19.10,0:02:20.80,Default,,0,0,0,,Kukunin ko lang ito sa ngayon.
+Dialogue: 0,0:02:20.87,0:02:23.30,Default,,0,0,0,,-It's for show.\N-Oh, it's for show?
+Dialogue: 0,0:02:23.37,0:02:26.57,Default,,0,0,0,,-Umiinom ka ba?\N-Hindi, hindi ako umiinom.
+Dialogue: 0,0:02:26.64,0:02:30.41,Default,,0,0,0,,At ngayon ay papunta na tayo sa Mongolia.
+Dialogue: 0,0:02:32.61,0:02:34.72,Default,,0,0,0,,-Ang temperatura ngayon ay minus 21 degrees.\N-Talaga?
+Dialogue: 0,0:02:36.12,0:02:37.19,Default,,0,0,0,,ULAANBAATAR WEATHER\NMINUS 21 DEGREES CELSIUS
+Dialogue: 0,0:02:40.79,0:02:41.96,Default,,0,0,0,,Ipakita ang espiritu ng Marine Corps.
+Dialogue: 0,0:02:42.02,0:02:43.02,Default,,0,0,0,,-Salute.\N-Salute.
+Dialogue: 0,0:02:50.53,0:02:52.80,Default,,0,0,0,,CHINGGIS KHAAN INTERNATIONAL AIRPORT
+Dialogue: 0,0:02:54.90,0:02:58.44,Default,,0,0,0,,ISA PANG KAHILINGAN NG LARAWAN\NAS PAGDATING NILA SA MONGOLIA
+Dialogue: 0,0:02:58.51,0:03:00.91,Default,,0,0,0,,Wow, sira ang Mongolia!
+Dialogue: 0,0:03:00.98,0:03:03.41,Default,,0,0,0,,-Seryoso.\N-Karaniwan silang walang kabuluhan.
+Dialogue: 0,0:03:03.48,0:03:04.55,Default,,0,0,0,,Hindi sila kumukuha ng litrato.
+Dialogue: 0,0:03:04.61,0:03:06.88,Default,,0,0,0,,-Pero humingi sila ng group photo.\N-Gosh.
+Dialogue: 0,0:03:06.95,0:03:09.72,Default,,0,0,0,,-Sikat talaga ang palabas.\N-Nang tinawag nila kami,
+Dialogue: 0,0:03:09.78,0:03:11.09,Default,,0,0,0,,Akala ko may problema tayo.
+Dialogue: 0,0:03:12.19,0:03:14.22,Default,,0,0,0,,Nasaan tayo ngayon?
+Dialogue: 0,0:03:14.29,0:03:18.59,Default,,0,0,0,,-Dinadala kami sa VIP exit.\N-Nabalitaan kong gagawin nila iyon.
+Dialogue: 0,0:03:18.66,0:03:19.66,Default,,0,0,0,,GAMIT ANG VIP EXIT
+Dialogue: 0,0:03:19.73,0:03:21.03,Default,,0,0,0,,Ito ay isang bagay na ginagawa nila
+Dialogue: 0,0:03:21.10,0:03:23.16,Default,,0,0,0,,para sa pagbisita sa mga dignitaryo at iba pa, tama ba?
+Dialogue: 0,0:03:23.93,0:03:25.23,Default,,0,0,0,,Labas talaga ito.
+Dialogue: 0,0:03:25.30,0:03:27.17,Default,,0,0,0,,Wow, ito lang...
+Dialogue: 0,0:03:27.24,0:03:28.67,Default,,0,0,0,,Mga kaibigan ko.
+Dialogue: 0,0:03:28.74,0:03:30.57,Default,,0,0,0,,Hoy, mga kaibigan ko.
+Dialogue: 0,0:03:30.64,0:03:33.44,Default,,0,0,0,,Kumusta.
+Dialogue: 0,0:03:34.98,0:03:35.84,Default,,0,0,0,,Hoy, ano ito?
+Dialogue: 0,0:03:39.88,0:03:41.35,Default,,0,0,0,,Holy cow, si Orkhon!
+Dialogue: 0,0:03:44.05,0:03:46.29,Default,,0,0,0,,ORKHONBAYAR\NTEAM MONGOLIA
+Dialogue: 0,0:03:46.35,0:03:47.99,Default,,0,0,0,,Hoy, mga kaibigan ko!
+Dialogue: 0,0:03:48.06,0:03:49.79,Default,,0,0,0,,Kumusta.
+Dialogue: 0,0:03:55.13,0:03:56.13,Default,,0,0,0,,Napakatagal na.
+Dialogue: 0,0:03:58.53,0:03:59.80,Default,,0,0,0,,Itong lounge?
+Dialogue: 0,0:04:02.67,0:04:03.67,Default,,0,0,0,,Ang VIP lounge?
+Dialogue: 0,0:04:03.74,0:04:04.91,Default,,0,0,0,,Wow, iba ito.
+Dialogue: 0,0:04:08.84,0:04:09.78,Default,,0,0,0,,Hoy, kaibigan!
+Dialogue: 0,0:04:09.84,0:04:11.68,Default,,0,0,0,,-Hey, mga kaibigan.\N-Oo, kaibigan ko.
+Dialogue: 0,0:04:11.75,0:04:12.78,Default,,0,0,0,,Sus, ito ay…
+Dialogue: 0,0:04:12.85,0:04:14.38,Default,,0,0,0,,Nakuha mo ito?
+Dialogue: 0,0:04:26.19,0:04:27.16,Default,,0,0,0,,Nirentahan mo ba?
+Dialogue: 0,0:04:30.43,0:04:32.23,Default,,0,0,0,,Nagsisimula na itong uminit dito.
+Dialogue: 0,0:04:37.21,0:04:39.37,Default,,0,0,0,,Hey, dahil ang English natin ay parang…
+Dialogue: 0,0:04:39.44,0:04:41.64,Default,,0,0,0,,Nagpraktis ako gamit ito noon pa man.
+Dialogue: 0,0:04:41.71,0:04:43.71,Default,,0,0,0,,-AI assistant?\N-Oo.
+Dialogue: 0,0:04:43.78,0:04:44.71,Default,,0,0,0,,Subukan natin ito.
+Dialogue: 0,0:04:47.72,0:04:48.62,Default,,0,0,0,,Orkhon.
+Dialogue: 0,0:04:49.38,0:04:51.72,Default,,0,0,0,,Natutuwa akong makita ka. namiss kita.
+Dialogue: 0,0:04:51.79,0:04:53.39,Default,,0,0,0,,Pakisabi ito sa Mongolian.
+Dialogue: 0,0:04:53.99,0:04:57.19,Default,,0,0,0,,Kumusta, kamusta? Ikinagagalak kitang makita.
+Dialogue: 0,0:04:57.26,0:04:58.09,Default,,0,0,0,,Oo.
+Dialogue: 0,0:04:58.16,0:04:59.39,Default,,0,0,0,,Kumusta.
+Dialogue: 0,0:05:00.26,0:05:02.76,Default,,0,0,0,,Sikat ba ang Physical: Asia sa Mongolia?
+Dialogue: 0,0:05:02.83,0:05:04.27,Default,,0,0,0,,Oo, sikat ito.
+Dialogue: 0,0:05:06.93,0:05:08.44,Default,,0,0,0,, kumukuha ba ng litrato ang mga tao?
+Dialogue: 0,0:05:16.61,0:05:19.15,Default,,0,0,0,,-28 na ako.\N-Isinilang siya noong 1998.
+Dialogue: 0,0:05:19.21,0:05:21.42,Default,,0,0,0,,-Oh, 28 na siya?\N-Mas bata siya sa akin ng 6 na taon.
+Dialogue: 0,0:05:21.48,0:05:23.58,Default,,0,0,0,,Tama. Wow…
+Dialogue: 0,0:05:24.15,0:05:25.32,Default,,0,0,0,,May malaking gap sa pagitan namin.
+Dialogue: 0,0:05:26.65,0:05:29.09,Default,,0,0,0,,-Malaking pagkakaiba. Matanda na ako.\N-Si Dong-hyun ay...
+Dialogue: 0,0:05:29.16,0:05:31.79,Default,,0,0,0,,-44 years old na ako.\N-44 na siya.
+Dialogue: 0,0:05:31.86,0:05:33.23,Default,,0,0,0,,44 ka na?
+Dialogue: 0,0:05:36.40,0:05:37.23,Default,,0,0,0,,Matanda na ako, okay?
+Dialogue: 0,0:05:37.30,0:05:38.43,Default,,0,0,0,,Eoreusi?
+Dialogue: 0,0:05:38.50,0:05:40.67,Default,,0,0,0,,-Eoreusi?\N-Oh, eoreusin? Tulad ng, "matanda"?
+Dialogue: 0,0:05:40.74,0:05:41.60,Default,,0,0,0,,Ako ay isang elder?
+Dialogue: 0,0:05:42.30,0:05:44.17,Default,,0,0,0,,Hoy, hindi ako elder!
+Dialogue: 0,0:05:44.24,0:05:45.87,Default,,0,0,0,,Walang elder dito!
+Dialogue: 0,0:05:53.95,0:05:56.08,Default,,0,0,0,,-Any danbaekjil?\N-Tulad ng, protina?
+Dialogue: 0,0:05:56.15,0:05:57.15,Default,,0,0,0,,Na-curious ako.
+Dialogue: 0,0:06:08.80,0:06:10.60,Default,,0,0,0,,Ang aming mga kaibigan.
+Dialogue: 0,0:06:10.67,0:06:13.70,Default,,0,0,0,,PISIKAL: WELCOME TO MONGOLIA
+Dialogue: 0,0:06:15.54,0:06:16.47,Default,,0,0,0,,Sus, ang lamig!
+Dialogue: 0,0:06:16.54,0:06:17.64,Default,,0,0,0,,Nagyeyelo.
+Dialogue: 0,0:06:17.71,0:06:19.24,Default,,0,0,0,,-Wow!\N-Ano yun?
+Dialogue: 0,0:06:19.31,0:06:21.38,Default,,0,0,0,,-Tingnan mo ang sasakyan. Nakakabaliw!\N-Banal na baka!
+Dialogue: 0,0:06:22.71,0:06:24.21,Default,,0,0,0,,Ito ay isang BMW.
+Dialogue: 0,0:06:24.28,0:06:26.48,Default,,0,0,0,,ORKHON NAGHANDA NG SURPRISE RIDE
+Dialogue: 0,0:06:27.15,0:06:28.78,Default,,0,0,0,,Tingnan ang lahat ng G-Wagons!
+Dialogue: 0,0:06:28.85,0:06:30.32,Default,,0,0,0,,Mayaman ba siya?
+Dialogue: 0,0:06:30.39,0:06:31.49,Default,,0,0,0,,ESCORT NA MGA SASAKYAN SA PALIGID NG KANILANG KOTSE
+Dialogue: 0,0:06:35.19,0:06:36.59,Default,,0,0,0,,Special treatment ba ito para sa atin?
+Dialogue: 0,0:06:36.66,0:06:37.93,Default,,0,0,0,,Nakakamangha ito.
+Dialogue: 0,0:06:38.49,0:06:39.39,Default,,0,0,0,,Ano ito?
+Dialogue: 0,0:06:40.50,0:06:41.50,Default,,0,0,0,,Maganda ito.
+Dialogue: 0,0:06:43.00,0:06:44.90,Default,,0,0,0,,Masyado kaming tinatrato ni Orkhon.
+Dialogue: 0,0:06:44.97,0:06:47.67,Default,,0,0,0,,Ibinibigay niya sa amin\N ang buong Mongolian na karanasan.
+Dialogue: 0,0:06:47.74,0:06:49.94,Default,,0,0,0,,-May mga massage function pa ito.\N-Holy cow.
+Dialogue: 0,0:06:50.00,0:06:52.04,Default,,0,0,0,,-Nakakamangha ito.\N-Talaga.
+Dialogue: 0,0:06:52.61,0:06:54.71,Default,,0,0,0,,GUMAGAMIT NG TRANSLATING APP ang ORKHON
+Dialogue: 0,0:06:55.58,0:06:57.35,Default,,0,0,0,,Sinabi niyang inihanda niya ang lahat ng ito para sa atin.
+Dialogue: 0,0:06:59.55,0:07:00.58,Default,,0,0,0,,Salamat.
+Dialogue: 0,0:07:03.28,0:07:06.79,Default,,0,0,0,,Sana ang una mong paglalakbay sa Mongolia\Nmaging isang mahalagang alaala.
+Dialogue: 0,0:07:09.12,0:07:10.46,Default,,0,0,0,,Mukhang kamangha-mangha sa labas.
+Dialogue: 0,0:07:21.90,0:07:24.91,Default,,0,0,0,,Ano ang gusto mong gawin sa Mongolia?
+Dialogue: 0,0:07:24.97,0:07:27.51,Default,,0,0,0,,Gusto kong kumain ng parehong pagkain\Nna kinakain ng mga Mongolian wrestler
+Dialogue: 0,0:07:27.58,0:07:29.44,Default,,0,0,0,,at maging malakas tulad nila.
+Dialogue: 0,0:07:29.51,0:07:31.25,Default,,0,0,0,,At gusto kong sumakay ng kabayo.
+Dialogue: 0,0:07:34.75,0:07:35.92,Default,,0,0,0,,Naghanda kami
+Dialogue: 0,0:07:35.98,0:07:37.45,Default,,0,0,0,,isang kahanga-hangang dalawang araw na programa
+Dialogue: 0,0:07:37.52,0:07:38.89,Default,,0,0,0,,-para sa iyo.\N-Amotti.
+Dialogue: 0,0:07:46.16,0:07:48.53,Default,,0,0,0,,Hindi yata ako matutulog.
+Dialogue: 0,0:07:52.70,0:07:54.27,Default,,0,0,0,,Kasal ba si Orkhon? Single siya diba?
+Dialogue: 0,0:07:54.34,0:07:55.74,Default,,0,0,0,,Hindi, may asawa na siya.
+Dialogue: 0,0:08:01.91,0:08:03.48,Default,,0,0,0,,Ilan ang anak mo?
+Dialogue: 0,0:08:04.01,0:08:05.05,Default,,0,0,0,,Sikreto lang?
+Dialogue: 0,0:08:06.41,0:08:08.48,Default,,0,0,0,,Pero alam mo kung ano?
+Dialogue: 0,0:08:08.55,0:08:10.02,Default,,0,0,0,,Ito ay nasa aking YouTube channel,
+Dialogue: 0,0:08:10.08,0:08:13.75,Default,,0,0,0,,pero kahit ang mga Mongolian ay hindi alam na\Nsiya ay kasal na at may anak na.
+Dialogue: 0,0:08:13.82,0:08:15.92,Default,,0,0,0,,-Talaga?\N-Oo.
+Dialogue: 0,0:08:15.99,0:08:18.76,Default,,0,0,0,,Sobrang daming napag-usapan nina Eddie at Amotti\Na tungkol diyan sa vlog.
+Dialogue: 0,0:08:22.30,0:08:25.87,Default,,0,0,0,,Nagpapakasal ba ang mga Mongolian sa murang edad?
+Dialogue: 0,0:08:29.17,0:08:33.14,Default,,0,0,0,,Mahilig kaming magpakasal\Nat sa medyo murang edad.
+Dialogue: 0,0:08:33.21,0:08:35.88,Default,,0,0,0,,Nag-iiba-iba ang edad, ngunit karamihan ay nagpakasal\Pagkatapos nilang maging 18.
+Dialogue: 0,0:08:37.11,0:08:39.38,Default,,0,0,0,,-Sa 18 years old?\N-Wow, ang aga naman.
+Dialogue: 0,0:08:39.45,0:08:42.28,Default,,0,0,0,,Tama, maaga talaga ang pagpapakasal\Nafter 18.
+Dialogue: 0,0:08:42.35,0:08:43.45,Default,,0,0,0,,Mga 20 iyon, kung gayon.
+Dialogue: 0,0:08:44.79,0:08:45.65,Default,,0,0,0,,Nagpakasal ako
+Dialogue: 0,0:08:46.65,0:08:48.66,Default,,0,0,0,,noong 38 taong gulang ako.
+Dialogue: 0,0:08:50.22,0:08:52.29,Default,,0,0,0,,-Ako ay isang elder.\N-Tama, isang elder.
+Dialogue: 0,0:08:52.36,0:08:54.76,Default,,0,0,0,,Bakit late ka nagpakasal?
+Dialogue: 0,0:09:01.74,0:09:02.74,Default,,0,0,0,,Isang PAGKAKAIBIGAN NA BINALIKAN NG MGA SIKRETO
+Dialogue: 0,0:09:06.67,0:09:08.01,Default,,0,0,0,,Wow, ang laki ng buwan.
+Dialogue: 0,0:09:11.25,0:09:12.48,Default,,0,0,0,,Uy, may CU!
+Dialogue: 0,0:09:12.55,0:09:13.95,Default,,0,0,0,,Isa itong CU convenience store!
+Dialogue: 0,0:09:14.02,0:09:15.72,Default,,0,0,0,,-Uy, CU ito!\N-Isang Korean convenience store.
+Dialogue: 0,0:09:22.86,0:09:26.39,Default,,0,0,0,,Nanunuod ba ang mga Mongolians\N ng maraming palabas sa TV sa Korea?
+Dialogue: 0,0:09:32.27,0:09:33.70,Default,,0,0,0,,Oo, tama iyan.
+Dialogue: 0,0:09:33.77,0:09:34.87,Default,,0,0,0,,Ganyan naman, di ba?
+Dialogue: 0,0:09:36.14,0:09:37.84,Default,,0,0,0,,Oo, tama iyan.
+Dialogue: 0,0:09:37.91,0:09:40.58,Default,,0,0,0, "Hayaan ang mga laro magsimula."
+Dialogue: 0,0:09:40.64,0:09:43.68,Default,,0,0,0,,-Sabihin mo, "Naneun...\N-"Naneun...
+Dialogue: 0,0:09:43.74,0:09:44.71,Default,,0,0,0,,...haengbokhamnida."
+Dialogue: 0,0:09:45.55,0:09:46.65,Default,,0,0,0,,...haengbokhamnida."
+Dialogue: 0,0:09:46.71,0:09:49.15,Default,,0,0,0,,Oo, mabuti iyon.\N"Naneun haengbokhamnida."
+Dialogue: 0,0:09:49.22,0:09:51.85,Default,,0,0,0,,Ibig sabihin, "I'm so happy."
+Dialogue: 0,0:09:51.92,0:09:53.89,Default,,0,0,0,,Naneun haengbokhamnida.
+Dialogue: 0,0:09:55.36,0:09:57.53,Default,,0,0,0,,Az jargaltai baina.
+Dialogue: 0,0:09:57.59,0:09:59.06,Default,,0,0,0,,Oo, ibig sabihin, "Masaya ako."
+Dialogue: 0,0:09:59.13,0:10:00.43,Default,,0,0,0,,Sabihin itong muli sa Korean.
+Dialogue: 0,0:10:00.49,0:10:01.60,Default,,0,0,0,,-Naneun…\N-Haengbokhaeyo.
+Dialogue: 0,0:10:01.66,0:10:02.80,Default,,0,0,0,,Haengbokhaeyo.
+Dialogue: 0,0:10:02.86,0:10:04.50,Default,,0,0,0,,Naneun haengbokhaeyo.
+Dialogue: 0,0:10:04.57,0:10:05.73,Default,,0,0,0,,Saranghaeyo.
+Dialogue: 0,0:10:05.80,0:10:06.90,Default,,0,0,0,,Saranghaeyo.
+Dialogue: 0,0:10:06.97,0:10:08.44,Default,,0,0,0,,-Ibig sabihin, "I love you."\N-"I love you."
+Dialogue: 0,0:10:08.50,0:10:09.60,Default,,0,0,0,,Sa Mongolian,
+Dialogue: 0,0:10:09.67,0:10:10.91,Default,,0,0,0,,ito ay "Bi chamd khairtai."
+Dialogue: 0,0:10:10.97,0:10:12.31,Default,,0,0,0,,-Bi chamd\N-Bi chamd…
+Dialogue: 0,0:10:12.37,0:10:13.54,Default,,0,0,0,,-khairtai.\N-…khairtai.
+Dialogue: 0,0:10:13.61,0:10:15.54,Default,,0,0,0,,-Bi chamd khairtai.\N-Bi chamd khairtai.
+Dialogue: 0,0:10:15.61,0:10:17.48,Default,,0,0,0,,-Daebak.\N-Daebak.
+Dialogue: 0,0:10:17.55,0:10:18.45,Default,,0,0,0,,Ibig sabihin, "Wow."
+Dialogue: 0,0:10:18.51,0:10:19.45,Default,,0,0,0,,Daebak!
+Dialogue: 0,0:10:26.65,0:10:29.09,Default,,0,0,0,,ORKHON'S GO-TO RESTAURANT
+Dialogue: 0,0:10:29.66,0:10:31.56,Default,,0,0,0,,-Gutom na gutom na ako.\N-Nagugutom na ako.
+Dialogue: 0,0:10:34.46,0:10:35.43,Default,,0,0,0,,Ano sa mundo?
+Dialogue: 0,0:10:47.84,0:10:50.21,Default,,0,0,0,,Sa Mongolian, ito ay tinatawag na aaruul.
+Dialogue: 0,0:10:50.28,0:10:51.41,Default,,0,0,0,,MONGOLIAN CURD SNACK: AARUUL
+Dialogue: 0,0:10:54.25,0:10:56.25,Default,,0,0,0,,-Ito ay keso.\N-Uy, ito ay keso.
+Dialogue: 0,0:11:00.52,0:11:02.26,Default,,0,0,0,,Gusto ko ng milk tea.
+Dialogue: 0,0:11:02.32,0:11:05.33,Default,,0,0,0,,-Goy baina.\N-Goy baina.
+Dialogue: 0,0:11:05.39,0:11:06.66,Default,,0,0,0,,-Cheers?\N-Oo, cheers.
+Dialogue: 0,0:11:06.73,0:11:08.70,Default,,0,0,0,,Paano mo sasabihin ang "cheers" sa Mongolian?
+Dialogue: 0,0:11:08.76,0:11:09.76,Default,,0,0,0,,Toloo.
+Dialogue: 0,0:11:09.83,0:11:13.13,Default,,0,0,0,,-Toloo.\N-Toloo.
+Dialogue: 0,0:11:14.27,0:11:15.84,Default,,0,0,0,,Sus, mabango ito.
+Dialogue: 0,0:11:15.90,0:11:16.74,Default,,0,0,0,,Ito ang gatas.
+Dialogue: 0,0:11:20.64,0:11:22.01,Default,,0,0,0,,-Medyo maalat.\N-Oo nga.
+Dialogue: 0,0:11:22.68,0:11:24.15,Default,,0,0,0,,Hindi ito amoy tsaa.
+Dialogue: 0,0:11:24.98,0:11:26.15,Default,,0,0,0,,Ito ay nagpapaalala sa akin ng
+Dialogue: 0,0:11:26.21,0:11:29.05,Default,,0,0,0,,seolleongtang o beef bone soup.
+Dialogue: 0,0:11:29.12,0:11:30.08,Default,,0,0,0,,Ano ang lasa?
+Dialogue: 0,0:11:32.69,0:11:35.36,Default,,0,0,0,,I think it'll even taste good\Nwith rice in it.
+Dialogue: 0,0:11:36.99,0:11:39.03,Default,,0,0,0,,Dalhan ka namin ng ilang regalo.
+Dialogue: 0,0:11:39.09,0:11:40.53,Default,,0,0,0,,-Kukunin ko.\N-May mga regalo kami.
+Dialogue: 0,0:11:41.23,0:11:42.56,Default,,0,0,0,,May mga regalo kami.
+Dialogue: 0,0:11:42.63,0:11:43.63,Default,,0,0,0,,Nagdala kami ng mga regalo.
+Dialogue: 0,0:11:51.44,0:11:54.24,Default,,0,0,0,,EAGLE EDITION WHISKEY
+Dialogue: 0,0:11:54.31,0:11:55.41,Default,,0,0,0,,Salamat.
+Dialogue: 0,0:11:56.51,0:11:58.08,Default,,0,0,0,,TRADITIONAL MOTIF UTENSILS
+Dialogue: 0,0:11:58.15,0:11:59.71,Default,,0,0,0,,TRADITIONAL MOTIF BLANKET
+Dialogue: 0,0:11:59.78,0:12:02.28,Default,,0,0,0,,TRADITIONAL LANDSCAPE VASE
+Dialogue: 0,0:12:05.29,0:12:08.52,Default,,0,0,0,,SPORTS DUFFEL BAG
+Dialogue: 0,0:12:08.59,0:12:10.59,Default,,0,0,0,,SPORTS DUFFEL BAG\N MAY MONGOLIAN FLAG EMBLEM
+Dialogue: 0,0:12:10.66,0:12:13.63,Default,,0,0,0,,Tinahi ko ang bandila sa sarili ko kahapon.
+Dialogue: 0,0:12:13.69,0:12:18.13,Default,,0,0,0,,Maraming salamat.\NI can tell you really put a lot into this.
+Dialogue: 0,0:12:18.20,0:12:20.80,Default,,0,0,0,,Malamig sa Mongolia,\Nkaya binigyan kita ng puffer vest
+Dialogue: 0,0:12:20.87,0:12:21.94,Default,,0,0,0,,at isang headband.
+Dialogue: 0,0:12:22.00,0:12:23.77,Default,,0,0,0,,Susuot ko itong headband araw-araw.
+Dialogue: 0,0:12:23.84,0:12:25.17,Default,,0,0,0,,Ito ang signature look ni Amotti.
+Dialogue: 0,0:12:25.24,0:12:27.71,Default,,0,0,0,,-Salamat.\N-Palaging sold out ang headband na ito.
+Dialogue: 0,0:12:31.85,0:12:32.71,Default,,0,0,0,,Ikaw si Orkhon-tti.
+Dialogue: 0,0:12:32.78,0:12:34.01,Default,,0,0,0,,Tama, Orkhon-tti.
+Dialogue: 0,0:12:34.08,0:12:34.98,Default,,0,0,0,,Mini-Amotti.
+Dialogue: 0,0:12:38.32,0:12:40.52,Default,,0,0,0,,Palagay ko pagkain natin yan.
+Dialogue: 0,0:12:40.59,0:12:45.13,Default,,0,0,0,,Ang pagkain doon\Nis the same Mongolian food we had
+Dialogue: 0,0:12:45.19,0:12:48.96,Default,,0,0,0,,bago ang huling laban sa Physical: Asia.
+Dialogue: 0,0:12:50.80,0:12:52.23,Default,,0,0,0,,Tama, kaya kami mismo ang kumuha nito.
+Dialogue: 0,0:13:01.48,0:13:02.74,Default,,0,0,0,,Wow, ang daming pagkain.
+Dialogue: 0,0:13:02.81,0:13:03.81,Default,,0,0,0,,Mukhang masarap.
+Dialogue: 0,0:13:03.88,0:13:04.91,Default,,0,0,0,,Nakakamangha ito.
+Dialogue: 0,0:13:04.98,0:13:07.72,Default,,0,0,0,,-Buuz ito.\N-Buuz?
+Dialogue: 0,0:13:08.48,0:13:09.48,Default,,0,0,0,,Ito ay ang puwitan ng isang tupa.
+Dialogue: 0,0:13:10.79,0:13:12.69,Default,,0,0,0,,Ito ay binti ng tupa.
+Dialogue: 0,0:13:12.75,0:13:14.05,Default,,0,0,0,,Ito ang binti? nakikita ko.
+Dialogue: 0,0:13:16.96,0:13:18.23,Default,,0,0,0,,Ano ito?
+Dialogue: 0,0:13:18.29,0:13:19.53,Default,,0,0,0,,-Mga Bato.\N-Mga Bato?
+Dialogue: 0,0:13:20.23,0:13:22.10,Default,,0,0,0,,Inihaw mo ang karne dito, tama?
+Dialogue: 0,0:13:22.96,0:13:27.20,Default,,0,0,0,,HINDI MISMO NG ORKHON ANG KARNE
+Dialogue: 0,0:13:27.27,0:13:28.44,Default,,0,0,0,,Magkaroon nito.
+Dialogue: 0,0:13:29.40,0:13:30.91,Default,,0,0,0,,Teka, karne ba ito?
+Dialogue: 0,0:13:31.61,0:13:33.24,Default,,0,0,0,,Mukhang karne ng balyena.
+Dialogue: 0,0:13:33.31,0:13:34.31,Default,,0,0,0,,Ito ba ang laman?
+Dialogue: 0,0:13:34.38,0:13:36.58,Default,,0,0,0,,Kumakain ka raw nito?
+Dialogue: 0,0:13:36.64,0:13:38.05,Default,,0,0,0,,Luto ba ito?
+Dialogue: 0,0:13:38.11,0:13:39.38,Default,,0,0,0,,Ito ay hindi karaniwan.
+Dialogue: 0,0:13:39.45,0:13:42.02,Default,,0,0,0,,Mukhang layer ng taba.
+Dialogue: 0,0:13:43.65,0:13:44.85,Default,,0,0,0,,Ito ay talagang isang layer ng taba.
+Dialogue: 0,0:13:48.19,0:13:50.93,Default,,0,0,0,,Mukhang hindi mataba.\NITaba lang talaga.
+Dialogue: 0,0:13:54.96,0:13:56.80,Default,,0,0,0,,Ito ang pinakamagandang uri ng taba.
+Dialogue: 0,0:13:56.86,0:13:59.23,Default,,0,0,0,,Pero ito ay talagang masarap at masarap.
+Dialogue: 0,0:14:00.60,0:14:02.80,Default,,0,0,0,,-Hoy, ito na.\N-Ito ang ibig kong sabihin.
+Dialogue: 0,0:14:03.40,0:14:04.51,Default,,0,0,0,,Ito na.
+Dialogue: 0,0:14:04.57,0:14:06.17,Default,,0,0,0,,Purong protina lang.
+Dialogue: 0,0:14:06.24,0:14:08.28,Default,,0,0,0,,Kailangan mong kunin at punitin ito.
+Dialogue: 0,0:14:08.34,0:14:10.11,Default,,0,0,0,,Ito ay dapat, tama?
+Dialogue: 0,0:14:10.18,0:14:11.38,Default,,0,0,0,,-Gusto mo bang subukan?\N-Oo, gusto ko.
+Dialogue: 0,0:14:11.45,0:14:13.28,Default,,0,0,0,,Ito ay magiging kamangha-mangha.
+Dialogue: 0,0:14:15.45,0:14:17.08,Default,,0,0,0,,Makinig sa sizzle na iyon.
+Dialogue: 0,0:14:19.65,0:14:21.36,Default,,0,0,0,,Koreano sila,\Nkaya magaling silang mag-ihaw.
+Dialogue: 0,0:14:29.60,0:14:32.00,Default,,0,0,0,,Marami kang nanonood ng YouTube, di ba?
+Dialogue: 0,0:14:32.60,0:14:35.10,Default,,0,0,0,,-Ikaw si Salt Khon.\N-Wisikan ng vibe.
+Dialogue: 0,0:14:38.11,0:14:39.11,Default,,0,0,0,,Susubukan ko ito.
+Dialogue: 0,0:14:43.78,0:14:44.61,Default,,0,0,0,,Orkhon.
+Dialogue: 0,0:14:44.68,0:14:47.65,Default,,0,0,0,,Kailangan nating ilipat\Nang buong bagay doon.
+Dialogue: 0,0:14:47.72,0:14:49.82,Default,,0,0,0,,Seryoso, subukan ang ilan ngayon.
+Dialogue: 0,0:14:49.88,0:14:50.92,Default,,0,0,0,,I-pop ito sa iyong bibig.
+Dialogue: 0,0:14:50.99,0:14:51.82,Default,,0,0,0,,Ito na!
+Dialogue: 0,0:14:52.69,0:14:53.79,Default,,0,0,0,,-Ito na.\N-Mabuti naman.
+Dialogue: 0,0:14:53.85,0:14:54.86,Default,,0,0,0,,Maganda talaga ito.
+Dialogue: 0,0:14:55.66,0:14:57.19,Default,,0,0,0,,-Kain na tayo!\N-Kain na tayo!
+Dialogue: 0,0:14:57.76,0:14:58.89,Default,,0,0,0,,Saikhan khoollooroi.
+Dialogue: 0,0:14:58.96,0:15:00.49,Default,,0,0,0,,-Saikhan khoollooroi.\N-Saikhan khoollooroi.
+Dialogue: 0,0:15:01.50,0:15:02.40,Default,,0,0,0,,Tsuivan.
+Dialogue: 0,0:15:03.93,0:15:06.47,Default,,0,0,0,,Wow, ito ay talagang mahusay.
+Dialogue: 0,0:15:06.53,0:15:07.60,Default,,0,0,0,,Napakaganda nito.
+Dialogue: 0,0:15:12.44,0:15:13.34,Default,,0,0,0,,Hey, ito ay...
+Dialogue: 0,0:15:13.41,0:15:15.18,Default,,0,0,0,,Mukhang beef short rib soup.
+Dialogue: 0,0:15:15.24,0:15:17.14,Default,,0,0,0,,Inihahain nila ito sa mga buffet restaurant.
+Dialogue: 0,0:15:17.21,0:15:21.52,Default,,0,0,0,,Ito ay isang tradisyunal na Mongolian na sopas\Nna tumutulong sa iyong makabangon mula sa pagkapagod.
+Dialogue: 0,0:15:22.08,0:15:24.62,Default,,0,0,0,,Ito ay niluto para hindi mawala ang init.
+Dialogue: 0,0:15:27.22,0:15:28.22,Default,,0,0,0,,Napakalusog nito.
+Dialogue: 0,0:15:31.06,0:15:32.13,Default,,0,0,0,,Ito ay beef short rib soup.
+Dialogue: 0,0:15:33.49,0:15:34.43,Default,,0,0,0,,Buuz yan.
+Dialogue: 0,0:15:35.53,0:15:36.36,Default,,0,0,0,,Maganda ba?
+Dialogue: 0,0:15:38.43,0:15:39.63,Default,,0,0,0,,Ito ay ganap na napapanahon.
+Dialogue: 0,0:15:41.44,0:15:42.97,Default,,0,0,0,,Paano mo gusto ang Mongolian meat?
+Dialogue: 0,0:15:43.04,0:15:44.67,Default,,0,0,0,,-Ang sarap.\N-Sobrang sarap.
+Dialogue: 0,0:15:44.74,0:15:46.47,Default,,0,0,0,,-Alam mo ba?\N-Napakasarap.
+Dialogue: 0,0:15:46.54,0:15:47.98,Default,,0,0,0,,Kahanga-hanga ito para sa mga atleta.
+Dialogue: 0,0:15:48.04,0:15:50.01,Default,,0,0,0,,-The best.\N-Lahat ng karne.
+Dialogue: 0,0:15:50.08,0:15:52.21,Default,,0,0,0,,Ang mga Mongolian wrestler ay kumakain ng isang toneladang karne.
+Dialogue: 0,0:15:52.28,0:15:53.78,Default,,0,0,0,,Kaya pala malakas ang mga Mongolian.
+Dialogue: 0,0:15:53.85,0:15:58.29,Default,,0,0,0,,Ilang Mongolian wrestling titles\Nnalo ka na?
+Dialogue: 0,0:15:58.35,0:16:03.49,Default,,0,0,0,,Dalawang beses akong pumangalawa sa Naadam,
+Dialogue: 0,0:16:03.56,0:16:05.93,Default,,0,0,0,,pero maraming beses na akong nanalo\Nin other competitions.
+Dialogue: 0,0:16:07.26,0:16:10.13,Default,,0,0,0,,Naadam ang pinakamalaking festival\Nin Mongolia, tama ba?
+Dialogue: 0,0:16:10.20,0:16:13.93,Default,,0,0,0,,Oo, dahil iginawad ang mga ranggo sa Naadam.
+Dialogue: 0,0:16:14.00,0:16:16.37,Default,,0,0,0,,Tama, habang tumataas ang iyong ranggo,\Ang iyong head ribbon...
+Dialogue: 0,0:16:16.44,0:16:19.84,Default,,0,0,0,,Nagbabago ang mga marka ng head ribbon\Nand ay nagiging mas kakaiba.
+Dialogue: 0,0:16:19.91,0:16:22.21,Default,,0,0,0,,Ano ang pinakamataas na pamagat?
+Dialogue: 0,0:16:22.28,0:16:23.24,Default,,0,0,0,,Avarga.
+Dialogue: 0,0:16:23.31,0:16:25.01,Default,,0,0,0,,Nagsusumikap ako para maging avarga.
+Dialogue: 0,0:16:25.58,0:16:27.51,Default,,0,0,0,,Ganyan kahirap makakuha ng mataas na ranggo.
+Dialogue: 0,0:16:28.08,0:16:28.98,Default,,0,0,0,,Paano kung ang iyong team
+Dialogue: 0,0:16:29.05,0:16:30.62,Default,,0,0,0,,ay pumasok sa second-chance round
+Dialogue: 0,0:16:30.68,0:16:32.95,Default,,0,0,0,,-kung saan kailangan mong nakawin ang bola?\N-Tama, nakawin mo ang bola.
+Dialogue: 0,0:16:33.02,0:16:34.89,Default,,0,0,0,,Ano ang gagawin mo?
+Dialogue: 0,0:16:34.96,0:16:36.26,Default,,0,0,0,,Itatapon ko sana
+Dialogue: 0,0:16:36.32,0:16:38.56,Default,,0,0,0,,ang bola at ang taong magkasama.
+Dialogue: 0,0:16:43.03,0:16:45.17,Default,,0,0,0,,Ano talaga ang ikinagulat ko
+Dialogue: 0,0:16:45.23,0:16:46.97,Default,,0,0,0,,-ay kung paano namin itinulak ang cart.\N-Tama.
+Dialogue: 0,0:16:47.03,0:16:49.30,Default,,0,0,0,,Ngunit ang iyong koponan ay nagtulak sa mga gulong.
+Dialogue: 0,0:16:50.34,0:16:52.94,Default,,0,0,0,,-Naisip ko, "Ang bait talaga ni Orkhon."\N-Siya talaga.
+Dialogue: 0,0:16:53.01,0:16:56.28,Default,,0,0,0,,Anumang ibang Mongolian\Nay itulak din ang mga gulong.
+Dialogue: 0,0:16:56.34,0:16:57.98,Default,,0,0,0,,Bakit hindi ko naisip iyon?
+Dialogue: 0,0:16:58.05,0:16:59.91,Default,,0,0,0,,At nang kailanganin naming sirain ang gate,
+Dialogue: 0,0:16:59.98,0:17:02.15,Default,,0,0,0,,nakatuon ang iyong team sa pagrampa sa isang gilid.
+Dialogue: 0,0:17:02.22,0:17:04.49,Default,,0,0,0,,-Walang nangyari sa isip ko.\N-Ito ay isang matalinong hakbang.
+Dialogue: 0,0:17:04.55,0:17:07.55,Default,,0,0,0,,Siguro iyon ang Genghis Khan sa atin.
+Dialogue: 0,0:17:07.62,0:17:09.82,Default,,0,0,0,,So hardwired ito sa DNA mo?
+Dialogue: 0,0:17:09.89,0:17:11.06,Default,,0,0,0,,Maraming komento ang nagsabi niyan.
+Dialogue: 0,0:17:11.13,0:17:12.39,Default,,0,0,0,,Nagmadali kaming isara ang gate.
+Dialogue: 0,0:17:13.33,0:17:14.83,Default,,0,0,0,,Napakahirap.
+Dialogue: 0,0:17:14.90,0:17:18.43,Default,,0,0,0,,Kaya humalili ako\Ntingin sa production crew,
+Dialogue: 0,0:17:18.50,0:17:21.37,Default,,0,0,0,,at habang naglalakad ako, naisip ko,
+Dialogue: 0,0:17:21.44,0:17:23.50,Default,,0,0,0,,"Bakit nila ito pinapahirapan?"
+Dialogue: 0,0:17:30.21,0:17:33.08,Default,,0,0,0,,Nasiyahan ka ba sa iyong pagkain? busog ka na ba?
+Dialogue: 0,0:17:33.15,0:17:33.98,Default,,0,0,0,,Napuno ako.
+Dialogue: 0,0:17:34.05,0:17:36.02,Default,,0,0,0,,Lahat ng ito ay para sa inyong dalawa.
+Dialogue: 0,0:17:38.19,0:17:41.02,Default,,0,0,0,,Naghanda kami\Isa pang espesyal na sorpresa para sa iyo.
+Dialogue: 0,0:17:41.09,0:17:45.39,Default,,0,0,0,,Tradisyunal na Mongolian performances.
+Dialogue: 0,0:17:46.99,0:17:48.40,Default,,0,0,0,,Tradisyunal na Mongolian performances?
+Dialogue: 0,0:17:48.86,0:17:52.20,Default,,0,0,0,,1ST WELCOME PERFORMANCE: KHOOMEI
+Dialogue: 0,0:17:52.77,0:17:53.73,Default,,0,0,0,,Gusto ko ang musika.
+Dialogue: 0,0:17:54.37,0:17:55.50,Default,,0,0,0,,Masigla ito.
+Dialogue: 0,0:18:14.42,0:18:15.59,Default,,0,0,0,,Makakarinig ka ng dalawang boses.
+Dialogue: 0,0:18:16.52,0:18:17.99,Default,,0,0,0,,Sumisipol siya habang kumakanta.
+Dialogue: 0,0:18:18.76,0:18:19.79,Default,,0,0,0,,May tinatago ba siya?
+Dialogue: 0,0:18:20.36,0:18:22.10,Default,,0,0,0,,Nag-on ba siya ng speaker?
+Dialogue: 0,0:18:26.47,0:18:28.60,Default,,0,0,0,,Saan nanggagaling ang tunog na iyon?
+Dialogue: 0,0:18:37.08,0:18:38.28,Default,,0,0,0,,Kabayo ba iyon?
+Dialogue: 0,0:18:39.85,0:18:41.88,Default,,0,0,0,,Parang kabayo yun!
+Dialogue: 0,0:18:49.29,0:18:51.56,Default,,0,0,0,,Hoy!
+Dialogue: 0,0:18:52.23,0:18:55.70,Default,,0,0,0,,2ND WELCOME PERFORMANCE: LIVE INK DRAWING
+Dialogue: 0,0:18:55.76,0:18:57.10,Default,,0,0,0,,Napakagaling nila.
+Dialogue: 0,0:18:58.20,0:18:59.30,Default,,0,0,0,,Ito ay Amotti.
+Dialogue: 0,0:19:00.13,0:19:00.97,Default,,0,0,0,,Amotti?
+Dialogue: 0,0:19:03.34,0:19:04.71,Default,,0,0,0,,Napakagaling nilang magdrawing.
+Dialogue: 0,0:19:05.31,0:19:06.44,Default,,0,0,0,,Ito ay kahanga-hanga.
+Dialogue: 0,0:19:06.51,0:19:07.44,Default,,0,0,0,,Ito ay isang kabayo.
+Dialogue: 0,0:19:10.21,0:19:12.65,Default,,0,0,0,,Nakakamangha ang pagguhit ng kabayong iyon.
+Dialogue: 0,0:19:16.75,0:19:17.78,Default,,0,0,0,,Hindi ito kapani-paniwala.
+Dialogue: 0,0:19:24.66,0:19:25.93,Default,,0,0,0,,Napaka-cool nito.
+Dialogue: 0,0:19:27.79,0:19:30.53,Default,,0,0,0,,3RD WELCOME PERFORMANCE:\NTTRADITIONAL MONGOLIAN COSTUME SHOW
+Dialogue: 0,0:19:30.60,0:19:31.53,Default,,0,0,0,,Orgil.
+Dialogue: 0,0:19:32.43,0:19:35.70,Default,,0,0,0,,Sila ba ay dapat na\Nkaapu-apuhan ng mga mandirigmang Mongolian?
+Dialogue: 0,0:19:47.88,0:19:51.19,Default,,0,0,0,,Parang bumalik tayo sa nakaraan.
+Dialogue: 0,0:19:55.39,0:19:57.26,Default,,0,0,0,,-Nakakatuwa.\N-Nakakamangha.
+Dialogue: 0,0:19:59.59,0:20:01.96,Default,,0,0,0,,Inihanda namin ito para sa iyo
+Dialogue: 0,0:20:02.03,0:20:04.20,Default,,0,0,0,,dahil pupunta ka sa Mongolia.
+Dialogue: 0,0:20:04.26,0:20:05.13,Default,,0,0,0,,Maraming salamat.
+Dialogue: 0,0:20:05.20,0:20:06.23,Default,,0,0,0,,Napakamangha.
+Dialogue: 0,0:20:07.07,0:20:08.70,Default,,0,0,0,,Ang pagkain ay hindi kapani-paniwala,
+Dialogue: 0,0:20:08.77,0:20:11.54,Default,,0,0,0,,at pinapanood ang lahat ng pagtatanghal na ito
+Dialogue: 0,0:20:12.17,0:20:14.34,Default,,0,0,0,,ay isang bagay na hindi ko malilimutan.
+Dialogue: 0,0:20:14.41,0:20:18.25,Default,,0,0,0,,Magkakaroon tayo ng\Never better experiences bukas.
+Dialogue: 0,0:20:18.31,0:20:22.58,Default,,0,0,0,,Pupunta kami sa kanayunan\Nupang sumakay ng mga kabayo at mag-archery.
+Dialogue: 0,0:20:22.65,0:20:27.25,Default,,0,0,0,,Kaya kakailanganin mong magsuot ng mas maiinit na damit.
+Dialogue: 0,0:20:27.32,0:20:28.82,Default,,0,0,0,,Si Amotti lang ang sasakay sa kabayo.
+Dialogue: 0,0:20:28.89,0:20:31.76,Default,,0,0,0,,-Elder ako, kaya...\N-Sasakay siya ng camel.
+Dialogue: 0,0:20:34.16,0:20:35.46,Default,,0,0,0,,Bukas,
+Dialogue: 0,0:20:36.20,0:20:38.07,Default,,0,0,0,,maaari kang sumakay sa pinakanakakatakot na kabayo.
+Dialogue: 0,0:20:38.13,0:20:40.17,Default,,0,0,0,,-Para sa kanya yan.\N-Hindi, hindi ko kaya.
+Dialogue: 0,0:20:40.23,0:20:41.40,Default,,0,0,0,,Nakuha mo ito!
+Dialogue: 0,0:20:41.47,0:20:42.70,Default,,0,0,0,,Hindi, hindi ko kaya!
+Dialogue: 0,0:20:45.47,0:20:49.01,Default,,0,0,0,,We have a very busy schedule bukas,
+Dialogue: 0,0:20:49.08,0:20:52.71,Default,,0,0,0,,kaya dapat kang pumunta at magpahinga ngayon.
+Dialogue: 0,0:20:55.02,0:20:56.18,Default,,0,0,0,,Sus, busog na ako.
+Dialogue: 0,0:20:57.65,0:20:58.59,Default,,0,0,0,,Uy, magkamukha ito.
+Dialogue: 0,0:21:01.59,0:21:04.19,Default,,0,0,0,,Ikaw yan, Orkhon.
+Dialogue: 0,0:21:04.26,0:21:06.16,Default,,0,0,0,,Naging obra maestra ka lang
+Dialogue: 0,0:21:06.23,0:21:08.83,Default,,0,0,0,,sa isang elementary school art project.
+Dialogue: 0,0:21:12.70,0:21:13.67,Default,,0,0,0,,Talented ka, Dong-hyun.
+Dialogue: 0,0:21:13.73,0:21:14.90,Default,,0,0,0,,Talaga?
+Dialogue: 0,0:21:18.51,0:21:20.11,Default,,0,0,0,,ORKHONBAYAR
+Dialogue: 0,0:21:25.15,0:21:26.51,Default,,0,0,0,,-Maganda iyan.\N-Hindi naman masama, di ba?
+Dialogue: 0,0:21:26.58,0:21:27.65,Default,,0,0,0,,Hindi masama.
+Dialogue: 0,0:21:27.71,0:21:29.85,Default,,0,0,0,,PISIKAL: WELCOME TO MONGOLIA
+Dialogue: 0,0:21:29.92,0:21:30.92,Default,,0,0,0,,NEXT DAY
+Dialogue: 0,0:21:30.98,0:21:34.42,Default,,0,0,0,,STATE DEPARTMENT STORE
+Dialogue: 0,0:21:34.49,0:21:36.66,Default,,0,0,0,,STATE DEPARTMENT STORE
+Dialogue: 0,0:21:36.72,0:21:37.92,Default,,0,0,0,,Kailangan ko ng souvenir.
+Dialogue: 0,0:21:39.99,0:21:42.66,Default,,0,0,0,,Ito ang unang\Nand pinakamatandang department store
+Dialogue: 0,0:21:42.73,0:21:44.63,Default,,0,0,0,,sa Mongolia.
+Dialogue: 0,0:21:45.20,0:21:48.80,Default,,0,0,0,,Gusto kong makakita ng ilang Mongolian souvenir.
+Dialogue: 0,0:21:48.87,0:21:50.70,Default,,0,0,0,,Ano ang sikat sa Mongolia?
+Dialogue: 0,0:21:50.77,0:21:52.21,Default,,0,0,0,,-Cashmere!\N-Cashmere?
+Dialogue: 0,0:21:52.27,0:21:54.68,Default,,0,0,0,,Nakausap ko ang asawa ko sa telepono,
+Dialogue: 0,0:21:54.74,0:21:56.28,Default,,0,0,0,,at bumili daw siya ng cashmere
+Dialogue: 0,0:21:56.34,0:21:58.11,Default,,0,0,0,,dahil sikat ang Mongolian cashmere.
+Dialogue: 0,0:22:00.48,0:22:01.98,Default,,0,0,0,,Hey, Orkhon.
+Dialogue: 0,0:22:02.05,0:22:04.55,Default,,0,0,0,,Magiging maganda ito sa iyo.
+Dialogue: 0,0:22:08.32,0:22:10.29,Default,,0,0,0,,-Mukhang maganda ito sa iyo.\N-Talaga.
+Dialogue: 0,0:22:10.36,0:22:12.59,Default,,0,0,0,,Elder, subukan ito.
+Dialogue: 0,0:22:14.09,0:22:15.40,Default,,0,0,0,,Mainit.
+Dialogue: 0,0:22:17.33,0:22:18.57,Default,,0,0,0,,Wow.
+Dialogue: 0,0:22:19.40,0:22:21.37,Default,,0,0,0,,-Uy, gusto ko.\N-Mukhang maganda sa iyo.
+Dialogue: 0,0:22:21.44,0:22:22.27,Default,,0,0,0,,Mainit talaga.
+Dialogue: 0,0:22:23.10,0:22:24.10,Default,,0,0,0,,Kukunin ko ito.
+Dialogue: 0,0:22:26.51,0:22:27.47,Default,,0,0,0,,Ito ay 20,000 won.
+Dialogue: 0,0:22:27.54,0:22:29.18,Default,,0,0,0,,Kumuha tayo ng tatlong magkatugma.
+Dialogue: 0,0:22:29.24,0:22:30.48,Default,,0,0,0,,At isuot ang mga ito?
+Dialogue: 0,0:22:36.52,0:22:37.52,Default,,0,0,0,,Hindi ito kasya.
+Dialogue: 0,0:22:37.58,0:22:38.55,Default,,0,0,0,,Sa tingin ko ay sapat na ito.
+Dialogue: 0,0:22:38.62,0:22:40.02,Default,,0,0,0,,Pero isang beses ko lang isusuot.
+Dialogue: 0,0:22:41.32,0:22:44.19,Default,,0,0,0,,-Tara, nasa Mongolia tayo.\N-Bakit? Mukhang maganda.
+Dialogue: 0,0:22:44.26,0:22:45.73,Default,,0,0,0,,Lalaki siyang lalaki at hindi ito susuotin.
+Dialogue: 0,0:22:45.79,0:22:47.23,Default,,0,0,0,,Hindi niya gusto ang mga ganitong bagay.
+Dialogue: 0,0:22:53.37,0:22:55.90,Default,,0,0,0,,Arayin natin ang lalaking lalaki.
+Dialogue: 0,0:23:01.64,0:23:02.68,Default,,0,0,0,,Bakit tanggalin?
+Dialogue: 0,0:23:05.21,0:23:06.35,Default,,0,0,0,,Namumula siya.
+Dialogue: 0,0:23:06.91,0:23:08.45,Default,,0,0,0,,SUBUKAN ITO MULI
+Dialogue: 0,0:23:09.48,0:23:10.88,Default,,0,0,0,,-Okay, good.\N-Hindi, teka.
+Dialogue: 0,0:23:11.45,0:23:13.19,Default,,0,0,0,,Nahihiya siya at hindi ito hihilahin pababa.
+Dialogue: 0,0:23:14.99,0:23:16.59,Default,,0,0,0,,Masyado siyang nagmamalasakit sa kanyang istilo.
+Dialogue: 0,0:23:17.19,0:23:19.03,Default,,0,0,0,,-Bilhin mo na lang muna.\N-Kumuha ka ng tatlo.
+Dialogue: 0,0:23:24.70,0:23:27.40,Default,,0,0,0,,Pwede ka bang humingi ng discount\Nang Mongolian na paraan?
+Dialogue: 0,0:23:27.47,0:23:29.14,Default,,0,0,0,,Hindi humihingi ng discount ang mga lalaking lalaki.
+Dialogue: 0,0:23:30.27,0:23:33.17,Default,,0,0,0,,I-transform namin si Orkhon\Nmula sa isang lalaking lalaki sa...
+Dialogue: 0,0:23:33.24,0:23:35.28,Default,,0,0,0,,Gawin natin siyang malambot ngayon.
+Dialogue: 0,0:23:35.34,0:23:37.78,Default,,0,0,0,,-Masyado siyang testosterone.\N-Oo, meron siya.
+Dialogue: 0,0:23:37.84,0:23:39.08,Default,,0,0,0,,Kailangan natin siyang balansehin.
+Dialogue: 0,0:23:39.15,0:23:41.92,Default,,0,0,0,,Puntahan natin ang isang cute na hitsura para kay Orkhon.
+Dialogue: 0,0:23:44.15,0:23:45.05,Default,,0,0,0,,TATLONG SUmbrero na binili
+Dialogue: 0,0:23:45.52,0:23:46.85,Default,,0,0,0,,Hoy, damit ng sanggol!
+Dialogue: 0,0:23:46.92,0:23:48.12,Default,,0,0,0,,Ang cute nila.
+Dialogue: 0,0:23:48.19,0:23:49.02,Default,,0,0,0,,Mga damit ng sanggol.
+Dialogue: 0,0:23:52.66,0:23:53.83,Default,,0,0,0,,-Napaka-cute.\N-Ang ganda.
+Dialogue: 0,0:23:56.03,0:23:58.50,Default,,0,0,0,,Ang cute. Sabi niya kailangan kong bumili ng guwantes.
+Dialogue: 0,0:23:59.33,0:24:00.37,Default,,0,0,0,,Ang ganda nila.
+Dialogue: 0,0:24:00.43,0:24:01.80,Default,,0,0,0,,-Mura talaga ito.\N-Oo nga.
+Dialogue: 0,0:24:01.87,0:24:03.60,Default,,0,0,0,,Hindi man lang 20,000 won.\NI have to get it.
+Dialogue: 0,0:24:03.67,0:24:05.77,Default,,0,0,0,,Napakaganda ng sumbrero na ito.
+Dialogue: 0,0:24:05.84,0:24:08.48,Default,,0,0,0,,-Kailangan nating makuha ito para sa ating mga anak.\N-Napaka-cute nito.
+Dialogue: 0,0:24:12.78,0:24:14.08,Default,,0,0,0,,Pinili niya ito?
+Dialogue: 0,0:24:14.15,0:24:16.22,Default,,0,0,0,,-Para ito sa anak ko?\N-Oo.
+Dialogue: 0,0:24:16.78,0:24:19.59,Default,,0,0,0,,SUMUNOD SA SOmbrerong PINILI ORKHON
+Dialogue: 0,0:24:23.42,0:24:26.63,Default,,0,0,0,,Sa Mongolia, wala kaming binibili\Nbago ipanganak ang sanggol.
+Dialogue: 0,0:24:28.90,0:24:31.00,Default,,0,0,0,,Kung gayon wala akong nakukuha.
+Dialogue: 0,0:24:31.06,0:24:32.73,Default,,0,0,0,,Sa tingin ko ito ay mabuti para sa iyong asawa.
+Dialogue: 0,0:24:32.80,0:24:34.27,Default,,0,0,0,,-Talaga?\N-Oo.
+Dialogue: 0,0:24:37.27,0:24:40.84,Default,,0,0,0,,Magkakaroon ng\NAmotti, Orkhon, Elder, at Ochir.
+Dialogue: 0,0:24:43.04,0:24:45.98,Default,,0,0,0,,Ochir, Enkh-Orgil, Adiya, at Handa
+Dialogue: 0,0:24:46.05,0:24:48.48,Default,,0,0,0,,lahat ay naging mga cashmere model.
+Dialogue: 0,0:24:48.55,0:24:49.55,Default,,0,0,0,,Seryoso?
+Dialogue: 0,0:24:49.62,0:24:51.55,Default,,0,0,0,,-Bakit hindi ikaw?\N-Ano naman sayo?
+Dialogue: 0,0:24:51.62,0:24:53.79,Default,,0,0,0,,-Masyado akong abala.\N-Gusto mo ba ng mas maraming pera?
+Dialogue: 0,0:24:53.85,0:24:55.02,Default,,0,0,0,,Hindi ko maintindihan.
+Dialogue: 0,0:24:55.09,0:24:56.09,Default,,0,0,0,,Bilisan mo at gawin ito.
+Dialogue: 0,0:24:56.16,0:24:57.62,Default,,0,0,0,,Kailangan mong mag-row kapag papasok na ang tubig.
+Dialogue: 0,0:24:58.43,0:24:59.59,Default,,0,0,0,,Kapag pumasok ang tubig,
+Dialogue: 0,0:24:59.66,0:25:01.29,Default,,0,0,0,,samantalahin ito at i-row.
+Dialogue: 0,0:25:04.00,0:25:04.90,Default,,0,0,0,,Isa itong kasabihang Korean.
+Dialogue: 0,0:25:05.63,0:25:07.90,Default,,0,0,0,,Naniniwala talaga ako sa kabaligtaran.
+Dialogue: 0,0:25:07.97,0:25:10.00,Default,,0,0,0,,Sa halip na gumawa ng masyadong maraming ad,
+Dialogue: 0,0:25:10.07,0:25:12.57,Default,,0,0,0,,Tingin ko tataas ang halaga ko\Nung hindi ako sumobra.
+Dialogue: 0,0:25:13.14,0:25:16.44,Default,,0,0,0,,Nakikita ko. Mas nag-iingat ka sa halip.
+Dialogue: 0,0:25:16.51,0:25:17.84,Default,,0,0,0,,Pupunta ka sa isang misteryosong vibe.
+Dialogue: 0,0:25:17.91,0:25:19.88,Default,,0,0,0,,May Korean proverb din yan.
+Dialogue: 0,0:25:19.95,0:25:22.35,Default,,0,0,0,,"Magpigil ka ng sobra,\Nand it turns to crap."
+Dialogue: 0,0:25:27.39,0:25:28.39,Default,,0,0,0,,Seryoso ka ba?
+Dialogue: 0,0:25:29.16,0:25:30.99,Default,,0,0,0,,-Pero marami akong nakuha.\N-Hindi mo dapat.
+Dialogue: 0,0:25:31.06,0:25:32.63,Default,,0,0,0,,Ngunit nakakuha ako ng tatlong bagay.
+Dialogue: 0,0:25:32.69,0:25:33.99,Default,,0,0,0,,Darn, dapat dalawa pa ang nakuha ko.
+Dialogue: 0,0:25:36.43,0:25:38.47,Default,,0,0,0,,Magkano ang coat na iyon? Dalhin mo.
+Dialogue: 0,0:25:44.00,0:25:45.14,Default,,0,0,0,,Napakaganda nito.
+Dialogue: 0,0:25:45.21,0:25:46.94,Default,,0,0,0,,Gusto kong dalhin ito sa Korea.
+Dialogue: 0,0:25:48.78,0:25:49.68,Default,,0,0,0,,Hindi ito masisira?
+Dialogue: 0,0:25:49.74,0:25:51.04,Default,,0,0,0,,Wow!
+Dialogue: 0,0:25:52.58,0:25:53.88,Default,,0,0,0,,Nasanay na ako ngayon.
+Dialogue: 0,0:25:53.95,0:25:55.25,Default,,0,0,0,,Uy, mahirap hilahin ito.
+Dialogue: 0,0:25:55.32,0:25:57.15,Default,,0,0,0,,Tama, hindi madaling iguhit ito.
+Dialogue: 0,0:25:57.22,0:25:58.08,Default,,0,0,0,,Maglalaro ka ba?
+Dialogue: 0,0:25:59.49,0:26:00.89,Default,,0,0,0,,Oh, mula kahapon?
+Dialogue: 0,0:26:06.46,0:26:07.89,Default,,0,0,0,,Totoo ba ito?
+Dialogue: 0,0:26:07.96,0:26:08.93,Default,,0,0,0,,Mukhang totoo.
+Dialogue: 0,0:26:09.66,0:26:11.00,Default,,0,0,0,,Mukhang maganda sa iyo.
+Dialogue: 0,0:26:11.06,0:26:13.03,Default,,0,0,0,,-Uy, ang init.\N-Ang init talaga.
+Dialogue: 0,0:26:15.64,0:26:17.87,Default,,0,0,0,,-Mukhang Mongolian warrior ka talaga.\N-Tara na.
+Dialogue: 0,0:26:24.18,0:26:25.78,Default,,0,0,0,,Halika, Whittaker.
+Dialogue: 0,0:26:26.68,0:26:30.78,Default,,0,0,0,,Isang MABILIS NA PAGWUNOD NG KAMAY
+Dialogue: 0,0:26:30.85,0:26:31.79,Default,,0,0,0,,Baliw kung mananalo ka.
+Dialogue: 0,0:26:33.55,0:26:34.39,Default,,0,0,0,,Uy, halika.
+Dialogue: 0,0:26:36.52,0:26:37.52,Default,,0,0,0,,Magandang tugma.
+Dialogue: 0,0:26:39.79,0:26:41.19,Default,,0,0,0,,Tara kain na tayo.
+Dialogue: 0,0:26:46.20,0:26:49.67,Default,,0,0,0,,Naaalala mo ba ang grupo ng mga tao kanina?
+Dialogue: 0,0:26:49.74,0:26:51.20,Default,,0,0,0,,Nakilala kami ng lahat.
+Dialogue: 0,0:26:51.27,0:26:53.64,Default,,0,0,0,,Sabi nila, "Welcome to Mongolia."
+Dialogue: 0,0:26:55.34,0:26:58.41,Default,,0,0,0,,-Pisikal: Asia?\N-Pisikal: Asia.
+Dialogue: 0,0:26:59.51,0:27:00.71,Default,,0,0,0,,Alam mo ba ang pangalan ko?
+Dialogue: 0,0:27:00.78,0:27:01.85,Default,,0,0,0,,Dong-hyun.
+Dialogue: 0,0:27:01.92,0:27:03.38,Default,,0,0,0,,-At ang pangalan niya?\N-Amotti.
+Dialogue: 0,0:27:03.45,0:27:05.19,Default,,0,0,0,,-Ang pangalan niya?\N-Orkhonbayar.
+Dialogue: 0,0:27:07.05,0:27:09.76,Default,,0,0,0,,SIKAT RIN SA MGA LOKAL
+Dialogue: 0,0:27:09.82,0:27:10.79,Default,,0,0,0,,Pisikal: Asia.
+Dialogue: 0,0:27:14.89,0:27:18.80,Default,,0,0,0,,Nag-enjoy kaming manood\NPhysical: Asia together,
+Dialogue: 0,0:27:18.87,0:27:23.60,Default,,0,0,0,,at gusto naming sabihin\Nna talagang suportado namin ito.
+Dialogue: 0,0:27:23.67,0:27:26.87,Default,,0,0,0,,NAGTANGGAP PA SILA NG REGALO
+Dialogue: 0,0:27:26.94,0:27:29.91,Default,,0,0,0,,PISIKAL: WELCOME TO MONGOLIA
+Dialogue: 0,0:27:29.98,0:27:31.71,Default,,0,0,0,,Ang Mongolian department store ay masaya.
+Dialogue: 0,0:27:31.78,0:27:33.48,Default,,0,0,0,,-Seryoso.\N-Sumasang-ayon ako.
+Dialogue: 0,0:27:33.55,0:27:35.02,Default,,0,0,0,,Akala ko kailangan kong bumisita sa isang palengke
+Dialogue: 0,0:27:35.08,0:27:36.45,Default,,0,0,0,,para sa tradisyonal na kulturang Mongolian,
+Dialogue: 0,0:27:36.52,0:27:37.75,Default,,0,0,0,,pero mas masaya dito.
+Dialogue: 0,0:27:37.82,0:27:39.79,Default,,0,0,0,,Salamat, Orkhon.
+Dialogue: 0,0:27:39.85,0:27:42.02,Default,,0,0,0,,Pagdating mo sa Korea,\Npupunta tayo sa isang department store.
+Dialogue: 0,0:27:42.09,0:27:44.02,Default,,0,0,0,,Bibili kita ng mga regalo. Promise tatawagan mo ako.
+Dialogue: 0,0:27:46.53,0:27:48.66,Default,,0,0,0,,GINAGAMIT NG ORKHON ANG TRANSLATING APP
+Dialogue: 0,0:27:48.73,0:27:50.30,Default,,0,0,0,,"Punta tayo sa magandang kabukiran."
+Dialogue: 0,0:27:50.36,0:27:52.73,Default,,0,0,0,,-I'm down.\N-Mukhang maganda.
+Dialogue: 0,0:27:52.80,0:27:53.90,Default,,0,0,0,,Bayarlalaa.
+Dialogue: 0,0:27:53.97,0:27:55.14,Default,,0,0,0,,Salamat.
+Dialogue: 0,0:27:55.84,0:27:57.40,Default,,0,0,0,,"Gusto mo ba ang wikang Mongolian?"
+Dialogue: 0,0:28:02.21,0:28:04.31,Default,,0,0,0,,Isang MABILIS NA MONGOLIAN LESSON
+Dialogue: 0,0:28:04.38,0:28:05.58,Default,,0,0,0,,Yadarch baina.
+Dialogue: 0,0:28:05.65,0:28:07.78,Default,,0,0,0,,Yadarch baina? Okay.
+Dialogue: 0,0:28:07.85,0:28:10.75,Default,,0,0,0,,-Pagod. Pagod ka na.\N-Oo, pagod na ako.
+Dialogue: 0,0:28:10.82,0:28:13.05,Default,,0,0,0,,Nagpraktis ako ng Mongolian bago pumunta dito.
+Dialogue: 0,0:28:13.12,0:28:14.92,Default,,0,0,0,,Nagtanong ako sa isang AI assistant.
+Dialogue: 0,0:28:15.59,0:28:16.79,Default,,0,0,0,,Tingnan natin...
+Dialogue: 0,0:28:16.86,0:28:18.86,Default,,0,0,0,,Jorlon khaana baina?
+Dialogue: 0,0:28:18.93,0:28:20.19,Default,,0,0,0,,"Nasaan ang banyo?"
+Dialogue: 0,0:28:22.56,0:28:23.96,Default,,0,0,0,,Tuslaach.
+Dialogue: 0,0:28:24.03,0:28:26.27,Default,,0,0,0,,-Ano ang ibig sabihin nito?\N-"Tulong."
+Dialogue: 0,0:28:26.33,0:28:28.94,Default,,0,0,0,,-Tulong!\N-Tama. Tuslaach.
+Dialogue: 0,0:28:29.00,0:28:30.84,Default,,0,0,0,,Bi aij baina.
+Dialogue: 0,0:28:32.07,0:28:34.54,Default,,0,0,0,,Bi aij baina kabayo.
+Dialogue: 0,0:28:44.65,0:28:46.02,Default,,0,0,0,,Kailangan mong tumulong, okay?
+Dialogue: 0,0:28:46.69,0:28:48.22,Default,,0,0,0,,Rashaand oreuho…
+Dialogue: 0,0:28:48.29,0:28:52.43,Default,,0,0,0,,natadeu mor' unakhaas ilüü durtai\Nblah blah.
+Dialogue: 0,0:28:52.49,0:28:54.09,Default,,0,0,0,,Ano ang sinabi mo?
+Dialogue: 0,0:28:54.16,0:28:56.56,Default,,0,0,0,,"Mahilig ako sa hot spring\Nhigit sa pagsakay sa kabayo."
+Dialogue: 0,0:28:58.30,0:29:00.87,Default,,0,0,0,,Punta tayo sa rashaand!
+Dialogue: 0,0:29:00.93,0:29:01.87,Default,,0,0,0,,Para kang matanda.
+Dialogue: 0,0:29:07.84,0:29:08.84,Default,,0,0,0,,Ito ay tungkol sa ganoong karami.
+Dialogue: 0,0:29:08.91,0:29:09.98,Default,,0,0,0,,Ito ay isang helicopter.
+Dialogue: 0,0:29:12.65,0:29:14.98,Default,,0,0,0,,-Teka, helicopter ba tayo?\N-Tayo?
+Dialogue: 0,0:29:26.86,0:29:28.70,Default,,0,0,0,,HELIPAD
+Dialogue: 0,0:29:28.76,0:29:30.70,Default,,0,0,0,,Banal na baka. Totoo ba ito?
+Dialogue: 0,0:29:31.77,0:29:33.50,Default,,0,0,0,,Nakukuha na natin ang bagay na iyon?
+Dialogue: 0,0:29:34.83,0:29:35.97,Default,,0,0,0,,Pumunta akong ganap na handa.
+Dialogue: 0,0:29:36.04,0:29:37.44,Default,,0,0,0,, Lumalamig na.
+Dialogue: 0,0:29:37.50,0:29:38.77,Default,,0,0,0,,Sus, ang lamig.
+Dialogue: 0,0:29:38.84,0:29:41.01,Default,,0,0,0,,Inihanda namin ito para lang sa inyong dalawa.
+Dialogue: 0,0:29:41.07,0:29:44.78,Default,,0,0,0,,-Are we really get on that thing?\N-Seryoso?
+Dialogue: 0,0:29:46.45,0:29:49.32,Default,,0,0,0,,Countryside?\NDadalhin natin ito sa kanayunan?
+Dialogue: 0,0:29:49.38,0:29:51.65,Default,,0,0,0,,Geez, first time ko ito.
+Dialogue: 0,0:29:51.72,0:29:53.19,Default,,0,0,0,,Masaya ang mga helicopter, Dong-hyun.
+Dialogue: 0,0:29:53.75,0:29:56.16,Default,,0,0,0,,Paano sila nakakabangon sa ere?
+Dialogue: 0,0:29:56.22,0:29:57.46,Default,,0,0,0,,Banal na baka.
+Dialogue: 0,0:29:57.52,0:29:58.69,Default,,0,0,0,,Alam mo...
+Dialogue: 0,0:29:58.76,0:30:01.23,Default,,0,0,0,,Karaniwan, may mga tauhan\Nna nagbukas ng pinto,
+Dialogue: 0,0:30:01.29,0:30:02.50,Default,,0,0,0,,ngunit si Orkhon ang nagbukas nito mismo.
+Dialogue: 0,0:30:02.56,0:30:03.93,Default,,0,0,0,,Ililipad mo ba ito?
+Dialogue: 0,0:30:04.00,0:30:05.13,Default,,0,0,0,,Oo.
+Dialogue: 0,0:30:05.20,0:30:07.30,Default,,0,0,0,,Ikaw? Hindi, hindi.
+Dialogue: 0,0:30:10.90,0:30:12.34,Default,,0,0,0,,First time ko ito!
+Dialogue: 0,0:30:14.47,0:30:15.71,Default,,0,0,0,,Geez, malamig.
+Dialogue: 0,0:30:15.78,0:30:16.74,Default,,0,0,0,,My very first time.
+Dialogue: 0,0:30:19.45,0:30:21.21,Default,,0,0,0,,-Nakuha namin ito!\N-Nakuha namin ito!
+Dialogue: 0,0:30:21.28,0:30:22.18,Default,,0,0,0,,Nakakatakot ito!
+Dialogue: 0,0:30:22.65,0:30:23.48,Default,,0,0,0,,Pagsubok.
+Dialogue: 0,0:30:23.55,0:30:27.05,Default,,0,0,0,,Gumagana ang mikropono. Parang radyo.
+Dialogue: 0,0:30:27.12,0:30:28.45,Default,,0,0,0,,Alpha, Bravo.
+Dialogue: 0,0:30:28.52,0:30:30.39,Default,,0,0,0,,Alpha, Bravo, Charlie. Tara na.
+Dialogue: 0,0:30:31.49,0:30:32.76,Default,,0,0,0,, Umiikot sila!
+Dialogue: 0,0:30:32.83,0:30:34.69,Default,,0,0,0,, Umiikot talaga sila.
+Dialogue: 0,0:30:34.76,0:30:35.93,Default,,0,0,0,,First time ko.
+Dialogue: 0,0:30:37.00,0:30:38.23,Default,,0,0,0,,Welcome sa Mongolia!
+Dialogue: 0,0:30:38.30,0:30:41.00,Default,,0,0,0,,Salamat, Orkhon.
+Dialogue: 0,0:30:41.07,0:30:42.64,Default,,0,0,0,,Nakukuha namin ang buong welcome treatment.
+Dialogue: 0,0:30:43.70,0:30:44.64,Default,,0,0,0,,Natatakot ako.
+Dialogue: 0,0:30:47.51,0:30:49.98,Default,,0,0,0,,Ang control panel ay gumagalaw.
+Dialogue: 0,0:30:50.04,0:30:51.14,Default,,0,0,0,,Hoy, aalis na kami!
+Dialogue: 0,0:30:51.68,0:30:53.28,Default,,0,0,0,,Aalis na kami.
+Dialogue: 0,0:30:53.35,0:30:54.48,Default,,0,0,0,,Banal na baka.
+Dialogue: 0,0:30:55.38,0:30:56.62,Default,,0,0,0,,Kailangan kong i-record ito.
+Dialogue: 0,0:30:59.22,0:31:00.95,Default,,0,0,0,,-Wow!\N-Wow!
+Dialogue: 0,0:31:09.20,0:31:10.13,Default,,0,0,0,,Nakakabaliw ito.
+Dialogue: 0,0:31:10.76,0:31:12.30,Default,,0,0,0,,Mahal ko ang Mongolia.
+Dialogue: 0,0:31:14.90,0:31:15.97,Default,,0,0,0,,Hoy, tingnan mo!
+Dialogue: 0,0:31:16.04,0:31:17.44,Default,,0,0,0,,I see yak!
+Dialogue: 0,0:31:17.50,0:31:18.91,Default,,0,0,0,,Nakikita ko si yak sa ibaba namin!
+Dialogue: 0,0:31:20.84,0:31:22.54,Default,,0,0,0,,Mga wild yak ba sila?
+Dialogue: 0,0:31:22.61,0:31:25.14,Default,,0,0,0,,Wow, nabubuhay lang sila sa kalikasan.
+Dialogue: 0,0:31:28.08,0:31:29.32,Default,,0,0,0,,Kailangan kong i-record ito.
+Dialogue: 0,0:31:29.85,0:31:31.65,Default,,0,0,0,,Tumatakbo lang sila.
+Dialogue: 0,0:31:34.72,0:31:36.69,Default,,0,0,0,,Hoy, tumigil ka sa paglalaro!
+Dialogue: 0,0:31:37.16,0:31:39.26,Default,,0,0,0,,DONE SIGHTSEEING, CHANGING DIRECTION
+Dialogue: 0,0:31:39.33,0:31:40.93,Default,,0,0,0,,Oh, geez...
+Dialogue: 0,0:31:48.97,0:31:50.24,Default,,0,0,0,,Uy, andyan na ang helipad.
+Dialogue: 0,0:31:51.80,0:31:54.27,Default,,0,0,0,,Pwede ba tayong magpalit ng upuan?\NI want to sit on the inside.
+Dialogue: 0,0:31:54.34,0:31:55.68,Default,,0,0,0,,Natatakot si Dong-hyun.
+Dialogue: 0,0:31:56.28,0:31:57.58,Default,,0,0,0,,Siya ay isang elder.
+Dialogue: 0,0:31:57.64,0:31:58.68,Default,,0,0,0,,Isang elder!
+Dialogue: 0,0:32:08.49,0:32:09.86,Default,,0,0,0,,Lilipad kami sa ibabaw ng mga bundok.
+Dialogue: 0,0:32:12.76,0:32:14.89,Default,,0,0,0,,Mukhang kamangha-mangha.
+Dialogue: 0,0:32:17.50,0:32:19.53,Default,,0,0,0,,Ano sa palagay mo?
+Dialogue: 0,0:32:26.17,0:32:28.44,Default,,0,0,0,,-Hoy!\N-Ano yun?
+Dialogue: 0,0:32:29.81,0:32:31.84,Default,,0,0,0,,Hoy, walang may-ari ang mga kabayo.
+Dialogue: 0,0:32:33.41,0:32:34.35,Default,,0,0,0,,Napakarami!
+Dialogue: 0,0:32:35.18,0:32:37.35,Default,,0,0,0,,Mga kabayo ba talaga yun?
+Dialogue: 0,0:32:38.18,0:32:39.05,Default,,0,0,0,,Seryoso?
+Dialogue: 0,0:32:39.55,0:32:40.59,Default,,0,0,0,,Ngunit wala silang mga may-ari.
+Dialogue: 0,0:32:41.72,0:32:42.69,Default,,0,0,0,,Paano sila nabubuhay?
+Dialogue: 0,0:32:43.56,0:32:44.72,Default,,0,0,0,,O may mga may-ari ba sila?
+Dialogue: 0,0:32:45.73,0:32:47.16,Default,,0,0,0,,May bahay sa ibaba.
+Dialogue: 0,0:32:47.23,0:32:49.16,Default,,0,0,0,,Ito ay isang ger.
+Dialogue: 0,0:32:49.23,0:32:51.00,Default,,0,0,0,,ILANG GERS ANG NAKAKAKITA
+Dialogue: 0,0:32:51.06,0:32:53.07,Default,,0,0,0,,-Gers sila.\N-Sa tingin ko tama ka.
+Dialogue: 0,0:32:55.50,0:32:56.77,Default,,0,0,0,,Bayan ba ito?
+Dialogue: 0,0:32:59.07,0:33:00.21,Default,,0,0,0,,Napakaraming hayop.
+Dialogue: 0,0:33:00.27,0:33:01.51,Default,,0,0,0,,Nakikita ko ang isang kamelyo!
+Dialogue: 0,0:33:02.94,0:33:05.01,Default,,0,0,0,,Mayroon silang mga tupa at mga kamelyo at lahat ng bagay.
+Dialogue: 0,0:33:05.81,0:33:08.15,Default,,0,0,0,,Pababa na tayo.
+Dialogue: 0,0:33:19.69,0:33:21.26,Default,,0,0,0,,Nakakatuwa.
+Dialogue: 0,0:33:21.33,0:33:22.23,Default,,0,0,0,,Ito talaga.
+Dialogue: 0,0:33:22.80,0:33:23.93,Default,,0,0,0,,Nakakamangha.
+Dialogue: 0,0:33:28.03,0:33:29.57,Default,,0,0,0,,Tingnan mo, ligaw na kabayo.
+Dialogue: 0,0:33:29.64,0:33:31.44,Default,,0,0,0,,Hindi sila masyadong malaki.
+Dialogue: 0,0:33:31.50,0:33:32.61,Default,,0,0,0,,Kaya ang bilis nila.
+Dialogue: 0,0:33:36.24,0:33:38.01,Default,,0,0,0,,-Napaka-astig nito.\N-Banal na baka.
+Dialogue: 0,0:33:42.38,0:33:43.62,Default,,0,0,0,,Ito ay seryosong cool.
+Dialogue: 0,0:34:13.58,0:34:15.28,Default,,0,0,0,,Bumalik kaming buhay.
+Dialogue: 0,0:34:31.63,0:34:34.73,Default,,0,0,0,,NOMADIC CAMP
+Dialogue: 0,0:34:49.08,0:34:54.09,Default,,0,0,0,,Salin ng subtitle ni: Jenny Kim
