@@ -1,0 +1,2874 @@
+WEBVTT
+
+﻿1
+00:00:05.180 --> 00:00:06.239
+(Ini adalah karya fiksi. Semua nama, karakter, )
+
+2
+00:00:06.240 --> 00:00:07.279
+(dan insiden adalah hasil imajinasi penulis.)
+
+3
+00:00:07.280 --> 00:00:08.280
+(Semua aktor cilik didampingi oleh wali, )
+
+4
+00:00:08.350 --> 00:00:09.380
+(dan difilmkan sesuai dengan undang-undang ketenagakerjaan.)
+
+5
+00:00:10.850 --> 00:00:12.180
+- Hukum Heinrich. - Hukum Heinrich.
+
+6
+00:00:16.020 --> 00:00:19.860
+Untuk setiap bencana besar, rata-rata terjadi 29 kejadian kecil...
+
+7
+00:00:19.960 --> 00:00:21.330
+dan 300 rambu peringatan.
+
+8
+00:00:25.460 --> 00:00:27.700
+Jadi, apa yang membuat situasi ini terjadi?
+
+9
+00:00:28.570 --> 00:00:30.400
+(Cabut Penggabungan Universitas Hangang)
+
+10
+00:00:31.600 --> 00:00:33.670
+Bagaimana kita bisa berakhir dalam kekacauan ini?
+
+11
+00:00:39.910 --> 00:00:44.350
+Saya pikir itu hanya dorongan GitHub, seperti satu pesan komit.
+
+12
+00:00:46.750 --> 00:00:48.920
+(Departemen Teknologi Fisik Terkonvergensi dan Pengembangan Konten Global)
+
+13
+00:00:49.250 --> 00:00:52.020
+Tapi kesalahan menumpuk tanpa peringatan apa pun,
+
+14
+00:00:52.520 --> 00:00:54.430
+dan di antara konflik-konflik itu aku abaikan saja,
+
+15
+00:00:54.930 --> 00:00:57.030
+apa yang kamu dan aku lewatkan?
+
+16
+00:01:01.300 --> 00:01:03.600
+Bagaimana jika kita sudah terlanjur tertular?
+
+17
+00:01:04.100 --> 00:01:07.840
+- Ini adalah virus yang canggih. - Hei, darurat!
+
+18
+00:01:08.140 --> 00:01:09.140
+Keadaan darurat!
+
+19
+00:01:11.640 --> 00:01:13.479
+Ini menempatkan kita berdua dalam risiko,
+
+20
+00:01:13.480 --> 00:01:15.850
+tapi anehnya, itu membuat sistem tetap hidup.
+
+21
+00:01:17.180 --> 00:01:20.190
+Bagaimanapun, yang perlu kita lakukan sekarang adalah debug.
+
+22
+00:01:21.320 --> 00:01:23.790
+Sepanjang perjalanan kembali ke saat kita mengira itu adalah zona aman kita,
+
+23
+00:01:24.360 --> 00:01:26.290
+mari kita memundurkan timeline.
+
+24
+00:01:26.890 --> 00:01:29.390
+Temukan entri log pertama dari bencana ini.
+
+25
+00:01:30.630 --> 00:01:33.900
+Mari kita mulai dengan gambaran stereotip Anda tentang seorang mahasiswa teknik.
+
+26
+00:01:34.570 --> 00:01:38.700
+Ransel hitam dengan botol air, payung lipat tiga di sebelah kiri,
+
+27
+00:01:38.900 --> 00:01:39.970
+rambut tidak ditata,
+
+28
+00:01:40.610 --> 00:01:42.040
+dan kacamata murah berbingkai tanduk.
+
+29
+00:01:42.770 --> 00:01:45.680
+Dan yang terpenting, celana dengan ukuran yang meragukan.
+
+30
+00:01:46.310 --> 00:01:48.950
+Dan kemeja kotak-kotak yang bisa Anda gunakan untuk menggambar grafik dalam keadaan darurat.
+
+31
+00:01:51.350 --> 00:01:54.190
+Namun yang hilang adalah subtitle untuk tahun tersebut.
+
+32
+00:01:54.590 --> 00:01:56.519
+Kunjungi sekolah teknik Korea sekarang,
+
+33
+00:01:56.520 --> 00:01:58.890
+dan kamu akan segera menyadari...
+
+34
+00:01:59.090 --> 00:02:03.390
+betapa terdistorsinya informasi Anda dan sempitnya pandangan Anda.
+
+35
+00:02:04.400 --> 00:02:06.129
+Kacamata berbingkai tanduk seharga sepuluh dolar?
+
+36
+00:02:06.130 --> 00:02:08.130
+Ini Monster Lembut, itu Moscot,
+
+37
+00:02:08.200 --> 00:02:11.200
+dan ini adalah Projekt Produkt. Rambut tidak ditata? Beri aku istirahat!
+
+38
+00:02:11.400 --> 00:02:15.940
+Mereka menggunakan kondisioner, perawatan, dan bahkan mendapatkan wax Brazil.
+
+39
+00:02:19.540 --> 00:02:21.810
+Jangan biarkan saya memulai dengan fantasi "Belle of Engineering".
+
+40
+00:02:22.850 --> 00:02:24.219
+Dia cantik, memiliki tubuh yang bagus,
+
+41
+00:02:24.220 --> 00:02:25.780
+dan ahli dalam menyolder dan bermain game.
+
+42
+00:02:25.850 --> 00:02:28.790
+Dia membantu menentukan harga suku cadang di Yongsan. Dia keren dengan mereka yang kembali.
+
+43
+00:02:29.290 --> 00:02:32.760
+Siapa itu? Siapa yang membuat stereotip ini?
+
+44
+00:02:32.820 --> 00:02:35.030
+Siapa itu?
+
+45
+00:02:35.760 --> 00:02:39.360
+Siapa yang menyebarkan omong kosong tentang kita?
+
+46
+00:02:39.730 --> 00:02:40.730
+Dan satu hal lagi.
+
+47
+00:02:41.000 --> 00:02:42.029
+Karena kami bukan universitas Seoul,
+
+48
+00:02:42.030 --> 00:02:44.270
+drama kampus tidak difilmkan di sekolah kami.
+
+49
+00:02:44.400 --> 00:02:47.270
+Terjebak di pinggiran kota, tempat terjadi badai salju pada hari pertama.
+
+50
+00:02:47.610 --> 00:02:48.770
+Agak memalukan.
+
+51
+00:02:48.840 --> 00:02:50.540
+(Universitas Hangang)
+
+52
+00:02:51.010 --> 00:02:53.380
+Dan di tengah cuaca yang aneh ini,
+
+53
+00:02:53.440 --> 00:02:56.250
+Tinder Guy itu memintamu untuk datang jauh-jauh ke Seoul, kan?
+
+54
+00:02:56.550 --> 00:02:57.550
+Ya.
+
+55
+00:02:57.880 --> 00:03:00.350
+Dia meminta saya untuk datang ke tempatnya dan memperbaiki desktopnya?
+
+56
+00:03:00.420 --> 00:03:02.920
+Katanya tidak ada yang akan pulang selama beberapa hari.
+
+57
+00:03:03.250 --> 00:03:05.020
+Jelas sekali apa yang dia coba tarik.
+
+58
+00:03:05.120 --> 00:03:06.660
+(Hari Pertama Semester)
+
+59
+00:03:06.960 --> 00:03:09.630
+Apa yang Anda harapkan dari pria yang memposting foto profil bertelanjang dada?
+
+60
+00:03:09.690 --> 00:03:12.500
+Kata pria yang bertemu pacarnya melalui aplikasi?
+
+61
+00:03:13.460 --> 00:03:15.170
+Ini berbeda untuk cowok dan cewek, oke?
+
+62
+00:03:15.270 --> 00:03:16.830
+(Kang Dong Won, Junior, Hangang Univ. Fmr. Comp. Eng.)
+
+63
+00:03:16.900 --> 00:03:18.270
+(Catatan: Dept. Rep, alias Kang Dong Won, diambil)
+
+64
+00:03:18.440 --> 00:03:22.640
+Saya sedang menjelaskan pemulihan sistem, dan kemudian dia bilang dia sudah tahu.
+
+65
+00:03:22.940 --> 00:03:25.610
+Karena saya seorang mahasiswa teknik, dia ingin melihat apakah saya nyata.
+
+66
+00:03:25.680 --> 00:03:27.180
+(Yang Na Rae, Junior, Hangang Univ. Fmr. Comp. Eng.)
+
+67
+00:03:27.250 --> 00:03:28.810
+(Catatan: fangirl BL, putri pendeta)
+
+68
+00:03:29.050 --> 00:03:31.879
+Dia bersikap defensif dan membubarkan sekolahku.
+
+69
+00:03:31.880 --> 00:03:33.990
+Dia membual tentang sekolahnya di Seoul.
+
+70
+00:03:34.250 --> 00:03:35.820
+Sungguh melelahkan. Jadi?
+
+71
+00:03:36.350 --> 00:03:39.960
+Aku tidak bisa membiarkannya begitu saja, jadi aku langsung memfitnah sekolahku sendiri padanya,
+
+72
+00:03:40.120 --> 00:03:42.330
+dan memberitahunya nama baru departemen kami.
+
+73
+00:03:43.290 --> 00:03:45.860
+Dia menyuruhku untuk berhenti mengada-ada. Dia bertanya, "Departemen apa itu?"
+
+74
+00:03:47.670 --> 00:03:52.470
+- Tolak merger Teknik! - Menolak!
+
+75
+00:03:52.540 --> 00:03:54.310
+Selamatkan Departemen Teknik Komputer!
+
+76
+00:03:54.540 --> 00:03:58.410
+Ini adalah langkah pertama menuju bencana yang akan datang.
+
+77
+00:03:58.880 --> 00:04:03.750
+Penggabungan Teknik Komputer dan Pemodelan, efektif pada musim semi ini.
+
+78
+00:04:04.620 --> 00:04:06.120
+Kombinasi kata kunci.
+
+79
+00:04:06.380 --> 00:04:08.020
+Saya rasa Anda juga bisa menyebut ini sebagai bug.
+
+80
+00:04:09.090 --> 00:04:13.690
+Tidak kurang dari Departemen Teknologi Terkonvergensi dan Pengembangan Konten.
+
+81
+00:04:15.390 --> 00:04:16.730
+Tapi sungguh, kenapa aku harus peduli?
+
+82
+00:04:17.030 --> 00:04:19.499
+Selama tempat perlindunganku masih utuh...
+
+83
+00:04:19.500 --> 00:04:21.530
+dan duniaku yang 1 dan 0 tak tersentuh.
+
+84
+00:04:23.270 --> 00:04:24.400
+(Joo Yeon San, Junior, Fmr. Komp. Eng.)
+
+85
+00:04:24.470 --> 00:04:25.470
+(Diakui dengan skor tertinggi)
+
+86
+00:04:25.540 --> 00:04:26.540
+(Sifat: Mencari nomor satu)
+
+87
+00:04:27.470 --> 00:04:28.539
+(CINTA.exe)
+
+88
+00:04:28.540 --> 00:04:29.570
+(Episode 1: Siapa Namamu?)
+
+89
+00:04:29.610 --> 00:04:31.710
+Jika kita tidak mendorong konvergensi interdisipliner,
+
+90
+00:04:31.880 --> 00:04:35.080
+kita tidak bisa mengarungi lautan ganas Revolusi Industri Keempat.
+
+91
+00:04:35.850 --> 00:04:40.180
+Model yang terampil tidak berbeda dengan program yang dikodekan dengan sempurna.
+
+92
+00:04:40.790 --> 00:04:41.790
+Bukankah begitu?
+
+93
+00:04:42.750 --> 00:04:44.260
+Benar. Mereka bangkrut.
+
+94
+00:04:45.020 --> 00:04:46.660
+Jadi, apa singkatnya kita harus menyebutnya?
+
+95
+00:04:47.090 --> 00:04:49.360
+Con-Fisika? Con-Tech-Glo?
+
+96
+00:04:49.560 --> 00:04:51.660
+Atau tunggu, Con-Tech-Con?
+
+97
+00:04:52.430 --> 00:04:55.630
+Teman-teman, mari berhenti mencoba beradaptasi dan mulai melawan.
+
+98
+00:04:56.570 --> 00:04:59.800
+Penggabungan yang mengejutkan saat jeda? Ini pada dasarnya adalah penipuan. Benar?
+
+99
+00:05:00.100 --> 00:05:03.070
+Saat kami mendaftar, mereka terus membicarakan tentang menjadi "KAIST berikutnya".
+
+100
+00:05:03.170 --> 00:05:07.350
+Mereka menjanjikan beasiswa penuh. Tapi lihat kami dan KAIST sekarang.
+
+101
+00:05:07.410 --> 00:05:09.480
+Satu-satunya kesamaan yang kami miliki adalah patung Jang Yeong Sil.
+
+102
+00:05:11.550 --> 00:05:12.550
+Bahkan itu berbeda.
+
+103
+00:05:12.980 --> 00:05:16.420
+KAIST memiliki patung seluruh tubuhnya. Milik kami, seperti yang Anda lihat.
+
+104
+00:05:23.260 --> 00:05:27.770
+Jadi begitulah adanya. Mereka sedang mempersiapkan ini untuk merger.
+
+105
+00:05:27.930 --> 00:05:31.000
+Itu terlihat sangat ceroboh dan terburu-buru. Gaya seninya sangat berbeda.
+
+106
+00:05:33.710 --> 00:05:35.140
+Kamu benar, Dong Won.
+
+107
+00:05:35.540 --> 00:05:37.680
+Gaya seninya sangat berbeda.
+
+108
+00:05:49.520 --> 00:05:53.360
+Yang mana jurusan CompSci dan yang mana jurusan Modeling?
+
+109
+00:05:53.760 --> 00:05:56.890
+Sangat jelas mana yang mana...
+
+110
+00:05:56.960 --> 00:05:59.130
+bahwa "konvergensi" sepertinya bukan kata yang tepat.
+
+111
+00:05:59.260 --> 00:06:01.800
+Tapi dengan adanya cowok-cowok cantik dan berduri ini,
+
+112
+00:06:01.900 --> 00:06:04.540
+Saya rasa keberagaman seperti itu tidak terlalu buruk.
+
+113
+00:06:04.740 --> 00:06:09.040
+Apa maksudmu, "tidak terlalu buruk?" Mereka mendapat hibah untuk "inovasi".
+
+114
+00:06:09.170 --> 00:06:11.380
+Beasiswa kami dipotong setengahnya, anggaran kami dipotong setengahnya,
+
+115
+00:06:11.480 --> 00:06:14.710
+Ruang kelas, laboratorium, dan ruang tunggu kami, semuanya terbelah dua!
+
+116
+00:06:14.980 --> 00:06:17.650
+Rekan-rekan mahasiswa, tolong tandatangani petisi kami!
+
+117
+00:06:17.950 --> 00:06:18.950
+Menjual departemen kami. tanpa sepengetahuan kami!
+
+118
+00:06:19.020 --> 00:06:21.320
+Untuk menjadi muda dan bergairah lagi.
+
+119
+00:06:21.850 --> 00:06:23.890
+Ketidaktahuan masa muda yang membahagiakan.
+
+120
+00:06:24.990 --> 00:06:28.160
+- Permisi, tuan. Namamu dan... - Kau tahu, di zamanku...
+
+121
+00:06:29.790 --> 00:06:34.600
+Namun, kontributor utama sekolah belum menyampaikan satu keluhan pun.
+
+122
+00:06:35.000 --> 00:06:38.100
+Seperti klien bintang Anda dan kakaknya.
+
+123
+00:06:38.240 --> 00:06:40.340
+Ini adalah situasi yang saling menguntungkan bagi semua orang.
+
+124
+00:06:40.610 --> 00:06:41.610
+Benar?
+
+125
+00:06:42.870 --> 00:06:43.910
+Tunggu.
+
+126
+00:06:44.540 --> 00:06:49.350
+Itu benar. Dan dia syuting iklan di Jang Yeong Sil Hall?
+
+127
+00:06:49.450 --> 00:06:50.450
+Ya.
+
+128
+00:06:51.420 --> 00:06:55.750
+Selalu mendongkrak pendapatan kampus, begitu.
+
+129
+00:06:56.320 --> 00:06:58.820
+Direktur bersikeras pada tempat ini. Lounge ini sungguh indah.
+
+130
+00:06:59.190 --> 00:07:01.830
+Jadi dia syuting iklan itu dengan Jennie dari Blackpink di sini?
+
+131
+00:07:02.590 --> 00:07:07.500
+Kurang tepat. Itu Jinny, idola yang lebih tua tetapi sama terkenal dan populernya.
+
+132
+00:07:07.600 --> 00:07:09.570
+- Jin? - Kamu kenal dia, kan?
+
+133
+00:07:10.370 --> 00:07:11.570
+Tentu saja, tentu saja.
+
+134
+00:07:11.640 --> 00:07:15.670
+Saya sangat tertarik dengan Gen MZ, Anda tahu?
+
+135
+00:07:15.940 --> 00:07:20.650
+Sebenarnya, nama departemen baru itu? Itu adalah ideku.
+
+136
+00:07:20.750 --> 00:07:22.310
+(Departemen Teknologi Fisik Terkonvergensi dan Pengembangan Konten Global)
+
+137
+00:07:22.750 --> 00:07:23.750
+Itu menjelaskannya.
+
+138
+00:07:25.420 --> 00:07:26.420
+Kedengarannya sangat trendi.
+
+139
+00:07:28.420 --> 00:07:29.420
+Sekarang, mari kita lihat.
+
+140
+00:07:29.790 --> 00:07:31.990
+Jadi, kira-kira jam berapa kakaknya akan berada di sini?
+
+141
+00:07:32.220 --> 00:07:35.760
+Yah... Dia ingin melihat kampus baru.
+
+142
+00:07:35.830 --> 00:07:37.030
+Dia seharusnya berada di sini sebentar lagi.
+
+143
+00:07:37.430 --> 00:07:41.330
+Departemen Teknologi Fisik Terkonvergensi dan Pengembangan Konten Global...
+
+144
+00:07:41.400 --> 00:07:45.170
+- Sungguh sebuah lelucon! Lelucon yang luar biasa! - Sungguh sebuah lelucon! Lelucon yang luar biasa!
+
+145
+00:07:45.300 --> 00:07:49.340
+Gelar teknik karena tinggi? Tidak masuk akal! Tidak masuk akal!
+
+146
+00:07:49.440 --> 00:07:51.440
+Tidak masuk akal! Tidak masuk akal!
+
+147
+00:07:51.610 --> 00:07:53.709
+Jangan hanya menonton saja, semuanya!
+
+148
+00:07:53.710 --> 00:07:55.950
+Tandatangani petisi untuk menghentikan merger!
+
+149
+00:07:56.010 --> 00:07:57.320
+Silakan menandatangani petisi. Kami membutuhkan bantuan Anda!
+
+150
+00:07:57.380 --> 00:07:58.380
+Permisi...
+
+151
+00:07:59.080 --> 00:08:00.650
+Bisakah saya melihatnya?
+
+152
+00:08:00.790 --> 00:08:03.090
+(Jaminan Hak Mahasiswa)
+
+153
+00:08:13.330 --> 00:08:17.130
+Ngomong-ngomong, bisakah Anda memberi tahu saya alasan Anda menentang merger?
+
+154
+00:08:17.240 --> 00:08:18.770
+Apakah Anda serius bertanya karena Anda tidak...
+
+155
+00:08:21.470 --> 00:08:23.470
+Anda berhak bertanya.
+
+156
+00:08:24.310 --> 00:08:26.810
+Anda benar-benar harus bertanya. Ini tidak ada hubungannya denganmu...
+
+157
+00:08:27.350 --> 00:08:29.850
+Ini bukan tentang kalian secara pribadi. Sama sekali tidak.
+
+158
+00:08:29.910 --> 00:08:34.050
+Tepat. Ini bukan tentang individu. Setiap orang istimewa dengan caranya masing-masing.
+
+159
+00:08:35.050 --> 00:08:36.050
+Itu melegakan.
+
+160
+00:08:36.390 --> 00:08:39.160
+Aku akan membaca ini lagi dan menemuimu lagi, oke?
+
+161
+00:08:39.720 --> 00:08:40.760
+Ya, tentu saja.
+
+162
+00:08:41.360 --> 00:08:42.360
+Mengerti.
+
+163
+00:08:49.130 --> 00:08:50.230
+Sampai jumpa.
+
+164
+00:08:50.970 --> 00:08:52.300
+Ya, pasti kembali lagi!
+
+165
+00:08:52.800 --> 00:08:55.110
+Bung, dia pasti seorang selebriti. Dia terlalu tampan.
+
+166
+00:08:55.470 --> 00:08:58.410
+- Kita seharusnya mendapatkan tanda tangannya. - Benar sekali, kan?
+
+167
+00:08:58.480 --> 00:08:59.580
+Sial, dia tinggi sekali.
+
+168
+00:09:00.480 --> 00:09:01.710
+Kamu juga seorang model, kan?
+
+169
+00:09:02.010 --> 00:09:03.980
+Tidak. Saya jurusan CompSci.
+
+170
+00:09:04.520 --> 00:09:07.390
+Mengapa siswa sekolah menengah ada di sini? Apakah ada acara info kampus hari ini?
+
+171
+00:09:07.450 --> 00:09:08.820
+Kami mendengar seorang selebriti akan datang hari ini.
+
+172
+00:09:09.420 --> 00:09:10.420
+Seorang selebriti?
+
+173
+00:09:10.490 --> 00:09:13.690
+Model dari Match on Wheels! Kang Min Hak!
+
+174
+00:09:13.760 --> 00:09:15.490
+Maukah Anda tetap tenang?
+
+175
+00:09:15.590 --> 00:09:17.660
+Dia penggemar beratnya, jadi kami semua ikut serta.
+
+176
+00:09:17.760 --> 00:09:21.200
+- Turunkan pipa! Kami akan diusir. - Ehem.
+
+177
+00:09:21.270 --> 00:09:24.300
+Hei, penjaga keamanan ada di sini. Kami akan menandatangani ini.
+
+178
+00:09:24.370 --> 00:09:25.370
+Tidak apa-apa jika kita menandatangani ini, kan?
+
+179
+00:09:25.440 --> 00:09:28.040
+Ini sebenarnya hanya untuk anggota universitas.
+
+180
+00:09:28.110 --> 00:09:31.040
+Ayo. Kami adalah bagian dari komunitas lokal.
+
+181
+00:09:31.740 --> 00:09:33.840
+Hei, kenapa kamu menggunakan namaku?
+
+182
+00:09:33.910 --> 00:09:36.380
+Namanya lucu, bukan? Ahn In Dae.
+
+183
+00:09:36.650 --> 00:09:39.180
+- Astaga, TMI. - Itu bukan TMI.
+
+184
+00:09:39.980 --> 00:09:43.720
+Tapi kalian sebenarnya tidak seharusnya menandatangani ini.
+
+185
+00:09:43.990 --> 00:09:47.360
+- Tolong, jangan kamu juga. - Dia sebenarnya agak lucu.
+
+186
+00:09:47.730 --> 00:09:48.730
+Lucu sekali.
+
+187
+00:09:49.560 --> 00:09:52.200
+Itu Kang Dong Won untukmu. Sesuai dengan namanya yang tampan.
+
+188
+00:09:52.560 --> 00:09:54.700
+Ya. "Fisik Terkonvergensi" pasti cocok untuk Anda.
+
+189
+00:09:55.970 --> 00:09:58.000
+Hei, kalian berdua yang seharusnya bergabung.
+
+190
+00:10:00.810 --> 00:10:02.210
+Aku tidak tahu apakah ini akan membantu, tapi...
+
+191
+00:10:03.040 --> 00:10:04.280
+Teknologi Terkonvergensi, atau apa pun.
+
+192
+00:10:04.610 --> 00:10:06.580
+Kalau tidak tanda tangan, itulah yang akan tercetak di ijazah Anda.
+
+193
+00:10:07.040 --> 00:10:11.220
+Tapi apakah nama departemen kita penting? Bagi pengembang, pengalaman adalah kuncinya.
+
+194
+00:10:11.480 --> 00:10:13.420
+Anda sepertinya mendukung merger.
+
+195
+00:10:13.480 --> 00:10:15.520
+Mengapa Anda harus mengatakannya seperti itu?
+
+196
+00:10:21.690 --> 00:10:23.660
+- Hei, tulislah dengan rapi di dalam kotak. - Oke, oke.
+
+197
+00:10:41.550 --> 00:10:43.980
+Permisi, tahukah anda di gedung C103 mana?
+
+198
+00:10:44.620 --> 00:10:47.390
+Aplikasi peta saya mengatakan seperti ini, tapi...
+
+199
+00:10:47.590 --> 00:10:50.150
+Saya bisa menunjukkan jalannya kepada Anda. Saya kebetulan sedang menuju ke sana sendiri.
+
+200
+00:10:52.290 --> 00:10:53.760
+Benar-benar? Terima kasih.
+
+201
+00:10:54.690 --> 00:10:56.160
+Tidak terima kasih.
+
+202
+00:10:56.890 --> 00:10:57.900
+Baiklah?
+
+203
+00:10:58.260 --> 00:10:59.960
+Sampai jumpa lagi!
+
+204
+00:11:00.600 --> 00:11:01.600
+Hati-hati di jalan.
+
+205
+00:11:02.800 --> 00:11:05.940
+Begitu banyak solidaritas di jurusan kami.
+
+206
+00:11:07.000 --> 00:11:10.880
+Mereka memilih kami dibandingkan jurusan lainnya. Mereka tahu kami penurut.
+
+207
+00:11:13.180 --> 00:11:14.950
+Wow, lounge ini sangat besar.
+
+208
+00:11:15.350 --> 00:11:16.980
+Sa Ni, kamu sendiri sepertinya bersemangat dengan hal ini.
+
+209
+00:11:19.750 --> 00:11:22.320
+Jangan bilang kamu juga mendukung merger.
+
+210
+00:11:22.750 --> 00:11:25.960
+Apakah nama departemen itu penting? Bukan untuk pengembang.
+
+211
+00:11:26.020 --> 00:11:27.760
+Bukan kamu juga!
+
+212
+00:11:28.160 --> 00:11:30.360
+Bagi seorang pengembang, yang terpenting adalah peralatannya.
+
+213
+00:11:32.530 --> 00:11:33.560
+Dan saya baru saja mendapat pengaturan baru.
+
+214
+00:11:38.940 --> 00:11:42.410
+Intel Core Ultra 200HX dan GeForce RTX 5070.
+
+215
+00:11:42.540 --> 00:11:44.410
+Penyimpanan datanya adalah Super RAID 5.
+
+216
+00:11:44.680 --> 00:11:46.040
+Oke. Selamat, saya rasa.
+
+217
+00:11:47.140 --> 00:11:48.380
+Permisi, bisakah Anda menandatangani ini?
+
+218
+00:11:48.980 --> 00:11:51.950
+Pasti Anda bertanya-tanya dari mana saya tiba-tiba mendapatkan semua uang ini.
+
+219
+00:11:52.080 --> 00:11:53.320
+Tidak terlalu.
+
+220
+00:11:53.580 --> 00:11:54.590
+Di Sini.
+
+221
+00:11:54.650 --> 00:11:57.050
+Saya berkonsultasi tentang naskah TV untuk beberapa jurusan seni liberal yang tidak mengerti.
+
+222
+00:11:58.260 --> 00:11:59.260
+Sebuah acara TV?
+
+223
+00:11:59.860 --> 00:12:02.190
+Itu adalah pertunjukan lepas. Seorang klien menjebakku selama liburan musim dingin,
+
+224
+00:12:02.260 --> 00:12:06.100
+dan saya bertemu dengan seorang penulis, sutradara, dan produser yang terkenal.
+
+225
+00:12:06.800 --> 00:12:09.830
+“Kami sedang membuat drama kampus yang berlatar belakang Jurusan Teknik Komputer.”
+
+226
+00:12:09.900 --> 00:12:13.800
+"Seorang pembuat kode jenius yang tidak tertarik pada cinta, jatuh cinta pada pria startup yang dingin."
+
+227
+00:12:14.040 --> 00:12:16.040
+Kedengarannya sudah membosankan, tapi... apa yang bisa kamu lakukan? Itu berhasil.
+
+228
+00:12:16.270 --> 00:12:19.579
+Soalnya, penulisnya semua jurusan seni liberal...
+
+229
+00:12:19.580 --> 00:12:20.640
+siapa yang tidak tahu apa-apa.
+
+230
+00:12:20.710 --> 00:12:22.850
+Seperti apa yang dikatakan para profesor di latar belakang...
+
+231
+00:12:22.980 --> 00:12:26.050
+atau apa yang dilakukan para insinyur atau profesional TI saat ini di tahun 2025...
+
+232
+00:12:26.120 --> 00:12:29.990
+bagaimana mereka berbicara, apa yang mereka pedulikan. Mereka sama sekali tidak mengerti.
+
+233
+00:12:30.990 --> 00:12:34.560
+Jadi, dengan skrip yang penuh dengan ratusan, bahkan ribuan kesalahan,
+
+234
+00:12:34.830 --> 00:12:37.529
+Saya memulai pengeditan rewel saya,
+
+235
+00:12:37.530 --> 00:12:39.500
+dan mereka tiba-tiba mulai mengeluh.
+
+236
+00:12:48.110 --> 00:12:50.839
+"Kami ingin fokus pada kisah cinta..."
+
+237
+00:12:50.840 --> 00:12:52.879
+"Dan, tahukah kamu, kisah cinta sejati..."
+
+238
+00:12:52.880 --> 00:12:55.810
+"tidak terungkap di depan laptop atau di belakang mimbar."
+
+239
+00:12:56.080 --> 00:12:59.220
+"Apakah kamu seorang 'T' yang ekstrim di MBTI atau semacamnya?"
+
+240
+00:12:59.650 --> 00:13:03.650
+"Tidak. Aku tidak suka didefinisikan oleh MBTI."
+
+241
+00:13:05.020 --> 00:13:06.960
+Jadi saya hanya mengambil uang muka saya dan kami memutuskan kontrak.
+
+242
+00:13:07.830 --> 00:13:08.830
+Itu merupakan kemenangan total bagi saya.
+
+243
+00:13:11.000 --> 00:13:12.700
+Selamat lagi.
+
+244
+00:13:13.500 --> 00:13:14.999
+Berkat itu, saya mengupgrade ke laptop...
+
+245
+00:13:15.000 --> 00:13:16.200
+itu sekitar 3,7 kali lebih kuat,
+
+246
+00:13:16.300 --> 00:13:18.800
+jadi waktu kompilasi saya akan 2,5 kali lebih cepat,
+
+247
+00:13:18.870 --> 00:13:21.740
+dan jika saya menggunakan waktu itu untuk mengerjakan 0,8 pekerjaan lepas lagi dalam sebulan,
+
+248
+00:13:21.810 --> 00:13:24.980
+Saya bisa keluar dari tempat ini setidaknya enam bulan lebih cepat.
+
+249
+00:13:25.610 --> 00:13:27.810
+Alasan saya membagikan statistik saya kepada Anda secara mendetail adalah...
+
+250
+00:13:28.050 --> 00:13:30.710
+saya tahu. Anda mencoba untuk mengikat saya ke dalam proyek Anda.
+
+251
+00:13:31.250 --> 00:13:32.380
+Aku serius.
+
+252
+00:13:33.080 --> 00:13:34.620
+Kita kehabisan waktu.
+
+253
+00:13:35.190 --> 00:13:36.190
+Waktu?
+
+254
+00:13:36.250 --> 00:13:41.030
+Suhu rata-rata di Seoul meningkat tahun lalu. Lihat saja ke luar.
+
+255
+00:13:41.130 --> 00:13:43.160
+Ini bulan Maret, dan tiba-tiba kami dilanda hawa dingin.
+
+256
+00:13:43.990 --> 00:13:46.330
+Saya tahu, kan? Bahkan turun salju di hari pertama semester.
+
+257
+00:13:46.800 --> 00:13:49.600
+Penggabungan perguruan tinggi adalah masalah kita yang paling kecil saat ini.
+
+258
+00:13:50.200 --> 00:13:52.399
+Kamu kenal saya. Jika dunia ini berakhir,
+
+259
+00:13:52.400 --> 00:13:54.470
+Saya tipe orang yang menanam pohon apel.
+
+260
+00:13:54.810 --> 00:13:57.239
+Tapi kita harus mengendalikan apa yang mendesak.
+
+261
+00:13:57.240 --> 00:13:58.240
+Bagimu, itulah OSIS,
+
+262
+00:13:58.310 --> 00:13:59.310
+dan untukku...
+
+263
+00:13:59.640 --> 00:14:00.879
+Hei, hasil beasiswanya sudah naik!
+
+264
+00:14:00.880 --> 00:14:01.950
+Hei, sudah diposting, sudah diposting!
+
+265
+00:14:02.010 --> 00:14:03.079
+Manis!
+
+266
+00:14:03.080 --> 00:14:04.150
+Apakah Anda memeriksanya? Apakah sudah diposting?
+
+267
+00:14:06.320 --> 00:14:07.719
+Perjalanan penuh!
+
+268
+00:14:07.720 --> 00:14:09.320
+Teman-teman, saya mengerti! Ya ampun!
+
+269
+00:14:10.960 --> 00:14:12.360
+Tunggu, apa ini?
+
+270
+00:14:13.490 --> 00:14:15.830
+Di manakah seharusnya tempat ini berada?
+
+271
+00:14:18.960 --> 00:14:19.960
+Apa?
+
+272
+00:14:20.300 --> 00:14:21.300
+Apa?
+
+273
+00:14:21.770 --> 00:14:23.770
+Lewat sini? Astaga, sialan.
+
+274
+00:14:25.600 --> 00:14:26.600
+Tidak tertarik.
+
+275
+00:14:27.970 --> 00:14:30.510
+- Dingin sekali, beku, beku. - Permisi.
+
+276
+00:14:31.280 --> 00:14:34.710
+Permisi. Permisi. Hei, permisi.
+
+277
+00:14:35.150 --> 00:14:36.150
+Hai!
+
+278
+00:14:37.780 --> 00:14:38.780
+Ada apa dengan orang ini?
+
+279
+00:14:38.980 --> 00:14:41.990
+Maaf, apakah Anda tahu di mana Kantor Dekan berada?
+
+280
+00:14:42.290 --> 00:14:44.560
+Dekan perguruan tinggi mana? Dan dari departemen apa?
+
+281
+00:14:44.920 --> 00:14:46.920
+Satu detik.
+
+282
+00:14:48.760 --> 00:14:51.200
+Teknologi Fisik Terkonvergensi...
+
+283
+00:14:51.630 --> 00:14:55.130
+- Glo... - Departemen Pengembangan Konten Global?
+
+284
+00:14:55.200 --> 00:14:56.230
+Ya, itu dia.
+
+285
+00:14:56.430 --> 00:14:58.340
+Untuk mantan Komp. bahasa Inggris kantor dekan,
+
+286
+00:14:58.800 --> 00:14:59.800
+pergilah ke Aula Jang Yeong Sil.
+
+287
+00:15:00.340 --> 00:15:03.440
+Jang Yeong Sil... Bukankah Aula Jang Yeong Sil sebelah sini?
+
+288
+00:15:03.510 --> 00:15:08.050
+Tidak! Sebagian besar melewati gerbang utama dan Sekolah Tinggi Ekologi Manusia,
+
+289
+00:15:08.110 --> 00:15:10.810
+dan menyeberangi Jembatan Awan. Tapi jika kau memerlukan Kantor Dekan,
+
+290
+00:15:10.910 --> 00:15:14.080
+lebih cepat melalui Perpustakaan Pusat. Mengerti?
+
+291
+00:15:14.850 --> 00:15:18.960
+- Benar. Jadi aku harus... - Jadi dia tidak mengerti semua itu.
+
+292
+00:15:19.260 --> 00:15:23.430
+Dari segi jarak, rute Ekologi Manusia lebih cepat,
+
+293
+00:15:23.760 --> 00:15:25.930
+tapi perhitungan itu tidak memperhitungkan algoritma elevator.
+
+294
+00:15:26.000 --> 00:15:28.129
+Lift diganti tahun lalu,
+
+295
+00:15:28.130 --> 00:15:30.500
+dan sekarang keduanya bodoh dan sinkron.
+
+296
+00:15:30.570 --> 00:15:33.270
+Dan mengapa menurut Anda demikian?
+
+297
+00:15:34.910 --> 00:15:35.910
+Kalahkan aku.
+
+298
+00:15:35.970 --> 00:15:38.210
+Seperti yang saya katakan, mereka pasti mengubah algoritmanya.
+
+299
+00:15:38.540 --> 00:15:41.850
+Ini digunakan untuk memeriksa jarak setiap mobil ke lantai yang dipilih pengguna...
+
+300
+00:15:41.910 --> 00:15:43.750
+dan kirim mana saja yang lebih dekat.
+
+301
+00:15:44.780 --> 00:15:47.990
+- Jadi seperti itu... - Kalau begitu, aku asumsikan kamu sudah mendapatkannya.
+
+302
+00:15:54.890 --> 00:15:56.960
+Keren abis. Itulah suasana mahasiswa teknik.
+
+303
+00:15:57.230 --> 00:15:59.030
+Bolehkah saya menghubungi Instagram Anda?
+
+304
+00:15:59.800 --> 00:16:02.400
+Tidak, hanya saja, kamu terlihat sangat familiar.
+
+305
+00:16:02.570 --> 00:16:05.400
+Jika Anda merasa tidak nyaman, sebenarnya Anda tidak perlu melakukannya. Tidak apa-apa.
+
+306
+00:16:05.770 --> 00:16:06.770
+Berikan di sini.
+
+307
+00:16:10.110 --> 00:16:11.310
+Kamu mempunyai nama yang lucu.
+
+308
+00:16:11.940 --> 00:16:12.940
+Yang Na Rae.
+
+309
+00:16:14.110 --> 00:16:15.679
+Na Rae, Na Rae, Yang Na Rae
+
+310
+00:16:15.680 --> 00:16:16.780
+Begitulah cara saya mengingatnya.
+
+311
+00:16:16.850 --> 00:16:18.280
+Berhenti.
+
+312
+00:16:19.620 --> 00:16:22.290
+Mustahil. 20.000 pengikut?
+
+313
+00:16:22.920 --> 00:16:25.260
+Jadi, kalau begitu, Anda harus menjadi yang teratas di Jurusan Modeling.
+
+314
+00:16:25.690 --> 00:16:27.090
+20.000 pengikut bukanlah apa-apa.
+
+315
+00:16:27.390 --> 00:16:29.930
+Seorang teman sekelas memiliki sejuta pengikut. Melihat?
+
+316
+00:16:29.990 --> 00:16:30.990
+Satu juta pengikut?
+
+317
+00:16:31.600 --> 00:16:33.860
+Untuk salah satu Reelnya saja,
+
+318
+00:16:34.370 --> 00:16:35.370
+dia menghasilkan, berapa, misalnya lima ribu dolar?
+
+319
+00:16:35.730 --> 00:16:37.870
+Anda tidak mengenalnya? Kang Min Hak.
+
+320
+00:16:52.820 --> 00:16:55.820
+- Bagiku, itu uang yang banyak. - Ini untuk semua orang.
+
+321
+00:16:56.050 --> 00:16:59.260
+Saya memahami ulasan beasiswa bisa bersifat subyektif,
+
+322
+00:16:59.460 --> 00:17:02.960
+dan ada kata-kata negatif dalam surat rekomendasiku,
+
+323
+00:17:03.060 --> 00:17:06.360
+"Meskipun tidak kekurangan bakat yang dibutuhkan untuk kesuksesan akademis..."
+
+324
+00:17:06.460 --> 00:17:10.500
+"dia hanya mencari kemuliaan dirinya sendiri." Apakah itu bagian yang Anda maksud?
+
+325
+00:17:10.800 --> 00:17:12.440
+Ini dari Dekan Gi Myo Han, begitu.
+
+326
+00:17:13.170 --> 00:17:17.880
+Saya tidak menyadari evaluasi kami akan mencantumkan nama kami,
+
+327
+00:17:18.210 --> 00:17:22.580
+Saya mungkin tergelincir pada semester lalu, tetapi apakah Anda melihat IPK saya 4,28?
+
+328
+00:17:23.050 --> 00:17:25.350
+- Ilmu dan Teknik Komputer? - Ya.
+
+329
+00:17:25.420 --> 00:17:26.779
+Jurusan CompSci dan Teknik,
+
+330
+00:17:26.780 --> 00:17:29.150
+Sekolah Teknologi dan Konten Terkonvergensi.
+
+331
+00:17:29.650 --> 00:17:34.090
+Tapi Anda melamar sebagai Jurusan CompSci. Itu nama departemen lama Anda.
+
+332
+00:17:36.960 --> 00:17:41.100
+Ini berasal dari pendaftaran duplikat, dan kami tidak dapat mengirimkannya kembali untuk Anda,
+
+333
+00:17:41.170 --> 00:17:44.030
+kami telah mencoba menghubungi Anda untuk memperbaiki dan mengirimkannya kembali.
+
+334
+00:17:44.130 --> 00:17:45.640
+Tapi saya tidak pernah menerima apa pun.
+
+335
+00:17:45.770 --> 00:17:48.670
+Ya, kamu tidak pernah mengangkatnya. Bukan telepon atau SMS kami.
+
+336
+00:17:49.040 --> 00:17:50.140
+Kami bahkan menghubungi Anda kemarin.
+
+337
+00:17:50.240 --> 00:17:52.280
+Itu tidak mungkin. Jika saya memeriksa log panggilan saya...
+
+338
+00:17:52.740 --> 00:17:54.810
+Itu ada di log panggilan saya.
+
+339
+00:17:55.550 --> 00:17:58.850
+Saya menerapkan model SVM dan menjalankan tes sederhana di ponsel saya,
+
+340
+00:17:58.950 --> 00:18:02.990
+Ini diproyeksikan dapat menghentikan 81% spam. Dengan lebih banyak data dari bulan Januari dan Februari...
+
+341
+00:18:03.150 --> 00:18:05.060
+Oke, oke, teman-teman. Maaf mengganggu permainan Anda.
+
+342
+00:18:06.520 --> 00:18:08.930
+Saya tidak percaya aplikasi beta spam saya melakukan kesalahan ini.
+
+343
+00:18:10.590 --> 00:18:12.599
+Jadi kalau aku ganti nama...
+
+344
+00:18:12.600 --> 00:18:14.600
+ke Konten Fisik dan Global yang Terkonvergensi...
+
+345
+00:18:14.700 --> 00:18:17.430
+dan terapkan lagi, itu seharusnya memperbaikinya kan? Ini perbaikan sederhana?
+
+346
+00:18:17.500 --> 00:18:18.840
+Itu sampai kemarin.
+
+347
+00:18:19.440 --> 00:18:23.510
+Sekarang ini merupakan pengecualian khusus, jadi Anda harus memulai dari awal.
+
+348
+00:18:23.570 --> 00:18:25.440
+Dan dapatkan tanda tangan dekan.
+
+349
+00:18:26.510 --> 00:18:27.510
+Dekan?
+
+350
+00:18:27.850 --> 00:18:29.050
+Dekan yang Aneh.
+
+351
+00:18:29.680 --> 00:18:33.550
+Kami kedatangan tamu terhormat hari ini, tapi cuaca musim semi ini luar biasa.
+
+352
+00:18:33.620 --> 00:18:35.620
+Bagaimanapun, krisis iklim saat ini...
+
+353
+00:18:35.690 --> 00:18:38.460
+Kami akan sangat menghargai jika Anda bisa fleksibel dengan kelasnya.
+
+354
+00:18:38.620 --> 00:18:41.190
+Selain itu, itu semua adalah pelatihan praktis untuk jurusannya.
+
+355
+00:18:41.260 --> 00:18:43.160
+Kehadiran? Itu bukan masalah.
+
+356
+00:18:43.560 --> 00:18:45.000
+Berhati-hatilah dalam hal ini.
+
+357
+00:18:45.560 --> 00:18:48.000
+- Permisi. - Ya? Apakah ada sesuatu?
+
+358
+00:18:48.230 --> 00:18:49.400
+Aku sedang menyelidikinya,
+
+359
+00:18:49.500 --> 00:18:53.240
+dan CompSci memiliki banyak kelas yang dapat berguna untuk model.
+
+360
+00:18:53.570 --> 00:18:55.770
+- Begitukah? - Ya, lihat di sini.
+
+361
+00:18:56.840 --> 00:18:58.940
+Ada yang namanya Desain Topi?
+
+362
+00:18:59.680 --> 00:19:03.380
+- Untuk membuat topi atau semacamnya? - Topi?
+
+363
+00:19:04.110 --> 00:19:06.020
+- Topi? - Tutup...
+
+364
+00:19:06.450 --> 00:19:07.450
+Oh!
+
+365
+00:19:08.750 --> 00:19:11.320
+Oh itu. Itulah yang disebut "Desain Batu Penjuru".
+
+366
+00:19:11.660 --> 00:19:15.790
+Pada dasarnya, ini adalah kelas senior untuk memecahkan masalah teknik.
+
+367
+00:19:16.730 --> 00:19:20.230
+- Benar. Saya melihat satu untuk "berlari." - Berlari?
+
+368
+00:19:20.300 --> 00:19:23.730
+Oh, kami para model hanya belajar berjalan.
+
+369
+00:19:23.970 --> 00:19:26.340
+Hei, mereka mengajar lari di Fakultas Teknik.
+
+370
+00:19:26.570 --> 00:19:29.870
+Itu mungkin "Pembelajaran Mesin". Tapi bagaimanapun juga.
+
+371
+00:19:31.580 --> 00:19:32.580
+Mesin?
+
+372
+00:19:33.740 --> 00:19:36.250
+Bagaimanapun, saya ingin mencoba mengambil kelas seperti itu.
+
+373
+00:19:37.250 --> 00:19:38.250
+Pembelajaran Mesin.
+
+374
+00:19:40.020 --> 00:19:41.150
+Lari Keren.
+
+375
+00:19:42.550 --> 00:19:44.090
+Itu akan menjadi nama yang sempurna untuk kru lari.
+
+376
+00:19:47.360 --> 00:19:48.360
+Wow.
+
+377
+00:19:50.230 --> 00:19:51.230
+Batu penjuru...
+
+378
+00:19:52.760 --> 00:19:53.760
+Batu?
+
+379
+00:19:57.130 --> 00:19:58.170
+Sekali lagi terima kasih atas waktu Anda.
+
+380
+00:19:58.240 --> 00:20:00.800
+Lalu semuanya beres. Anda akan mengamati kelas saya hari itu.
+
+381
+00:20:00.900 --> 00:20:04.710
+- Ini bagus untuk promo sekolah. - Ya, itu akan menjadi...
+
+382
+00:20:04.780 --> 00:20:07.280
+- Benar. Ya ampun, terima kasih. - Ya, tentu saja.
+
+383
+00:20:07.340 --> 00:20:08.350
+Hati-hati di jalan.
+
+384
+00:20:08.680 --> 00:20:12.480
+- Aku sangat menyukai kehidupan daur ulang. - Min Hak! Pagi yang luar biasa!
+
+385
+00:20:12.550 --> 00:20:13.550
+Hai.
+
+386
+00:20:14.280 --> 00:20:15.290
+Benar.
+
+387
+00:20:18.060 --> 00:20:19.060
+Hai!
+
+388
+00:20:20.320 --> 00:20:22.330
+Jumlah pengikut saya tiba-tiba melonjak.
+
+389
+00:20:22.990 --> 00:20:24.360
+Saya berada di, sekitar, 998.000 sekarang.
+
+390
+00:20:25.130 --> 00:20:26.130
+Benar-benar?
+
+391
+00:20:26.460 --> 00:20:28.330
+Itu bagus. Anda terjebak di sana untuk sementara waktu.
+
+392
+00:20:28.700 --> 00:20:32.840
+Ya, dan beberapa penggemar baru saya memiliki nama pengguna yang sangat lucu.
+
+393
+00:20:33.140 --> 00:20:34.140
+Lihat ini.
+
+394
+00:20:35.010 --> 00:20:37.570
+Chun Nyeon Hak, Jong Yi Hak. Dan dapatkan ini, Ahn In Dae.
+
+395
+00:20:40.480 --> 00:20:41.480
+Apa?
+
+396
+00:20:42.050 --> 00:20:43.250
+Tidak, jika nama seseorang adalah Ahn In Dae...
+
+397
+00:20:43.610 --> 00:20:47.450
+mengatakan mereka datang ke acara penandatanganan penggemar. Dan saya bertanya, "Siapa namamu?"
+
+398
+00:20:47.620 --> 00:20:49.749
+dan mereka berkata, "Saya Ahn In Dae."
+
+399
+00:20:49.750 --> 00:20:51.420
+Saya tidak tahu apakah mereka bukan penggemarnya,
+
+400
+00:20:51.490 --> 00:20:53.319
+atau apakah nama mereka benar-benar Ahn In Dae.
+
+401
+00:20:53.320 --> 00:20:55.160
+Ini akan sangat membingungkan, bukan?
+
+402
+00:20:55.790 --> 00:20:57.060
+Ini bukan waktunya untuk bercanda.
+
+403
+00:20:57.190 --> 00:21:00.000
+Ya, seperti itu. Aku cukup pandai dalam mengerjakan sesuatu.
+
+404
+00:21:04.640 --> 00:21:08.040
+- Hei, aku penasaran... - Lounge-nya bagus. Ingin pergi?
+
+405
+00:21:08.670 --> 00:21:09.670
+Apa?
+
+406
+00:21:10.040 --> 00:21:13.340
+Apa? Saya pikir Anda menyukai suasana mahasiswa teknik.
+
+407
+00:21:13.680 --> 00:21:15.250
+Kita harus memeriksa gedung teknik terlebih dahulu.
+
+408
+00:21:16.550 --> 00:21:17.550
+Tapi semenit yang lalu...
+
+409
+00:21:18.150 --> 00:21:20.720
+kamu memberiku pandangan bahkan untuk membesarkan kelas.
+
+410
+00:21:20.780 --> 00:21:23.220
+Saya buruk. Saya tidak berpikir.
+
+411
+00:21:23.750 --> 00:21:27.520
+Dengan merger, penampilan mahasiswa teknik itu dapat membantu karier Anda.
+
+412
+00:21:27.720 --> 00:21:29.530
+Begitulah cara kami meluncurkan iklan laptop itu.
+
+413
+00:21:29.790 --> 00:21:30.790
+Bahwa aku mendarat untukmu.
+
+414
+00:21:30.860 --> 00:21:34.430
+Aku tahu. Itu sebabnya saya menyarankan agar poni saya tergerai.
+
+415
+00:21:34.730 --> 00:21:36.330
+Panggilan bagus. Diperingatkan sebelumnya.
+
+416
+00:21:36.630 --> 00:21:37.630
+Maksudnya itu apa?
+
+417
+00:21:38.940 --> 00:21:41.640
+(Rencana Studi)
+
+418
+00:21:41.840 --> 00:21:45.840
+"Dengan memanfaatkan IT dan teknologi dari Beasiswa Yeong Sil,"
+
+419
+00:21:45.940 --> 00:21:47.710
+"bukan untuk kesuksesan pribadiku,"
+
+420
+00:21:47.780 --> 00:21:52.350
+"tetapi untuk membantu memajukan umat manusia?" Anda? Dengan serius?
+
+421
+00:21:52.420 --> 00:21:53.880
+Jangan bicara padaku. Batas waktu sepuluh menit lagi.
+
+422
+00:21:54.790 --> 00:21:56.349
+Bagaimana kamu melewatkannya?
+
+423
+00:21:56.350 --> 00:21:58.520
+Mereka mengirimkan begitu banyak pemberitahuan untuk mengajukan permohonan kembali.
+
+424
+00:21:58.620 --> 00:22:01.830
+Berhentilah mengomel dan berkontribusilah. Aku kehabisan kata-kata indah.
+
+425
+00:22:01.930 --> 00:22:03.160
+Teman-teman! Anda tidak akan percaya ini!
+
+426
+00:22:03.690 --> 00:22:05.529
+Ini sangat besar. Sangat besar!
+
+427
+00:22:05.530 --> 00:22:07.200
+Seorang siswa di sini memiliki satu juta pengikut.
+
+428
+00:22:07.630 --> 00:22:09.330
+- Satu juta pengikut? - Ya.
+
+429
+00:22:09.400 --> 00:22:12.200
+Itu tidak mungkin berarti satu juta mahasiswa di Universitas Hangang.
+
+430
+00:22:12.300 --> 00:22:16.240
+Jadi, satu dari sejuta pengikut kebetulan adalah pelajar di sini?
+
+431
+00:22:16.670 --> 00:22:18.140
+Ini bukanlah peluang yang mengejutkan.
+
+432
+00:22:18.210 --> 00:22:22.810
+TIDAK! Seseorang dengan sejuta pengikut ada di Jurusan Modeling kami!
+
+433
+00:22:23.050 --> 00:22:26.750
+Seseorang dengan satu juta pengikut. Di sini, di kampus terpencil ini.
+
+434
+00:22:26.820 --> 00:22:28.620
+Selebritas seperti itu telah menghiasi kita dengan kehadirannya.
+
+435
+00:22:29.920 --> 00:22:33.220
+Saya ragu popularitas online yang kosong itu penting di Universitas Hangang.
+
+436
+00:22:33.320 --> 00:22:34.690
+Itu tidak sepenuhnya tidak berarti.
+
+437
+00:22:34.960 --> 00:22:37.560
+Dengan pengikut seperti itu, untuk setiap postingan yang mereka unggah...
+
+438
+00:22:37.630 --> 00:22:39.160
+Mereka seharusnya mendapat sekitar 5.000.
+
+439
+00:22:39.560 --> 00:22:40.960
+Wow.
+
+440
+00:22:43.570 --> 00:22:46.270
+- Bahkan untuk mendapatkan upah minimum... - Apa?
+
+441
+00:22:46.340 --> 00:22:48.640
+Mereka harus mengunggah hampir 20 postingan dalam satu jam.
+
+442
+00:22:49.240 --> 00:22:50.770
+Sepertinya menjadi terkenal tidaklah mudah.
+
+443
+00:22:51.110 --> 00:22:54.580
+Apa yang kamu bicarakan? Bukan 50 sen, 5 ribu dolar.
+
+444
+00:22:56.110 --> 00:22:58.650
+- Apa? - Itu biaya kuliah satu semester.
+
+445
+00:22:58.750 --> 00:22:59.750
+Tepat.
+
+446
+00:23:01.150 --> 00:23:02.790
+Mereka bisa menjalani hidup semudah itu?
+
+447
+00:23:03.820 --> 00:23:04.820
+Siapa?
+
+448
+00:23:04.890 --> 00:23:07.090
+- Itu Kang Min Hak! - Di mana?
+
+449
+00:23:07.190 --> 00:23:09.760
+Itu dia! Kang Min Hak! Wah, dia sangat tampan!
+
+450
+00:23:15.730 --> 00:23:18.030
+Dia sangat seksi. Sangat tampan.
+
+451
+00:23:18.400 --> 00:23:20.600
+Wow, dia sungguh tampan.
+
+452
+00:23:21.000 --> 00:23:22.740
+Wow, dia tidak nyata!
+
+453
+00:23:34.520 --> 00:23:36.790
+Aku merasa dialah orangnya. Yang memiliki sejuta pengikut.
+
+454
+00:23:37.320 --> 00:23:39.660
+Jurusan Modeling yang baru saja kita bicarakan.
+
+455
+00:23:43.330 --> 00:23:45.599
+Kamu tampan, bahkan di mata pria lain.
+
+456
+00:23:45.600 --> 00:23:46.730
+Aku mencintaimu di "Match on Wheels!"
+
+457
+00:23:47.160 --> 00:23:49.570
+- Bolehkah aku meminta tanda tanganmu? - Kamu sangat tampan!
+
+458
+00:23:49.630 --> 00:23:50.630
+Tolong tanda tangani ini untukku!
+
+459
+00:23:54.970 --> 00:23:58.510
+Mengapa waktu terasa berjalan lambat di sana?
+
+460
+00:23:59.210 --> 00:24:01.880
+Secara teori, hal ini mungkin terjadi jika gravitasinya cukup kuat.
+
+461
+00:24:02.580 --> 00:24:07.250
+Anda tidak dapat mengalaminya di Bumi. Jadi Na Rae, itu hanya ilusi optik.
+
+462
+00:24:07.750 --> 00:24:11.890
+Tepat. Maksudku, waktu bukanlah konsep yang terbukti.
+
+463
+00:24:12.290 --> 00:24:13.660
+Ayolah!
+
+464
+00:24:14.190 --> 00:24:15.390
+Lihat saja, ya?
+
+465
+00:24:16.030 --> 00:24:20.030
+Saat Anda melihat keindahan, nikmatilah. Jadi nikmati saja pemandangannya!
+
+466
+00:24:22.300 --> 00:24:24.430
+- Tapi aku di sini dulu. - Saya minta maaf.
+
+467
+00:24:25.440 --> 00:24:28.139
+Saya mengetahuinya. Mereka semua mengambil foto.
+
+468
+00:24:28.140 --> 00:24:30.210
+Orang-orang tak punya apa-apa untuk dibagikan...
+
+469
+00:24:30.270 --> 00:24:32.210
+dengan senang hati melakukan pemasaran untuk kami.
+
+470
+00:24:34.180 --> 00:24:36.180
+- Min Hak! - Wah, hei!
+
+471
+00:24:36.250 --> 00:24:37.550
+Kami di sini untuk menemui Anda!
+
+472
+00:24:37.650 --> 00:24:40.380
+- Hei, kamu tidak bisa memaksanya seperti itu! - Hei kamu!
+
+473
+00:24:40.450 --> 00:24:43.320
+- Lepaskan aku! Jangan sentuh aku! - Ada apa dengan semua fangirl ini?
+
+474
+00:24:43.390 --> 00:24:44.420
+Kami di sini hanya untuk menemuinya!
+
+475
+00:24:44.520 --> 00:24:47.360
+Remaja pinggiran kota yang jarang bertemu selebriti?
+
+476
+00:24:48.230 --> 00:24:51.760
+Seorang influencer setingkatnya sama populernya dengan idola pop.
+
+477
+00:24:52.160 --> 00:24:53.160
+Ceritakan padaku tentang hal itu.
+
+478
+00:24:53.430 --> 00:24:54.530
+Apa urusannya?
+
+479
+00:24:55.270 --> 00:24:57.299
+Dia mendapat lima ribu dolar untuk satu pos.
+
+480
+00:24:57.300 --> 00:24:58.770
+Mengapa orang begitu tergila-gila padanya?
+
+481
+00:25:02.210 --> 00:25:04.270
+Imut-imut sekali. Terlalu lucu.
+
+482
+00:25:04.510 --> 00:25:07.080
+Perkecil, lucu. Perbesar, lucu.
+
+483
+00:25:07.810 --> 00:25:11.510
+Dari sudut ini atau itu? Kelucuan murni berlebihan.
+
+484
+00:25:12.380 --> 00:25:14.420
+Mengapa saya di sini dan tidak di sana bersama mereka?
+
+485
+00:25:14.680 --> 00:25:17.520
+Menurutku, tidak ada orang yang sesempurna dia.
+
+486
+00:25:17.720 --> 00:25:20.620
+Dia sangat tampan, dan dia sangat berbakat.
+
+487
+00:25:20.890 --> 00:25:23.290
+Menurutku dia benar-benar anak laki-laki yang paling sempurna...
+
+488
+00:25:23.360 --> 00:25:24.360
+saya pernah melihat.
+
+489
+00:25:25.030 --> 00:25:26.030
+Profesor Eum,
+
+490
+00:25:26.100 --> 00:25:27.900
+kapan kamu sampai di sini?
+
+491
+00:25:29.800 --> 00:25:31.470
+Jadi kamu juga penggemar K-pop?
+
+492
+00:25:32.470 --> 00:25:34.700
+Apakah itu pria dari BTS?
+
+493
+00:25:38.910 --> 00:25:41.650
+- Maaf. - Tidak, dia bukan idola K-pop.
+
+494
+00:25:42.510 --> 00:25:44.210
+Dia sebenarnya dari acara kencan ini...
+
+495
+00:25:44.280 --> 00:25:45.380
+disebut "Pertandingan di Atas Roda".
+
+496
+00:25:46.220 --> 00:25:47.220
+Di acara ini,
+
+497
+00:25:47.280 --> 00:25:50.090
+dia memenangkan hati orang-orang dengan pesona istimewanya.
+
+498
+00:25:50.390 --> 00:25:51.390
+Pada awalnya,
+
+499
+00:25:51.450 --> 00:25:53.820
+tidak ada yang memperhatikannya di antara kontestan yang lebih mencolok.
+
+500
+00:25:54.160 --> 00:25:56.360
+Bukankah dia terlihat sangat muda?
+
+501
+00:25:56.430 --> 00:25:58.460
+- Dia terlihat seperti anak kecil. - Menurutku dia seorang mahasiswa.
+
+502
+00:25:58.530 --> 00:26:00.460
+- Dia tampak seperti seorang mahasiswa. - Dia tampak rendah hati.
+
+503
+00:26:00.600 --> 00:26:02.270
+Dia tidak mencoba untuk menonjol,
+
+504
+00:26:02.330 --> 00:26:03.500
+hanya diam-diam peduli.
+
+505
+00:26:03.630 --> 00:26:07.069
+Penggemar juga memperhatikan salah satu sifat terseksinya.
+
+506
+00:26:07.070 --> 00:26:08.370
+Kebiasaan daur ulangnya yang serius.
+
+507
+00:26:08.440 --> 00:26:09.470
+Membersihkan setelah semua orang tidaklah mudah.
+
+508
+00:26:09.570 --> 00:26:11.410
+Dia sama sepertiku, bukan?
+
+509
+00:26:11.910 --> 00:26:13.580
+Sementara pemeran pria lainnya...
+
+510
+00:26:13.640 --> 00:26:14.980
+sedang bergosip di belakang...
+
+511
+00:26:15.050 --> 00:26:17.909
+dan menunjukkan sisi macho mereka tanpa filter,
+
+512
+00:26:17.910 --> 00:26:18.980
+dia tidak terjebak di dalamnya.
+
+513
+00:26:19.920 --> 00:26:21.720
+Tidak heran jika para pemeran wanita...
+
+514
+00:26:21.790 --> 00:26:23.650
+mau tidak mau tertarik padanya.
+
+515
+00:26:24.520 --> 00:26:27.920
+- Dulu waktu SMA... - Jinny, apakah Min Hak tipemu?
+
+516
+00:26:28.220 --> 00:26:29.230
+Menurutku dia cukup manis.
+
+517
+00:26:30.160 --> 00:26:31.329
+Di tengah pertunjukan,
+
+518
+00:26:31.330 --> 00:26:33.430
+ketika gadis-gadis itu berebut perhatiannya,
+
+519
+00:26:33.900 --> 00:26:35.030
+Sejujurnya saya merasakan hal yang sama.
+
+520
+00:26:35.300 --> 00:26:36.630
+Mungkin karena pertunjukannya...
+
+521
+00:26:36.700 --> 00:26:38.030
+tidak memiliki naskah atau arahan,
+
+522
+00:26:38.100 --> 00:26:39.200
+hanya emosi nyata...
+
+523
+00:26:39.270 --> 00:26:41.270
+bahwa Min Hak lebih menonjol.
+
+524
+00:26:41.640 --> 00:26:43.109
+Ini menarik.
+
+525
+00:26:43.110 --> 00:26:45.610
+Bahwa seseorang sepertimu, seorang elit, dengan kecerdasan tinggi,
+
+526
+00:26:45.680 --> 00:26:48.450
+akan menampilkan respons emosional yang tidak dapat dijelaskan.
+
+527
+00:26:49.010 --> 00:26:50.010
+Maafkan saya, profesor.
+
+528
+00:26:50.480 --> 00:26:51.510
+Bagaimana apanya?
+
+529
+00:26:51.880 --> 00:26:53.480
+Oke, lihat ini, Nisha.
+
+530
+00:26:53.880 --> 00:26:55.450
+Jika tidak ada kru di sekitar,
+
+531
+00:26:55.720 --> 00:26:57.020
+itu akan agak sulit...
+
+532
+00:26:57.120 --> 00:26:59.160
+untuk mendapatkan bidikan close-up seperti ini...
+
+533
+00:26:59.220 --> 00:27:01.590
+dari sudut ini dalam bingkai ini.
+
+534
+00:27:02.130 --> 00:27:03.230
+Maafkan aku, apa?
+
+535
+00:27:04.390 --> 00:27:06.500
+Ya, kecuali ada drone...
+
+536
+00:27:06.560 --> 00:27:08.400
+sebesar lalat buah...
+
+537
+00:27:08.500 --> 00:27:13.170
+dengan lensa lebar yang lebih besar dari dirinya terbang mengelilingi pemeran.
+
+538
+00:27:14.270 --> 00:27:16.310
+Itu masuk akal. Namun,
+
+539
+00:27:16.810 --> 00:27:21.710
+mengingat keterbatasan fisik dan mekanis teknologi lensa saat ini,
+
+540
+00:27:22.550 --> 00:27:23.910
+itu tidak mungkin.
+
+541
+00:27:24.450 --> 00:27:25.550
+Dan satu hal lagi.
+
+542
+00:27:25.850 --> 00:27:26.850
+Mohon maafkan saya...
+
+543
+00:27:26.920 --> 00:27:28.950
+karena menunjukkan kesalahan yang begitu jelas.
+
+544
+00:27:29.350 --> 00:27:31.020
+Bagi seorang insinyur yang rasional,
+
+545
+00:27:31.090 --> 00:27:33.060
+pengaturan ini tidak berhasil.
+
+546
+00:27:33.490 --> 00:27:37.830
+Tidak, ini benar-benar pertandingan yang telanjang. Tidak ada ruang untuk trik atau gangguan.
+
+547
+00:27:37.890 --> 00:27:40.500
+Benar. Ini tidak seperti sutradara atau penulis yang mengaturnya, bukan?
+
+548
+00:27:40.560 --> 00:27:44.200
+Dia tampak manis, tapi dia binatang buas. Dia penuh kejutan.
+
+549
+00:27:45.100 --> 00:27:46.800
+- Tunggu sebentar. - Apa?
+
+550
+00:27:47.700 --> 00:27:51.010
+- Bukankah permainan ini agak berat sebelah? - Bagaimana bisa?
+
+551
+00:27:51.070 --> 00:27:55.450
+Sekali lihat, itu jelas disiapkan untuk anak laki-laki Anda.
+
+552
+00:27:56.050 --> 00:27:58.650
+Sudut di hadapan anak itu adalah 160 derajat,
+
+553
+00:27:58.750 --> 00:28:01.150
+dan sudut lawannya sekitar 100 derajat?
+
+554
+00:28:01.250 --> 00:28:03.620
+Kemudian, menurut hukum sinus,
+
+555
+00:28:03.890 --> 00:28:06.120
+agar tali itu berada dalam kesetimbangan...
+
+556
+00:28:06.260 --> 00:28:10.730
+Kekuatan lawan adalah kali anak itu perbandingan sinusnya.
+
+557
+00:28:10.790 --> 00:28:13.399
+Itu berarti 0,9848 terhadap 0,3420, yang sama dengan...
+
+558
+00:28:13.400 --> 00:28:14.760
+- 2.878. - 2.878.
+
+559
+00:28:14.860 --> 00:28:16.669
+Jadi orang lain harus berusaha...
+
+560
+00:28:16.670 --> 00:28:18.470
+Kekuatan 2,878 kali lebih besar dari anak laki-laki itu...
+
+561
+00:28:18.540 --> 00:28:20.970
+hanya untuk menjaga keseimbangan dan tidak ditarik kembali.
+
+562
+00:28:21.940 --> 00:28:23.240
+(Detik hingga pertandingan berakhir)
+
+563
+00:28:23.370 --> 00:28:26.110
+"Pesona tak terduga" yang Anda sebutkan dirancang dengan cermat.
+
+564
+00:28:26.780 --> 00:28:28.410
+Astaga, aku mengerti, Joo Yeon San.
+
+565
+00:28:28.680 --> 00:28:30.410
+Saya tahu apa yang ingin Anda katakan,
+
+566
+00:28:31.010 --> 00:28:35.490
+tapi sebenarnya, aku tidak tahu. Bagaimana cara menghitung semua hal ini?
+
+567
+00:28:35.820 --> 00:28:36.920
+Apa? Sudah jelas hanya dengan melihatnya.
+
+568
+00:28:37.050 --> 00:28:38.720
+Hei, bukankah kamu bilang kamu hanya punya waktu sepuluh menit lagi?
+
+569
+00:28:39.760 --> 00:28:42.960
+Sialan! Saya memerlukan tanda tangan Dekan Aneh.
+
+570
+00:28:43.590 --> 00:28:44.590
+Ya ampun!
+
+571
+00:28:45.730 --> 00:28:49.830
+Hei, pastikan kamu punya segalanya. Bukankah seharusnya kamu terlihat lebih rapi?
+
+572
+00:28:51.270 --> 00:28:54.100
+Mengingat kejengkelan Dekan yang Aneh itu,
+
+573
+00:28:54.440 --> 00:28:55.440
+Anda ada benarnya.
+
+574
+00:28:56.110 --> 00:28:57.110
+Ini, berikan jaketmu padaku.
+
+575
+00:28:58.640 --> 00:29:00.640
+Pemeliharaanmu sangat tinggi, Joo Yeon San.
+
+576
+00:29:00.880 --> 00:29:01.880
+Berlangsung.
+
+577
+00:29:03.550 --> 00:29:05.149
+Ayolah, temanku penggemar beratnya.
+
+578
+00:29:05.150 --> 00:29:06.780
+Apa? Ya, aku juga penggemarnya.
+
+579
+00:29:06.880 --> 00:29:08.120
+Tidak terjadi. Bergerak bersama.
+
+580
+00:29:20.860 --> 00:29:21.870
+Hei...
+
+581
+00:29:22.670 --> 00:29:24.800
+Hei...
+
+582
+00:29:27.340 --> 00:29:28.340
+Hei!
+
+583
+00:29:28.610 --> 00:29:29.610
+Hai!
+
+584
+00:29:30.010 --> 00:29:31.510
+Tunggu! Tunggu!
+
+585
+00:29:33.580 --> 00:29:34.580
+Hai!
+
+586
+00:29:35.710 --> 00:29:37.680
+- Astaga! - Apa?
+
+587
+00:29:37.750 --> 00:29:38.880
+Apa?
+
+588
+00:29:55.170 --> 00:29:56.770
+- Hai. - Apa?
+
+589
+00:29:58.070 --> 00:29:59.070
+Apakah kamu baik-baik saja?
+
+590
+00:30:01.970 --> 00:30:02.970
+Kukira.
+
+591
+00:30:14.950 --> 00:30:16.520
+Bukankah kita pernah bertemu di suatu tempat sebelumnya?
+
+592
+00:30:17.620 --> 00:30:19.390
+Saya kira tidak demikian.
+
+593
+00:30:22.690 --> 00:30:26.860
+Menurut standar konvensional, menurutku dia tampan.
+
+594
+00:30:30.200 --> 00:30:34.200
+Namun apa yang saya alami sekarang hanyalah ilusi optik pribadi.
+
+595
+00:30:34.270 --> 00:30:36.340
+Cahaya tampak yang dapat dilihat oleh mata manusia...
+
+596
+00:30:36.440 --> 00:30:41.240
+adalah bagian kecil dari spektrum EM. Karena jangkauannya yang terbatas ini,
+
+597
+00:30:41.310 --> 00:30:44.310
+kita tidak mampu sepenuhnya memahami realitas eksternal subjek kita.
+
+598
+00:30:44.450 --> 00:30:49.190
+Bagi makhluk hidup yang lebih maju, penampilan mereka mungkin mengerikan.
+
+599
+00:30:49.420 --> 00:30:50.520
+Tidak, itu pasti mengerikan.
+
+600
+00:30:57.990 --> 00:30:59.000
+Dan namamu?
+
+601
+00:30:59.060 --> 00:31:02.600
+Apa? Dia pasti mengira aku penggemarnya.
+
+602
+00:31:03.530 --> 00:31:04.530
+Tidak.
+
+603
+00:31:04.970 --> 00:31:06.570
+Saya Ahn In Dae.
+
+604
+00:31:08.140 --> 00:31:09.140
+Ahn In Dae?
+
+605
+00:31:09.710 --> 00:31:10.710
+Ahn In Dae?
+
+606
+00:31:12.410 --> 00:31:14.980
+Jadi kamu adalah dia!
+
+607
+00:31:15.580 --> 00:31:18.620
+Aku tidak percaya aku benar-benar bertemu denganmu di sini hari ini.
+
+608
+00:31:20.120 --> 00:31:21.120
+Ahn In Dae.
+
+609
+00:31:28.220 --> 00:31:30.130
+- Apakah mereka saling kenal? - Tidak tahu.
+
+610
+00:31:30.730 --> 00:31:31.760
+Ada apa dengan orang ini?
+
+611
+00:31:33.000 --> 00:31:34.000
+Ahn In Dae...
+
+612
+00:31:35.470 --> 00:31:37.400
+(Tiga menit kemudian)
+
+613
+00:31:37.500 --> 00:31:39.270
+Tiba-tiba seseorang bersemangat.
+
+614
+00:31:39.700 --> 00:31:43.140
+Sejujurnya, aku sedikit curiga padamu.
+
+615
+00:31:44.170 --> 00:31:45.170
+Apa?
+
+616
+00:31:45.840 --> 00:31:48.910
+Saya pikir mungkin Anda akan membeli semua pengikut baru itu lagi.
+
+617
+00:31:49.950 --> 00:31:53.220
+Apa? Anda bilang itu terasa seperti penipuan. Saya tidak akan melakukannya lagi.
+
+618
+00:31:53.680 --> 00:31:55.950
+Benar? Anda bukan tipe orang yang melakukan itu dua kali.
+
+619
+00:31:56.590 --> 00:31:59.520
+Tapi Ahn In Dae, Chun Nyeon Hak...
+
+620
+00:31:59.790 --> 00:32:02.560
+Menurutku penggemar dengan nama aneh seperti itu palsu.
+
+621
+00:32:03.860 --> 00:32:06.230
+Tapi saya baru saja bertemu langsung dengan salah satu dari mereka.
+
+622
+00:32:06.530 --> 00:32:09.330
+Pria. Saya buruk. Saya minta maaf.
+
+623
+00:32:09.600 --> 00:32:10.769
+- Astaga. - Dengan serius.
+
+624
+00:32:10.770 --> 00:32:14.600
+Jangan khawatir tentang hal itu. Ternyata kamu menjadi sangat tajam.
+
+625
+00:32:14.700 --> 00:32:18.440
+Tapi, Nak, begitu kita mendapat satu juta, tarif iklan naik ke tingkat yang baru.
+
+626
+00:32:18.510 --> 00:32:19.980
+Bagaimana mungkin saya tidak membeli akun?
+
+627
+00:32:20.340 --> 00:32:23.250
+Kita tidak perlu akun Korea yang mahal jika ada akun asing.
+
+628
+00:32:24.780 --> 00:32:28.990
+Pokoknya, lupakan saja. Ketahuilah aku selalu mendukungmu.
+
+629
+00:32:29.490 --> 00:32:30.490
+Aku tahu.
+
+630
+00:32:31.620 --> 00:32:36.260
+Jika kamu punya masalah denganku, keluarkan saja.
+
+631
+00:32:36.890 --> 00:32:38.560
+Bung, aku tidak punya hal seperti itu.
+
+632
+00:32:39.360 --> 00:32:43.500
+Hanya saja... Aku merasa terganggu kamu pergi ke dekan tanpa aku.
+
+633
+00:32:43.830 --> 00:32:48.540
+Saya membantu Anda mendapatkan diploma tanpa harus bepergian ke sini.
+
+634
+00:32:48.940 --> 00:32:52.480
+Lalu tiba-tiba Anda mengatakan Anda akan mengambil jurusan teknik, sehingga membuat saya terjepit.
+
+635
+00:32:54.640 --> 00:32:55.650
+Saya bisa melihatnya.
+
+636
+00:32:56.480 --> 00:32:57.580
+Maaf. Saya akan melakukan yang lebih baik.
+
+637
+00:32:58.180 --> 00:32:59.180
+Baiklah.
+
+638
+00:33:00.220 --> 00:33:03.150
+Saya mengerti. Ini tentang cinta pertamamu di KAIST.
+
+639
+00:33:03.650 --> 00:33:06.290
+Itu sebabnya Anda memiliki hal ini untuk "getaran mahasiswa teknik".
+
+640
+00:33:06.720 --> 00:33:08.890
+Apa yang kamu bicarakan? Dia bukan cinta pertamaku.
+
+641
+00:33:08.960 --> 00:33:12.330
+Kami baru saja berpapasan pada suatu waktu. Selama 5, mungkin 10 menit?
+
+642
+00:33:12.400 --> 00:33:16.230
+Apakah cinta pertamamu adalah orang lain? Anak kuis dari sekolah dasar itu?
+
+643
+00:33:16.300 --> 00:33:20.540
+Apa yang kamu bicarakan? Ayo! Cinta pertama yang apa?
+
+644
+00:33:27.640 --> 00:33:29.810
+Permisi, apakah dekan ada di dalam? Saya memiliki pertemuan yang dijadwalkan.
+
+645
+00:33:29.880 --> 00:33:33.280
+Kamu terlambat tiga menit. Dia menunggu lalu pergi.
+
+646
+00:33:33.350 --> 00:33:35.520
+- Tapi aku hanya terlambat tiga menit. - Itu benar.
+
+647
+00:33:35.690 --> 00:33:38.090
+Beasiswa saya dipertaruhkan. Bisakah Anda meneleponnya saja?
+
+648
+00:33:38.150 --> 00:33:41.690
+Dekan sangat benci menerima panggilan kerja.
+
+649
+00:33:41.960 --> 00:33:43.090
+Anda seharusnya datang lebih awal.
+
+650
+00:33:43.360 --> 00:33:45.860
+- Kembalilah besok. - Hari ini batas waktu pendaftaran.
+
+651
+00:33:45.960 --> 00:33:47.060
+Itu terlalu buruk.
+
+652
+00:33:49.170 --> 00:33:51.230
+Tanda tangan selebriti ini...
+
+653
+00:33:51.470 --> 00:33:53.470
+Jika Anda tidak berhenti untuk mengambilnya, Anda mungkin tepat waktu.
+
+654
+00:33:57.410 --> 00:33:58.980
+Jadi menurutku dia benar-benar datang ke sekolah.
+
+655
+00:33:59.510 --> 00:34:00.510
+Sungguh menyebalkan.
+
+656
+00:34:03.250 --> 00:34:04.680
+(Kepada: Ahn In Dae Terima kasih atas segalanya. Kang Min Hak)
+
+657
+00:34:04.810 --> 00:34:05.820
+Jangan bilang padaku...
+
+658
+00:34:08.120 --> 00:34:09.490
+ini benar-benar terjadi!
+
+659
+00:34:12.020 --> 00:34:14.520
+Kembali ke Hukum Heinrich.
+
+660
+00:34:15.290 --> 00:34:16.889
+Untuk setiap bencana besar,
+
+661
+00:34:16.890 --> 00:34:20.030
+selalu ada tanda peringatan kecil.
+
+662
+00:34:20.400 --> 00:34:22.700
+Betapa serangkaian momen kecil dan absurd...
+
+663
+00:34:22.930 --> 00:34:25.870
+dapat mengarah pada sesuatu yang sangat tidak masuk akal.
+
+664
+00:34:26.640 --> 00:34:28.100
+Awal dari kode kesalahan itu...
+
+665
+00:34:28.470 --> 00:34:31.240
+Apakah ini saatnya kampus kita menjadi landasan pacu yang tidak diinginkan?
+
+666
+00:34:33.110 --> 00:34:35.550
+Wah, dia sangat tampan. Apakah dia aktor baru?
+
+667
+00:34:35.610 --> 00:34:36.610
+Bukan, pekerja paruh waktu.
+
+668
+00:34:37.150 --> 00:34:39.880
+Saya hanya memintanya untuk menjadi pengganti. Kami baik-baik saja. Terima kasih!
+
+669
+00:34:40.520 --> 00:34:42.290
+Oke. Terima kasih.
+
+670
+00:34:42.350 --> 00:34:46.090
+Atau mungkin, pada suatu saat di masa lalu yang tampaknya aman,
+
+671
+00:34:46.190 --> 00:34:48.119
+bencana sudah dimulai.
+
+672
+00:34:48.120 --> 00:34:50.930
+Kendaraan baru masuk. Mengarahkan.
+
+673
+00:34:51.830 --> 00:34:54.900
+Permisi. Tunggu. Pak, Anda tidak bisa parkir di sini.
+
+674
+00:34:55.000 --> 00:34:58.670
+Apa? Ada tempat di sini. Kenapa kamu bilang aku tidak bisa parkir?
+
+675
+00:34:59.940 --> 00:35:01.000
+Seperti yang Anda lihat,
+
+676
+00:35:01.600 --> 00:35:03.210
+itu adalah tempat bagi penyandang cacat. Saya minta maaf.
+
+677
+00:35:03.540 --> 00:35:06.710
+- Ayolah, di hari seperti ini... - Aku harus merekam si brengsek ini.
+
+678
+00:35:06.780 --> 00:35:08.540
+- Kamu harus sedikit fleksibel. - Astaga, dia mati.
+
+679
+00:35:08.610 --> 00:35:11.510
+- Itu tempat parkir bagi penyandang cacat... - Jadi... Setengah udara, setengah suara.
+
+680
+00:35:12.250 --> 00:35:13.520
+Apa itu? Suara apa itu?
+
+681
+00:35:14.320 --> 00:35:15.520
+Hai! Apakah kamu merekamku?
+
+682
+00:35:16.450 --> 00:35:18.390
+Bagaimana jika saya masih syuting? Sebenarnya Anda manajer siapa?
+
+683
+00:35:20.760 --> 00:35:22.490
+Hei, Seung Gon, apa yang terjadi?
+
+684
+00:35:23.390 --> 00:35:25.460
+Hai. Bukan apa-apa. Kami semua baik-baik saja.
+
+685
+00:35:25.700 --> 00:35:27.860
+Dengar, jangan membuat keributan. Pindahkan saja mobilnya, oke?
+
+686
+00:35:35.640 --> 00:35:36.640
+Permisi.
+
+687
+00:35:36.940 --> 00:35:39.240
+- Terima kasih atas bantuanmu. - Kamu tidak bekerja di sini, kan?
+
+688
+00:35:39.580 --> 00:35:42.680
+- Kenapa kamu ada di sini? - Saya bekerja di bagian luar ruangan,
+
+689
+00:35:42.980 --> 00:35:45.480
+tapi aku baru saja kembali dari kamar kecil. Jadi, ya, salahku.
+
+690
+00:35:45.550 --> 00:35:48.850
+Jangan meminta maaf. Masalah sebenarnya adalah orang-orang kasar menganggap ini hanya terjadi sekali saja.
+
+691
+00:35:48.950 --> 00:35:50.790
+Lain kali, berikan saja sikap yang sama pada mereka.
+
+692
+00:35:53.620 --> 00:35:54.720
+Kesalahan baterai.
+
+693
+00:35:55.530 --> 00:35:57.460
+Tunggu, jadi tadi...
+
+694
+00:35:58.960 --> 00:36:01.500
+- Apakah kamu kuliah? - Saya mulai tahun ini. Masih 19.
+
+695
+00:36:01.560 --> 00:36:02.830
+Oh? Saya juga.
+
+696
+00:36:03.870 --> 00:36:05.640
+Maksudku, aku juga.
+
+697
+00:36:06.440 --> 00:36:07.600
+Ingin berteman, bukan?
+
+698
+00:36:08.570 --> 00:36:10.110
+Tidak, bukan seperti itu.
+
+699
+00:36:10.540 --> 00:36:12.010
+Baiklah kalau begitu. Apa jurusanmu?
+
+700
+00:36:12.440 --> 00:36:15.310
+Saya seorang jurusan modeling.
+
+701
+00:36:16.810 --> 00:36:18.150
+Dingin. Saya di CompSci.
+
+702
+00:36:18.950 --> 00:36:21.150
+- Aku berangkat. - Oke.
+
+703
+00:36:22.650 --> 00:36:23.650
+Apa?
+
+704
+00:36:24.750 --> 00:36:27.020
+KAIST? Wow, itu sekolah papan atas.
+
+705
+00:36:27.460 --> 00:36:28.790
+Wah, kamu pasti jenius.
+
+706
+00:36:30.360 --> 00:36:33.860
+Ini? Itu adalah hadiah dari seorang senior di sekolah menengah.
+
+707
+00:36:33.930 --> 00:36:35.400
+Tunggu. Hanya satu detik.
+
+708
+00:36:35.800 --> 00:36:36.800
+Apa?
+
+709
+00:36:37.200 --> 00:36:39.200
+Ya, aku datang. Aku sedang dalam perjalanan sekarang. Oke.
+
+710
+00:36:40.100 --> 00:36:41.500
+Tapi saya tidak pergi ke KAIST.
+
+711
+00:36:44.140 --> 00:36:45.710
+Saya mulai di Universitas Hangang.
+
+712
+00:36:46.640 --> 00:36:47.740
+Bukan berarti Anda perlu mengetahuinya.
+
+713
+00:36:57.950 --> 00:37:00.560
+Ayolah, Joo Yeon San. Untuk saat ini, fokus saja untuk bergerak maju.
+
+714
+00:37:00.960 --> 00:37:02.629
+Lalu, haruskah aku melihat ke belakang?
+
+715
+00:37:02.630 --> 00:37:04.590
+Tidak, "bergerak maju" adalah ide yang tepat.
+
+716
+00:37:04.690 --> 00:37:09.030
+Bukan cara klise “menantikan” hanya karena dia ada di hadapanku.
+
+717
+00:37:09.400 --> 00:37:13.940
+Dulu ketika aku tidak tahu siapa dia dan senyumannya membuatku berdebar-debar,
+
+718
+00:37:14.400 --> 00:37:16.410
+mungkin saat itulah masalah sebenarnya dimulai.
+
