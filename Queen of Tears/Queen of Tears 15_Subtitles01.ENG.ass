@@ -1,0 +1,1327 @@
+﻿[Script Info]
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1920
+PlayResY: 960
+Timer: 100.0
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,sans-serif,71,&H00FFFFFF,&H00FFFFFF,&H000F0F0F,&H000F0F0F,0,0,0,0,100,100,0,0.00,1,2.37,1.97,2,20,20,20,0
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:19.47,0:00:23.86,Default,,0,0,0,,{\i1}{\c&HFFFF&}Kim Soo-hyun - Kim Ji-won{\c}{\i0}
+Dialogue: 0,0:00:23.95,0:00:26.94,Default,,0,0,0,,{\i1}{\c&HFFFF&}Park Sung-hoon - Kwak Dong-yeon - Lee Joo-bin{\c}{\i0}
+Dialogue: 0,0:00:31.55,0:00:33.50,Default,,0,0,0,,{\an8}{\i1}{\c&HFFFF&}Kim Gab-soo - Lee Mi-sook{\c}{\i0}
+Dialogue: 0,0:00:33.63,0:00:35.63,Default,,0,0,0,,{\an8}{\i1}{\c&HFFFF&}Jung Jin-young - Na Young-hee{\c}{\i0}
+Dialogue: 0,0:00:35.66,0:00:37.66,Default,,0,0,0,,{\an8}{\i1}{\c&HFFFF&}Jeon Bae-soo - Hwang Young-hee{\c}{\i0}
+Dialogue: 0,0:00:37.68,0:00:39.70,Default,,0,0,0,,{\an8}{\i1}{\c&HFFFF&}Kim Jung-nan - Kim Joo-ryoung{\c}{\i0}
+Dialogue: 0,0:00:39.73,0:00:41.88,Default,,0,0,0,,{\an8}{\i1}{\c&HFFFF&}Jang Yoon-ju - Kim Do-hyun{\c}{\i0}
+Dialogue: 0,0:00:50.13,0:00:52.79,Default,,0,0,0,,{\an8}{\i1}{\c&HFFFF&}Screenwriter: Park Ji-eun{\c}{\i0}
+Dialogue: 0,0:00:53.00,0:00:55.61,Default,,0,0,0,,{\an8}{\i1}{\c&HFFFF&}Directors: Jang Young-woo - Kim Hee-won{\c}{\i0}
+Dialogue: 0,0:00:59.14,0:01:02.03,Default,,0,0,0,,{\i1}{\c&HFFFF&}Queen of Tears{\c}{\i0}
+Dialogue: 0,0:01:02.56,0:01:03.53,Default,,0,0,0,,{\an8}{\i1}{\c&HFFFF&}Episode 15{\c}{\i0}
+Dialogue: 0,0:01:36.38,0:01:38.29,Default,,0,0,0,,Baek Hyun-woo.
+Dialogue: 0,0:01:39.22,0:01:41.38,Default,,0,0,0,,Baek Hyun-woo.
+Dialogue: 0,0:01:41.81,0:01:43.88,Default,,0,0,0,,Baek Hyun-woo.
+Dialogue: 0,0:01:49.73,0:01:52.68,Default,,0,0,0,,Don't forget that name.
+Dialogue: 0,0:01:53.86,0:01:55.64,Default,,0,0,0,,Baek Hyun-woo.
+Dialogue: 0,0:01:56.90,0:01:58.90,Default,,0,0,0,,Baek Hyun-woo.
+Dialogue: 0,0:01:59.11,0:02:01.07,Default,,0,0,0,,Baek Hyun-woo.
+Dialogue: 0,0:02:02.33,0:02:04.19,Default,,0,0,0,,Baek Hyun-woo.
+Dialogue: 0,0:03:40.88,0:03:44.32,Default,,0,0,0,,Why did they suddenly\Nchange her doctor and nurses?
+Dialogue: 0,0:03:44.34,0:03:45.45,Default,,0,0,0,,Beats me.
+Dialogue: 0,0:03:45.47,0:03:49.58,Default,,0,0,0,,That guy is Ms. Hong's fiancé,\Nand he spoke with the director.
+Dialogue: 0,0:03:49.60,0:03:52.58,Default,,0,0,0,,He donated a ton to the foundation, too.
+Dialogue: 0,0:03:52.60,0:03:54.83,Default,,0,0,0,,The director told us to keep our mouths shut,
+Dialogue: 0,0:03:54.85,0:03:56.62,Default,,0,0,0,,or else we'd be sued.
+Dialogue: 0,0:03:56.65,0:03:58.08,Default,,0,0,0,,What about the other guy?
+Dialogue: 0,0:03:58.11,0:04:00.00,Default,,0,0,0,,- Wasn't he her fiancé?\N- I don't know.
+Dialogue: 0,0:04:00.03,0:04:01.92,Default,,0,0,0,,He claims to be her fiancé too.
+Dialogue: 0,0:04:01.95,0:04:04.56,Default,,0,0,0,,I wonder who the real one is.
+Dialogue: 0,0:04:10.08,0:04:11.26,Default,,0,0,0,,So...
+Dialogue: 0,0:04:11.29,0:04:14.35,Default,,0,0,0,,my ex-husband had followed me here?
+Dialogue: 0,0:04:14.37,0:04:15.89,Default,,0,0,0,,Yes.
+Dialogue: 0,0:04:15.92,0:04:18.90,Default,,0,0,0,,He persistently asked\Nyou prior to the surgery...
+Dialogue: 0,0:04:18.92,0:04:20.11,Default,,0,0,0,,to revise your will.
+Dialogue: 0,0:04:20.13,0:04:21.23,Default,,0,0,0,,Of course you refused.
+Dialogue: 0,0:04:21.26,0:04:23.23,Default,,0,0,0,,We got into an accident before the surgery.
+Dialogue: 0,0:04:23.26,0:04:26.28,Default,,0,0,0,,A truck crashed into our vehicle.
+Dialogue: 0,0:04:26.30,0:04:29.71,Default,,0,0,0,,I believe he was behind it.
+Dialogue: 0,0:04:29.76,0:04:31.59,Default,,0,0,0,,- No way.\N- Baek Hyun-woo won't hesitate...
+Dialogue: 0,0:04:31.62,0:04:34.08,Default,,0,0,0,,to do anything when he has a grudge.
+Dialogue: 0,0:04:34.10,0:04:36.50,Default,,0,0,0,,He threatened me numerous times.
+Dialogue: 0,0:04:36.52,0:04:39.33,Default,,0,0,0,,How did we survive the crash?
+Dialogue: 0,0:04:39.36,0:04:41.06,Default,,0,0,0,,Right.
+Dialogue: 0,0:04:42.03,0:04:44.96,Default,,0,0,0,,Thankfully we weren't in the car,
+Dialogue: 0,0:04:44.99,0:04:47.34,Default,,0,0,0,,but I thought you were, so I hurt my hand...
+Dialogue: 0,0:04:47.37,0:04:49.98,Default,,0,0,0,,trying to break the window.
+Dialogue: 0,0:04:54.46,0:04:56.32,Default,,0,0,0,,Are you okay?
+Dialogue: 0,0:04:58.42,0:05:00.37,Default,,0,0,0,,It's nothing.
+Dialogue: 0,0:05:01.00,0:05:05.75,Default,,0,0,0,,I just want to stop seeing him tormenting you.
+Dialogue: 0,0:05:05.84,0:05:09.80,Default,,0,0,0,,When he had an affair and wanted to divorce you,
+Dialogue: 0,0:05:13.93,0:05:16.55,Default,,0,0,0,,you tried to take your own life.
+Dialogue: 0,0:05:18.98,0:05:22.43,Default,,0,0,0,,I tried to kill myself over a\Nguy who cheated on me?
+Dialogue: 0,0:05:23.44,0:05:25.46,Default,,0,0,0,,I was pathetic.
+Dialogue: 0,0:05:25.49,0:05:28.65,Default,,0,0,0,,Not at all. You were too soft-hearted and kind.
+Dialogue: 0,0:05:29.87,0:05:32.22,Default,,0,0,0,,I couldn't do anything back then...
+Dialogue: 0,0:05:32.24,0:05:34.72,Default,,0,0,0,,since you were still married, but not anymore.
+Dialogue: 0,0:05:34.75,0:05:38.07,Default,,0,0,0,,I'm going to keep you safe, no matter what.
+Dialogue: 0,0:05:43.96,0:05:46.03,Default,,0,0,0,,This is the bus stop near Sambang Reservoir.
+Dialogue: 0,0:05:46.05,0:05:47.15,Default,,0,0,0,,Isn't that you?
+Dialogue: 0,0:05:47.18,0:05:49.61,Default,,0,0,0,,Why were you there around the time of his death?
+Dialogue: 0,0:05:49.64,0:05:52.32,Default,,0,0,0,,We'd agreed to meet, but he never showed up.
+Dialogue: 0,0:05:52.34,0:05:53.32,Default,,0,0,0,,Really?
+Dialogue: 0,0:05:53.34,0:05:55.41,Default,,0,0,0,,{\i1}Then why was your hair found...{\i0}
+Dialogue: 0,0:05:55.43,0:05:57.62,Default,,0,0,0,,in the victim's car?
+Dialogue: 0,0:05:57.64,0:05:59.91,Default,,0,0,0,,I believe it was planted.
+Dialogue: 0,0:05:59.94,0:06:01.72,Default,,0,0,0,,All right.
+Dialogue: 0,0:06:02.02,0:06:03.00,Default,,0,0,0,,How about this?
+Dialogue: 0,0:06:03.02,0:06:05.25,Default,,0,0,0,,We found this knife near the crime scene.
+Dialogue: 0,0:06:05.28,0:06:08.05,Default,,0,0,0,,It had your fingerprints and his blood.
+Dialogue: 0,0:06:08.07,0:06:10.63,Default,,0,0,0,,His puncture wounds match the blade.
+Dialogue: 0,0:06:10.66,0:06:12.89,Default,,0,0,0,,- Will you still play dumb?\N- If I'd...
+Dialogue: 0,0:06:12.91,0:06:14.55,Default,,0,0,0,,truly used that knife,
+Dialogue: 0,0:06:14.58,0:06:17.32,Default,,0,0,0,,then would I have left it behind?
+Dialogue: 0,0:06:17.62,0:06:20.06,Default,,0,0,0,,Did you get that injury from stabbing him?
+Dialogue: 0,0:06:20.08,0:06:22.66,Default,,0,0,0,,I was in an accident in Germany.
+Dialogue: 0,0:06:22.75,0:06:25.27,Default,,0,0,0,,I hurt myself while trying\Nto break a car window.
+Dialogue: 0,0:06:25.30,0:06:28.61,Default,,0,0,0,,If I'd gotten this because my\Nhand slipped while using the knife,
+Dialogue: 0,0:06:28.63,0:06:31.61,Default,,0,0,0,,the cut would've been in my palm,
+Dialogue: 0,0:06:31.64,0:06:32.74,Default,,0,0,0,,not the back of my hand.
+Dialogue: 0,0:06:32.76,0:06:33.95,Default,,0,0,0,,I don't believe you.
+Dialogue: 0,0:06:33.97,0:06:35.62,Default,,0,0,0,,Claim innocence all you want,
+Dialogue: 0,0:06:35.64,0:06:38.99,Default,,0,0,0,,but it won't be easy with all\Nthe solid evidence we have.
+Dialogue: 0,0:06:39.02,0:06:41.41,Default,,0,0,0,,Coming clean will grant you a lighter sentence.
+Dialogue: 0,0:06:41.44,0:06:43.97,Default,,0,0,0,,Shouldn't you know as an attorney yourself?
+Dialogue: 0,0:06:50.11,0:06:53.48,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Hyun-woo, if this ever happens again,{\c}{\i0}
+Dialogue: 0,0:06:53.87,0:06:55.90,Default,,0,0,0,,{\i1}{\c&HFFFF00&}don't save me.{\c}{\i0}
+Dialogue: 0,0:07:21.35,0:07:25.29,Default,,0,0,0,,{\i1}{\c&HFFFF00&}When he had an affair and wanted to divorce you,{\c}{\i0}
+Dialogue: 0,0:07:25.31,0:07:27.64,Default,,0,0,0,,{\i1}{\c&HFFFF00&}you tried to take your own life.{\c}{\i0}
+Dialogue: 0,0:08:17.53,0:08:20.04,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}Hyun-woo\NHae-in{\c}{\i0}
+Dialogue: 0,0:08:22.08,0:08:23.22,Default,,0,0,0,,{\an8}{\i1}{\c&HFFFF&}One Month Later{\c}{\i0}
+Dialogue: 0,0:08:23.25,0:08:25.39,Default,,0,0,0,,{\an8}- Hae-in!\N- Hae-in!
+Dialogue: 0,0:08:25.42,0:08:27.85,Default,,0,0,0,,It's me, Mom. Do you recognize me?
+Dialogue: 0,0:08:27.88,0:08:29.98,Default,,0,0,0,,Goodness. How are you?
+Dialogue: 0,0:08:30.00,0:08:30.98,Default,,0,0,0,,Are you well now?
+Dialogue: 0,0:08:31.01,0:08:33.71,Default,,0,0,0,,Hae-in, it must've been rough.
+Dialogue: 0,0:08:38.39,0:08:40.30,Default,,0,0,0,,Hello.
+Dialogue: 0,0:08:41.56,0:08:43.30,Default,,0,0,0,,Father.
+Dialogue: 0,0:08:43.98,0:08:46.09,Default,,0,0,0,,Mother. Aunt.
+Dialogue: 0,0:08:48.69,0:08:50.64,Default,,0,0,0,,Hong Soo-cheol, ma'am.
+Dialogue: 0,0:08:52.86,0:08:54.34,Default,,0,0,0,,I've heard a lot about you.
+Dialogue: 0,0:08:54.36,0:08:57.90,Default,,0,0,0,,We should grab a meal sometime.
+Dialogue: 0,0:08:59.66,0:09:00.64,Default,,0,0,0,,Hae-in?
+Dialogue: 0,0:09:00.66,0:09:02.69,Default,,0,0,0,,Hae-in...
+Dialogue: 0,0:09:02.79,0:09:05.78,Default,,0,0,0,,is a bit tired from flying.
+Dialogue: 0,0:09:06.25,0:09:09.02,Default,,0,0,0,,She should go home and rest.
+Dialogue: 0,0:09:09.04,0:09:11.02,Default,,0,0,0,,You have no right to get involved.
+Dialogue: 0,0:09:11.05,0:09:12.62,Default,,0,0,0,,Mr. Hong.
+Dialogue: 0,0:09:12.96,0:09:15.48,Default,,0,0,0,,Please mind your manners in front of Mr. Yoon.
+Dialogue: 0,0:09:15.51,0:09:17.07,Default,,0,0,0,,- Hae-in.\N- Hae-in.
+Dialogue: 0,0:09:17.30,0:09:21.17,Default,,0,0,0,,Do you even know what he did to our family?
+Dialogue: 0,0:09:21.47,0:09:25.33,Default,,0,0,0,,{\i1}{\c&HFFFF00&}They'll claim I kicked them\Nout and took over Queens,{\c}{\i0}
+Dialogue: 0,0:09:25.35,0:09:26.44,Default,,0,0,0,,{\i1}{\c&HFFFF00&}but here's the truth.{\c}{\i0}
+Dialogue: 0,0:09:26.46,0:09:29.12,Default,,0,0,0,,{\i1}{\c&HFFFF00&}The chairman was sick of his\Nfamily's fighting over his money,{\c}{\i0}
+Dialogue: 0,0:09:29.15,0:09:31.33,Default,,0,0,0,,{\i1}{\c&HFFFF00&}and gave me his position before he passed away.{\c}{\i0}
+Dialogue: 0,0:09:31.36,0:09:33.44,Default,,0,0,0,,{\i1}{\c&HFFFF00&}He also asked my mother to take over his assets.{\c}{\i0}
+Dialogue: 0,0:09:33.47,0:09:35.67,Default,,0,0,0,,{\i1}{\c&HFFFF00&}He wanted you to inherit everything,{\c}{\i0}
+Dialogue: 0,0:09:35.70,0:09:39.11,Default,,0,0,0,,{\i1}{\c&HFFFF00&}but he knew the family wouldn't allow that.{\c}{\i0}
+Dialogue: 0,0:09:39.41,0:09:40.80,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Your so-called family members...{\c}{\i0}
+Dialogue: 0,0:09:40.83,0:09:44.28,Default,,0,0,0,,{\i1}{\c&HFFFF00&}were delighted to hear you were dying soon.{\c}{\i0}
+Dialogue: 0,0:09:45.75,0:09:47.10,Default,,0,0,0,,Sure.
+Dialogue: 0,0:09:47.12,0:09:50.31,Default,,0,0,0,,I have a rough idea.\NI read many news articles too.
+Dialogue: 0,0:09:50.33,0:09:54.40,Default,,0,0,0,,I believe we were never\Nclose enough to be this happy...
+Dialogue: 0,0:09:54.42,0:09:55.73,Default,,0,0,0,,about seeing each other.
+Dialogue: 0,0:09:55.76,0:09:57.57,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Did my family ever reach out to me?{\c}{\i0}
+Dialogue: 0,0:09:57.59,0:09:59.86,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Yes, and they talked about the same thing.{\c}{\i0}
+Dialogue: 0,0:09:59.89,0:10:02.78,Default,,0,0,0,,{\i1}{\c&HFFFF00&}They wanted your voting right\Nfor the stockholders' meeting.{\c}{\i0}
+Dialogue: 0,0:10:02.81,0:10:05.45,Default,,0,0,0,,{\i1}{\c&HFFFF00&}They're worried because I want to reinstate you.{\c}{\i0}
+Dialogue: 0,0:10:05.47,0:10:07.83,Default,,0,0,0,,{\i1}{\c&HFFFF00&}They wanted to speak to you, but I declined.{\c}{\i0}
+Dialogue: 0,0:10:07.85,0:10:10.80,Default,,0,0,0,,{\i1}{\c&HFFFF00&}You'd asked me to do that prior to surgery.{\c}{\i0}
+Dialogue: 0,0:10:11.27,0:10:14.38,Default,,0,0,0,,{\i1}{\c&HFFFF00&}My coming here alone for\Nthis major surgery shows...{\c}{\i0}
+Dialogue: 0,0:10:14.40,0:10:16.84,Default,,0,0,0,,{\i1}{\c&HFFFF00&}what kind of relationship we had.{\c}{\i0}
+Dialogue: 0,0:10:16.86,0:10:18.90,Default,,0,0,0,,{\i1}{\c&HFFFF00&}I must've lived...{\c}{\i0}
+Dialogue: 0,0:10:18.95,0:10:19.92,Default,,0,0,0,,{\i1}{\c&HFFFF00&}a lonely life.{\c}{\i0}
+Dialogue: 0,0:10:19.95,0:10:21.38,Default,,0,0,0,,{\i1}{\c&HFFFF00&}You did.{\c}{\i0}
+Dialogue: 0,0:10:21.41,0:10:23.57,Default,,0,0,0,,{\i1}{\c&HFFFF00&}You were always alone,{\c}{\i0}
+Dialogue: 0,0:10:24.37,0:10:26.45,Default,,0,0,0,,{\i1}{\c&HFFFF00&}but the same goes for me.{\c}{\i0}
+Dialogue: 0,0:10:28.79,0:10:32.58,Default,,0,0,0,,{\i1}{\c&HFFFF00&}That's why all we had was each other.{\c}{\i0}
+Dialogue: 0,0:10:33.75,0:10:36.66,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Don't trust your family.{\c}{\i0}
+Dialogue: 0,0:10:37.76,0:10:40.42,Default,,0,0,0,,{\i1}{\c&HFFFF00&}I don't want them to exploit you...{\c}{\i0}
+Dialogue: 0,0:10:40.59,0:10:42.13,Default,,0,0,0,,{\i1}{\c&HFFFF00&}anymore.{\c}{\i0}
+Dialogue: 0,0:10:44.64,0:10:45.62,Default,,0,0,0,,You're wrong.
+Dialogue: 0,0:10:45.64,0:10:48.83,Default,,0,0,0,,I don't know what he told you,\Nbut don't trust him.
+Dialogue: 0,0:10:48.85,0:10:50.25,Default,,0,0,0,,Trust your family instead.
+Dialogue: 0,0:10:50.27,0:10:53.67,Default,,0,0,0,,I heard you carried around\Na talisman in your wallet,
+Dialogue: 0,0:10:53.69,0:10:56.60,Default,,0,0,0,,hoping it'd weaken my energy.
+Dialogue: 0,0:10:57.23,0:10:58.55,Default,,0,0,0,,Wow.
+Dialogue: 0,0:10:58.57,0:11:01.15,Default,,0,0,0,,- You told her?\N- I was stating a fact.
+Dialogue: 0,0:11:01.24,0:11:03.52,Default,,0,0,0,,Mom gave it to me.
+Dialogue: 0,0:11:06.20,0:11:09.07,Default,,0,0,0,,That's not important right now.
+Dialogue: 0,0:11:09.54,0:11:11.37,Default,,0,0,0,,- Hae-in...\N- I heard...
+Dialogue: 0,0:11:11.46,0:11:14.73,Default,,0,0,0,,you sued me for the\Ndepartment store in Gwanggyo.
+Dialogue: 0,0:11:14.75,0:11:17.27,Default,,0,0,0,,Then I dropped the lawsuit right away.
+Dialogue: 0,0:11:17.30,0:11:19.15,Default,,0,0,0,,I'm not trying to confront you.
+Dialogue: 0,0:11:19.17,0:11:21.99,Default,,0,0,0,,I just hope you won't think our bad blood...
+Dialogue: 0,0:11:22.01,0:11:24.95,Default,,0,0,0,,can be erased just because I lost my memory.
+Dialogue: 0,0:11:24.97,0:11:28.53,Default,,0,0,0,,Hae-in. It's true that our family had issues,
+Dialogue: 0,0:11:28.56,0:11:30.91,Default,,0,0,0,,but we can explain everything.
+Dialogue: 0,0:11:30.94,0:11:33.33,Default,,0,0,0,,Yes, and he shouldn't be here.
+Dialogue: 0,0:11:33.35,0:11:35.50,Default,,0,0,0,,Your husband should be here instead.
+Dialogue: 0,0:11:35.52,0:11:38.50,Default,,0,0,0,,Right. Do you mean my ex-husband?
+Dialogue: 0,0:11:38.53,0:11:41.94,Default,,0,0,0,,Who secretly prepared the\Ndivorce papers before I found out?
+Dialogue: 0,0:11:42.15,0:11:43.81,Default,,0,0,0,,What?
+Dialogue: 0,0:11:44.53,0:11:46.51,Default,,0,0,0,,That's true, but...
+Dialogue: 0,0:11:46.53,0:11:49.64,Default,,0,0,0,,You make him sound very evil,
+Dialogue: 0,0:11:49.66,0:11:51.31,Default,,0,0,0,,but it's a long story.
+Dialogue: 0,0:11:51.33,0:11:54.32,Default,,0,0,0,,I heard he's imprisoned for murder.
+Dialogue: 0,0:12:03.38,0:12:05.11,Default,,0,0,0,,{\i1}{\c&HFFFF00&}You won't go anywhere, right?{\c}{\i0}
+Dialogue: 0,0:12:05.14,0:12:08.42,Default,,0,0,0,,{\i1}{\c&HFFFF00&}You need to be here when I open my eyes.{\c}{\i0}
+Dialogue: 0,0:12:23.11,0:12:24.80,Default,,0,0,0,,{\i1}Why do you want to go home?{\i0}
+Dialogue: 0,0:12:24.82,0:12:27.55,Default,,0,0,0,,I already got a place where you can stay.
+Dialogue: 0,0:12:27.58,0:12:30.51,Default,,0,0,0,,I want to return home\Nand live the way I used to.
+Dialogue: 0,0:12:30.54,0:12:33.86,Default,,0,0,0,,It might help me regain my memory.
+Dialogue: 0,0:12:34.50,0:12:36.41,Default,,0,0,0,,I want to do that.
+Dialogue: 0,0:12:37.04,0:12:41.06,Default,,0,0,0,,I'm worried that your\Nfamily might get in your way.
+Dialogue: 0,0:12:41.09,0:12:44.57,Default,,0,0,0,,Your parents made it very\Nhard for you to be reinstated.
+Dialogue: 0,0:12:44.59,0:12:46.98,Default,,0,0,0,,The directors kept claiming\Nhow you were incompetent...
+Dialogue: 0,0:12:47.01,0:12:48.61,Default,,0,0,0,,- due to your condition.\N- I know.
+Dialogue: 0,0:12:48.64,0:12:50.07,Default,,0,0,0,,I'll make sure that won't happen.
+Dialogue: 0,0:12:50.10,0:12:51.45,Default,,0,0,0,,Thanks for your concern.
+Dialogue: 0,0:12:51.47,0:12:53.84,Default,,0,0,0,,You've thanked me enough.
+Dialogue: 0,0:12:55.52,0:12:57.64,Default,,0,0,0,,Keep your promise.
+Dialogue: 0,0:12:57.94,0:12:59.67,Default,,0,0,0,,You said we'd get married...
+Dialogue: 0,0:12:59.69,0:13:02.23,Default,,0,0,0,,after the surgery.
+Dialogue: 0,0:13:03.36,0:13:06.86,Default,,0,0,0,,Leave the wedding preparations to me.
+Dialogue: 0,0:13:21.42,0:13:22.56,Default,,0,0,0,,Hello.
+Dialogue: 0,0:13:22.59,0:13:24.57,Default,,0,0,0,,- It's been a while.\N- I have a question.
+Dialogue: 0,0:13:24.59,0:13:28.32,Default,,0,0,0,,There was a car crash prior to Hae-in's surgery.
+Dialogue: 0,0:13:28.34,0:13:30.63,Default,,0,0,0,,- Were you behind it?\N- Yes.
+Dialogue: 0,0:13:38.31,0:13:40.08,Default,,0,0,0,,She didn't die, though,
+Dialogue: 0,0:13:40.11,0:13:41.81,Default,,0,0,0,,so what's the issue?
+Dialogue: 0,0:13:46.28,0:13:48.17,Default,,0,0,0,,What's with that look? You knew.
+Dialogue: 0,0:13:48.20,0:13:50.01,Default,,0,0,0,,I already warned you that...
+Dialogue: 0,0:13:50.03,0:13:53.61,Default,,0,0,0,,she could get hurt again if you stuck with her,
+Dialogue: 0,0:13:54.54,0:13:55.85,Default,,0,0,0,,and it won't change.
+Dialogue: 0,0:13:55.87,0:13:57.72,Default,,0,0,0,,Are you done threatening me?
+Dialogue: 0,0:13:57.75,0:14:00.08,Default,,0,0,0,,Then it's my turn.
+Dialogue: 0,0:14:03.59,0:14:05.44,Default,,0,0,0,,It was this room, wasn't it?
+Dialogue: 0,0:14:05.46,0:14:08.17,Default,,0,0,0,,Where Chairman Hong collapsed.
+Dialogue: 0,0:14:09.18,0:14:11.45,Default,,0,0,0,,I saw what you did through that painting...
+Dialogue: 0,0:14:11.47,0:14:14.05,Default,,0,0,0,,I'd gifted him.
+Dialogue: 0,0:14:20.86,0:14:22.92,Default,,0,0,0,,I have evidence,
+Dialogue: 0,0:14:22.94,0:14:26.63,Default,,0,0,0,,so touch Hae-in one more time,
+Dialogue: 0,0:14:26.65,0:14:30.01,Default,,0,0,0,,and I'll put you behind\Nbars as I did with Hyun-woo.
+Dialogue: 0,0:14:30.03,0:14:32.01,Default,,0,0,0,,How...?
+Dialogue: 0,0:14:32.03,0:14:34.59,Default,,0,0,0,,How... dare you?
+Dialogue: 0,0:14:34.62,0:14:35.60,Default,,0,0,0,,That's right.
+Dialogue: 0,0:14:35.62,0:14:37.85,Default,,0,0,0,,I'm your obstacle now.
+Dialogue: 0,0:14:37.87,0:14:41.41,Default,,0,0,0,,Get rid of me if you dare.
+Dialogue: 0,0:14:49.13,0:14:52.60,Default,,0,0,0,,What if she says she's going to marry Eun-sung?
+Dialogue: 0,0:14:52.62,0:14:54.59,Default,,0,0,0,,- No way.\N- I could totally see that coming,
+Dialogue: 0,0:14:54.61,0:14:55.83,Default,,0,0,0,,judging by what I saw today.
+Dialogue: 0,0:14:55.86,0:14:56.94,Default,,0,0,0,,She's a different person.
+Dialogue: 0,0:14:56.97,0:14:59.26,Default,,0,0,0,,No, she won't do that.
+Dialogue: 0,0:14:59.52,0:15:01.91,Default,,0,0,0,,Actually, I've been keeping an eye on her.
+Dialogue: 0,0:15:01.94,0:15:04.79,Default,,0,0,0,,Hong Gil-dong's Detective Agency?
+Dialogue: 0,0:15:04.82,0:15:07.88,Default,,0,0,0,,Yes, Gil-dong is our family's ancestor.
+Dialogue: 0,0:15:07.90,0:15:09.88,Default,,0,0,0,,People also called me "one of a kind..."
+Dialogue: 0,0:15:09.90,0:15:11.63,Default,,0,0,0,,and praised my many talents,
+Dialogue: 0,0:15:11.66,0:15:13.73,Default,,0,0,0,,so I've kept that name.
+Dialogue: 0,0:15:13.78,0:15:14.93,Default,,0,0,0,,What?
+Dialogue: 0,0:15:14.95,0:15:17.43,Default,,0,0,0,,Subtract $10 million and\Ngive $1.5 million to Mr. Kim.
+Dialogue: 0,0:15:17.45,0:15:18.51,Default,,0,0,0,,The building can stay.
+Dialogue: 0,0:15:18.54,0:15:21.52,Default,,0,0,0,,- I bought it out of boredom.\N- It's okay. He's a detective too.
+Dialogue: 0,0:15:22.84,0:15:24.49,Default,,0,0,0,,Disguising myself is my second nature.
+Dialogue: 0,0:15:25.34,0:15:27.29,Default,,0,0,0,,Mr. Nam, come out.
+Dialogue: 0,0:15:28.42,0:15:30.50,Default,,0,0,0,,Staking out is my second nature.
+Dialogue: 0,0:15:31.01,0:15:34.57,Default,,0,0,0,,They're my right and left hands.
+Dialogue: 0,0:15:34.60,0:15:37.20,Default,,0,0,0,,They're ordinary-looking, as you can see,
+Dialogue: 0,0:15:37.22,0:15:38.58,Default,,0,0,0,,so they can get in anywhere.
+Dialogue: 0,0:15:38.60,0:15:41.24,Default,,0,0,0,,Detective Hong is the brain of our agency.
+Dialogue: 0,0:15:41.27,0:15:43.96,Default,,0,0,0,,She's always been a bookworm and used to have...
+Dialogue: 0,0:15:43.98,0:15:45.29,Default,,0,0,0,,a book-related business.
+Dialogue: 0,0:15:45.31,0:15:47.21,Default,,0,0,0,,What kind of business?
+Dialogue: 0,0:15:47.23,0:15:49.25,Default,,0,0,0,,I ran a comic-book store.
+Dialogue: 0,0:15:49.28,0:15:53.05,Default,,0,0,0,,Comic books are the ultimate\Ndatabase that contain...
+Dialogue: 0,0:15:53.07,0:15:54.09,Default,,0,0,0,,all kinds of cases.
+Dialogue: 0,0:15:54.11,0:15:56.34,Default,,0,0,0,,They're the foundation of my work.
+Dialogue: 0,0:15:56.37,0:15:59.10,Default,,0,0,0,,Which cases have you investigated?
+Dialogue: 0,0:15:59.12,0:16:01.36,Default,,0,0,0,,Any famous ones?
+Dialogue: 0,0:16:01.75,0:16:04.48,Default,,0,0,0,,That's for you to find out.
+Dialogue: 0,0:16:04.50,0:16:08.61,Default,,0,0,0,,A competent detective\Nwouldn't ask such a question.
+Dialogue: 0,0:16:08.63,0:16:12.36,Default,,0,0,0,,By the way, how much of the\Nexpenses do you reimburse?
+Dialogue: 0,0:16:12.38,0:16:13.44,Default,,0,0,0,,Ma'am.
+Dialogue: 0,0:16:13.47,0:16:16.53,Default,,0,0,0,,Let me ask the trivial questions.\NHow much is the food compensation?
+Dialogue: 0,0:16:16.55,0:16:18.82,Default,,0,0,0,,We charge $8 per meal, but it's a bit tight.
+Dialogue: 0,0:16:18.85,0:16:21.41,Default,,0,0,0,,Seafood {\i1}jajangmyeon{\i0} costs\N$12 in our neighborhood.
+Dialogue: 0,0:16:21.43,0:16:24.25,Default,,0,0,0,,- What?\N- The prices these days are crazy, right?
+Dialogue: 0,0:16:24.27,0:16:27.81,Default,,0,0,0,,We should focus on the\Neconomy rather than the suspect.
+Dialogue: 0,0:16:30.73,0:16:32.21,Default,,0,0,0,,He's tight-lipped.
+Dialogue: 0,0:16:32.24,0:16:35.13,Default,,0,0,0,,Tight-lipped. Write that down.
+Dialogue: 0,0:16:35.16,0:16:37.05,Default,,0,0,0,,Oh, my.
+Dialogue: 0,0:16:37.07,0:16:39.73,Default,,0,0,0,,- You were already here.\N- Yes, sir.
+Dialogue: 0,0:16:40.37,0:16:41.60,Default,,0,0,0,,Good work.
+Dialogue: 0,0:16:41.62,0:16:43.10,Default,,0,0,0,,Who are they?
+Dialogue: 0,0:16:43.12,0:16:46.94,Default,,0,0,0,,They followed Hae-in to\NGermany and kept me updated.
+Dialogue: 0,0:16:46.96,0:16:50.69,Default,,0,0,0,,Our Hong Gil-dong's Detective Agency\Nwill always give you a discount.
+Dialogue: 0,0:16:50.71,0:16:53.71,Default,,0,0,0,,We keep an eye on our target,\Nanalyze the cause and their psychology,
+Dialogue: 0,0:16:53.74,0:16:56.15,Default,,0,0,0,,offer a solution, and even give you a warranty.
+Dialogue: 0,0:16:56.18,0:16:58.49,Default,,0,0,0,,We offer the full package\Nas we follow our target.
+Dialogue: 0,0:16:58.51,0:16:59.86,Default,,0,0,0,,Oh, my.
+Dialogue: 0,0:16:59.89,0:17:01.99,Default,,0,0,0,,Not bad, you guys.
+Dialogue: 0,0:17:02.02,0:17:03.58,Default,,0,0,0,,- So tell me.\N- What?
+Dialogue: 0,0:17:03.60,0:17:05.56,Default,,0,0,0,,- What did you find out?\N- We'll tell you now.
+Dialogue: 0,0:17:05.58,0:17:09.74,Default,,0,0,0,,You'll be free of all your worries.
+Dialogue: 0,0:17:42.77,0:17:44.88,Default,,0,0,0,,Why is it so empty?
+Dialogue: 0,0:17:52.94,0:17:55.48,Default,,0,0,0,,We slept in different rooms.
+Dialogue: 0,0:17:55.65,0:17:57.35,Default,,0,0,0,,Is that it?
+Dialogue: 0,0:18:32.31,0:18:34.68,Default,,0,0,0,,We have a similar taste in music.
+Dialogue: 0,0:18:37.69,0:18:39.98,Default,,0,0,0,,Sure, that's possible.
+Dialogue: 0,0:18:42.28,0:18:44.30,Default,,0,0,0,,What kind of person is he?
+Dialogue: 0,0:18:44.33,0:18:47.64,Default,,0,0,0,,I'd be unbeatable if I knew my enemy and myself,
+Dialogue: 0,0:18:47.66,0:18:49.97,Default,,0,0,0,,but I don't know myself.
+Dialogue: 0,0:18:50.00,0:18:51.70,Default,,0,0,0,,In that case,
+Dialogue: 0,0:18:51.88,0:18:54.70,Default,,0,0,0,,shouldn't I at least know my enemy?
+Dialogue: 0,0:19:04.05,0:19:05.45,Default,,0,0,0,,Yes.
+Dialogue: 0,0:19:05.47,0:19:08.20,Default,,0,0,0,,This is the safest place to see him.
+Dialogue: 0,0:19:08.23,0:19:09.91,Default,,0,0,0,,How heinous could he be,
+Dialogue: 0,0:19:09.94,0:19:11.96,Default,,0,0,0,,that he's here after stalking his ex-wife,
+Dialogue: 0,0:19:11.98,0:19:14.76,Default,,0,0,0,,who he cheated on, and murdering someone?
+Dialogue: 0,0:19:16.69,0:19:20.00,Default,,0,0,0,,I must've been a bad judge of character.
+Dialogue: 0,0:19:20.03,0:19:22.65,Default,,0,0,0,,Why would I fall for him?
+Dialogue: 0,0:20:04.70,0:20:06.23,Default,,0,0,0,,Hae-in.
+Dialogue: 0,0:20:08.58,0:20:10.57,Default,,0,0,0,,Sit down, Mr. Baek.
+Dialogue: 0,0:20:25.97,0:20:27.61,Default,,0,0,0,,Are you healthy now?
+Dialogue: 0,0:20:27.64,0:20:30.05,Default,,0,0,0,,If not, why would I be here?
+Dialogue: 0,0:20:31.56,0:20:33.55,Default,,0,0,0,,Did the surgery go well?
+Dialogue: 0,0:20:33.77,0:20:37.12,Default,,0,0,0,,Are you still getting\Ntreatment? Are you in pain?
+Dialogue: 0,0:20:37.15,0:20:39.52,Default,,0,0,0,,Are you worried about me?
+Dialogue: 0,0:20:44.66,0:20:46.36,Default,,0,0,0,,I was...
+Dialogue: 0,0:20:48.87,0:20:50.68,Default,,0,0,0,,I was very worried.
+Dialogue: 0,0:20:50.70,0:20:52.24,Default,,0,0,0,,That's funny.
+Dialogue: 0,0:20:52.83,0:20:55.81,Default,,0,0,0,,You must think I'm stupid\Nsince I lost my memory.
+Dialogue: 0,0:20:55.83,0:20:57.66,Default,,0,0,0,,I missed you too.
+Dialogue: 0,0:21:04.51,0:21:06.17,Default,,0,0,0,,I know everything.
+Dialogue: 0,0:21:06.43,0:21:08.78,Default,,0,0,0,,I know why you married me,
+Dialogue: 0,0:21:08.80,0:21:12.41,Default,,0,0,0,,how you prepared for the divorce,\Nand what you did afterward.
+Dialogue: 0,0:21:12.43,0:21:15.22,Default,,0,0,0,,I heard and confirmed it all.
+Dialogue: 0,0:21:16.77,0:21:18.41,Default,,0,0,0,,Hae-in.
+Dialogue: 0,0:21:18.44,0:21:21.71,Default,,0,0,0,,I don't know what Eun-sung told you,
+Dialogue: 0,0:21:21.73,0:21:23.69,Default,,0,0,0,,but none of it is true.
+Dialogue: 0,0:21:23.86,0:21:26.40,Default,,0,0,0,,I know you're confused,
+Dialogue: 0,0:21:26.53,0:21:27.51,Default,,0,0,0,,but if you trust me...
+Dialogue: 0,0:21:27.53,0:21:29.01,Default,,0,0,0,,I only believe what I see.
+Dialogue: 0,0:21:29.03,0:21:31.22,Default,,0,0,0,,The divorce papers you prepared behind my back,
+Dialogue: 0,0:21:31.24,0:21:33.76,Default,,0,0,0,,and the fact that you're in\Nhere as a murder suspect,
+Dialogue: 0,0:21:33.79,0:21:35.77,Default,,0,0,0,,are what I've confirmed.
+Dialogue: 0,0:21:35.79,0:21:38.02,Default,,0,0,0,,Then why did you come here?
+Dialogue: 0,0:21:38.04,0:21:41.16,Default,,0,0,0,,If you confirmed and know everything,
+Dialogue: 0,0:21:41.50,0:21:43.54,Default,,0,0,0,,then why are you here?
+Dialogue: 0,0:21:43.67,0:21:46.25,Default,,0,0,0,,Isn't it because you're doubtful?
+Dialogue: 0,0:21:47.01,0:21:48.71,Default,,0,0,0,,I came here...
+Dialogue: 0,0:21:51.89,0:21:53.42,Default,,0,0,0,,because...
+Dialogue: 0,0:21:56.14,0:21:58.14,Default,,0,0,0,,Let's just say...
+Dialogue: 0,0:21:58.85,0:22:01.81,Default,,0,0,0,,it's so we won't ever meet again.
+Dialogue: 0,0:22:02.86,0:22:04.54,Default,,0,0,0,,I was curious, to be honest,
+Dialogue: 0,0:22:04.57,0:22:06.48,Default,,0,0,0,,but now that we've met,
+Dialogue: 0,0:22:06.65,0:22:08.21,Default,,0,0,0,,we won't see each other again.
+Dialogue: 0,0:22:08.24,0:22:09.94,Default,,0,0,0,,No.
+Dialogue: 0,0:22:10.45,0:22:12.98,Default,,0,0,0,,We'll meet again,
+Dialogue: 0,0:22:13.74,0:22:15.95,Default,,0,0,0,,because I won't give up.
+Dialogue: 0,0:22:16.54,0:22:18.68,Default,,0,0,0,,I'll stick with you.
+Dialogue: 0,0:22:18.71,0:22:22.41,Default,,0,0,0,,That's rich, coming from\Nsomeone who's locked up.
+Dialogue: 0,0:22:36.35,0:22:38.22,Default,,0,0,0,,I promised...
+Dialogue: 0,0:22:40.73,0:22:43.64,Default,,0,0,0,,to be with you when you woke up.
+Dialogue: 0,0:22:44.86,0:22:46.64,Default,,0,0,0,,I'm sorry I wasn't there.
+Dialogue: 0,0:22:47.65,0:22:50.15,Default,,0,0,0,,I'm truly sorry...
+Dialogue: 0,0:22:50.74,0:22:52.57,Default,,0,0,0,,you had to come here,
+Dialogue: 0,0:22:52.95,0:22:54.57,Default,,0,0,0,,but...
+Dialogue: 0,0:22:54.91,0:22:57.15,Default,,0,0,0,,I'll get out, no matter what.
+Dialogue: 0,0:22:57.50,0:22:59.57,Default,,0,0,0,,I promise you this.
+Dialogue: 0,0:22:59.62,0:23:00.88,Default,,0,0,0,,So you...
+Dialogue: 0,0:23:00.90,0:23:01.93,Default,,0,0,0,,Inmate 9971.
+Dialogue: 0,0:23:01.96,0:23:03.79,Default,,0,0,0,,Your time is up.
+Dialogue: 0,0:23:03.96,0:23:06.52,Default,,0,0,0,,Eat well, don't worry about anything,
+Dialogue: 0,0:23:06.55,0:23:08.55,Default,,0,0,0,,and continue getting treatment.
+Dialogue: 0,0:23:08.57,0:23:09.57,Default,,0,0,0,,Inmate 9971.
+Dialogue: 0,0:23:09.59,0:23:12.15,Default,,0,0,0,,Just stay healthy.
+Dialogue: 0,0:23:12.18,0:23:16.01,Default,,0,0,0,,Please do that for me. Okay?
+Dialogue: 0,0:23:16.06,0:23:17.97,Default,,0,0,0,,Hae-in.
+Dialogue: 0,0:23:36.83,0:23:40.00,Default,,0,0,0,,{\i1}{\c&HFFFF&}Korea Correctional Service{\c}{\i0}
+Dialogue: 0,0:23:43.17,0:23:45.28,Default,,0,0,0,,I almost answered back.
+Dialogue: 0,0:23:46.84,0:23:48.52,Default,,0,0,0,,He's very cunning.
+Dialogue: 0,0:23:48.55,0:23:51.29,Default,,0,0,0,,How could he be so deceiving, even as an inmate?
+Dialogue: 0,0:23:51.55,0:23:54.82,Default,,0,0,0,,I can understand how he duped me in the past.
+Dialogue: 0,0:23:54.85,0:23:58.42,Default,,0,0,0,,He sure is eloquent.
+Dialogue: 0,0:24:08.32,0:24:11.06,Default,,0,0,0,,I need nausea medication. My heart...
+Dialogue: 0,0:24:11.49,0:24:13.67,Default,,0,0,0,,is racing.
+Dialogue: 0,0:24:13.70,0:24:15.17,Default,,0,0,0,,I feel nauseated.
+Dialogue: 0,0:24:15.20,0:24:17.97,Default,,0,0,0,,I'm so out of it.
+Dialogue: 0,0:24:17.99,0:24:19.69,Default,,0,0,0,,One minute.
+Dialogue: 0,0:24:22.79,0:24:25.66,Default,,0,0,0,,I'm so dizzy, I want to cry.
+Dialogue: 0,0:24:31.01,0:24:32.71,Default,,0,0,0,,Thank you.
+Dialogue: 0,0:24:42.98,0:24:45.39,Default,,0,0,0,,Where have you been?
+Dialogue: 0,0:24:46.65,0:24:48.58,Default,,0,0,0,,Why are you here?
+Dialogue: 0,0:24:48.61,0:24:51.56,Default,,0,0,0,,Answer me first. Where have you been?
+Dialogue: 0,0:24:53.20,0:24:55.15,Default,,0,0,0,,I don't want to answer.
+Dialogue: 0,0:24:55.28,0:24:56.97,Default,,0,0,0,,Can you leave?
+Dialogue: 0,0:24:56.99,0:25:00.69,Default,,0,0,0,,I don't want anyone to be here\Nwithout my permission, even if it's you.
+Dialogue: 0,0:25:01.62,0:25:03.15,Default,,0,0,0,,Right.
+Dialogue: 0,0:25:03.66,0:25:04.64,Default,,0,0,0,,I'm sorry,
+Dialogue: 0,0:25:04.66,0:25:07.31,Default,,0,0,0,,but you're still receiving\Ntreatment, and I told you.
+Dialogue: 0,0:25:07.33,0:25:09.94,Default,,0,0,0,,You were in danger multiple times.
+Dialogue: 0,0:25:09.96,0:25:10.98,Default,,0,0,0,,I know,
+Dialogue: 0,0:25:11.00,0:25:13.19,Default,,0,0,0,,and Hyun-woo was behind them,
+Dialogue: 0,0:25:13.22,0:25:15.83,Default,,0,0,0,,but he's locked up, so aren't I safe?
+Dialogue: 0,0:25:18.26,0:25:20.05,Default,,0,0,0,,I'm just...
+Dialogue: 0,0:25:25.06,0:25:27.83,Default,,0,0,0,,anxious when you're not around,
+Dialogue: 0,0:25:27.85,0:25:29.97,Default,,0,0,0,,since things keep happening.
+Dialogue: 0,0:25:31.61,0:25:34.73,Default,,0,0,0,,I'm sorry for worrying you.
+Dialogue: 0,0:25:39.28,0:25:40.82,Default,,0,0,0,,All right.
+Dialogue: 0,0:25:41.79,0:25:43.32,Default,,0,0,0,,Rest up.
+Dialogue: 0,0:26:31.46,0:26:35.33,Default,,0,0,0,,No way. I guess the rumors\Nabout their marriage is true.
+Dialogue: 0,0:26:35.76,0:26:37.82,Default,,0,0,0,,Is it over with Director Baek?
+Dialogue: 0,0:26:37.84,0:26:39.03,Default,,0,0,0,,Watch what you say.
+Dialogue: 0,0:26:39.05,0:26:40.99,Default,,0,0,0,,We all signed the NDA,
+Dialogue: 0,0:26:41.01,0:26:43.57,Default,,0,0,0,,- especially you.\N- What's there to worry about?
+Dialogue: 0,0:26:43.60,0:26:45.80,Default,,0,0,0,,I no longer work for her.
+Dialogue: 0,0:26:46.52,0:26:48.43,Default,,0,0,0,,We won't see each other.
+Dialogue: 0,0:26:51.86,0:26:53.56,Default,,0,0,0,,Ms. Hong!
+Dialogue: 0,0:26:54.36,0:26:55.58,Default,,0,0,0,,Hello.
+Dialogue: 0,0:26:55.61,0:26:57.38,Default,,0,0,0,,I heard about you.
+Dialogue: 0,0:26:57.40,0:26:59.41,Default,,0,0,0,,Are you all better now?
+Dialogue: 0,0:26:59.43,0:27:00.42,Default,,0,0,0,,Yes.
+Dialogue: 0,0:27:00.45,0:27:02.47,Default,,0,0,0,,I'm truly relieved. Really.
+Dialogue: 0,0:27:02.49,0:27:05.68,Default,,0,0,0,,Thanks to your paying for\Nthe surgery and hospital bill,
+Dialogue: 0,0:27:05.70,0:27:06.76,Default,,0,0,0,,Cho-rong...
+Dialogue: 0,0:27:06.79,0:27:09.52,Default,,0,0,0,,She has a real name now.
+Dialogue: 0,0:27:09.54,0:27:10.98,Default,,0,0,0,,So-yul.
+Dialogue: 0,0:27:11.00,0:27:13.66,Default,,0,0,0,,So-yul is healthy now.
+Dialogue: 0,0:27:15.00,0:27:16.19,Default,,0,0,0,,I'm glad.
+Dialogue: 0,0:27:16.21,0:27:18.87,Default,,0,0,0,,Thank you so much. I'll never forget this.
+Dialogue: 0,0:27:27.18,0:27:28.91,Default,,0,0,0,,- Did I do that?\N- Sorry?
+Dialogue: 0,0:27:28.93,0:27:30.79,Default,,0,0,0,,Did I really do what he said?
+Dialogue: 0,0:27:30.81,0:27:34.01,Default,,0,0,0,,I'm not sure. It was before I was hired.
+Dialogue: 0,0:27:37.73,0:27:39.80,Default,,0,0,0,,Thank you for keeping your promise.
+Dialogue: 0,0:27:39.82,0:27:42.40,Default,,0,0,0,,Promise? What promise?
+Dialogue: 0,0:27:42.78,0:27:47.61,Default,,0,0,0,,You promised to return before I finished\Npaying off the installments for this.
+Dialogue: 0,0:27:48.37,0:27:49.81,Default,,0,0,0,,So you were my secretary?
+Dialogue: 0,0:27:49.83,0:27:50.93,Default,,0,0,0,,Yes.
+Dialogue: 0,0:27:50.96,0:27:52.60,Default,,0,0,0,,Then you must know a lot about me.
+Dialogue: 0,0:27:52.62,0:27:56.31,Default,,0,0,0,,Of course. Consider me a\Nhuman external hard drive.
+Dialogue: 0,0:27:57.88,0:27:59.44,Default,,0,0,0,,In that case,
+Dialogue: 0,0:27:59.46,0:28:01.37,Default,,0,0,0,,what kind of person was I?
+Dialogue: 0,0:28:02.09,0:28:03.78,Default,,0,0,0,,Well...
+Dialogue: 0,0:28:03.80,0:28:04.86,Default,,0,0,0,,You were...
+Dialogue: 0,0:28:04.89,0:28:06.59,Default,,0,0,0,,Ms. Hong.
+Dialogue: 0,0:28:07.14,0:28:09.08,Default,,0,0,0,,Ms. Hong, I was elated to hear...
+Dialogue: 0,0:28:09.10,0:28:12.04,Default,,0,0,0,,you came back. Are you well now?
+Dialogue: 0,0:28:12.06,0:28:14.81,Default,,0,0,0,,She's an employee you knew.
+Dialogue: 0,0:28:14.84,0:28:15.83,Default,,0,0,0,,Hello.
+Dialogue: 0,0:28:15.86,0:28:17.42,Default,,0,0,0,,Thanks to you,
+Dialogue: 0,0:28:17.44,0:28:21.13,Default,,0,0,0,,my mother received all her\Ntreatments and passed away in peace.
+Dialogue: 0,0:28:21.15,0:28:24.84,Default,,0,0,0,,You sent flowers to her\Nfuneral, covered the cost,
+Dialogue: 0,0:28:24.86,0:28:26.26,Default,,0,0,0,,and even came by.
+Dialogue: 0,0:28:26.28,0:28:28.80,Default,,0,0,0,,You may not remember, but I always will.
+Dialogue: 0,0:28:28.83,0:28:30.57,Default,,0,0,0,,Thank you.
+Dialogue: 0,0:28:30.79,0:28:32.82,Default,,0,0,0,,No problem.
+Dialogue: 0,0:28:38.59,0:28:42.86,Default,,0,0,0,,I sent flowers to my employee's\Nfamily member's funeral?
+Dialogue: 0,0:28:42.88,0:28:44.94,Default,,0,0,0,,How sensitive of me.
+Dialogue: 0,0:28:44.97,0:28:48.21,Default,,0,0,0,,- That was Director Baek...\N- What?
+Dialogue: 0,0:28:48.68,0:28:49.66,Default,,0,0,0,,It's nothing.
+Dialogue: 0,0:28:49.68,0:28:51.41,Default,,0,0,0,,You were a good person.
+Dialogue: 0,0:28:51.43,0:28:55.29,Default,,0,0,0,,{\i1}{\c&HFFFF00&}It's about time we cut off all the brands...{\c}{\i0}
+Dialogue: 0,0:28:55.31,0:28:57.29,Default,,0,0,0,,{\i1}{\c&HFFFF00&}that hinder our sales.{\c}{\i0}
+Dialogue: 0,0:28:57.31,0:28:59.56,Default,,0,0,0,,You were warm-hearted.
+Dialogue: 0,0:29:00.73,0:29:03.31,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Is this creative? Which part? How?{\c}{\i0}
+Dialogue: 0,0:29:03.45,0:29:04.96,Default,,0,0,0,,{\i1}{\c&HFFFF00&}I'm just purely curious.{\c}{\i0}
+Dialogue: 0,0:29:04.99,0:29:06.05,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Answer me.{\c}{\i0}
+Dialogue: 0,0:29:06.07,0:29:08.47,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Which part? How? Why?!{\c}{\i0}
+Dialogue: 0,0:29:08.49,0:29:11.76,Default,,0,0,0,,- You were kind too.\N- Was I really like...
+Dialogue: 0,0:29:11.79,0:29:14.70,Default,,0,0,0,,Mother Teresa?
+Dialogue: 0,0:29:16.12,0:29:17.56,Default,,0,0,0,,Yes, I guess.
+Dialogue: 0,0:29:17.58,0:29:19.40,Default,,0,0,0,,I knew it.
+Dialogue: 0,0:29:19.42,0:29:21.48,Default,,0,0,0,,I saw a stray cat on my way here,
+Dialogue: 0,0:29:21.50,0:29:24.23,Default,,0,0,0,,and I wanted to feed it some snacks,
+Dialogue: 0,0:29:24.26,0:29:25.82,Default,,0,0,0,,so I bought some and fed it.
+Dialogue: 0,0:29:25.84,0:29:29.50,Default,,0,0,0,,It feels like I'm desperate to do good.
+Dialogue: 0,0:29:29.72,0:29:32.20,Default,,0,0,0,,I may have lost my memory,
+Dialogue: 0,0:29:32.22,0:29:35.51,Default,,0,0,0,,but my true nature still remains.
+Dialogue: 0,0:29:37.77,0:29:39.75,Default,,0,0,0,,I hope we get along.
+Dialogue: 0,0:29:39.77,0:29:41.79,Default,,0,0,0,,- Sorry?\N- You're my external hard drive.
+Dialogue: 0,0:29:41.82,0:29:44.71,Default,,0,0,0,,I'm like a motherboard that's\Nundergone a factory reset.
+Dialogue: 0,0:29:44.74,0:29:48.06,Default,,0,0,0,,I need my external hard\Ndrive that contains my data.
+Dialogue: 0,0:29:50.95,0:29:53.68,Default,,0,0,0,,But I'm in another department.
+Dialogue: 0,0:29:53.70,0:29:55.61,Default,,0,0,0,,I'll take care of it.
+Dialogue: 0,0:29:58.29,0:30:00.98,Default,,0,0,0,,Look through the prosecution's evidence record.
+Dialogue: 0,0:30:01.00,0:30:03.11,Default,,0,0,0,,- What? Why?\N- It's a murder case.
+Dialogue: 0,0:30:03.13,0:30:05.35,Default,,0,0,0,,They'd want to gather as\Nmuch evidence as possible.
+Dialogue: 0,0:30:05.37,0:30:08.36,Default,,0,0,0,,If there's anything they\Ndidn't submit as evidence,
+Dialogue: 0,0:30:08.38,0:30:10.50,Default,,0,0,0,,it must be in our favor.
+Dialogue: 0,0:30:14.10,0:30:17.20,Default,,0,0,0,,So the evidence they didn't submit...
+Dialogue: 0,0:30:17.23,0:30:20.18,Default,,0,0,0,,is this component analysis of the\Ntrace evidence at the crime scene?
+Dialogue: 0,0:30:20.21,0:30:22.12,Default,,0,0,0,,Yes, a piece of green fiber.
+Dialogue: 0,0:30:22.15,0:30:24.54,Default,,0,0,0,,- So it's not Hyun-woo's.\N- That's why they omitted it.
+Dialogue: 0,0:30:24.57,0:30:27.52,Default,,0,0,0,,I think it was from the real killer's clothes,
+Dialogue: 0,0:30:28.15,0:30:29.80,Default,,0,0,0,,and we need to find them.
+Dialogue: 0,0:30:29.82,0:30:31.68,Default,,0,0,0,,{\i1}The knife used as the murder weapon...{\i0}
+Dialogue: 0,0:30:31.70,0:30:33.68,Default,,0,0,0,,is indeed mine.
+Dialogue: 0,0:30:33.70,0:30:35.86,Default,,0,0,0,,So why was it there?
+Dialogue: 0,0:30:36.25,0:30:37.81,Default,,0,0,0,,- Maybe it was stolen.\N- I believe...
+Dialogue: 0,0:30:37.84,0:30:40.48,Default,,0,0,0,,it was missing a few days\Nbefore we left for Germany.
+Dialogue: 0,0:30:40.51,0:30:42.95,Default,,0,0,0,,- I didn't think much of it, though.\N- So it was stolen.
+Dialogue: 0,0:30:42.98,0:30:44.37,Default,,0,0,0,,I'll check out the CCTV cameras.
+Dialogue: 0,0:30:44.40,0:30:46.40,Default,,0,0,0,,One more. Please check the bus dashcams...
+Dialogue: 0,0:30:46.42,0:30:49.11,Default,,0,0,0,,that operated near the scene\Naround the time of the murder.
+Dialogue: 0,0:30:49.13,0:30:53.71,Default,,0,0,0,,Maybe there's a suspicious car,\Nor the killer could've gotten on a bus.
+Dialogue: 0,0:30:56.72,0:30:58.62,Default,,0,0,0,,Hello. How often does it get deleted?
+Dialogue: 0,0:30:58.64,0:31:00.70,Default,,0,0,0,,Sir, may I ask you something?
+Dialogue: 0,0:31:00.73,0:31:04.39,Default,,0,0,0,,Are there any cameras near the fishing site?
+Dialogue: 0,0:31:11.36,0:31:14.33,Default,,0,0,0,,Dad, I got rid of them all from the roof.
+Dialogue: 0,0:31:14.35,0:31:15.39,Default,,0,0,0,,Rid of what?
+Dialogue: 0,0:31:15.41,0:31:16.85,Default,,0,0,0,,The crows were crying all day.
+Dialogue: 0,0:31:16.87,0:31:19.43,Default,,0,0,0,,Hey. I'm glad you did\Nthat before today's hearing.
+Dialogue: 0,0:31:19.46,0:31:20.60,Default,,0,0,0,,I mean...
+Dialogue: 0,0:31:20.62,0:31:23.52,Default,,0,0,0,,I know the hearing will go well.
+Dialogue: 0,0:31:23.54,0:31:25.24,Default,,0,0,0,,I do,
+Dialogue: 0,0:31:25.55,0:31:26.98,Default,,0,0,0,,but crows aren't favorable.
+Dialogue: 0,0:31:27.01,0:31:29.12,Default,,0,0,0,,Gosh, just eat, already.
+Dialogue: 0,0:31:30.17,0:31:31.94,Default,,0,0,0,,Honey.
+Dialogue: 0,0:31:31.97,0:31:34.96,Default,,0,0,0,,- Not the laver.\N- Why not?
+Dialogue: 0,0:31:35.14,0:31:36.87,Default,,0,0,0,,You'd be wrapping it.
+Dialogue: 0,0:31:36.89,0:31:41.45,Default,,0,0,0,,You're all banned from\Nwrapping, dunking, or mixing...
+Dialogue: 0,0:31:41.48,0:31:42.54,Default,,0,0,0,,any food today.
+Dialogue: 0,0:31:42.56,0:31:45.08,Default,,0,0,0,,Don't drop anything either.
+Dialogue: 0,0:31:45.11,0:31:47.59,Default,,0,0,0,,It'll feel ominous...
+Dialogue: 0,0:31:47.61,0:31:49.56,Default,,0,0,0,,if you did.
+Dialogue: 0,0:31:50.65,0:31:52.01,Default,,0,0,0,,Good morning.
+Dialogue: 0,0:31:52.03,0:31:53.47,Default,,0,0,0,,Gosh, it's cold.
+Dialogue: 0,0:31:53.49,0:31:57.23,Default,,0,0,0,,Da-hye is tired and wants to sleep in.
+Dialogue: 0,0:32:03.54,0:32:06.06,Default,,0,0,0,,No, that doesn't count.
+Dialogue: 0,0:32:06.09,0:32:08.11,Default,,0,0,0,,They didn't fall.
+Dialogue: 0,0:32:08.13,0:32:11.40,Default,,0,0,0,,Soo-cheol just placed them...
+Dialogue: 0,0:32:11.42,0:32:12.94,Default,,0,0,0,,on the floor...
+Dialogue: 0,0:32:12.97,0:32:15.79,Default,,0,0,0,,like this.
+Dialogue: 0,0:32:16.01,0:32:18.70,Default,,0,0,0,,He's right. You placed them...
+Dialogue: 0,0:32:18.72,0:32:20.45,Default,,0,0,0,,on the floor, didn't you?
+Dialogue: 0,0:32:20.48,0:32:22.49,Default,,0,0,0,,No, I dropped them,
+Dialogue: 0,0:32:22.52,0:32:24.83,Default,,0,0,0,,but I'm pretty easygoing and don't mind it.
+Dialogue: 0,0:32:24.85,0:32:29.56,Default,,0,0,0,,I'll wrap it in some laver,\Ndunk it in the soup...
+Dialogue: 0,0:32:30.36,0:32:33.02,Default,,0,0,0,,This soup is really tasty, ma'am.
+Dialogue: 0,0:32:36.82,0:32:39.80,Default,,0,0,0,,The defendant was near the crime\Nscene around the estimated time...
+Dialogue: 0,0:32:39.83,0:32:43.27,Default,,0,0,0,,of the victim's death between 8 and 9 p.m.
+Dialogue: 0,0:32:43.29,0:32:46.77,Default,,0,0,0,,Plus, the defendant's hair\Nwas found in the victim's car.
+Dialogue: 0,0:32:46.79,0:32:49.14,Default,,0,0,0,,The victim's blood and the\Ndefendant's fingerprints...
+Dialogue: 0,0:32:49.17,0:32:50.85,Default,,0,0,0,,were also found on the murder weapon.
+Dialogue: 0,0:32:50.88,0:32:53.98,Default,,0,0,0,,Therefore, we'd like to\Ncharge Baek Hyun-woo for murder.
+Dialogue: 0,0:32:54.01,0:32:56.25,Default,,0,0,0,,Do you admit to this charge?
+Dialogue: 0,0:32:57.47,0:32:58.45,Default,,0,0,0,,No, Your Honor.
+Dialogue: 0,0:32:58.47,0:33:02.66,Default,,0,0,0,,It's true that I'd agreed to\Nmeet the victim that day,
+Dialogue: 0,0:33:02.68,0:33:04.24,Default,,0,0,0,,but he never showed up.
+Dialogue: 0,0:33:04.27,0:33:06.68,Default,,0,0,0,,Therefore, I never got to see him.
+Dialogue: 0,0:33:06.94,0:33:09.46,Default,,0,0,0,,The defense may make their argument.
+Dialogue: 0,0:33:09.48,0:33:10.63,Default,,0,0,0,,Your Honor.
+Dialogue: 0,0:33:10.65,0:33:12.38,Default,,0,0,0,,My client has claimed innocence...
+Dialogue: 0,0:33:12.40,0:33:15.13,Default,,0,0,0,,since the very beginning of this investigation.
+Dialogue: 0,0:33:15.15,0:33:17.34,Default,,0,0,0,,If it's true, the true killer is out there.
+Dialogue: 0,0:33:17.37,0:33:21.43,Default,,0,0,0,,Let's look at the murder\Nweapon the prosecution claims...
+Dialogue: 0,0:33:21.45,0:33:23.14,Default,,0,0,0,,to be their most decisive evidence.
+Dialogue: 0,0:33:23.16,0:33:24.77,Default,,0,0,0,,The kitchen knife had traces...
+Dialogue: 0,0:33:24.79,0:33:27.37,Default,,0,0,0,,of the defendant prints, the victim's blood,
+Dialogue: 0,0:33:27.88,0:33:30.87,Default,,0,0,0,,as well as a piece of green acrylic.
+Dialogue: 0,0:33:31.05,0:33:33.82,Default,,0,0,0,,As you can see, the\Ndefendant wasn't wearing green.
+Dialogue: 0,0:33:33.84,0:33:37.07,Default,,0,0,0,,Even still, that can't prove\Nit belonged to someone else.
+Dialogue: 0,0:33:37.09,0:33:38.49,Default,,0,0,0,,I agree.
+Dialogue: 0,0:33:38.51,0:33:42.01,Default,,0,0,0,,However, what if someone dressed in green...
+Dialogue: 0,0:33:42.39,0:33:46.20,Default,,0,0,0,,stole the knife from his home...
+Dialogue: 0,0:33:46.23,0:33:49.97,Default,,0,0,0,,which was found near the crime scene?
+Dialogue: 0,0:34:05.08,0:34:06.35,Default,,0,0,0,,It's a knife.
+Dialogue: 0,0:34:06.37,0:34:08.45,Default,,0,0,0,,Yes, you're right.
+Dialogue: 0,0:34:09.67,0:34:12.40,Default,,0,0,0,,It's the knife used in the murder.
+Dialogue: 0,0:34:12.42,0:34:15.23,Default,,0,0,0,,He happens to be wearing green, too.
+Dialogue: 0,0:34:15.26,0:34:17.21,Default,,0,0,0,,Next footage, please.
+Dialogue: 0,0:34:17.97,0:34:20.61,Default,,0,0,0,,{\i1}The same individual is seen burning...{\i0}
+Dialogue: 0,0:34:20.64,0:34:23.41,Default,,0,0,0,,his T-shirt, gloves, and other\Nclothing just over a mile...
+Dialogue: 0,0:34:23.43,0:34:24.99,Default,,0,0,0,,from the crime scene.
+Dialogue: 0,0:34:25.02,0:34:28.20,Default,,0,0,0,,I requested an analysis of\Nthe burned fiber and the one...
+Dialogue: 0,0:34:28.23,0:34:30.25,Default,,0,0,0,,found on the murder weapon.
+Dialogue: 0,0:34:30.27,0:34:32.33,Default,,0,0,0,,The infrared spectrophotometer showed...
+Dialogue: 0,0:34:32.36,0:34:34.96,Default,,0,0,0,,...that these fibers were identical,
+Dialogue: 0,0:34:34.98,0:34:37.80,Default,,0,0,0,,and the victim's blood and\NDNA were found on the T-shirt.
+Dialogue: 0,0:34:37.82,0:34:39.76,Default,,0,0,0,,This is all circumstantial evidence.
+Dialogue: 0,0:34:39.78,0:34:43.09,Default,,0,0,0,,The murder weapon only had\Ntraces of the defendant's prints.
+Dialogue: 0,0:34:43.12,0:34:46.06,Default,,0,0,0,,What if I have even more definite proof?
+Dialogue: 0,0:34:46.08,0:34:48.34,Default,,0,0,0,,For example, photos and\Nvideos of the crime scene...
+Dialogue: 0,0:34:48.36,0:34:50.81,Default,,0,0,0,,the killer took himself.
+Dialogue: 0,0:34:50.83,0:34:53.40,Default,,0,0,0,,{\i1}{\c&HFFFF00&}He must've taken photos or videos.{\c}{\i0}
+Dialogue: 0,0:34:53.42,0:34:54.77,Default,,0,0,0,,{\i1}{\c&HFFFF00&}We need his phone.{\c}{\i0}
+Dialogue: 0,0:34:54.80,0:34:57.23,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Do you mean he recorded his own crime?{\c}{\i0}
+Dialogue: 0,0:34:57.26,0:35:00.63,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Yes, if he was a hitman.{\c}{\i0}
+Dialogue: 0,0:35:01.05,0:35:02.78,Default,,0,0,0,,{\i1}{\c&HFFFF00&}He needs proof to get paid.{\c}{\i0}
+Dialogue: 0,0:35:02.80,0:35:05.21,Default,,0,0,0,,{\i1}{\c&HFFFF00&}He needs to click on this URL.{\c}{\i0}
+Dialogue: 0,0:35:07.68,0:35:09.31,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}Your item will be delivered at 2 p.m.{\c}{\i0}
+Dialogue: 0,0:35:09.34,0:35:10.33,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}Copying...{\c}{\i0}
+Dialogue: 0,0:35:10.35,0:35:13.17,Default,,0,0,0,,{\i1}{\c&HFFFF00&}He did it. I can now duplicate his phone!{\c}{\i0}
+Dialogue: 0,0:35:13.19,0:35:14.92,Default,,0,0,0,,An anonymous individual...
+Dialogue: 0,0:35:14.94,0:35:16.16,Default,,0,0,0,,sent me photos and videos...
+Dialogue: 0,0:35:16.18,0:35:18.63,Default,,0,0,0,,of the crime scene that\Nwere in the killer's phone.
+Dialogue: 0,0:35:18.65,0:35:20.59,Default,,0,0,0,,- I'll submit this as evidence.\N- Objection.
+Dialogue: 0,0:35:20.61,0:35:23.18,Default,,0,0,0,,We didn't agree on this evidence beforehand.
+Dialogue: 0,0:35:23.20,0:35:26.05,Default,,0,0,0,,It could've been acquired\Nillegally. Please dismiss it.
+Dialogue: 0,0:35:26.08,0:35:30.16,Default,,0,0,0,,This decisive evidence\Nwill greatly affect the trial!
+Dialogue: 0,0:35:42.76,0:35:44.57,Default,,0,0,0,,{\i1}{\c&HFFFF&}Bench{\c}{\i0}
+Dialogue: 0,0:35:44.60,0:35:46.13,Default,,0,0,0,,I'll accept it.
+Dialogue: 0,0:36:06.45,0:36:09.15,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}The real killer of the Yeongjin-gun\NSambang Reservoir Murder...{\c}{\i0}
+Dialogue: 0,0:36:09.17,0:36:10.22,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}has been arrested.{\c}{\i0}
+Dialogue: 0,0:36:10.25,0:36:12.39,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}The Busan Coast Guard arrested Yoo,{\c}{\i0}
+Dialogue: 0,0:36:12.42,0:36:14.73,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}who was attempting to\Nstow away on a fishing boat...{\c}{\i0}
+Dialogue: 0,0:36:14.75,0:36:17.48,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}at 11 last night about 9 nautical miles south.{\c}{\i0}
+Dialogue: 0,0:36:17.50,0:36:21.36,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}Yoo claims he committed\Nthe crime single-handedly.{\c}{\i0}
+Dialogue: 0,0:36:21.38,0:36:24.24,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}Meanwhile, Baek, who was\Narrested as the suspect,{\c}{\i0}
+Dialogue: 0,0:36:24.26,0:36:26.86,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}was acquitted during today's first hearing.{\c}{\i0}
+Dialogue: 0,0:36:26.89,0:36:29.17,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}He was set free immediately.{\c}{\i0}
+Dialogue: 0,0:36:30.93,0:36:32.37,Default,,0,0,0,,Why isn't he coming out?
+Dialogue: 0,0:36:32.39,0:36:34.20,Default,,0,0,0,,Did something happen?
+Dialogue: 0,0:36:34.23,0:36:36.12,Default,,0,0,0,,He'll come out when it's time.
+Dialogue: 0,0:36:36.15,0:36:38.63,Default,,0,0,0,,Why are we here?
+Dialogue: 0,0:36:38.65,0:36:41.84,Default,,0,0,0,,I should be on my toes,\Nsince my dangerous stalker...
+Dialogue: 0,0:36:41.86,0:36:44.61,Default,,0,0,0,,- has been set free.\N- He didn't stalk...
+Dialogue: 0,0:36:44.95,0:36:47.80,Default,,0,0,0,,To be honest, you're more like a stalker.
+Dialogue: 0,0:36:47.83,0:36:50.11,Default,,0,0,0,,- I'm not...\N- There he is.
+Dialogue: 0,0:36:55.88,0:36:57.70,Default,,0,0,0,,Over here!
+Dialogue: 0,0:36:57.96,0:36:59.91,Default,,0,0,0,,My baby brother!
+Dialogue: 0,0:37:04.68,0:37:06.78,Default,,0,0,0,,I can't believe this.
+Dialogue: 0,0:37:06.80,0:37:08.53,Default,,0,0,0,,Are you okay?
+Dialogue: 0,0:37:08.55,0:37:09.57,Default,,0,0,0,,I'm fine.
+Dialogue: 0,0:37:09.60,0:37:10.62,Default,,0,0,0,,Gosh.
+Dialogue: 0,0:37:10.64,0:37:11.83,Default,,0,0,0,,You must've been worried.
+Dialogue: 0,0:37:11.85,0:37:14.54,Default,,0,0,0,,I guess everyone has their\Nset quantity of problems in life.
+Dialogue: 0,0:37:14.56,0:37:16.96,Default,,0,0,0,,Hyeon-tae and I always caused trivial problems,
+Dialogue: 0,0:37:16.98,0:37:18.46,Default,,0,0,0,,but never anything this big.
+Dialogue: 0,0:37:18.48,0:37:21.04,Default,,0,0,0,,Hyun-woo didn't do anything. He was framed.
+Dialogue: 0,0:37:21.07,0:37:23.69,Default,,0,0,0,,Yes, you're right.
+Dialogue: 0,0:37:23.78,0:37:26.52,Default,,0,0,0,,- Gosh.\N- You're safe now, okay?
+Dialogue: 0,0:37:29.91,0:37:31.44,Default,,0,0,0,,What?
+Dialogue: 0,0:37:31.58,0:37:33.53,Default,,0,0,0,,I guess they're close.
+Dialogue: 0,0:37:40.34,0:37:44.75,Default,,0,0,0,,"An amicable family."
+Dialogue: 0,0:37:46.76,0:37:48.74,Default,,0,0,0,,- Eat this.\N- No, thanks.
+Dialogue: 0,0:37:48.76,0:37:50.66,Default,,0,0,0,,- What?\N- It's okay.
+Dialogue: 0,0:37:50.68,0:37:53.05,Default,,0,0,0,,I guess he doesn't eat tofu.
+Dialogue: 0,0:37:53.72,0:37:56.09,Default,,0,0,0,,"Doesn't eat tofu."
+Dialogue: 0,0:37:57.56,0:37:59.72,Default,,0,0,0,,Does he dislike it?
+Dialogue: 0,0:38:00.52,0:38:03.14,Default,,0,0,0,,- Why? It's tasty.\N- What are you doing?
+Dialogue: 0,0:38:10.57,0:38:12.61,Default,,0,0,0,,What are you doing?
+Dialogue: 0,0:38:13.12,0:38:14.60,Default,,0,0,0,,Did he see me?
+Dialogue: 0,0:38:14.62,0:38:17.53,Default,,0,0,0,,- He did, didn't he?\N- He left.
+Dialogue: 0,0:38:19.13,0:38:20.66,Default,,0,0,0,,Did he?
+Dialogue: 0,0:38:28.01,0:38:30.95,Default,,0,0,0,,Good. Let's secretly follow them.
+Dialogue: 0,0:38:30.97,0:38:33.07,Default,,0,0,0,,What? Are we seriously stalking him?
+Dialogue: 0,0:38:33.10,0:38:35.74,Default,,0,0,0,,Of course not. I just want...
+Dialogue: 0,0:38:35.77,0:38:40.29,Default,,0,0,0,,to keep an eye on him and\Nsee if he'll scheme anything else.
+Dialogue: 0,0:38:40.31,0:38:42.42,Default,,0,0,0,,That's what stalking is.
+Dialogue: 0,0:38:42.44,0:38:44.85,Default,,0,0,0,,Just get going, already.
+Dialogue: 0,0:38:52.95,0:38:55.64,Default,,0,0,0,,Make sure it's leveled properly.
+Dialogue: 0,0:38:55.66,0:38:57.47,Default,,0,0,0,,I'm doing it right now.
+Dialogue: 0,0:38:57.50,0:38:58.81,Default,,0,0,0,,Go down if you're scared.
+Dialogue: 0,0:38:58.83,0:39:01.62,Default,,0,0,0,,I need to check, though.
+Dialogue: 0,0:39:03.04,0:39:05.61,Default,,0,0,0,,Du-gwan, will you be okay?
+Dialogue: 0,0:39:05.63,0:39:09.19,Default,,0,0,0,,Of course. If I could, I'd\Nhand out everything for free.
+Dialogue: 0,0:39:09.22,0:39:10.82,Default,,0,0,0,,{\an8}{\i1}{\c&HFFFF&}Hyun-woo Discharged\NHalf Price Sale!{\c}{\i0}
+Dialogue: 0,0:39:10.84,0:39:13.17,Default,,0,0,0,,Would you like to buy that, too?
+Dialogue: 0,0:39:14.10,0:39:17.08,Default,,0,0,0,,Goodness, you must like {\i1}mandu.{\i0}
+Dialogue: 0,0:39:17.10,0:39:18.99,Default,,0,0,0,,This is on the house.
+Dialogue: 0,0:39:19.02,0:39:20.95,Default,,0,0,0,,Why, thank you.
+Dialogue: 0,0:39:20.98,0:39:23.37,Default,,0,0,0,,- I'm more thankful.\N- Congratulations too.
+Dialogue: 0,0:39:23.40,0:39:25.18,Default,,0,0,0,,Thank you, ma'am.
+Dialogue: 0,0:39:25.36,0:39:26.75,Default,,0,0,0,,Goodbye.
+Dialogue: 0,0:39:26.78,0:39:29.02,Default,,0,0,0,,Goodbye, ma'am.
+Dialogue: 0,0:39:30.15,0:39:32.97,Default,,0,0,0,,Do you finally get my marketing philosophy?
+Dialogue: 0,0:39:32.99,0:39:35.83,Default,,0,0,0,,Totally. I should ask my customers for love,
+Dialogue: 0,0:39:35.85,0:39:36.89,Default,,0,0,0,,not money.
+Dialogue: 0,0:39:36.91,0:39:37.95,Default,,0,0,0,,Exactly.
+Dialogue: 0,0:39:37.97,0:39:40.06,Default,,0,0,0,,I'm following that philosophy when I go back.
+Dialogue: 0,0:39:40.08,0:39:42.10,Default,,0,0,0,,Good.
+Dialogue: 0,0:39:42.12,0:39:43.70,Default,,0,0,0,,Good luck.
+Dialogue: 0,0:39:43.83,0:39:46.06,Default,,0,0,0,,Sir, are these steamed buns half off, too?
+Dialogue: 0,0:39:46.09,0:39:48.32,Default,,0,0,0,,Steamed buns? Hey!
+Dialogue: 0,0:39:48.34,0:39:49.86,Default,,0,0,0,,Half off, my foot!
+Dialogue: 0,0:39:49.88,0:39:51.83,Default,,0,0,0,,Move aside.
+Dialogue: 0,0:39:52.93,0:39:55.25,Default,,0,0,0,,They're free. Knock yourselves out.
+Dialogue: 0,0:39:57.72,0:39:59.79,Default,,0,0,0,,The ice cream is free too!
+Dialogue: 0,0:39:59.81,0:40:01.29,Default,,0,0,0,,Won't he regret it tomorrow?
+Dialogue: 0,0:40:01.31,0:40:04.22,Default,,0,0,0,,Tomorrow? He'll regret it tonight.
+Dialogue: 0,0:40:05.48,0:40:06.71,Default,,0,0,0,,Hey, get in line!
+Dialogue: 0,0:40:06.73,0:40:08.60,Default,,0,0,0,,That must be Hyun-woo.
+Dialogue: 0,0:40:09.44,0:40:11.05,Default,,0,0,0,,Goodness! Hey!
+Dialogue: 0,0:40:11.07,0:40:12.92,Default,,0,0,0,,{\i1}{\c&HFFFF&}Yongdu-ri Supermarket{\c}{\i0}
+Dialogue: 0,0:40:12.95,0:40:15.19,Default,,0,0,0,,- Goodness!\N- Honey.
+Dialogue: 0,0:40:15.91,0:40:17.44,Default,,0,0,0,,It's Hyun-woo.
+Dialogue: 0,0:40:20.96,0:40:23.82,Default,,0,0,0,,I'm home, Father.
+Dialogue: 0,0:40:24.00,0:40:25.53,Default,,0,0,0,,Good.
+Dialogue: 0,0:40:25.63,0:40:27.29,Default,,0,0,0,,Welcome home.
+Dialogue: 0,0:40:27.50,0:40:28.98,Default,,0,0,0,,I'm sorry.
+Dialogue: 0,0:40:29.00,0:40:30.87,Default,,0,0,0,,Don't say that.
+Dialogue: 0,0:40:32.01,0:40:35.34,Default,,0,0,0,,Why would you apologize\Nwhen you did nothing wrong?
+Dialogue: 0,0:40:35.39,0:40:37.53,Default,,0,0,0,,- Well done, Hyun-woo.\N- Congratulations.
+Dialogue: 0,0:40:37.56,0:40:38.70,Default,,0,0,0,,You did well.
+Dialogue: 0,0:40:38.72,0:40:40.53,Default,,0,0,0,,- Congratulations.\N- Well done.
+Dialogue: 0,0:40:40.56,0:40:42.79,Default,,0,0,0,,It must've been tough.
+Dialogue: 0,0:40:42.81,0:40:44.64,Default,,0,0,0,,Thank you.
+Dialogue: 0,0:40:51.19,0:40:53.52,Default,,0,0,0,,Welcome back, Hyun-woo.
+Dialogue: 0,0:40:53.57,0:40:54.71,Default,,0,0,0,,Isn't that Soo-cheol?
+Dialogue: 0,0:40:54.74,0:40:57.97,Default,,0,0,0,,Yes, he's been staying here\Nand avoiding his mother.
+Dialogue: 0,0:40:57.99,0:40:59.85,Default,,0,0,0,,But why here?
+Dialogue: 0,0:40:59.87,0:41:03.18,Default,,0,0,0,,It's his sister's ex-husband's parents' home.
+Dialogue: 0,0:41:03.21,0:41:04.99,Default,,0,0,0,,Is he comfortable?
+Dialogue: 0,0:41:05.17,0:41:06.99,Default,,0,0,0,,I guess.
+Dialogue: 0,0:41:07.17,0:41:09.16,Default,,0,0,0,,Look at how happy they are.
+Dialogue: 0,0:41:09.42,0:41:12.62,Default,,0,0,0,,They're such an odd family.
+Dialogue: 0,0:41:14.51,0:41:16.42,Default,,0,0,0,,It's snowing!
+Dialogue: 0,0:41:16.68,0:41:19.09,Default,,0,0,0,,- Gosh!\N- Gosh!
+Dialogue: 0,0:41:36.57,0:41:38.11,Default,,0,0,0,,Honey.
+Dialogue: 0,0:41:38.70,0:41:40.40,Default,,0,0,0,,Mom.
+Dialogue: 0,0:41:41.08,0:41:42.61,Default,,0,0,0,,You're back.
+Dialogue: 0,0:41:43.08,0:41:45.82,Default,,0,0,0,,I made sweet red-bean porridge, your favorite.
+Dialogue: 0,0:41:50.13,0:41:51.90,Default,,0,0,0,,You must've been so worried.
+Dialogue: 0,0:41:51.92,0:41:54.66,Default,,0,0,0,,Hey, I didn't worry...
+Dialogue: 0,0:41:54.72,0:41:56.50,Default,,0,0,0,,one bit,
+Dialogue: 0,0:41:56.84,0:41:59.75,Default,,0,0,0,,because justice will always prevail.
+Dialogue: 0,0:42:00.05,0:42:01.88,Default,,0,0,0,,Not me.
+Dialogue: 0,0:42:02.35,0:42:04.24,Default,,0,0,0,,I was worried sick.
+Dialogue: 0,0:42:04.27,0:42:06.83,Default,,0,0,0,,- Me too.\N- Me too.
+Dialogue: 0,0:42:06.85,0:42:10.17,Default,,0,0,0,,My poor baby went through so much.
+Dialogue: 0,0:42:10.19,0:42:15.02,Default,,0,0,0,,I was worried sick!
+Dialogue: 0,0:42:15.49,0:42:17.85,Default,,0,0,0,,His parents look kind.
+Dialogue: 0,0:42:19.91,0:42:23.30,Default,,0,0,0,,He must not like tofu, but\Nenjoys sweet red-bean porridge.
+Dialogue: 0,0:42:23.33,0:42:25.53,Default,,0,0,0,,Is he a kid, or what?
+Dialogue: 0,0:42:27.79,0:42:29.74,Default,,0,0,0,,"Enjoys eating..."
+Dialogue: 0,0:42:31.71,0:42:33.31,Default,,0,0,0,,"sweet red-bean porridge."
+Dialogue: 0,0:42:33.34,0:42:35.90,Default,,0,0,0,,You remind me of myself in the past.
+Dialogue: 0,0:42:35.92,0:42:36.90,Default,,0,0,0,,What do you mean?
+Dialogue: 0,0:42:36.92,0:42:39.15,Default,,0,0,0,,I was like you before I fell in love with BTS.
+Dialogue: 0,0:42:39.18,0:42:41.28,Default,,0,0,0,,True love isn't,
+Dialogue: 0,0:42:41.30,0:42:44.20,Default,,0,0,0,,"Gosh, I love him so much."
+Dialogue: 0,0:42:44.22,0:42:47.29,Default,,0,0,0,,It's, "What is this? What's his deal?"
+Dialogue: 0,0:42:47.31,0:42:49.55,Default,,0,0,0,,That's how it begins.
+Dialogue: 0,0:42:50.52,0:42:53.83,Default,,0,0,0,,Did you always speak your mind in front of me?
+Dialogue: 0,0:42:53.86,0:42:55.39,Default,,0,0,0,,Yes.
+Dialogue: 0,0:42:56.53,0:42:58.34,Default,,0,0,0,,I was a laid-back boss.
+Dialogue: 0,0:42:58.36,0:43:00.86,Default,,0,0,0,,You don't remember anything?
+Dialogue: 0,0:43:01.20,0:43:02.18,Default,,0,0,0,,Then...
+Dialogue: 0,0:43:02.20,0:43:05.32,Default,,0,0,0,,do you remember agreeing to give me $100,000?
+Dialogue: 0,0:43:06.75,0:43:08.61,Default,,0,0,0,,There's no way.
+Dialogue: 0,0:43:09.79,0:43:13.27,Default,,0,0,0,,You may not remember, but\Nyou still have clear judgment,
+Dialogue: 0,0:43:13.29,0:43:15.45,Default,,0,0,0,,so why don't you know?
+Dialogue: 0,0:43:15.63,0:43:17.33,Default,,0,0,0,,Know what?
+Dialogue: 0,0:43:17.80,0:43:20.88,Default,,0,0,0,,Who you truly love.
+Dialogue: 0,0:43:22.72,0:43:24.42,Default,,0,0,0,,And who's that?
+Dialogue: 0,0:43:25.76,0:43:29.76,Default,,0,0,0,,I can't say, since my job is on the line,
+Dialogue: 0,0:43:30.06,0:43:31.85,Default,,0,0,0,,but I'll say this.
+Dialogue: 0,0:43:32.06,0:43:33.96,Default,,0,0,0,,Your heart lies...
+Dialogue: 0,0:43:33.98,0:43:36.18,Default,,0,0,0,,where your body goes.
+Dialogue: 0,0:44:10.06,0:44:11.33,Default,,0,0,0,,What is that?
+Dialogue: 0,0:44:11.35,0:44:15.54,Default,,0,0,0,,Mr. Ivan found it in the trash and\Nsaid we should look for its owner.
+Dialogue: 0,0:44:15.56,0:44:16.75,Default,,0,0,0,,Does it have a name?
+Dialogue: 0,0:44:16.77,0:44:21.17,Default,,0,0,0,,No, and I can't read it since\Nit's in a foreign language.
+Dialogue: 0,0:44:21.20,0:44:22.59,Default,,0,0,0,,Then how will we find its owner?
+Dialogue: 0,0:44:22.61,0:44:24.05,Default,,0,0,0,,Just throw it away.
+Dialogue: 0,0:44:24.07,0:44:25.26,Default,,0,0,0,,Maybe it's that notebook.
+Dialogue: 0,0:44:25.28,0:44:26.72,Default,,0,0,0,,Mr. Baek's attorney...
+Dialogue: 0,0:44:26.74,0:44:32.27,Default,,0,0,0,,called from Korea and asked\Nus to return a notebook to him.
+Dialogue: 0,0:44:32.29,0:44:34.57,Default,,0,0,0,,- I'll be going.\N- Okay, bye.
+Dialogue: 0,0:44:37.34,0:44:38.31,Default,,0,0,0,,Yeong-song.
+Dialogue: 0,0:44:38.34,0:44:40.46,Default,,0,0,0,,She's back again.
+Dialogue: 0,0:45:08.49,0:45:11.44,Default,,0,0,0,,Aunt Beom-ja, do you live here or something?
+Dialogue: 0,0:45:12.70,0:45:15.52,Default,,0,0,0,,I'm here to congratulate Hyun-woo.
+Dialogue: 0,0:45:15.54,0:45:17.52,Default,,0,0,0,,The catering service will arrive soon.
+Dialogue: 0,0:45:17.54,0:45:19.59,Default,,0,0,0,,Should I tell them to go to the community hall?
+Dialogue: 0,0:45:19.61,0:45:21.02,Default,,0,0,0,,Hello, Beom-ja.
+Dialogue: 0,0:45:21.05,0:45:24.00,Default,,0,0,0,,Goodness. You were here too.
+Dialogue: 0,0:45:24.47,0:45:27.36,Default,,0,0,0,,I prepared many gifts, too,\Nbecause I was in a good mood.
+Dialogue: 0,0:45:27.39,0:45:28.86,Default,,0,0,0,,- Come by later.\N- Gosh, gifts?
+Dialogue: 0,0:45:28.89,0:45:30.03,Default,,0,0,0,,Such as...?
+Dialogue: 0,0:45:30.06,0:45:32.37,Default,,0,0,0,,Supplements and massagers.
+Dialogue: 0,0:45:32.39,0:45:34.81,Default,,0,0,0,,The grand prize is the latest front load washer.
+Dialogue: 0,0:45:34.84,0:45:35.83,Default,,0,0,0,,Gosh, a washer?
+Dialogue: 0,0:45:35.85,0:45:37.62,Default,,0,0,0,,- No way.\N- A washer?
+Dialogue: 0,0:45:37.65,0:45:40.77,Default,,0,0,0,,Goodness, we were planning on getting a new one.
+Dialogue: 0,0:45:41.23,0:45:43.46,Default,,0,0,0,,Is this how the rich flex their money?
+Dialogue: 0,0:45:43.49,0:45:46.42,Default,,0,0,0,,I'd love to live like her in my next life.
+Dialogue: 0,0:45:46.45,0:45:49.36,Default,,0,0,0,,Like me? And what's that?
+Dialogue: 0,0:45:49.49,0:45:51.39,Default,,0,0,0,,You have money. You're gorgeous,
+Dialogue: 0,0:45:51.41,0:45:53.39,Default,,0,0,0,,and most of all, you got married three times.
+Dialogue: 0,0:45:53.41,0:45:56.06,Default,,0,0,0,,I'm the most envious of that.
+Dialogue: 0,0:45:56.08,0:45:57.92,Default,,0,0,0,,You don't need to mention that.
+Dialogue: 0,0:45:57.94,0:45:58.94,Default,,0,0,0,,Why not?
+Dialogue: 0,0:45:58.96,0:46:00.56,Default,,0,0,0,,Not everyone can do that.
+Dialogue: 0,0:46:00.59,0:46:02.56,Default,,0,0,0,,Gosh, I agree.
+Dialogue: 0,0:46:02.59,0:46:05.69,Default,,0,0,0,,I can't change my washer, let alone my husband.
+Dialogue: 0,0:46:05.72,0:46:09.03,Default,,0,0,0,,Don't say that in front of a bachelor.
+Dialogue: 0,0:46:09.05,0:46:10.97,Default,,0,0,0,,By the way, will you really not get married?
+Dialogue: 0,0:46:10.99,0:46:12.91,Default,,0,0,0,,I can vouch for that kindergarten teacher.
+Dialogue: 0,0:46:12.93,0:46:15.37,Default,,0,0,0,,Bang-sil's right. She really\Njumped through hoops.
+Dialogue: 0,0:46:15.39,0:46:16.45,Default,,0,0,0,,Just meet that lady.
+Dialogue: 0,0:46:16.48,0:46:17.87,Default,,0,0,0,,Guys.
+Dialogue: 0,0:46:17.90,0:46:18.94,Default,,0,0,0,,You shouldn't let him...
+Dialogue: 0,0:46:18.96,0:46:20.21,Default,,0,0,0,,decide for himself.
+Dialogue: 0,0:46:20.23,0:46:21.58,Default,,0,0,0,,You need to urge him on.
+Dialogue: 0,0:46:21.61,0:46:23.79,Default,,0,0,0,,You need to push ahead.
+Dialogue: 0,0:46:23.82,0:46:24.84,Default,,0,0,0,,How about next week?
+Dialogue: 0,0:46:24.86,0:46:26.67,Default,,0,0,0,,- Yeong-song...\N- Excuse me.
+Dialogue: 0,0:46:26.70,0:46:28.30,Default,,0,0,0,,Where's the community hall again?
+Dialogue: 0,0:46:28.32,0:46:30.05,Default,,0,0,0,,{\i1}{\c&HFFFF&}Lucky Draws{\c}{\i0}
+Dialogue: 0,0:46:30.07,0:46:33.08,Default,,0,0,0,,{\i1}{\c&HFFFF&}Celebrating Baek Hyun-woo's Discharge{\c}{\i0}
+Dialogue: 0,0:46:38.25,0:46:40.48,Default,,0,0,0,,Applaud!
+Dialogue: 0,0:46:40.50,0:46:43.98,Default,,0,0,0,,Everyone! I'd like to thank you all...
+Dialogue: 0,0:46:44.00,0:46:47.44,Default,,0,0,0,,for attending the celebration of my brother...
+Dialogue: 0,0:46:47.47,0:46:50.50,Default,,0,0,0,,Baek Hyun-woo's discharge!
+Dialogue: 0,0:46:52.47,0:46:54.99,Default,,0,0,0,,Here's the highlight of the party.
+Dialogue: 0,0:46:55.02,0:46:59.01,Default,,0,0,0,,He'll cut the tofu. Applaud!
+Dialogue: 0,0:47:03.52,0:47:04.92,Default,,0,0,0,,Let's do it together.
+Dialogue: 0,0:47:04.94,0:47:07.10,Default,,0,0,0,,Okay. One, two, three.
+Dialogue: 0,0:47:08.07,0:47:09.92,Default,,0,0,0,,That's a clean cut.
+Dialogue: 0,0:47:09.95,0:47:11.88,Default,,0,0,0,,- Congratulations.\N- Thank you.
+Dialogue: 0,0:47:11.91,0:47:13.98,Default,,0,0,0,,I got it!
+Dialogue: 0,0:47:14.28,0:47:16.28,Default,,0,0,0,,I won a TV!
+Dialogue: 0,0:47:17.45,0:47:21.16,Default,,0,0,0,,The next prize is supplements.
+Dialogue: 0,0:47:22.21,0:47:25.65,Default,,0,0,0,,My sister, Ms. Baek Mi-seon,\Nwill pick the winner.
+Dialogue: 0,0:47:25.67,0:47:27.58,Default,,0,0,0,,Come on out.
+Dialogue: 0,0:47:32.26,0:47:33.80,Default,,0,0,0,,Pick one.
+Dialogue: 0,0:47:37.89,0:47:39.80,Default,,0,0,0,,The lucky number is...
+Dialogue: 0,0:47:42.98,0:47:44.51,Default,,0,0,0,,17!
+Dialogue: 0,0:47:44.94,0:47:46.29,Default,,0,0,0,,Who is it?
+Dialogue: 0,0:47:46.32,0:47:47.96,Default,,0,0,0,,- It's Bang-sil!\N- It's me!
+Dialogue: 0,0:47:47.99,0:47:49.80,Default,,0,0,0,,It's me!
+Dialogue: 0,0:47:49.82,0:47:51.65,Default,,0,0,0,,Bang-sil!
+Dialogue: 0,0:47:56.33,0:47:57.47,Default,,0,0,0,,Congratulations.
+Dialogue: 0,0:47:57.49,0:48:00.78,Default,,0,0,0,,Thanks, Hyun-woo. I'll become even prettier now.
+Dialogue: 0,0:48:02.75,0:48:05.45,Default,,0,0,0,,Congratulations.
+Dialogue: 0,0:48:05.75,0:48:08.65,Default,,0,0,0,,- The long-awaited grand prize...\N- I'm fated to never go hungry.
+Dialogue: 0,0:48:08.67,0:48:10.73,Default,,0,0,0,,...the washer, is the only one left.
+Dialogue: 0,0:48:10.76,0:48:13.32,Default,,0,0,0,,Ms. Hong Beom-ja, who prepared all these gifts,
+Dialogue: 0,0:48:13.34,0:48:16.67,Default,,0,0,0,,will announce the winner. Applaud!
+Dialogue: 0,0:48:35.70,0:48:37.57,Default,,0,0,0,,The winner is...
+Dialogue: 0,0:48:39.12,0:48:42.28,Default,,0,0,0,,Five! Congratulations!
+Dialogue: 0,0:48:42.41,0:48:44.37,Default,,0,0,0,,Who is it?
+Dialogue: 0,0:48:46.88,0:48:48.23,Default,,0,0,0,,- What?\N- Gosh, it's Yeong-song!
+Dialogue: 0,0:48:48.25,0:48:50.15,Default,,0,0,0,,Yeong-song, you won!
+Dialogue: 0,0:48:50.17,0:48:52.63,Default,,0,0,0,,It's Yeong-song!
+Dialogue: 0,0:48:52.66,0:48:53.65,Default,,0,0,0,,Yeong-song!
+Dialogue: 0,0:48:53.68,0:48:55.07,Default,,0,0,0,,It's yours!
+Dialogue: 0,0:48:55.09,0:48:56.49,Default,,0,0,0,,You won!
+Dialogue: 0,0:48:56.51,0:48:58.57,Default,,0,0,0,,- Gosh.\N- You can have it.
+Dialogue: 0,0:48:58.60,0:48:59.66,Default,,0,0,0,,What?
+Dialogue: 0,0:48:59.68,0:49:01.16,Default,,0,0,0,,- Really?\N- Why?
+Dialogue: 0,0:49:01.18,0:49:03.75,Default,,0,0,0,,I don't need one, but you guys do.
+Dialogue: 0,0:49:03.77,0:49:06.05,Default,,0,0,0,,- Seriously?\N- No way!
+Dialogue: 0,0:49:17.16,0:49:18.86,Default,,0,0,0,,Thank you!
+Dialogue: 0,0:49:26.54,0:49:27.89,Default,,0,0,0,,{\i1}{\c&HFFFF&}Yongdu-ri Community Hall{\c}{\i0}
+Dialogue: 0,0:49:27.92,0:49:30.16,Default,,0,0,0,,Wait, Mr. Kim!
+Dialogue: 0,0:49:31.51,0:49:32.48,Default,,0,0,0,,Yes, Beom-ja?
+Dialogue: 0,0:49:32.51,0:49:34.44,Default,,0,0,0,,How are you so selfless?
+Dialogue: 0,0:49:34.47,0:49:36.09,Default,,0,0,0,,You won a washer.
+Dialogue: 0,0:49:36.12,0:49:37.15,Default,,0,0,0,,It's yours.
+Dialogue: 0,0:49:37.18,0:49:39.78,Default,,0,0,0,,But my washer works just fine.
+Dialogue: 0,0:49:39.81,0:49:43.20,Default,,0,0,0,,I know it's very old and unstable. I saw it.
+Dialogue: 0,0:49:43.23,0:49:45.47,Default,,0,0,0,,It still does its job.
+Dialogue: 0,0:49:45.94,0:49:47.91,Default,,0,0,0,,This one is the latest model.
+Dialogue: 0,0:49:47.94,0:49:51.50,Default,,0,0,0,,It has an AI system. It\Ncan wash blankets and shoes.
+Dialogue: 0,0:49:52.63,0:49:54.32,Default,,0,0,0,,Yes.
+Dialogue: 0,0:49:54.65,0:49:57.27,Default,,0,0,0,,"Yes"?
+Dialogue: 0,0:49:57.36,0:49:59.80,Default,,0,0,0,,You should grab onto opportunities.
+Dialogue: 0,0:49:59.83,0:50:03.90,Default,,0,0,0,,The same goes for washers and people.\NWhy won't you grab onto them?
+Dialogue: 0,0:50:07.67,0:50:10.85,Default,,0,0,0,,I won't be coming back here once I leave today.
+Dialogue: 0,0:50:10.88,0:50:12.90,Default,,0,0,0,,You still won't grab onto me?
+Dialogue: 0,0:50:12.92,0:50:14.98,Default,,0,0,0,,What if you never see me again?
+Dialogue: 0,0:50:15.01,0:50:17.83,Default,,0,0,0,,What's stopping me from getting married again?
+Dialogue: 0,0:50:18.76,0:50:21.30,Default,,0,0,0,,Are you getting married again?
+Dialogue: 0,0:50:21.89,0:50:24.51,Default,,0,0,0,,That's not what I meant.
+Dialogue: 0,0:50:28.90,0:50:31.10,Default,,0,0,0,,I'll say this once.
+Dialogue: 0,0:50:33.65,0:50:36.02,Default,,0,0,0,,I'm interested in you.
+Dialogue: 0,0:50:36.15,0:50:37.46,Default,,0,0,0,,No.
+Dialogue: 0,0:50:37.49,0:50:39.27,Default,,0,0,0,,I like you,
+Dialogue: 0,0:50:39.99,0:50:42.53,Default,,0,0,0,,so won't you do anything about it?
+Dialogue: 0,0:50:43.37,0:50:46.53,Default,,0,0,0,,Once I leave, I won't be returning.
+Dialogue: 0,0:50:53.30,0:50:54.48,Default,,0,0,0,,Ms. Hong...
+Dialogue: 0,0:50:54.50,0:50:55.69,Default,,0,0,0,,One minute.
+Dialogue: 0,0:50:55.71,0:50:57.97,Default,,0,0,0,,I have a question to ask him.
+Dialogue: 0,0:50:57.99,0:50:58.99,Default,,0,0,0,,I'll go in soon.
+Dialogue: 0,0:50:59.01,0:51:00.78,Default,,0,0,0,,- That's not why.\N- What?
+Dialogue: 0,0:51:00.80,0:51:02.57,Default,,0,0,0,,- What is it?\N- Well...
+Dialogue: 0,0:51:02.60,0:51:03.70,Default,,0,0,0,,That...
+Dialogue: 0,0:51:03.72,0:51:05.30,Default,,0,0,0,,This thing...
+Dialogue: 0,0:51:07.23,0:51:08.62,Default,,0,0,0,,It's wireless.
+Dialogue: 0,0:51:08.64,0:51:12.56,Default,,0,0,0,,It's connected to the indoor speakers.
+Dialogue: 0,0:51:14.52,0:51:16.54,Default,,0,0,0,,{\i1}The same goes for washers and people.{\i0}
+Dialogue: 0,0:51:16.57,0:51:18.00,Default,,0,0,0,,{\i1}Why won't you grab onto them?{\i0}
+Dialogue: 0,0:51:18.03,0:51:19.63,Default,,0,0,0,,{\i1}I won't be coming back here...{\i0}
+Dialogue: 0,0:51:19.65,0:51:21.01,Default,,0,0,0,,{\i1}once I leave today.{\i0}
+Dialogue: 0,0:51:21.03,0:51:22.70,Default,,0,0,0,,{\i1}You still don't grab onto me?{\i0}
+Dialogue: 0,0:51:22.72,0:51:24.12,Default,,0,0,0,,{\i1}What if you never see me again?{\i0}
+Dialogue: 0,0:51:24.14,0:51:26.14,Default,,0,0,0,,{\i1}What's stopping me from getting married again?{\i0}
+Dialogue: 0,0:51:26.17,0:51:27.15,Default,,0,0,0,,Goodness!
+Dialogue: 0,0:51:27.18,0:51:28.47,Default,,0,0,0,,She's so cool.
+Dialogue: 0,0:51:28.50,0:51:30.03,Default,,0,0,0,,Gosh.
+Dialogue: 0,0:51:30.83,0:51:32.34,Default,,0,0,0,,{\i1}Are you getting married again?{\i0}
+Dialogue: 0,0:51:32.36,0:51:33.35,Default,,0,0,0,,Is he stupid?
+Dialogue: 0,0:51:33.38,0:51:35.73,Default,,0,0,0,,That's not what she meant.
+Dialogue: 0,0:51:35.75,0:51:38.41,Default,,0,0,0,,{\i1}That's not what I meant.{\i0}
+Dialogue: 0,0:51:40.22,0:51:41.74,Default,,0,0,0,,{\i1}I'll say this once.{\i0}
+Dialogue: 0,0:51:41.76,0:51:43.49,Default,,0,0,0,,{\i1}I'm interested in you.{\i0}
+Dialogue: 0,0:51:43.51,0:51:44.53,Default,,0,0,0,,{\i1}No.{\i0}
+Dialogue: 0,0:51:44.55,0:51:46.09,Default,,0,0,0,,{\i1}I like you,{\i0}
+Dialogue: 0,0:51:46.52,0:51:51.25,Default,,0,0,0,,{\i1}so won't you do anything about it?\NOnce I leave, I won't be returning.{\i0}
+Dialogue: 0,0:51:51.27,0:51:52.80,Default,,0,0,0,,Goodness.
+Dialogue: 0,0:51:53.61,0:51:56.56,Default,,0,0,0,,She's an embarrassment to our family.
+Dialogue: 0,0:52:04.62,0:52:07.44,Default,,0,0,0,,Yeong-song! Answer wisely!
+Dialogue: 0,0:52:07.62,0:52:08.60,Default,,0,0,0,,Aunt Beom-ja!
+Dialogue: 0,0:52:08.62,0:52:09.64,Default,,0,0,0,,It's okay!
+Dialogue: 0,0:52:09.66,0:52:12.06,Default,,0,0,0,,- It's all right!\N- Darn it.
+Dialogue: 0,0:52:12.08,0:52:14.91,Default,,0,0,0,,Where are you going? No, wait!
+Dialogue: 0,0:52:15.04,0:52:17.65,Default,,0,0,0,,No, you should keep nudging him!
+Dialogue: 0,0:52:17.67,0:52:19.23,Default,,0,0,0,,Keep going!
+Dialogue: 0,0:52:19.26,0:52:22.17,Default,,0,0,0,,Go after her! Hurry!
+Dialogue: 0,0:52:23.76,0:52:25.88,Default,,0,0,0,,Yeong-song!
+Dialogue: 0,0:52:28.93,0:52:32.08,Default,,0,0,0,,Sir, Baek Hyun-woo asked the\Npersonnel committee to reinstate him.
+Dialogue: 0,0:52:32.10,0:52:33.75,Default,,0,0,0,,His murder charge was dropped,
+Dialogue: 0,0:52:33.77,0:52:35.77,Default,,0,0,0,,so there's no legal way to refuse his request.
+Dialogue: 0,0:52:35.79,0:52:38.29,Default,,0,0,0,,Gosh, is he a zombie or what?
+Dialogue: 0,0:52:38.32,0:52:39.92,Default,,0,0,0,,He's a tenacious one.
+Dialogue: 0,0:52:39.94,0:52:42.17,Default,,0,0,0,,You're right, but there's a bigger problem.
+Dialogue: 0,0:52:42.20,0:52:44.72,Default,,0,0,0,,The limited partners' meeting\Nwill take place in New York.
+Dialogue: 0,0:52:44.74,0:52:47.90,Default,,0,0,0,,They're going to vote regarding\Nthe dismissal of the chairman.
+Dialogue: 0,0:52:51.12,0:52:53.35,Default,,0,0,0,,What are you talking about?
+Dialogue: 0,0:52:53.37,0:52:55.06,Default,,0,0,0,,If the chairman fails to provide,
+Dialogue: 0,0:52:55.08,0:52:58.19,Default,,0,0,0,,or fabricates, the financial\Ndocuments to the investors,
+Dialogue: 0,0:52:58.21,0:53:01.13,Default,,0,0,0,,the limited partners can hold a\Nmeeting and dismiss the chairman...
+Dialogue: 0,0:53:01.15,0:53:02.98,Default,,0,0,0,,Exactly!
+Dialogue: 0,0:53:03.17,0:53:06.57,Default,,0,0,0,,Who handed over those documents?
+Dialogue: 0,0:53:06.60,0:53:08.78,Default,,0,0,0,,Was it Baek Hyun-woo? Am I right?
+Dialogue: 0,0:53:08.81,0:53:11.45,Default,,0,0,0,,No, it wasn't.
+Dialogue: 0,0:53:11.47,0:53:15.00,Default,,0,0,0,,What do you think? I'm wearing\Nthis for my Chairman inauguration.
+Dialogue: 0,0:53:16.24,0:53:17.68,Default,,0,0,0,,The inauguration.
+Dialogue: 0,0:53:19.57,0:53:21.38,Default,,0,0,0,,Must I say anything?
+Dialogue: 0,0:53:21.40,0:53:23.46,Default,,0,0,0,,It suits you perfectly.
+Dialogue: 0,0:53:23.49,0:53:24.71,Default,,0,0,0,,Doesn't it?
+Dialogue: 0,0:53:24.74,0:53:27.32,Default,,0,0,0,,I should've found my place sooner.
+Dialogue: 0,0:53:32.33,0:53:33.56,Default,,0,0,0,,Call the bank.
+Dialogue: 0,0:53:33.58,0:53:34.62,Default,,0,0,0,,Tell them to double...
+Dialogue: 0,0:53:34.64,0:53:37.42,Default,,0,0,0,,the previous transaction and\Nmake it 4.2% in careful discretion.
+Dialogue: 0,0:53:37.44,0:53:38.44,Default,,0,0,0,,All at once?
+Dialogue: 0,0:53:38.46,0:53:41.63,Default,,0,0,0,,I have no time. I need to\Nbuy as many stocks as I can,
+Dialogue: 0,0:53:41.71,0:53:44.50,Default,,0,0,0,,so they won't be able to kick me out.
+Dialogue: 0,0:53:44.80,0:53:46.50,Default,,0,0,0,,All right.
+Dialogue: 0,0:53:46.59,0:53:49.16,Default,,0,0,0,,He purchased 4.2% at once.
+Dialogue: 0,0:53:49.18,0:53:50.20,Default,,0,0,0,,He must be in a rush.
+Dialogue: 0,0:53:50.22,0:53:52.87,Default,,0,0,0,,Of course. He's finally\Nspending the secret fund.
+Dialogue: 0,0:53:52.89,0:53:56.45,Default,,0,0,0,,Have we found the files Mr. Pyeon\Nwas supposed to hand over?
+Dialogue: 0,0:53:56.48,0:53:57.87,Default,,0,0,0,,No, sir.
+Dialogue: 0,0:53:57.90,0:54:00.21,Default,,0,0,0,,However, I did receive something else.
+Dialogue: 0,0:54:00.23,0:54:02.67,Default,,0,0,0,,This'll prove Eun-sung and his men...
+Dialogue: 0,0:54:02.69,0:54:06.01,Default,,0,0,0,,conducted a $2 billion investment\Nfraud to take over Queens.
+Dialogue: 0,0:54:06.03,0:54:08.44,Default,,0,0,0,,Goodness. Who gave it to you?
+Dialogue: 0,0:54:20.46,0:54:22.29,Default,,0,0,0,,Did you bring it?
+Dialogue: 0,0:54:27.97,0:54:29.61,Default,,0,0,0,,That's the money from the U.S.
+Dialogue: 0,0:54:29.64,0:54:31.24,Default,,0,0,0,,- That's it.\N- Darn it.
+Dialogue: 0,0:54:31.26,0:54:33.12,Default,,0,0,0,,- Come on, now.\N- What do you mean?
+Dialogue: 0,0:54:33.14,0:54:36.43,Default,,0,0,0,,I gave you all the money\NI got from Seul-hee. That's it.
+Dialogue: 0,0:54:37.52,0:54:39.75,Default,,0,0,0,,And the money you gave to the Hong family?
+Dialogue: 0,0:54:39.77,0:54:42.01,Default,,0,0,0,,That belonged to them.
+Dialogue: 0,0:54:45.40,0:54:46.59,Default,,0,0,0,,And the USB stick?
+Dialogue: 0,0:54:46.61,0:54:49.17,Default,,0,0,0,,It was Da-hye who gave it to you?
+Dialogue: 0,0:54:49.20,0:54:50.26,Default,,0,0,0,,Yes.
+Dialogue: 0,0:54:50.28,0:54:51.43,Default,,0,0,0,,{\i1}I told you.{\i0}
+Dialogue: 0,0:54:51.45,0:54:53.18,Default,,0,0,0,,That's my lifeline, so I hid it.
+Dialogue: 0,0:54:53.20,0:54:54.94,Default,,0,0,0,,Your lifeline?
+Dialogue: 0,0:54:55.04,0:54:57.35,Default,,0,0,0,,Gosh, what an idiot.
+Dialogue: 0,0:54:57.37,0:55:00.39,Default,,0,0,0,,That's why you'll die.
+Dialogue: 0,0:55:00.42,0:55:03.15,Default,,0,0,0,,- What?\N- Ms. Moh has had enough of you.
+Dialogue: 0,0:55:03.17,0:55:05.52,Default,,0,0,0,,I adored you, so I went easy on you.
+Dialogue: 0,0:55:05.55,0:55:10.67,Default,,0,0,0,,I'm sure you know she detests adorable girls.
+Dialogue: 0,0:55:11.93,0:55:13.16,Default,,0,0,0,,Stay still.
+Dialogue: 0,0:55:13.18,0:55:14.99,Default,,0,0,0,,I told you to stay still.
+Dialogue: 0,0:55:15.02,0:55:17.17,Default,,0,0,0,,- Open up!\N- Stay still!
+Dialogue: 0,0:55:22.73,0:55:23.73,Default,,0,0,0,,That idiot.
+Dialogue: 0,0:55:23.76,0:55:25.19,Default,,0,0,0,,- Hey, step on the gas.\N- Open up!
+Dialogue: 0,0:55:25.22,0:55:26.21,Default,,0,0,0,,Stay still.
+Dialogue: 0,0:55:26.23,0:55:27.34,Default,,0,0,0,,Stay still!
+Dialogue: 0,0:55:27.36,0:55:28.94,Default,,0,0,0,,Stop the car!
+Dialogue: 0,0:55:29.49,0:55:31.02,Default,,0,0,0,,Stay still!
+Dialogue: 0,0:55:33.16,0:55:34.18,Default,,0,0,0,,Stop the car!
+Dialogue: 0,0:55:34.20,0:55:36.11,Default,,0,0,0,,Let Da-hye go!
+Dialogue: 0,0:55:38.66,0:55:40.14,Default,,0,0,0,,Soo-cheol.
+Dialogue: 0,0:55:40.17,0:55:42.37,Default,,0,0,0,,Darn it! Open the door!
+Dialogue: 0,0:55:57.22,0:55:58.88,Default,,0,0,0,,Darn it.
+Dialogue: 0,0:56:16.45,0:56:18.28,Default,,0,0,0,,What's wrong with him?
+Dialogue: 0,0:56:18.87,0:56:20.26,Default,,0,0,0,,Is he high on something?
+Dialogue: 0,0:56:20.29,0:56:21.99,Default,,0,0,0,,Is he?
+Dialogue: 0,0:56:24.67,0:56:25.85,Default,,0,0,0,,You dirtbag!
+Dialogue: 0,0:56:25.88,0:56:27.77,Default,,0,0,0,,I told you to let her go!
+Dialogue: 0,0:56:27.80,0:56:29.27,Default,,0,0,0,,Stay still.
+Dialogue: 0,0:56:29.30,0:56:30.86,Default,,0,0,0,,Soo-cheol! Run!
+Dialogue: 0,0:56:30.88,0:56:33.50,Default,,0,0,0,,Do you want to die?
+Dialogue: 0,0:56:37.14,0:56:38.12,Default,,0,0,0,,Soo-cheol!
+Dialogue: 0,0:56:38.14,0:56:39.67,Default,,0,0,0,,Soo-cheol!
+Dialogue: 0,0:56:41.39,0:56:43.29,Default,,0,0,0,,- Oh, no!\N- Darn it.
+Dialogue: 0,0:56:43.31,0:56:44.54,Default,,0,0,0,,Mr. Hong.
+Dialogue: 0,0:56:44.56,0:56:46.96,Default,,0,0,0,,Leave while I'm still being nice.
+Dialogue: 0,0:56:46.98,0:56:48.52,Default,,0,0,0,,Okay?
+Dialogue: 0,0:56:49.98,0:56:52.69,Default,,0,0,0,,Stop getting beaten up, and run!
+Dialogue: 0,0:56:54.36,0:56:56.63,Default,,0,0,0,,Why are you trying to be a hero?
+Dialogue: 0,0:56:56.66,0:56:58.98,Default,,0,0,0,,- Run!\N- Stay still!
+Dialogue: 0,0:57:09.88,0:57:11.66,Default,,0,0,0,,Darn it.
+Dialogue: 0,0:57:15.30,0:57:17.38,Default,,0,0,0,,Soo-cheol!
+Dialogue: 0,0:57:20.97,0:57:21.99,Default,,0,0,0,,Die!
+Dialogue: 0,0:57:22.02,0:57:24.01,Default,,0,0,0,,Die!
+Dialogue: 0,0:57:25.40,0:57:27.60,Default,,0,0,0,,- Die!\N- Run!
+Dialogue: 0,0:57:39.99,0:57:41.01,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Da-hye!{\c}{\i0}
+Dialogue: 0,0:57:41.04,0:57:42.05,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Geon-u!{\c}{\i0}
+Dialogue: 0,0:57:42.08,0:57:44.89,Default,,0,0,0,,{\i1}{\c&HFFFF00&}What if I need to protect\Nmy family in the future,{\c}{\i0}
+Dialogue: 0,0:57:44.91,0:57:46.73,Default,,0,0,0,,{\i1}{\c&HFFFF00&}but I can't?{\c}{\i0}
+Dialogue: 0,0:57:46.75,0:57:49.16,Default,,0,0,0,,{\i1}{\c&HFFFF00&}I'm dreading it.{\c}{\i0}
+Dialogue: 0,0:57:51.96,0:57:53.87,Default,,0,0,0,,Oh, man...
+Dialogue: 0,0:57:54.63,0:57:55.86,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Exaggerate,{\c}{\i0}
+Dialogue: 0,0:57:55.88,0:57:58.15,Default,,0,0,0,,{\i1}{\c&HFFFF00&}so they'll feel arrogant and think,{\c}{\i0}
+Dialogue: 0,0:57:58.18,0:58:00.11,Default,,0,0,0,,{\i1}{\c&HFFFF00&}"He's no match for me."{\c}{\i0}
+Dialogue: 0,0:58:00.14,0:58:02.03,Default,,0,0,0,,{\i1}{\c&HFFFF00&}"I pretty much won."{\c}{\i0}
+Dialogue: 0,0:58:02.06,0:58:03.74,Default,,0,0,0,,{\i1}{\c&HFFFF00&}"I'm surprisingly strong."{\c}{\i0}
+Dialogue: 0,0:58:03.77,0:58:05.34,Default,,0,0,0,,Let's go.
+Dialogue: 0,0:58:06.31,0:58:08.55,Default,,0,0,0,,- Darn it!\N- Gosh.
+Dialogue: 0,0:58:09.31,0:58:10.71,Default,,0,0,0,,Soo-cheol!
+Dialogue: 0,0:58:10.73,0:58:13.17,Default,,0,0,0,,{\i1}{\c&HFFFF00&}You must wait until they let down their guard,{\c}{\i0}
+Dialogue: 0,0:58:13.19,0:58:16.06,Default,,0,0,0,,{\i1}{\c&HFFFF00&}then land your critical punch.{\c}{\i0}
+Dialogue: 0,0:58:29.04,0:58:30.69,Default,,0,0,0,,Let's go. Get rid of the bicycle.
+Dialogue: 0,0:58:30.71,0:58:32.37,Default,,0,0,0,,Get rid...
+Dialogue: 0,0:59:06.25,0:59:07.35,Default,,0,0,0,,What...?
+Dialogue: 0,0:59:07.37,0:59:09.28,Default,,0,0,0,,What's that?
+Dialogue: 0,0:59:11.88,0:59:13.23,Default,,0,0,0,,Soo-cheol.
+Dialogue: 0,0:59:13.25,0:59:14.98,Default,,0,0,0,,Soo-cheol, open your eyes.
+Dialogue: 0,0:59:15.00,0:59:16.91,Default,,0,0,0,,Soo-cheol.
+Dialogue: 0,0:59:24.60,0:59:27.20,Default,,0,0,0,,Police? We're at the Yongdu-ri railroad.
+Dialogue: 0,0:59:27.23,0:59:29.20,Default,,0,0,0,,Soo-cheol.
+Dialogue: 0,0:59:29.23,0:59:31.05,Default,,0,0,0,,Wake up.
+Dialogue: 0,0:59:31.44,0:59:32.97,Default,,0,0,0,,Soo-cheol.
+Dialogue: 0,0:59:34.19,0:59:35.93,Default,,0,0,0,,Is he dead?
+Dialogue: 0,0:59:38.15,0:59:39.81,Default,,0,0,0,,Soo-cheol.
+Dialogue: 0,0:59:39.86,0:59:41.69,Default,,0,0,0,,Soo-cheol.
+Dialogue: 0,0:59:42.41,0:59:44.07,Default,,0,0,0,,No, Soo-cheol.
+Dialogue: 0,0:59:44.62,0:59:45.89,Default,,0,0,0,,Soo-cheol.
+Dialogue: 0,0:59:45.91,0:59:47.64,Default,,0,0,0,,I love you. Don't go.
+Dialogue: 0,0:59:47.66,0:59:49.78,Default,,0,0,0,,No, Soo-cheol.
+Dialogue: 0,0:59:49.83,0:59:51.37,Default,,0,0,0,,Soo-cheol...
+Dialogue: 0,0:59:55.88,0:59:57.41,Default,,0,0,0,,Me too.
+Dialogue: 0,1:00:00.17,1:00:02.50,Default,,0,0,0,,Come on.
+Dialogue: 0,1:00:06.39,1:00:08.84,Default,,0,0,0,,Why did you do that?
+Dialogue: 0,1:00:09.48,1:00:12.01,Default,,0,0,0,,I'm sorry, Soo-cheol...
+Dialogue: 0,1:00:27.83,1:00:30.22,Default,,0,0,0,,Wait. Why did I avoid him?
+Dialogue: 0,1:00:30.25,1:00:31.82,Default,,0,0,0,,I'm the CEO.
+Dialogue: 0,1:00:32.58,1:00:34.78,Default,,0,0,0,,How funny.
+Dialogue: 0,1:00:35.00,1:00:38.33,Default,,0,0,0,,Who allowed him back here?
+Dialogue: 0,1:00:39.55,1:00:41.25,Default,,0,0,0,,I should ask.
+Dialogue: 0,1:00:58.40,1:01:00.60,Default,,0,0,0,,I need to talk to you.
+Dialogue: 0,1:01:03.32,1:01:05.15,Default,,0,0,0,,Likewise.
+Dialogue: 0,1:01:05.62,1:01:07.36,Default,,0,0,0,,You were reinstated?
+Dialogue: 0,1:01:07.45,1:01:08.43,Default,,0,0,0,,Yes.
+Dialogue: 0,1:01:08.45,1:01:10.36,Default,,0,0,0,,Why?
+Dialogue: 0,1:01:10.66,1:01:11.76,Default,,0,0,0,,Is it because of me?
+Dialogue: 0,1:01:11.79,1:01:13.99,Default,,0,0,0,,This is my workplace.
+Dialogue: 0,1:01:14.08,1:01:15.43,Default,,0,0,0,,You could've gone elsewhere.
+Dialogue: 0,1:01:15.46,1:01:17.06,Default,,0,0,0,,That's my choice.
+Dialogue: 0,1:01:17.09,1:01:18.74,Default,,0,0,0,,I feel uneasy.
+Dialogue: 0,1:01:21.55,1:01:23.23,Default,,0,0,0,,I'm uncomfortable,
+Dialogue: 0,1:01:23.26,1:01:25.49,Default,,0,0,0,,so please resign and find a new job.
+Dialogue: 0,1:01:25.51,1:01:27.75,Default,,0,0,0,,I really don't want...
+Dialogue: 0,1:01:28.51,1:01:30.80,Default,,0,0,0,,to see you.
+Dialogue: 0,1:01:33.06,1:01:35.18,Default,,0,0,0,,What's with that look?
+Dialogue: 0,1:01:35.52,1:01:38.00,Default,,0,0,0,,You left me high and dry.
+Dialogue: 0,1:01:38.02,1:01:41.63,Default,,0,0,0,,Do you think you can seduce\Nme now since I lost my memory?
+Dialogue: 0,1:01:41.65,1:01:43.56,Default,,0,0,0,,Is that it?
+Dialogue: 0,1:01:46.16,1:01:48.30,Default,,0,0,0,,You said I'd always be your ideal type,
+Dialogue: 0,1:01:48.32,1:01:49.72,Default,,0,0,0,,and you'd fall for me again.
+Dialogue: 0,1:01:49.74,1:01:52.07,Default,,0,0,0,,You were so confident,
+Dialogue: 0,1:01:52.75,1:01:55.78,Default,,0,0,0,,so I thought you'd recognize me soon.
+Dialogue: 0,1:01:56.42,1:01:57.39,Default,,0,0,0,,Fall for you?
+Dialogue: 0,1:01:57.42,1:01:58.60,Default,,0,0,0,,But it's okay.
+Dialogue: 0,1:01:58.63,1:02:00.62,Default,,0,0,0,,I saw this coming.
+Dialogue: 0,1:02:02.21,1:02:05.65,Default,,0,0,0,,You're more shameless than I thought.
+Dialogue: 0,1:02:05.68,1:02:07.36,Default,,0,0,0,,Did my family promise you something?
+Dialogue: 0,1:02:07.39,1:02:08.56,Default,,0,0,0,,Why are you trying so hard?
+Dialogue: 0,1:02:08.58,1:02:10.20,Default,,0,0,0,,- Hae-in...\N- Don't say my name.
+Dialogue: 0,1:02:10.22,1:02:11.91,Default,,0,0,0,,I might've easily fallen...
+Dialogue: 0,1:02:11.93,1:02:14.54,Default,,0,0,0,,for your gaze and voice in the past,
+Dialogue: 0,1:02:14.56,1:02:16.09,Default,,0,0,0,,but not anymore.
+Dialogue: 0,1:02:16.73,1:02:18.85,Default,,0,0,0,,I don't want to see you again.
+Dialogue: 0,1:02:26.20,1:02:28.15,Default,,0,0,0,,What are you doing?
+Dialogue: 0,1:02:28.45,1:02:30.65,Default,,0,0,0,,Don't do this.
+Dialogue: 0,1:02:35.29,1:02:37.02,Default,,0,0,0,,- No...\N- I don't want to hear it.
+Dialogue: 0,1:02:37.04,1:02:39.41,Default,,0,0,0,,Don't grab onto me.
+Dialogue: 0,1:02:41.38,1:02:43.12,Default,,0,0,0,,Let me go.
+Dialogue: 0,1:03:28.76,1:03:30.38,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}Sender Grünwald Medical Center{\c}{\i0}
+Dialogue: 0,1:03:36.22,1:03:38.22,Default,,0,0,0,,Hae-in!
+Dialogue: 0,1:03:41.73,1:03:45.06,Default,,0,0,0,,Hey, it's me. Grace.
+Dialogue: 0,1:03:45.32,1:03:49.14,Default,,0,0,0,,Goodness. You really don't remember anything.
+Dialogue: 0,1:03:50.99,1:03:52.80,Default,,0,0,0,,I was your favorite person...
+Dialogue: 0,1:03:52.82,1:03:55.94,Default,,0,0,0,,you trusted the most.
+Dialogue: 0,1:04:01.04,1:04:02.39,Default,,0,0,0,,What is it?
+Dialogue: 0,1:04:02.42,1:04:04.10,Default,,0,0,0,,I'm sorry.
+Dialogue: 0,1:04:04.13,1:04:07.73,Default,,0,0,0,,I don't think we were close enough\Nto talk casually and hug each other.
+Dialogue: 0,1:04:07.76,1:04:09.19,Default,,0,0,0,,What's wrong?
+Dialogue: 0,1:04:09.22,1:04:11.63,Default,,0,0,0,,- It's me.\N- Excuse me.
+Dialogue: 0,1:04:15.39,1:04:17.17,Default,,0,0,0,,How did she know?
+Dialogue: 0,1:04:18.31,1:04:19.41,Default,,0,0,0,,What's going on?
+Dialogue: 0,1:04:19.43,1:04:21.12,Default,,0,0,0,,If her hunches are so accurate,
+Dialogue: 0,1:04:21.14,1:04:24.14,Default,,0,0,0,,why is she still letting Eun-sung fool her?
+Dialogue: 0,1:04:35.58,1:04:37.13,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}You have mail{\c}{\i0}
+Dialogue: 0,1:04:37.91,1:04:39.05,Default,,0,0,0,,What is this?
+Dialogue: 0,1:04:39.08,1:04:41.47,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}The Aqua Sender: Hong Hae-in{\c}{\i0}
+Dialogue: 0,1:04:41.50,1:04:43.41,Default,,0,0,0,,This is from me?
+Dialogue: 0,1:04:44.33,1:04:48.25,Default,,0,0,0,,I sent myself an invitatation?
+Dialogue: 0,1:04:56.89,1:04:59.17,Default,,0,0,0,,You may enter.
+Dialogue: 0,1:04:59.56,1:05:01.09,Default,,0,0,0,,Okay.
+Dialogue: 0,1:05:04.73,1:05:06.85,Default,,0,0,0,,She's entering now.
+Dialogue: 0,1:05:10.61,1:05:13.35,Default,,0,0,0,,Why is this big place empty?
+Dialogue: 0,1:05:52.99,1:05:54.38,Default,,0,0,0,,Why are you here?
+Dialogue: 0,1:05:54.40,1:05:56.40,Default,,0,0,0,,I'd like to ask you that.
+Dialogue: 0,1:06:00.95,1:06:03.49,Default,,0,0,0,,You'd sent me an invitation.
+Dialogue: 0,1:06:19.60,1:06:20.99,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}We'll begin the wedding...{\c}{\i0}
+Dialogue: 0,1:06:21.01,1:06:22.74,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}of Hong Hae-in, the bride,{\c}{\i0}
+Dialogue: 0,1:06:22.77,1:06:26.29,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}and Baek Hyun-woo, the groom.{\c}{\i0}
+Dialogue: 0,1:06:26.31,1:06:28.14,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}Here comes the groom.{\c}{\i0}
+Dialogue: 0,1:07:27.62,1:07:29.36,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}Well...{\c}{\i0}
+Dialogue: 0,1:07:30.33,1:07:33.20,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}How are you doing, Hyun-woo from the future?{\c}{\i0}
+Dialogue: 0,1:07:33.59,1:07:35.69,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}Don't tell me you got a divorce.{\c}{\i0}
+Dialogue: 0,1:07:35.71,1:07:37.57,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}Do you have kids?{\c}{\i0}
+Dialogue: 0,1:07:37.59,1:07:38.82,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}One? Two?{\c}{\i0}
+Dialogue: 0,1:07:38.84,1:07:41.15,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}It doesn't matter, though,{\c}{\i0}
+Dialogue: 0,1:07:41.18,1:07:44.76,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}because all I need is Hae-in.{\c}{\i0}
+Dialogue: 0,1:07:45.01,1:07:46.97,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}Don't make her cry.{\c}{\i0}
+Dialogue: 0,1:07:47.10,1:07:48.88,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}Make her happy.{\c}{\i0}
+Dialogue: 0,1:07:53.23,1:07:55.04,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}Dear Hae-in from the future.{\c}{\i0}
+Dialogue: 0,1:07:55.07,1:07:58.63,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}I doubt you'll be watching, but if you are,{\c}{\i0}
+Dialogue: 0,1:07:58.65,1:07:59.92,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}why are you?{\c}{\i0}
+Dialogue: 0,1:07:59.95,1:08:01.88,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}Turn this off and get to work.{\c}{\i0}
+Dialogue: 0,1:08:01.91,1:08:04.22,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}I won't ask how you're doing, since I know...{\c}{\i0}
+Dialogue: 0,1:08:04.24,1:08:05.64,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}you'll be doing fine.{\c}{\i0}
+Dialogue: 0,1:08:05.66,1:08:07.76,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}You'll be just as pretty, healthy,{\c}{\i0}
+Dialogue: 0,1:08:07.79,1:08:10.36,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}and the most successful.{\c}{\i0}
+Dialogue: 0,1:08:10.58,1:08:11.81,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}With Hyun-woo...{\c}{\i0}
+Dialogue: 0,1:08:11.83,1:08:14.08,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}with you, of course.{\c}{\i0}
+Dialogue: 0,1:08:31.10,1:08:32.75,Default,,0,0,0,,Mr. Baek Hyun-woo?
+Dialogue: 0,1:08:32.77,1:08:34.30,Default,,0,0,0,,Yes.
+Dialogue: 0,1:08:35.36,1:08:39.77,Default,,0,0,0,,Ms. Hong rented out the entire\Naquarium and sent you these flowers.
+Dialogue: 0,1:08:40.61,1:08:42.19,Default,,0,0,0,,I rented out...
+Dialogue: 0,1:08:42.24,1:08:44.34,Default,,0,0,0,,this aquarium?
+Dialogue: 0,1:08:44.43,1:08:45.43,Default,,0,0,0,,When?
+Dialogue: 0,1:08:45.45,1:08:46.43,Default,,0,0,0,,About a month ago,
+Dialogue: 0,1:08:46.45,1:08:48.61,Default,,0,0,0,,and four years ago too.
+Dialogue: 0,1:08:49.41,1:08:50.95,Default,,0,0,0,,Well, then...
+Dialogue: 0,1:08:52.08,1:08:54.56,Default,,0,0,0,,{\i1}{\c&HFFFF00&}They said this was the best dating spot,{\c}{\i0}
+Dialogue: 0,1:08:54.58,1:08:56.66,Default,,0,0,0,,{\i1}{\c&HFFFF00&}but why is it so empty?{\c}{\i0}
+Dialogue: 0,1:08:57.17,1:08:59.90,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Ms. Hong, these days...{\c}{\i0}
+Dialogue: 0,1:08:59.92,1:09:02.73,Default,,0,0,0,,{\i1}{\c&HFFFF00&}it feels like the entire universe...{\c}{\i0}
+Dialogue: 0,1:09:02.76,1:09:05.63,Default,,0,0,0,,{\i1}{\c&HFFFF00&}is on our side.{\c}{\i0}
+Dialogue: 0,1:09:07.85,1:09:09.38,Default,,0,0,0,,{\i1}{\c&HFFFF00&}You're right.{\c}{\i0}
+Dialogue: 0,1:09:12.23,1:09:13.93,Default,,0,0,0,,I see.
+Dialogue: 0,1:09:14.90,1:09:17.58,Default,,0,0,0,,It wasn't the universe.
+Dialogue: 0,1:09:17.61,1:09:19.42,Default,,0,0,0,,It was you.
+Dialogue: 0,1:09:19.44,1:09:20.75,Default,,0,0,0,,I never knew.
+Dialogue: 0,1:09:20.78,1:09:24.19,Default,,0,0,0,,I don't know what this\Nis about, but I'm leaving.
+Dialogue: 0,1:09:35.29,1:09:36.27,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}Baek Hyun-woo.{\c}{\i0}
+Dialogue: 0,1:09:36.29,1:09:37.89,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}Don't try to skip the wedding...{\c}{\i0}
+Dialogue: 0,1:09:37.92,1:09:40.65,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}just because I lost my memory.{\c}{\i0}
+Dialogue: 0,1:09:40.67,1:09:43.73,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}Since I've lost my memory, I may\Nas well wear a wedding dress again.{\c}{\i0}
+Dialogue: 0,1:09:43.76,1:09:45.32,Default,,0,0,0,,Did I write this?
+Dialogue: 0,1:09:45.34,1:09:46.36,Default,,0,0,0,,That can't be.
+Dialogue: 0,1:09:46.39,1:09:49.74,Default,,0,0,0,,Did I really want to remarry\Nthe guy who had an affair...
+Dialogue: 0,1:09:49.76,1:09:51.97,Default,,0,0,0,,behind my back?
+Dialogue: 0,1:09:52.23,1:09:53.20,Default,,0,0,0,,No way.
+Dialogue: 0,1:09:53.23,1:09:55.18,Default,,0,0,0,,You're right.
+Dialogue: 0,1:09:55.27,1:09:57.14,Default,,0,0,0,,You wouldn't have.
+Dialogue: 0,1:10:00.69,1:10:03.06,Default,,0,0,0,,You wouldn't have done this...
+Dialogue: 0,1:10:03.82,1:10:05.98,Default,,0,0,0,,if I'd really cheated on you,
+Dialogue: 0,1:10:06.95,1:10:09.18,Default,,0,0,0,,so start doubting.
+Dialogue: 0,1:10:09.20,1:10:11.34,Default,,0,0,0,,You don't have to believe me,
+Dialogue: 0,1:10:11.37,1:10:13.56,Default,,0,0,0,,but don't believe Eun-sung either.
+Dialogue: 0,1:10:13.58,1:10:16.70,Default,,0,0,0,,Don't believe anyone. Doubt everything.
+Dialogue: 0,1:10:17.79,1:10:19.49,Default,,0,0,0,,Eun-sung...
+Dialogue: 0,1:10:19.54,1:10:21.79,Default,,0,0,0,,never protected you.
+Dialogue: 0,1:10:22.92,1:10:27.50,Default,,0,0,0,,He's been isolating you from your family and me.
+Dialogue: 0,1:10:34.56,1:10:37.00,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Thankfully we weren't in the car,{\c}{\i0}
+Dialogue: 0,1:10:37.02,1:10:40.12,Default,,0,0,0,,{\i1}{\c&HFFFF00&}but I thought you were,{\c}{\i0}
+Dialogue: 0,1:10:40.15,1:10:43.52,Default,,0,0,0,,{\i1}{\c&HFFFF00&}so I hurt my hand trying to break the window.{\c}{\i0}
+Dialogue: 0,1:11:26.53,1:11:28.40,Default,,0,0,0,,Is something wrong?
+Dialogue: 0,1:11:30.66,1:11:32.44,Default,,0,0,0,,This is nice.
+Dialogue: 0,1:11:35.12,1:11:38.36,Default,,0,0,0,,You're worried about me.
+Dialogue: 0,1:11:38.96,1:11:41.28,Default,,0,0,0,,I have a question.
+Dialogue: 0,1:11:41.63,1:11:43.49,Default,,0,0,0,,Hold that thought.
+Dialogue: 0,1:11:44.42,1:11:48.11,Default,,0,0,0,,I'm going to have another\Nglass. Would you like one?
+Dialogue: 0,1:11:48.13,1:11:49.96,Default,,0,0,0,,I'm okay.
+Dialogue: 0,1:11:59.85,1:12:01.35,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}You have unopened footage\NWatch now{\c}{\i0}
+Dialogue: 0,1:12:12.16,1:12:13.13,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}Trust Camera{\c}{\i0}
+Dialogue: 0,1:12:53.82,1:12:55.36,Default,,0,0,0,,Hae-in.
+Dialogue: 0,1:12:56.74,1:12:58.51,Default,,0,0,0,,Should we go to the U.S.?
+Dialogue: 0,1:12:58.54,1:13:00.22,Default,,0,0,0,,- What?\N- Both of us...
+Dialogue: 0,1:13:00.25,1:13:02.43,Default,,0,0,0,,were abandoned by our families,
+Dialogue: 0,1:13:02.46,1:13:04.35,Default,,0,0,0,,so...
+Dialogue: 0,1:13:04.38,1:13:06.41,Default,,0,0,0,,let's just...
+Dialogue: 0,1:13:08.25,1:13:09.95,Default,,0,0,0,,leave.
+Dialogue: 0,1:13:10.34,1:13:13.58,Default,,0,0,0,,We can have a happy life there.
+Dialogue: 0,1:13:16.80,1:13:18.96,Default,,0,0,0,,Are you sure I was abandoned?
+Dialogue: 0,1:13:19.77,1:13:21.30,Default,,0,0,0,,What's wrong?
+Dialogue: 0,1:13:23.23,1:13:25.14,Default,,0,0,0,,Do you think I'm lying?
+Dialogue: 0,1:13:28.90,1:13:30.77,Default,,0,0,0,,That's not why.
+Dialogue: 0,1:13:31.24,1:13:32.98,Default,,0,0,0,,Let's talk again...
+Dialogue: 0,1:13:33.03,1:13:35.27,Default,,0,0,0,,when you're sober.
+Dialogue: 0,1:13:40.74,1:13:43.45,Default,,0,0,0,,You had a question for me.
+Dialogue: 0,1:13:50.46,1:13:53.00,Default,,0,0,0,,I don't think I need to ask.
+Dialogue: 0,1:13:55.30,1:13:57.13,Default,,0,0,0,,Bye.
+Dialogue: 0,1:14:14.82,1:14:16.92,Default,,0,0,0,,Secretary Na, it's me.
+Dialogue: 0,1:14:16.95,1:14:19.43,Default,,0,0,0,,I lost my old phone,
+Dialogue: 0,1:14:19.45,1:14:20.98,Default,,0,0,0,,so...
+Dialogue: 0,1:14:21.12,1:14:23.32,Default,,0,0,0,,could you give me...
+Dialogue: 0,1:14:24.16,1:14:26.16,Default,,0,0,0,,Mr. Baek's number?
+Dialogue: 0,1:14:27.12,1:14:29.49,Default,,0,0,0,,Yes, text it to me.
+Dialogue: 0,1:14:49.61,1:14:53.65,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}Secretary Na\NHere is Director Baek's number{\c}{\i0}
+Dialogue: 0,1:14:57.86,1:15:02.37,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}Director Baek{\c}{\i0}
+Dialogue: 0,1:15:10.08,1:15:11.62,Default,,0,0,0,,Mr. Baek?
+Dialogue: 0,1:15:11.67,1:15:13.27,Default,,0,0,0,,It's me, Hong Hae-in.
+Dialogue: 0,1:15:13.30,1:15:16.41,Default,,0,0,0,,I need to talk to you.
+Dialogue: 0,1:15:17.34,1:15:19.00,Default,,0,0,0,,Where are you?
+Dialogue: 0,1:15:21.85,1:15:24.92,Default,,0,0,0,,Okay, I'll be there soon.
+Dialogue: 0,1:15:42.74,1:15:43.83,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}Recipient Hae-in Hong{\c}{\i0}
+Dialogue: 0,1:16:33.83,1:16:35.49,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}To Baek Hyun-woo.{\c}{\i0}
+Dialogue: 0,1:16:35.75,1:16:39.50,Default,,0,0,0,,{\an8}{\i1}{\c&H7AA0FF&}You'll probably be reading\Nthis while I'm in surgery.{\c}{\i0}
+Dialogue: 0,1:16:39.88,1:16:41.44,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}If I fail...{\c}{\i0}
+Dialogue: 0,1:16:41.47,1:16:43.82,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}to wake up,{\c}{\i0}
+Dialogue: 0,1:16:43.84,1:16:46.17,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}then this could be my will.{\c}{\i0}
+Dialogue: 0,1:16:47.31,1:16:50.83,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}I won't ask you to mourn me\Nfor three years like in the past,{\c}{\i0}
+Dialogue: 0,1:16:50.85,1:16:53.96,Default,,0,0,0,,{\an8}{\i1}{\c&H7AA0FF&}but I'd like you to miss me...{\c}{\i0}
+Dialogue: 0,1:16:53.98,1:16:56.33,Default,,0,0,0,,{\an8}{\i1}{\c&H7AA0FF&}throughout the four seasons,{\c}{\i0}
+Dialogue: 0,1:16:56.36,1:16:58.93,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}and call out to me when you're drunk,{\c}{\i0}
+Dialogue: 0,1:16:59.15,1:17:01.48,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}but after that,{\c}{\i0}
+Dialogue: 0,1:17:01.95,1:17:04.65,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}forget about me and live your life.{\c}{\i0}
+Dialogue: 0,1:17:06.28,1:17:08.93,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}Fall in love passionately, get married,{\c}{\i0}
+Dialogue: 0,1:17:08.95,1:17:11.36,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}and have a family of your own.{\c}{\i0}
+Dialogue: 0,1:17:11.79,1:17:13.91,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}I promise not to be jealous.{\c}{\i0}
+Dialogue: 0,1:17:18.05,1:17:20.62,Default,,0,0,0,,{\i1}{\c&HFFFF00&}I'm already jealous.{\c}{\i0}
+Dialogue: 0,1:17:23.30,1:17:24.94,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}As for my assets,{\c}{\i0}
+Dialogue: 0,1:17:24.97,1:17:27.92,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}spend them how you deem fit.{\c}{\i0}
+Dialogue: 0,1:17:28.72,1:17:31.08,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}Thinking I might die...{\c}{\i0}
+Dialogue: 0,1:17:31.10,1:17:33.05,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}is making me rush.{\c}{\i0}
+Dialogue: 0,1:17:33.52,1:17:36.29,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}Could I go to heaven if I hurriedly\Ndid some good deeds?{\c}{\i0}
+Dialogue: 0,1:17:36.31,1:17:39.43,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}That way I can meet you again.{\c}{\i0}
+Dialogue: 0,1:17:40.48,1:17:42.38,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}Just thinking about this...{\c}{\i0}
+Dialogue: 0,1:17:42.40,1:17:44.40,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}makes me sad,{\c}{\i0}
+Dialogue: 0,1:17:45.07,1:17:46.77,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}but...{\c}{\i0}
+Dialogue: 0,1:17:47.87,1:17:50.72,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}what if the surgery is a success,{\c}{\i0}
+Dialogue: 0,1:17:50.74,1:17:53.61,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}but I forget who you are?{\c}{\i0}
+Dialogue: 0,1:17:54.67,1:17:57.20,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}What if I treat you like a stranger?{\c}{\i0}
+Dialogue: 0,1:17:59.25,1:18:00.90,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}Or even worse,{\c}{\i0}
+Dialogue: 0,1:18:00.92,1:18:03.08,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}what if I mistreat you?{\c}{\i0}
+Dialogue: 0,1:18:04.05,1:18:07.63,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}What if you can't take it\Nanymore, and get sick of me?{\c}{\i0}
+Dialogue: 0,1:18:07.84,1:18:09.96,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}What should I do then?{\c}{\i0}
+Dialogue: 0,1:18:10.68,1:18:12.53,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}Even if that happens,{\c}{\i0}
+Dialogue: 0,1:18:12.56,1:18:14.93,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}don't get sick of me.{\c}{\i0}
+Dialogue: 0,1:18:15.77,1:18:17.83,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}Don't get exhausted.{\c}{\i0}
+Dialogue: 0,1:18:17.85,1:18:19.76,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}Keep loving me.{\c}{\i0}
+Dialogue: 0,1:18:22.53,1:18:24.34,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}My ideal type will never change,{\c}{\i0}
+Dialogue: 0,1:18:24.36,1:18:27.27,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}so I'll fall for you again.{\c}{\i0}
+Dialogue: 0,1:18:27.53,1:18:29.30,Default,,0,0,0,,{\i1}{\c&HFFFF00&}You said I'd always be your ideal type,{\c}{\i0}
+Dialogue: 0,1:18:29.32,1:18:30.72,Default,,0,0,0,,{\i1}{\c&HFFFF00&}and you'd fall for me again.{\c}{\i0}
+Dialogue: 0,1:18:30.74,1:18:32.22,Default,,0,0,0,,{\i1}{\c&HFFFF00&}You were so confident,{\c}{\i0}
+Dialogue: 0,1:18:32.24,1:18:35.61,Default,,0,0,0,,{\i1}{\c&HFFFF00&}so I thought you'd recognize me soon.{\c}{\i0}
+Dialogue: 0,1:18:36.37,1:18:38.53,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}Please be patient until then.{\c}{\i0}
+Dialogue: 0,1:18:38.79,1:18:41.04,Default,,0,0,0,,{\i1}{\c&HFFFF00&}We won't see each other again.{\c}{\i0}
+Dialogue: 0,1:18:41.17,1:18:43.29,Default,,0,0,0,,{\i1}{\c&HFFFF00&}We'll meet again,{\c}{\i0}
+Dialogue: 0,1:18:44.30,1:18:46.29,Default,,0,0,0,,{\i1}{\c&HFFFF00&}because I won't give up.{\c}{\i0}
+Dialogue: 0,1:18:47.05,1:18:49.50,Default,,0,0,0,,{\i1}{\c&HFFFF00&}I'll stick with you.{\c}{\i0}
+Dialogue: 0,1:18:52.22,1:18:55.17,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}When I finally remember you,{\c}{\i0}
+Dialogue: 0,1:18:57.44,1:18:59.47,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}let's get married again.{\c}{\i0}
+Dialogue: 0,1:19:12.49,1:19:14.19,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}And Hong Hae-in,{\c}{\i0}
+Dialogue: 0,1:19:14.41,1:19:16.14,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}if you're reading this,{\c}{\i0}
+Dialogue: 0,1:19:16.16,1:19:21.16,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}it must mean the surgery was a success\Nand you can't remember anything,{\c}{\i0}
+Dialogue: 0,1:19:21.96,1:19:25.08,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}so let me introduce him to you.{\c}{\i0}
+Dialogue: 0,1:19:27.84,1:19:32.67,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}Hyun-woo can fix anything,{\c}{\i0}
+Dialogue: 0,1:19:33.43,1:19:35.58,Default,,0,0,0,,{\i1}{\c&HFFFF00&}This is a tray. You just need to pull it.{\c}{\i0}
+Dialogue: 0,1:19:35.60,1:19:37.08,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}- ...but he nags a lot.{\c}{\i0}\N{\i1}{\c&HFFFF00&}- Ms. Hong.{\c}{\i0}
+Dialogue: 0,1:19:37.10,1:19:40.46,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Remove the paper if it says it's stuck.{\c}{\i0}
+Dialogue: 0,1:19:40.48,1:19:41.87,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Why would you kick it?{\c}{\i0}
+Dialogue: 0,1:19:41.90,1:19:43.67,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Because the paper is stuck.{\c}{\i0}
+Dialogue: 0,1:19:43.69,1:19:46.38,Default,,0,0,0,,{\i1}{\c&HFFFF00&}I was doing the Heimlich maneuver.{\c}{\i0}
+Dialogue: 0,1:19:46.40,1:19:48.90,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Please don't kick it.{\c}{\i0}
+Dialogue: 0,1:19:49.20,1:19:51.11,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Just ask me for help.{\c}{\i0}
+Dialogue: 0,1:19:56.08,1:19:57.81,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Don't your feet hurt?{\c}{\i0}
+Dialogue: 0,1:19:57.83,1:19:59.82,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Well...{\c}{\i0}
+Dialogue: 0,1:20:00.08,1:20:02.53,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Just a little bit.{\c}{\i0}
+Dialogue: 0,1:20:06.76,1:20:09.04,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Should I take a look at it?{\c}{\i0}
+Dialogue: 0,1:20:20.77,1:20:22.58,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}He's easy to fool.{\c}{\i0}
+Dialogue: 0,1:20:22.60,1:20:24.37,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Mr. Baek, did you know?{\c}{\i0}
+Dialogue: 0,1:20:24.40,1:20:28.09,Default,,0,0,0,,{\i1}{\c&HFFFF00&}A raccoon lives on our rooftop garden.{\c}{\i0}
+Dialogue: 0,1:20:28.11,1:20:29.59,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Her name is Yeong-suk.{\c}{\i0}
+Dialogue: 0,1:20:29.61,1:20:31.44,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Yeong-suk.{\c}{\i0}
+Dialogue: 0,1:20:32.41,1:20:35.43,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}He can get pretty cute when\Nhe's drunk, so watch out.{\c}{\i0}
+Dialogue: 0,1:20:35.45,1:20:37.76,Default,,0,0,0,,{\i1}{\c&HFFFF00&}I'm drinking instead of her.{\c}{\i0}
+Dialogue: 0,1:20:37.79,1:20:40.24,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Did I make you uncomfortable back there?{\c}{\i0}
+Dialogue: 0,1:20:46.75,1:20:49.25,Default,,0,0,0,,{\i1}{\c&HFFFF00&}I thought you were dead.{\c}{\i0}
+Dialogue: 0,1:20:49.34,1:20:51.25,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}He pulls at your heartstrings when he cries,{\c}{\i0}
+Dialogue: 0,1:20:51.28,1:20:53.35,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}so don't make him cry.{\c}{\i0}
+Dialogue: 0,1:20:53.55,1:20:55.66,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}He's awfully sexy with his sleeves up,{\c}{\i0}
+Dialogue: 0,1:20:55.68,1:20:58.09,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}so cover him up.{\c}{\i0}
+Dialogue: 0,1:21:00.18,1:21:02.54,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}If you're still confused,{\c}{\i0}
+Dialogue: 0,1:21:02.56,1:21:04.26,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}just remember this.{\c}{\i0}
+Dialogue: 0,1:21:04.90,1:21:06.89,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}He's the reason...{\c}{\i0}
+Dialogue: 0,1:21:07.52,1:21:10.85,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}I didn't want to lose my memory,{\c}{\i0}
+Dialogue: 0,1:21:11.03,1:21:13.05,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}and even if I did,{\c}{\i0}
+Dialogue: 0,1:21:13.07,1:21:16.36,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}he's the reason I wanted to live.{\c}{\i0}
+Dialogue: 0,1:21:18.29,1:21:21.65,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}Baek Hyun-woo is the person...{\c}{\i0}
+Dialogue: 0,1:21:22.54,1:21:25.07,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}I want to remember forever.{\c}{\i0}
+Dialogue: 0,1:21:35.76,1:21:39.46,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}I was so happy to have him with me.{\c}{\i0}
+Dialogue: 0,1:21:41.22,1:21:43.83,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}I desperately pray...{\c}{\i0}
+Dialogue: 0,1:21:43.85,1:21:46.18,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}that he'll stick with you...{\c}{\i0}
+Dialogue: 0,1:21:46.98,1:21:48.97,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}too.{\c}{\i0}
+Dialogue: 0,1:21:51.15,1:21:53.06,Default,,0,0,0,,I'm sorry, Hyun-woo.
+Dialogue: 0,1:21:54.70,1:21:56.61,Default,,0,0,0,,I'm so sorry.
+Dialogue: 0,1:22:14.34,1:22:16.59,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}Hae-in{\c}{\i0}
+Dialogue: 0,1:22:34.65,1:22:36.17,Default,,0,0,0,,Hae-in!
+Dialogue: 0,1:22:36.20,1:22:38.61,Default,,0,0,0,,Stay there! I'll come to you!
+Dialogue: 0,1:23:11.27,1:23:12.97,Default,,0,0,0,,Hyun-woo.
+Dialogue: 0,1:23:14.44,1:23:16.56,Default,,0,0,0,,I'm sorry.
+Dialogue: 0,1:24:15.55,1:24:19.50,Default,,0,0,0,,I followed Mr. Yoon and Ms. Hong in Germany.
+Dialogue: 0,1:24:24.39,1:24:28.88,Default,,0,0,0,,{\i1}First of all, he took care of her diligently.{\i0}
+Dialogue: 0,1:24:38.44,1:24:40.30,Default,,0,0,0,,Should we go inside if you're cold?
+Dialogue: 0,1:24:40.32,1:24:41.34,Default,,0,0,0,,It's okay.
+Dialogue: 0,1:24:41.36,1:24:44.18,Default,,0,0,0,,{\i1}They could've easily passed\Nas a match made in heaven,{\i0}
+Dialogue: 0,1:24:44.20,1:24:47.53,Default,,0,0,0,,but they couldn't fool my sharp eyes.
+Dialogue: 0,1:24:52.37,1:24:54.62,Default,,0,0,0,,It's okay. Let me.
+Dialogue: 0,1:24:56.29,1:24:58.16,Default,,0,0,0,,Hae-in.
+Dialogue: 0,1:24:58.80,1:25:00.46,Default,,0,0,0,,It's okay. Let me.
+Dialogue: 0,1:25:06.89,1:25:09.37,Default,,0,0,0,,It's okay. I can walk by myself.
+Dialogue: 0,1:25:09.39,1:25:11.91,Default,,0,0,0,,{\i1}A woman never refuses a man's help...{\i0}
+Dialogue: 0,1:25:11.94,1:25:14.46,Default,,0,0,0,,if she has feelings for him.
+Dialogue: 0,1:25:14.48,1:25:15.83,Default,,0,0,0,,She tries to get him involved,
+Dialogue: 0,1:25:15.86,1:25:17.92,Default,,0,0,0,,but Ms. Hong was adamant.
+Dialogue: 0,1:25:17.94,1:25:21.05,Default,,0,0,0,,Her heart still knew,\Ndespite her losing her memory.
+Dialogue: 0,1:25:21.07,1:25:22.38,Default,,0,0,0,,"I'm not attracted to him."
+Dialogue: 0,1:25:22.40,1:25:24.05,Default,,0,0,0,,As a result, Mr. Yoon...
+Dialogue: 0,1:25:24.07,1:25:26.47,Default,,0,0,0,,is pining with unrequited love,
+Dialogue: 0,1:25:26.49,1:25:28.05,Default,,0,0,0,,the loneliest kind of love.
+Dialogue: 0,1:25:28.08,1:25:30.22,Default,,0,0,0,,He's dealing with a lonely, unrequited love.
+Dialogue: 0,1:25:30.25,1:25:32.57,Default,,0,0,0,,That's my conclusion.
+Dialogue: 0,1:25:33.92,1:25:35.98,Default,,0,0,0,,Are you saying they'll break up soon?
+Dialogue: 0,1:25:36.00,1:25:38.44,Default,,0,0,0,,Their relationship is bound to come to an end,
+Dialogue: 0,1:25:38.46,1:25:42.83,Default,,0,0,0,,but he could seriously act\Nout once the reality sets in.
+Dialogue: 0,1:25:42.92,1:25:45.04,Default,,0,0,0,,{\i1}We need to watch out.{\i0}
+Dialogue: 0,1:26:02.86,1:26:07.47,Default,,0,0,0,,{\i1}He could cause danger to us all.{\i0}
+Dialogue: 0,1:26:07.49,1:26:10.37,Default,,0,0,0,,{\i1}{\c&HFFFF&}Queen of Tears{\c}{\i0}
+Dialogue: 0,1:26:41.69,1:26:43.43,Default,,0,0,0,,{\an8}{\i1}Is he alive?{\i0}
+Dialogue: 0,1:26:43.74,1:26:45.73,Default,,0,0,0,,{\an8}{\i1}Is he dead?{\i0}
+Dialogue: 0,1:26:46.28,1:26:47.51,Default,,0,0,0,,{\an8}{\i1}Thank you...{\i0}
+Dialogue: 0,1:26:47.53,1:26:49.90,Default,,0,0,0,,{\an8}{\i1}for always sticking with me.{\i0}
+Dialogue: 0,1:26:50.37,1:26:52.51,Default,,0,0,0,,{\an8}{\i1}No matter what happens...{\i0}
+Dialogue: 0,1:26:52.54,1:26:54.01,Default,,0,0,0,,{\an8}{\i1}Baek Hyun-woo!{\i0}
+Dialogue: 0,1:26:54.04,1:26:56.24,Default,,0,0,0,,{\an8}{\i1}I'll protect her.{\i0}
