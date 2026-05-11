@@ -1,0 +1,1225 @@
+WEBVTT
+
+[Impormasyon ng script]
+Uri ng Iskrip: v4.00+
+Mga banggaan: Normal
+PlayResX: 1920
+PlayResY: 960
+Timer: 100.0
+WrapStyle: 0
+ScaledBorderAndShadow: oo
+
+[V4+ Styles]
+Format: Pangalan, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Estilo: Default,sans-serif,71,&H00FFFFFF,&H00FFFFFF,&H000F0F0F,&H000F0F0F,0,0,0,0,100,100,0,0.00,1,2.37,1.97,2,20,020,2
+
+[Mga Kaganapan]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:19.47,0:00:23.86,Default,,0,0,0,,{\i1}{\c&HFFFF&}Kim Soo-hyun - Kim Ji-won{\c}{\i0}
+Dialogue: 0,0:00:23.95,0:00:26.94,Default,,0,0,0,,{\i1}{\c&HFFFF&}Park Sung-hoon - Kwak Dong-yeon - Lee Joo-bin{\c}{\i0}
+Dialogue: 0,0:00:31.55,0:00:33.50,Default,,0,0,0,,{\an8}{\i1}{\c&HFFFF&}Kim Gab-soo - Lee Mi-sook{\c}{\i0}
+Dialogue: 0,0:00:33.63,0:00:35.63,Default,,0,0,0,,{\an8}{\i1}{\c&HFFFF&}Jung Jin-young - Na Young-hee{\c}{\i0}
+Dialogue: 0,0:00:35.66,0:00:37.66,Default,,0,0,0,,{\an8}{\i1}{\c&HFFFF&}Jeon Bae-soo - Hwang Young-hee{\c}{\i0}
+Dialogue: 0,0:00:37.68,0:00:39.70,Default,,0,0,0,,{\an8}{\i1}{\c&HFFFF&}Kim Jung-nan - Kim Joo-ryoung{\c}{\i0}
+Dialogue: 0,0:00:39.73,0:00:41.88,Default,,0,0,0,,{\an8}{\i1}{\c&HFFFF&}Jang Yoon-ju - Kim Do-hyun{\c}{\i0}
+Dialogue: 0,0:00:50.13,0:00:52.79,Default,,0,0,0,,{\an8}{\i1}{\c&HFFFF&}Screenwriter: Park Ji-eun{\c}{\i0}
+Dialogue: 0,0:00:53.00,0:00:55.61,Default,,0,0,0,,{\an8}{\i1}{\c&HFFFF&}Mga Direktor: Jang Young-woo - Kim Hee-won{\c}{\i0}
+Dialogue: 0,0:00:59.14,0:01:02.03,Default,,0,0,0,,{\i1}{\c&HFFFF&}Reyna ng Luha{\c}{\i0}
+Dialogue: 0,0:01:15.70,0:01:17.48,Default,,0,0,0,,Stop.
+Dialogue: 0,0:01:31.96,0:01:34.37,Default,,0,0,0,,Kilala ko ang trak na iyon.
+Dialogue: 0,0:01:39.55,0:01:40.78,Default,,0,0,0,,Nakita ko itong kakaiba...
+Dialogue: 0,0:01:40.80,0:01:43.53,Default,,0,0,0,,nang biglang gusto ng lolo ko...
+Dialogue: 0,0:01:43.56,0:01:46.45,Default,,0,0,0,,upang palitan ang mga bentilador at sinabihan kaming umalis.
+Dialogue: 0,0:01:46.48,0:01:48.70,Default,,0,0,0,,Iyon ang araw na nakita ko ang trak na iyon.
+Dialogue: 0,0:01:48.73,0:01:51.17,Default,,0,0,0,,So sa tingin mo dinala ng trak na iyon ang kanyang secret fund?
+Dialogue: 0,0:01:51.19,0:01:55.14,Default,,0,0,0,,Kung tama ako, hindi ba nasa bahay ang pera?
+Dialogue: 0,0:02:04.24,0:02:05.36,Default,,0,0,0,,{\an8}{\i1}{\c&HFFFF&}Episode 12{\c}{\i0}
+Dialogue: 0,0:02:16.67,0:02:17.90,Default,,0,0,0,,{\an8}Hindi ka dapat mabasa.
+Dialogue: 0,0:02:17.92,0:02:21.00,Default,,0,0,0,,{\an8}Maghintay ka rito habang dinadala ko ang sasakyan.
+Dialogue: 0,0:02:48.87,0:02:51.49,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}Nakarating ka na sa iyong patutunguhan.{\c}{\i0}
+Dialogue: 0,0:03:14.27,0:03:15.97,Default,,0,0,0,,Hae-in.
+Dialogue: 0,0:03:20.28,0:03:21.94,Default,,0,0,0,,Hyun-woo.
+Dialogue: 0,0:03:30.58,0:03:32.36,Default,,0,0,0,,Mabilis iyon.
+Dialogue: 0,0:03:36.92,0:03:38.27,Default,,0,0,0,,Bakit nandito ka sa labas?
+Dialogue: 0,0:03:38.30,0:03:39.91,Default,,0,0,0,,Bumangon.
+Dialogue: 0,0:03:48.10,0:03:49.80,Default,,0,0,0,,Medyo nahihilo ako.
+Dialogue: 0,0:03:52.10,0:03:54.22,Default,,0,0,0,,Nagugutom na rin ako.
+Dialogue: 0,0:03:57.23,0:04:00.23,Default,,0,0,0,,Kumain tayo ng masarap bago tayo umuwi.
+Dialogue: 0,0:04:07.41,0:04:08.94,Default,,0,0,0,,Oo naman.
+Dialogue: 0,0:05:38.71,0:05:41.06,Default,,0,0,0,,- Okay ka lang?\N- Oo.
+Dialogue: 0,0:05:41.09,0:05:42.40,Default,,0,0,0,,Tawagan ba natin ang pulis?
+Dialogue: 0,0:05:42.42,0:05:43.73,Default,,0,0,0,,- Teka.\N- Dapat.
+Dialogue: 0,0:05:43.76,0:05:46.67,Default,,0,0,0,,Inatake ka rin ng tatlong lalaki noong nakaraan.
+Dialogue: 0,0:06:45.27,0:06:46.81,Default,,0,0,0,,Ikaw ay...
+Dialogue: 0,0:06:48.07,0:06:49.59,Default,,0,0,0,,Eun-sung.
+Dialogue: 0,0:06:49.61,0:06:52.77,Default,,0,0,0,,Ano? Nakikilala mo na ba ako ngayon?
+Dialogue: 0,0:06:53.74,0:06:55.28,Default,,0,0,0,,Nakakahiya.
+Dialogue: 0,0:06:58.79,0:07:00.18,Default,,0,0,0,,Paano ko...?
+Dialogue: 0,0:07:00.21,0:07:02.73, Default,,0,0,0,, Eksakto. Paano mo ako napagkakamalan...
+Dialogue: 0,0:07:02.75,0:07:04.79,Default,,0,0,0,,para kay Hyun-woo?
+Dialogue: 0,0:07:07.83,0:07:09.53,Default,,0,0,0,,Hae-in!
+Dialogue: 0,0:07:15.72,0:07:17.42,Default,,0,0,0,,Buksan ang pinto.
+Dialogue: 0,0:07:18.93,0:07:20.47,Default,,0,0,0,,At kung gagawin ko?
+Dialogue: 0,0:07:21.06,0:07:22.93,Default,,0,0,0,,Ano ang sasabihin mo sa kanya?
+Dialogue: 0,0:07:23.19,0:07:24.87,Default,,0,0,0,,- Ano?\N- Sasabihin mo ba sa kanya?
+Dialogue: 0,0:07:24.90,0:07:28.39,Default,,0,0,0,,Na sumakay ka sa kotse ko\Npagkatapos napagkakamalan akong siya?
+Dialogue: 0,0:07:43.12,0:07:44.56,Default,,0,0,0,,Magugulat siya.
+Dialogue: 0,0:07:44.58,0:07:47.54,Default,,0,0,0,,Hindi ba mas maganda kung sasabihin mo...
+Dialogue: 0,0:07:47.71,0:07:49.71,Default,,0,0,0,,may pupuntahan tayo?
+Dialogue: 0,0:07:51.42,0:07:53.13,Default,,0,0,0,,Hae-in.
+Dialogue: 0,0:07:58.85,0:08:00.84,Default,,0,0,0,,I-unlock ang pinto.
+Dialogue: 0,0:08:03.73,0:08:05.68,Default,,0,0,0,,I-unlock ito.
+Dialogue: 0,0:08:19.79,0:08:21.86,Default,,0,0,0,,Okay ka lang?
+Dialogue: 0,0:08:22.21,0:08:24.53,Default,,0,0,0,,Oo, ayos lang ako.
+Dialogue: 0,0:08:25.67,0:08:27.49,Default,,0,0,0,,Tapos gumaan ang loob ko.
+Dialogue: 0,0:08:32.38,0:08:35.38,Default,,0,0,0,,Akala ko may nangyari na sa iyo.
+Dialogue: 0,0:08:35.55,0:08:37.13,Default,,0,0,0,,Tara na.
+Dialogue: 0,0:08:55.53,0:08:58.38,Default,,0,0,0,,Nabangga ko si Eun-sung kanina,
+Dialogue: 0,0:08:58.41,0:09:00.86,Default,,0,0,0,,at niyaya niya akong umuwi.
+Dialogue: 0,0:09:02.20,0:09:05.24,Default,,0,0,0,,Alam mo gusto ko nang makita si Lolo.
+Dialogue: 0,0:09:11.30,0:09:13.33,Default,,0,0,0,,Babalik ako.
+Dialogue: 0,0:09:14.30,0:09:16.12,Default,,0,0,0,,Naiintindihan ko.
+Dialogue: 0,0:09:16.72,0:09:17.74,Default,,0,0,0,,Hayaan mo akong sumama sa iyo.
+Dialogue: 0,0:09:17.76,0:09:19.36,Default,,0,0,0,,Pasensya na,
+Dialogue: 0,0:09:19.39,0:09:21.84,Default,,0,0,0,,pero siya lang ang inimbitahan ko.
+Dialogue: 0,0:09:26.35,0:09:27.89,Default,,0,0,0,,Huwag mag-alala.
+Dialogue: 0,0:09:29.31,0:09:31.18,Default,,0,0,0,,Sunduin mo na lang ako mamaya.
+Dialogue: 0,0:09:31.82,0:09:33.77,Default,,0,0,0,,Sigurado ka bang okay ka lang?
+Dialogue: 0,0:09:35.61,0:09:38.15,Default,,0,0,0,,Oo, ayos lang ako.
+Dialogue: 0,0:10:43.43,0:10:44.41,Default,,0,0,0,,Surprise.
+Dialogue: 0,0:10:44.43,0:10:46.26,Default,,0,0,0,,Paano mo ako nahanap?
+Dialogue: 0,0:10:49.56,0:10:51.58,Default,,0,0,0,,Ano ang mali?
+Dialogue: 0,0:10:51.60,0:10:55.93,Default,,0,0,0,,- Hindi ka ba natutuwa na makita ako?\N- I mean, tatawag ako.
+Dialogue: 0,0:10:56.19,0:10:57.84,Default,,0,0,0,,Nakikita ko.
+Dialogue: 0,0:10:57.86,0:11:01.40,Default,,0,0,0,,Sus, wala akong ideya.
+Dialogue: 0,0:11:03.16,0:11:06.86,Default,,0,0,0,,I thought of kill you\Nonce I tracked you down.
+Dialogue: 0,0:11:13.75,0:11:15.79,Default,,0,0,0,,Geon-u.
+Dialogue: 0,0:11:16.21,0:11:20.46,Default,,0,0,0,,Siya ba ito? Sus, mas maganda siya sa mga litrato.
+Dialogue: 0,0:11:20.84,0:11:22.36,Default,,0,0,0,,Hey, Dong-u.
+Dialogue: 0,0:11:22.39,0:11:24.32,Default,,0,0,0,,Sabihin, "Daddy."
+Dialogue: 0,0:11:24.35,0:11:25.95,Default,,0,0,0,,- Geon-u ang pangalan niya.\N- Hoy.
+Dialogue: 0,0:11:25.97,0:11:28.74,Default,,0,0,0,,Pinangalanan ko ang anak ko na "Dong-u," kaya iyon ang pangalan niya.
+Dialogue: 0,0:11:28.77,0:11:31.70,Default,,0,0,0,,Gayunpaman, malamang na mahirap...
+Dialogue: 0,0:11:31.73,0:11:34.93,Default,,0,0,0,,upang mamuhay kasama ang isang siksik na tulala.
+Dialogue: 0,0:11:35.44,0:11:38.25,Default,,0,0,0,,Malapit nang arestuhin si Soo-cheol.
+Dialogue: 0,0:11:38.28,0:11:40.63,Default,,0,0,0,,- Bakit?\N- Gumawa ako ng ilang ilegal na gawain...
+Dialogue: 0,0:11:40.65,0:11:41.80,Default,,0,0,0,,bilang finance director.
+Dialogue: 0,0:11:41.82,0:11:45.05,Default,,0,0,0,,Plano ko ito kaya siya ang sisihin.
+Dialogue: 0,0:11:45.07,0:11:48.30,Default,,0,0,0,,Nag-tip ako sa isang prosecutor bago umalis sa Korea.
+Dialogue: 0,0:11:48.33,0:11:50.18,Default,,0,0,0,,- Hindi mo naman kailangang gawin yun...\N- Uy.
+Dialogue: 0,0:11:50.20,0:11:52.43,Default,,0,0,0,,Ginawa ko ang lahat para sa iyo.
+Dialogue: 0,0:11:52.46,0:11:56.20,Default,,0,0,0,,Paano kung gusto niyang maghiganti\Dumating si Nand na hinahanap ka?
+Dialogue: 0,0:12:04.84,0:12:08.38,Default,,0,0,0,,Sus, ang ingay niya. Hoy!
+Dialogue: 0,0:12:08.64,0:12:10.72,Default,,0,0,0,,Gawin iyon sa banyo.
+Dialogue: 0,0:12:13.52,0:12:15.79,Default,,0,0,0,,{\i1}Hindi available ang taong na-dial mo.{\i0}
+Dialogue: 0,0:12:15.81,0:12:17.12,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}Anak ko, si Hyun-woo{\c}{\i0}
+Dialogue: 0,0:12:17.15,0:12:19.50,Default,,0,0,0,,Hyun-woo at Hae-in ay hindi kumukuha.
+Dialogue: 0,0:12:19.53,0:12:21.55,Default,,0,0,0,,Gabi ba sila sa Seoul?
+Dialogue: 0,0:12:21.57,0:12:24.48,Default,,0,0,0,,Iyan ay mas mahusay kaysa sa pagmamaneho pabalik sa oras na ito.
+Dialogue: 0,0:12:24.91,0:12:26.41,Default,,0,0,0,,Honey, hindi mo ba naisip...
+Dialogue: 0,0:12:26.43,0:12:28.74,Default,,0,0,0,,- masyado tayong American style?\N- Anong ibig mong sabihin?
+Dialogue: 0,0:12:28.76,0:12:30.47,Default,,0,0,0,,Kalimutan ang tungkol kay Hae-in.
+Dialogue: 0,0:12:30.49,0:12:33.31,Default,,0,0,0,,Hindi man lang nag-aral sa ibang bansa si Hyun-woo.
+Dialogue: 0,0:12:33.33,0:12:35.27,Default,,0,0,0,,Hindi mo ba iniisip na masyado siyang open-minded?
+Dialogue: 0,0:12:35.29,0:12:36.27,Default,,0,0,0,,Ano ang isyu?
+Dialogue: 0,0:12:36.29,0:12:38.90,Default,,0,0,0,,Hindi sila estranghero.
+Dialogue: 0,0:12:38.92,0:12:44.17,Default,,0,0,0,,Ang mga hiwalay na mag-asawa ay\Nmas malayo kaysa sa mga estranghero.
+Dialogue: 0,0:12:45.84,0:12:49.07,Default,,0,0,0,,- Tama ba ito?\N- Hindi ito ang iyong unang rodeo.
+Dialogue: 0,0:12:49.10,0:12:52.45,Default,,0,0,0,,Ano ang sinabi mo nang marinig mong ikakasal si\NHyun-woo sa pamilyang iyon?
+Dialogue: 0,0:12:52.48,0:12:53.99,Default,,0,0,0,,"Tama ba ito?"
+Dialogue: 0,0:12:54.02,0:12:55.75,Default,,0,0,0,,At nang magdesisyon siyang hiwalayan?
+Dialogue: 0,0:12:55.77,0:12:57.08,Default,,0,0,0,,"Tama ba ito?"
+Dialogue: 0,0:12:57.10,0:13:00.38,Default,,0,0,0,,At noong una niyang dinala ang\Nkanyang mga biyenan para manatili dito,
+Dialogue: 0,0:13:00.40,0:13:02.32,Default,,0,0,0,,diba pareho ang sinabi mo?
+Dialogue: 0,0:13:02.34,0:13:03.34,Default,,0,0,0,,Ginawa ko.
+Dialogue: 0,0:13:03.36,0:13:05.26,Default,,0,0,0,,"Tama ba ito? Mali ba ito?"
+Dialogue: 0,0:13:05.28,0:13:08.22,Default,,0,0,0,,Walang kwenta ang mag-alala.\NAng buhay ay tatahakin nito.
+Dialogue: 0,0:13:08.24,0:13:10.98,Default,,0,0,0,,- Hayaan mo sila.\N- Tama ka.
+Dialogue: 0,0:13:11.04,0:13:13.99,Default,,0,0,0,,Honey, nakita mo ba ang kanyang mga mata kamakailan?
+Dialogue: 0,0:13:14.29,0:13:17.03,Default,,0,0,0,,Wala na siyang babalikan ngayon.
+Dialogue: 0,0:13:17.46,0:13:20.29,Default,,0,0,0,,Walang makakapigil sa kanya.
+Dialogue: 0,0:13:20.63,0:13:22.79,Default,,0,0,0,,Pagkatapos ay itigil mo na.
+Dialogue: 0,0:13:22.96,0:13:25.23,Default,,0,0,0,,- Ano?\N- Stop calling him.
+Dialogue: 0,0:13:25.26,0:13:26.79,Default,,0,0,0,,Okay.
+Dialogue: 0,0:13:44.74,0:13:45.71,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}Mga Missed Call\NFather{\c}{\i0}
+Dialogue: 0,0:13:50.07,0:13:52.69,Default,,0,0,0,,Ano? Anong nangyayari?
+Dialogue: 0,0:13:53.66,0:13:55.26,Default,,0,0,0,,Hey.
+Dialogue: 0,0:13:55.29,0:13:57.71,Default,,0,0,0,,- Bumangon ka na.\N- Anong ginawa mo sa akin?
+Dialogue: 0,0:13:57.73,0:13:58.73,Default,,0,0,0,,Ano ito?
+Dialogue: 0,0:13:58.75,0:14:01.23,Default,,0,0,0,,Sus, ang ingay mo. Matulog ka na ulit, okay?
+Dialogue: 0,0:14:01.25,0:14:06.25,Default,,0,0,0,,Magsindi ako ng briquette para\Npanatiling mainitan ka habang natutulog ka.
+Dialogue: 0,0:14:22.11,0:14:23.81,Default,,0,0,0,,Bakit tayo nandito?
+Dialogue: 0,0:14:24.15,0:14:28.44,Default,,0,0,0,,- Gusto kong makita ang lolo ko.\N- Basang basa ka at giniginaw. Magpalit ka muna,
+Dialogue: 0,0:14:28.57,0:14:30.31,Default,,0,0,0,,at kumain na tayo.
+Dialogue: 0,0:14:32.03,0:14:33.34,Default,,0,0,0,,Hindi iyon ang dahilan kung bakit ako nandito.
+Dialogue: 0,0:14:33.37,0:14:35.74,Default,,0,0,0,,Kaya kita dinala dito.
+Dialogue: 0,0:14:37.41,0:14:39.77,Default,,0,0,0,,Magpalit ka at kumain kasama ako.
+Dialogue: 0,0:14:39.79,0:14:41.95,Default,,0,0,0,,Tapos makikita mo siya.
+Dialogue: 0,0:15:01.60,0:15:04.71,Default,,0,0,0,,- Halos handa na ba ang steak?\N- Yes, sir. Gumawa ako ng {\i1}yuzu{\i0} salad.
+Dialogue: 0,0:15:04.73,0:15:06.59,Default,,0,0,0,,Paborito niya ito.
+Dialogue: 0,0:15:06.61,0:15:09.46,Default,,0,0,0,,Maganda. Pipili ako ng alak.
+Dialogue: 0,0:15:09.49,0:15:11.56,Default,,0,0,0,,Para naman sa plato...
+Dialogue: 0,0:15:13.57,0:15:14.59,Default,,0,0,0,,Ito.
+Dialogue: 0,0:15:14.62,0:15:16.57,Default,,0,0,0,,- Okay.\N- At para sa alak...
+Dialogue: 0,0:15:19.12,0:15:20.66,Default,,0,0,0,,Gamitin ito.
+Dialogue: 0,0:15:42.23,0:15:43.35,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}Mr. Pyeon{\c}{\i0}
+Dialogue: 0,0:15:45.44,0:15:47.93,Default,,0,0,0,,- Ano yun?\N- Pinaalis ko si Mr. Baek.
+Dialogue: 0,0:15:50.03,0:15:52.60,Default,,0,0,0,,- Sigurado ka ba?\N- Oo. Ano ang dapat kong gawin ngayon?
+Dialogue: 0,0:15:53.49,0:15:55.38,Default,,0,0,0,,Huwag mo akong tawagan, at humiga muna sa ngayon.
+Dialogue: 0,0:15:55.41,0:15:57.54,Default,,0,0,0,,- {\i1}Ang pera at ang ticket sa eroplano?{\i0}\N- Makukuha mo,
+Dialogue: 0,0:15:57.56,0:16:00.51,Default,,0,0,0,,pero paghihinalaan nila tayo kung\Nkita tayo o babayaran kita ngayon.
+Dialogue: 0,0:16:00.54,0:16:02.45,Default,,0,0,0,,Maghintay hanggang tawagan kita.
+Dialogue: 0,0:16:04.25,0:16:06.59,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}Power Off{\c}{\i0}
+Dialogue: 0,0:16:21.27,0:16:23.70,Default,,0,0,0,,Maglabas ng mas maraming bulaklak.
+Dialogue: 0,0:16:23.73,0:16:25.43,Default,,0,0,0,,Oo, sir.
+Dialogue: 0,0:16:31.82,0:16:34.81,Default,,0,0,0,,Ano ang pakiramdam ng nakauwi?
+Dialogue: 0,0:16:35.49,0:16:38.02,Default,,0,0,0,,Hindi ito parang bahay.
+Dialogue: 0,0:16:38.74,0:16:40.72,Default,,0,0,0,,Ito ang paborito mong alak.
+Dialogue: 0,0:16:40.74,0:16:42.60,Default,,0,0,0,,- Tama ba?\N- Hindi, salamat.
+Dialogue: 0,0:16:42.62,0:16:44.14,Default,,0,0,0,,Sigurado ka ba?
+Dialogue: 0,0:16:44.16,0:16:46.53,Default,,0,0,0,,Masarap ang steak. Subukan ito.
+Dialogue: 0,0:16:46.71,0:16:49.04,Default,,0,0,0,,Wala akong gana.
+Dialogue: 0,0:16:49.42,0:16:50.52,Default,,0,0,0,,Sabi mo gutom ka.
+Dialogue: 0,0:16:50.55,0:16:52.48,Default,,0,0,0,,Ako noon,
+Dialogue: 0,0:16:52.51,0:16:54.32,Default,,0,0,0,,pero hindi na.
+Dialogue: 0,0:16:54.34,0:16:56.21,Default,,0,0,0,,Tara na.
+Dialogue: 0,0:16:57.14,0:16:58.84,Default,,0,0,0,,Pumunta saan?
+Dialogue: 0,0:17:02.68,0:17:04.62,Default,,0,0,0,,Bigyan mo ako ng oras.
+Dialogue: 0,0:17:04.64,0:17:07.29,Default,,0,0,0,,- Para saan?\N- Para maalis ko ang hindi pagkakaunawaan.
+Dialogue: 0,0:17:07.31,0:17:09.18,Default,,0,0,0,,Anong hindi pagkakaunawaan?
+Dialogue: 0,0:17:10.90,0:17:12.13,Default,,0,0,0,,Sabi mo...
+Dialogue: 0,0:17:12.15,0:17:16.06,Default,,0,0,0,,Itinulak kita sa kanal para lang iligtas ka,
+Dialogue: 0,0:17:16.82,0:17:19.07,Default,,0,0,0,,pero hindi iyon totoo.
+Dialogue: 0,0:17:21.54,0:17:23.36,Default,,0,0,0,,Nakikilala mo ba ito?
+Dialogue: 0,0:17:23.50,0:17:25.02,Default,,0,0,0,,Ano iyon?
+Dialogue: 0,0:17:25.04,0:17:27.74,Default,,0,0,0,,Pag-aari mo ito matagal na ang nakalipas.
+Dialogue: 0,0:17:33.71,0:17:36.33,Default,,0,0,0,,Bakit mayroon ka nito?
+Dialogue: 0,0:17:45.81,0:17:46.79,Default,,0,0,0,,{\i1}Huwag mong sabihin sa akin...{\i0}
+Dialogue: 0,0:17:46.81,0:17:49.64,Default,,0,0,0,,- Ikaw yun?\N- Noon.
+Dialogue: 0,0:17:50.52,0:17:53.71,Default,,0,0,0,,Noong una tayong nagkita?
+Dialogue: 0,0:17:53.73,0:17:56.85,Default,,0,0,0,,Hindi, bago iyon.
+Dialogue: 0,0:17:57.36,0:17:58.90,Default,,0,0,0,,Noon?
+Dialogue: 0,0:17:58.95,0:18:00.48,Default,,0,0,0,,Kailan?
+Dialogue: 0,0:18:10.63,0:18:13.61,Default,,0,0,0,,Ikaw ang nagligtas sa akin?
+Dialogue: 0,0:18:13.63,0:18:16.15,Default,,0,0,0,,Oo, ako ang nagligtas sa iyo...
+Dialogue: 0,0:18:16.17,0:18:18.00,Default,,0,0,0,,mula sa pagkalunod sa araw na iyon.
+Dialogue: 0,0:18:18.59,0:18:20.25,Default,,0,0,0,,Anong ginagawa mo?
+Dialogue: 0,0:18:21.22,0:18:25.20,Default,,0,0,0,,Hindi ako makatulog, kaya't tumitingin ako sa ilang lumang album.
+Dialogue: 0,0:18:25.22,0:18:26.28,Default,,0,0,0,,Pwede ba kitang samahan?
+Dialogue: 0,0:18:26.31,0:18:29.30,Default,,0,0,0,,Siyempre. Mangyaring umupo.
+Dialogue: 0,0:18:33.27,0:18:36.73,Default,,0,0,0,,Goodness, si Hyun-woo ba ito?
+Dialogue: 0,0:18:36.78,0:18:38.65,Default,,0,0,0,,Oo.
+Dialogue: 0,0:18:39.99,0:18:42.84,Default,,0,0,0,,Sus, ang gwapo niya palagi.
+Dialogue: 0,0:18:42.87,0:18:46.43,Default,,0,0,0,,Siya noon. Hindi alam ng lahat ang kanyang pangalan,
+Dialogue: 0,0:18:46.45,0:18:48.43,Default,,0,0,0,,pero kilala nilang lahat ang cute na anak...
+Dialogue: 0,0:18:48.46,0:18:50.28,Default,,0,0,0,,ng bahay ng puno ng peras.
+Dialogue: 0,0:18:50.42,0:18:53.23,Default,,0,0,0,,Biyayaan ka ng isang gwapo at matalinong anak.
+Dialogue: 0,0:18:53.25,0:18:57.07,Default,,0,0,0,,Oo. Magaling din siyang mag-boxing at mag-swimming.
+Dialogue: 0,0:18:57.09,0:18:59.23,Default,,0,0,0,,Tama. Tumingin dito.
+Dialogue: 0,0:18:59.26,0:19:01.53,Default,,0,0,0,,Pumunta pa siya sa isang Marine Corps Camp ng mga bata.
+Dialogue: 0,0:19:01.55,0:19:05.09,Default,,0,0,0,,Minsan niyang nailigtas ang isang bata mula sa pagkalunod.
+Dialogue: 0,0:19:12.56,0:19:14.26,Default,,0,0,0,,Ano ito?
+Dialogue: 0,0:19:14.52,0:19:16.06,Default,,0,0,0,,Sa tingin ko...
+Dialogue: 0,0:19:16.32,0:19:19.46,Default,,0,0,0,,Kilala ko ang beach na ito.
+Dialogue: 0,0:19:19.49,0:19:21.05,Default,,0,0,0,,{\i1}Bakit ka nandoon?{\i0}
+Dialogue: 0,0:19:21.07,0:19:24.18,Default,,0,0,0,,Para makita ang aking ina. Doon kita nakitang nalulunod.
+Dialogue: 0,0:19:24.20,0:19:26.59,Default,,0,0,0,,- Talaga?\N- Oo.
+Dialogue: 0,0:19:26.62,0:19:31.95,Default,,0,0,0,,Ako ang unang nakilala at\Nnag-develop ng feelings para sayo.
+Dialogue: 0,0:19:36.71,0:19:38.41,Default,,0,0,0,,Hindi ko alam.
+Dialogue: 0,0:19:39.13,0:19:41.29,Default,,0,0,0,,Dapat sinabi mo sa akin.
+Dialogue: 0,0:19:41.76,0:19:45.82,Default,,0,0,0,,Iniwan ako ng nanay ko sa\Nan orphanage para itago ang kanyang sikreto,
+Dialogue: 0,0:19:45.85,0:19:48.78,Default,,0,0,0,,kaya wala akong masabi.
+Dialogue: 0,0:19:48.81,0:19:51.89,Default,,0,0,0,,- Mahirap siguro.\N- Noon, kaya...
+Dialogue: 0,0:19:53.10,0:19:54.93,Default,,0,0,0,,kumain ka sa akin.
+Dialogue: 0,0:19:55.94,0:19:58.17,Default,,0,0,0,,Matagal ko nang gustong kumain kasama ka...
+Dialogue: 0,0:19:58.19,0:19:59.46,Default,,0,0,0,,sa table na ito.
+Dialogue: 0,0:19:59.48,0:20:03.56,Default,,0,0,0,,Atubiling kumain si Hyun-woo kasama ka araw-araw,
+Dialogue: 0,0:20:03.61,0:20:06.23,Default,,0,0,0,,pero ito ang gusto ko noon pa man,
+Dialogue: 0,0:20:08.04,0:20:11.24,Default,,0,0,0,,kaya huwag mo akong tingnan ng ganyan.
+Dialogue: 0,0:20:14.00,0:20:15.53,Default,,0,0,0,,Kumain na tayo.
+Dialogue: 0,0:20:36.81,0:20:39.18,Default,,0,0,0,,- Siya ba talaga yun?\N- Gosh.
+Dialogue: 0,0:20:43.95,0:20:46.61,Default,,0,0,0,,Hayaan mo akong magkaroon ng oras sa kanya.
+Dialogue: 0,0:21:15.35,0:21:17.05,Default,,0,0,0,,Lolo.
+Dialogue: 0,0:21:17.31,0:21:18.85,Default,,0,0,0,,Ikaw ba...
+Dialogue: 0,0:21:19.23,0:21:21.02,Default,,0,0,0,,kilala mo ako?
+Dialogue: 0,0:21:26.74,0:21:27.92,Default,,0,0,0,,Nabaliw ka na ba?
+Dialogue: 0,0:21:27.95,0:21:30.90,Default,,0,0,0,,How dare you let her in? Mag-isa ba siya doon?
+Dialogue: 0,0:21:31.16,0:21:33.51,Default,,0,0,0,,- Pabayaan mo siya.\N- Santo ka ba?
+Dialogue: 0,0:21:33.54,0:21:36.18,Default,,0,0,0,,Pinahiya ka niya sa harap ng lahat.
+Dialogue: 0,0:21:36.21,0:21:37.43,Default,,0,0,0,,Ilipat!
+Dialogue: 0,0:21:37.46,0:21:39.77,Default,,0,0,0,,Kasama niya ang isang geezer na wala sa tamang pag-iisip.
+Dialogue: 0,0:21:39.79,0:21:42.16,Default,,0,0,0,,- Ano kayang mangyayari?\N- Hayaan mo.
+Dialogue: 0,0:21:49.89,0:21:51.91,Default,,0,0,0,,- Ang tagal na.\N- I guess.
+Dialogue: 0,0:21:51.93,0:21:53.66,Default,,0,0,0,,- Isang buwan na ba?\N- Narinig ko.
+Dialogue: 0,0:21:53.68,0:21:56.62,Default,,0,0,0,,Ikinalulungkot ko na may sakit ka sa murang edad.
+Dialogue: 0,0:21:56.64,0:21:58.34,Default,,0,0,0,,Kaya binibisita ko ang lolo ko,
+Dialogue: 0,0:21:58.36,0:22:00.50,Default,,0,0,0,,- dahil baka mamatay ako anumang oras.\N- Hae-in.
+Dialogue: 0,0:22:00.52,0:22:03.42,Default,,0,0,0,,Ano ang sinusubukan mong hanapin\Nout kapag namamatay ka, gayon pa man?
+Dialogue: 0,0:22:03.44,0:22:05.89,Default,,0,0,0,,Ano ang natatakot mong malaman ko?
+Dialogue: 0,0:22:05.94,0:22:09.42,Default,,0,0,0,,Ito mismo ang dahilan kung bakit niya ipinagkatiwala sa akin ang lahat.
+Dialogue: 0,0:22:09.45,0:22:12.41,Default,,0,0,0,,Natatakot siyang magplano ang kanyang pamilya sa mga panahong tulad nito,
+Dialogue: 0,0:22:12.43,0:22:14.32,Default,,0,0,0,,- at nagtiwala lang sa akin!\N- Pag-usapan ang lahat ng gusto mo.
+Dialogue: 0,0:22:14.35,0:22:16.31,Default,,0,0,0,,Alam nating dalawa...
+Dialogue: 0,0:22:16.33,0:22:17.93,Default,,0,0,0,,- nagsisinungaling ka.\N- Ano?
+Dialogue: 0,0:22:17.96,0:22:22.65,Default,,0,0,0,,Ikaw lang ang may kapangyarihan ni\Nattorney hangga't nabubuhay siya,
+Dialogue: 0,0:22:22.67,0:22:23.81,Default,,0,0,0,,kaya nagtitiwala ako...
+Dialogue: 0,0:22:23.84,0:22:27.42,Default,,0,0,0,,na aalagaan mo siya ng mabuti.
+Dialogue: 0,0:22:28.93,0:22:31.07,Default,,0,0,0,,Since when you even care?
+Dialogue: 0,0:22:31.09,0:22:34.05,Default,,0,0,0,,Ang ginawa lang ng pamilya mo ay nag-away dahil sa pera.
+Dialogue: 0,0:22:34.89,0:22:38.16,Default,,0,0,0,,Alam ko, pero nagdusa ang pamilya namin salamat sa iyo,
+Dialogue: 0,0:22:38.19,0:22:41.68,Default,,0,0,0,,at ngayon medyo naging close na kami,
+Dialogue: 0,0:22:41.98,0:22:44.27,Default,,0,0,0,,pero hindi ako nagpapasalamat.
+Dialogue: 0,0:22:45.40,0:22:47.14,Default,,0,0,0,,Babalik ako kaagad.
+Dialogue: 0,0:22:50.78,0:22:52.93,Default,,0,0,0,,- Huwag kang umalis.\N- Bitawan mo ako.
+Dialogue: 0,0:22:52.95,0:22:54.57,Default,,0,0,0,,Ano ang gagawin mo?
+Dialogue: 0,0:23:39.58,0:23:41.70,Default,,0,0,0,,Nasaan ang main gate?
+Dialogue: 0,0:23:42.25,0:23:44.24,Default,,0,0,0,,Ang pangunahing gate...
+Dialogue: 0,0:24:51.69,0:24:53.23,Default,,0,0,0,,Hae-in.
+Dialogue: 0,0:25:02.45,0:25:03.99,Default,,0,0,0,,Okay ka lang?
+Dialogue: 0,0:25:06.92,0:25:08.62,Default,,0,0,0,,Ano ang mali?
+Dialogue: 0,0:25:15.84,0:25:17.54,Default,,0,0,0,,Hyun-woo?
+Dialogue: 0,0:25:18.51,0:25:19.57,Default,,0,0,0,,Ikaw ba yan?
+Dialogue: 0,0:25:19.60,0:25:22.21,Default,,0,0,0,,Oo, ako ito.
+Dialogue: 0,0:25:22.72,0:25:24.51,Default,,0,0,0,,Ano ang problema?
+Dialogue: 0,0:25:28.77,0:25:29.75,Default,,0,0,0,,Ano ang nangyari?
+Dialogue: 0,0:25:29.77,0:25:32.27,Default,,0,0,0,,Nabugbog ka na naman?
+Dialogue: 0,0:25:37.16,0:25:39.18,Default,,0,0,0,,Ilang beses ko ba dapat sabihin sa iyo?
+Dialogue: 0,0:25:39.20,0:25:41.86,Default,,0,0,0,,Hindi ako binubugbog.
+Dialogue: 0,0:25:42.95,0:25:45.45,Default,,0,0,0,,Kaya ko pang humawak ng tatlong lalaki nang sabay-sabay.
+Dialogue: 0,0:26:00.26,0:26:02.67,Default,,0,0,0,,Dahil mayabang ka,
+Dialogue: 0,0:26:03.39,0:26:05.22,Default,,0,0,0,,dapat ikaw si Hyun-woo.
+Dialogue: 0,0:26:26.58,0:26:28.53,Default,,0,0,0,,Pwede mo ba akong patawarin?
+Dialogue: 0,0:26:36.46,0:26:38.69,Default,,0,0,0,,Ano ang nangyari? Akala ko naalis mo na siya.
+Dialogue: 0,0:26:38.72,0:26:41.20,Default,,0,0,0,,Eksakto. Hindi mo dapat ginawa iyon.
+Dialogue: 0,0:26:41.22,0:26:42.24,Default,,0,0,0,,Tapos na ano?
+Dialogue: 0,0:26:42.26,0:26:44.28,Default,,0,0,0,,{\i1}{\c&HFFFF00&}- Halika.\N- Suriin muna.{\c}{\i0}
+Dialogue: 0,0:26:44.31,0:26:46.08,Default,,0,0,0,,{\i1}{\c&HFFFF00&}- Ano?\N- Maaari mo akong patayin...{\c}{\i0}
+Dialogue: 0,0:26:46.10,0:26:49.43,Default,,0,0,0,,{\i1}{\c&HFFFF00&}pagkalipas ng limang minuto, at\Nit ay hindi magkakaroon ng pagkakaiba,{\c}{\i0}
+Dialogue: 0,0:26:49.48,0:26:52.16,Default,,0,0,0,,{\i1}{\c&HFFFF00&}kaya tawagan ang taong kumuha sa iyo para patayin ako,{\c}{\i0}
+Dialogue: 0,0:26:52.19,0:26:55.81,Default,,0,0,0,,{\i1}{\c&HFFFF00&}at tingnan kung tutuparin nila ang kanilang pangako.{\c}{\i0}
+Dialogue: 0,0:27:08.50,0:27:10.02,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Pinaalis ko si Mr. Baek.{\c}{\i0}
+Dialogue: 0,0:27:10.04,0:27:12.18,Default,,0,0,0,,{\i1}{\c&HFFFF00&}- Sigurado ka ba?\N- Oo. Ano ang dapat kong gawin ngayon?{\c}{\i0}
+Dialogue: 0,0:27:12.21,0:27:13.73,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Huwag mo akong tawagan, at humiga muna sa ngayon.{\c}{\i0}
+Dialogue: 0,0:27:13.75,0:27:15.89,Default,,0,0,0,,{\i1}{\c&HFFFF00&}- Ang pera at ang ticket sa eroplano?\N- Makukuha mo,{\c}{\i0}
+Dialogue: 0,0:27:15.91,0:27:18.19,Default,,0,0,0,,{\i1}{\c&HFFFF00&}pero paghihinalaan nila tayo kung\Nkita tayo o babayaran kita ngayon.{\c}{\i0}
+Dialogue: 0,0:27:18.21,0:27:19.61,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Maghintay hanggang sa tawagan kita.{\c}{\i0}
+Dialogue: 0,0:27:19.63,0:27:21.96,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Kamusta? Maghintay, makinig...{\c}{\i0}
+Dialogue: 0,0:27:22.26,0:27:23.79,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Darn it.{\c}{\i0}
+Dialogue: 0,0:27:24.01,0:27:25.03,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}Mr. Yoon Eun-sung 2{\c}{\i0}
+Dialogue: 0,0:27:25.81,0:27:28.74,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Hindi available ang numerong na-dial mo...{\c}{\i0}
+Dialogue: 0,0:27:28.77,0:27:32.05,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Ang hamak na ito.{\c}{\i0}
+Dialogue: 0,0:27:36.78,0:27:39.42,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Isa ka lang real-estate scammer sa ngayon,{\c}{\i0}
+Dialogue: 0,0:27:39.44,0:27:41.36,Default,,0,0,0,,{\i1}{\c&HFFFF00&}pero magiging killer ka kapag pinatay mo ako.{\c}{\i0}
+Dialogue: 0,0:27:41.38,0:27:42.80,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Huwag mo akong hilahin.{\c}{\i0}
+Dialogue: 0,0:27:42.82,0:27:45.84,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Iniimbestigahan pa rin ng pulisya\Ang iyong kaso ng pag-atake sa akin,{\c}{\i0}
+Dialogue: 0,0:27:45.87,0:27:49.14,Default,,0,0,0,,{\i1}{\c&HFFFF00&}pero kung mamamatay ako, mauuwi sa pagpatay ang kasong iyon.{\c}{\i0}
+Dialogue: 0,0:27:49.16,0:27:51.14,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Magiging suspek ka,{\c}{\i0}
+Dialogue: 0,0:27:51.16,0:27:53.35,Default,,0,0,0,,{\i1}{\c&HFFFF00&}at makakuha ng karagdagang parusa sa pagpaplano nito.{\c}{\i0}
+Dialogue: 0,0:27:53.38,0:27:55.56,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Pagkatapos ay ilalagay ka ng Interpol sa kanilang Red Notice,{\c}{\i0}
+Dialogue: 0,0:27:55.59,0:27:57.75,Default,,0,0,0,,{\i1}{\c&HFFFF00&}ang kanilang pinakamataas na listahan ng hinahanap.{\c}{\i0}
+Dialogue: 0,0:27:58.13,0:28:00.41,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Sinabi kong tumahimik ka.{\c}{\i0}
+Dialogue: 0,0:28:00.96,0:28:05.28,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Makakakuha ka ng hindi bababa sa 20 taon para sa\Npagplano ng paghihiganti sa pagpatay at pagtakas,{\c}{\i0}
+Dialogue: 0,0:28:05.30,0:28:08.63,Default,,0,0,0,,{\i1}{\c&HFFFF00&}pero kung hindi mo ako papatayin,{\c}{\i0}
+Dialogue: 0,0:28:08.81,0:28:11.37,Default,,0,0,0,,{\i1}{\c&HFFFF00&}tatlong taon ka lang para sa panloloko.{\c}{\i0}
+Dialogue: 0,0:28:11.39,0:28:16.00,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Maaari ka pang makakuha ng probation kung kukumbinsihin ko\Nang mga may-ari ng lupa na ayusin ang kaso.{\c}{\i0}
+Dialogue: 0,0:28:16.02,0:28:19.17,Default,,0,0,0,,{\i1}{\c&HFFFF00&}So? Isasantabi ko ang lahat kung titigil ka rito.{\c}{\i0}
+Dialogue: 0,0:28:19.19,0:28:21.25,Default,,0,0,0,,So hinayaan mo na lang siya?
+Dialogue: 0,0:28:21.28,0:28:23.38,Default,,0,0,0,,- Bobo ka ba?\N- Oo, ako noon.
+Dialogue: 0,0:28:23.41,0:28:24.67,Default,,0,0,0,,{\i1}Bayaran mo ako ngayon,{\i0}
+Dialogue: 0,0:28:24.70,0:28:28.94,Default,,0,0,0,,o sasabihin ko sa pulis na ikaw\N ang kumuha sa akin.
+Dialogue: 0,0:28:37.17,0:28:40.20,Default,,0,0,0,,Dito ako nag-stay.
+Dialogue: 0,0:28:58.61,0:29:00.56,Default,,0,0,0,,Sus, ginulat mo ako!
+Dialogue: 0,0:29:05.53,0:29:06.80,Default,,0,0,0,,Okay lang. Huwag maglinis.
+Dialogue: 0,0:29:06.82,0:29:09.57,Default,,0,0,0,,Naging abala lang ako.
+Dialogue: 0,0:29:12.54,0:29:15.74,Default,,0,0,0,,Naisip ko kung saan ka\Ntutuloy pagkatapos ng divorce.
+Dialogue: 0,0:29:15.79,0:29:17.49,Default,,0,0,0,,Nandito ka.
+Dialogue: 0,0:29:18.00,0:29:19.54,Default,,0,0,0,,Well...
+Dialogue: 0,0:29:20.13,0:29:22.33,Default,,0,0,0,,Naging hindi komportable?
+Dialogue: 0,0:29:23.34,0:29:24.87,Default,,0,0,0,,Well...
+Dialogue: 0,0:29:25.43,0:29:28.00,Default,,0,0,0,,Hindi, ito ay isang magandang lugar.
+Dialogue: 0,0:29:28.34,0:29:31.09,Default,,0,0,0,,Ito ay bagong gawa at kumpleto sa kagamitan.
+Dialogue: 0,0:29:42.57,0:29:44.30,Default,,0,0,0,,Bakit sa sofa ka natulog?
+Dialogue: 0,0:29:44.32,0:29:46.19,Default,,0,0,0,,Well...
+Dialogue: 0,0:29:47.11,0:29:49.61,Default,,0,0,0,,Alam mo nakatulog ako ng maayos.
+Dialogue: 0,0:29:49.70,0:29:52.69,Default,,0,0,0,,Matutulog ako...
+Dialogue: 0,0:29:52.79,0:29:54.95,Default,,0,0,0,,kahit saan ko ibababa ang ulo ko.
+Dialogue: 0,0:29:55.46,0:29:58.27,Default,,0,0,0,,Matutulog ka yata ng maayos...
+Dialogue: 0,0:29:58.29,0:30:01.20,Default,,0,0,0,,pagkatapos ng hiwalayan natin, hindi katulad ko.
+Dialogue: 0,0:30:01.34,0:30:03.27,Default,,0,0,0,,- Ano?\N- Pangarap mong makipagdivorce.
+Dialogue: 0,0:30:03.30,0:30:06.69,Default,,0,0,0,,Ngayong natupad na,\Nakahanap ka na siguro ng kapayapaan...
+Dialogue: 0,0:30:06.72,0:30:08.78,Default,,0,0,0,,sa bagong gawa at kumpleto sa gamit na lugar na ito.
+Dialogue: 0,0:30:08.80,0:30:10.78,Default,,0,0,0,,Hindi iyon ang ibig kong sabihin.
+Dialogue: 0,0:30:10.80,0:30:13.87,Default,,0,0,0,,Okay lang. Kahit isa sa amin\N ay masaya pagkatapos ng diborsyo.
+Dialogue: 0,0:30:13.89,0:30:15.47,Default,,0,0,0,,Natutuwa ako.
+Dialogue: 0,0:30:18.48,0:30:20.87,Default,,0,0,0,,Hindi talaga ako komportable.
+Dialogue: 0,0:30:20.90,0:30:25.00,Default,,0,0,0,,Nagbigay sa akin ng sick-building\Nsyndrome ang lugar na ito, kaya sumakit ang ulo ko,
+Dialogue: 0,0:30:25.03,0:30:29.17,Default,,0,0,0,,at tingnan mo. Ang sala\Ni ay nasa tabi mismo ng kusina,
+Dialogue: 0,0:30:29.20,0:30:32.18,Default,,0,0,0,,kaya hindi madaling i-air ang lugar na ito,
+Dialogue: 0,0:30:32.20,0:30:33.73,Default,,0,0,0,,at higit sa lahat,
+Dialogue: 0,0:30:34.99,0:30:36.53,Default,,0,0,0,,wala ka dito.
+Dialogue: 0,0:30:42.96,0:30:44.36,Default,,0,0,0,,Hindi ba mas mabuti para sa iyo iyon?
+Dialogue: 0,0:30:44.38,0:30:45.48,Default,,0,0,0,,Hindi naman.
+Dialogue: 0,0:30:45.51,0:30:48.73,Default,,0,0,0,,Minsan, iniisip ko kung ano ang mararamdaman...
+Dialogue: 0,0:30:48.76,0:30:51.59,Default,,0,0,0,,kung kami ay nanirahan dito bilang bagong kasal.
+Dialogue: 0,0:30:51.85,0:30:55.63,Default,,0,0,0,,Masarap na\N manirahan sa isang maliit na lugar tulad nito,
+Dialogue: 0,0:30:56.10,0:30:59.47,Default,,0,0,0,,kahit na pagkatapos ng pagtatalo sa isa't isa.
+Dialogue: 0,0:31:03.77,0:31:06.68,Default,,0,0,0,,Ganyan ang takbo ng isip ko,
+Dialogue: 0,0:31:07.24,0:31:09.27,Default,,0,0,0,,at mami-miss kita.
+Dialogue: 0,0:31:10.45,0:31:12.23,Default,,0,0,0,,Ginawa ko.
+Dialogue: 0,0:31:20.17,0:31:21.14,Default,,0,0,0,,Nagugutom ako.
+Dialogue: 0,0:31:21.17,0:31:25.58,Default,,0,0,0,,Talaga? Ipagluluto kita. Magpahinga ka na.
+Dialogue: 0,0:32:46.71,0:32:47.77,Default,,0,0,0,,Mukhang maganda ito.
+Dialogue: 0,0:32:47.79,0:32:49.83,Default,,0,0,0,,Kain na tayo.
+Dialogue: 0,0:33:04.31,0:33:06.26,Default,,0,0,0,,Ang galing mo talaga.
+Dialogue: 0,0:33:06.48,0:33:08.64,Default,,0,0,0,,Bakit hindi ka nagluto?
+Dialogue: 0,0:33:08.77,0:33:10.64,Default,,0,0,0,,Hindi ako nagkaroon ng pagkakataon.
+Dialogue: 0,0:33:18.37,0:33:19.84,Default,,0,0,0,,Nga pala...
+Dialogue: 0,0:33:19.87,0:33:22.40,Default,,0,0,0,,Makakakita ka pa ba ng ibang babae pagkatapos kong mamatay?
+Dialogue: 0,0:33:25.62,0:33:26.68,Default,,0,0,0,,Ano?
+Dialogue: 0,0:33:26.71,0:33:30.40,Default,,0,0,0,,Makikitira ka ba sa isang tao sa\Nmaliit na lugar na ito, kahit na pagkatapos magtalo?
+Dialogue: 0,0:33:30.42,0:33:34.16,Default,,0,0,0,,Gagawin mo ba siyang nilaga at mabubuhay ng masaya...
+Dialogue: 0,0:33:34.34,0:33:36.13,Default,,0,0,0,,ever after?
+Dialogue: 0,0:33:37.01,0:33:38.88,Default,,0,0,0,,Anong sinasabi mo?
+Dialogue: 0,0:33:39.30,0:33:41.05,Default,,0,0,0,,Kumain ka lang.
+Dialogue: 0,0:33:42.14,0:33:43.99,Default,,0,0,0,,Sagutin mo ako.
+Dialogue: 0,0:33:44.02,0:33:45.62,Default,,0,0,0,,Huwag na muling baguhin ang paksa.
+Dialogue: 0,0:33:45.64,0:33:47.45,Default,,0,0,0,,Gusto mo bang mamatay bago ako?
+Dialogue: 0,0:33:47.48,0:33:49.08,Default,,0,0,0,,Masyado kang nag-aalala.
+Dialogue: 0,0:33:49.11,0:33:50.54,Default,,0,0,0,,Sino ang gustong makipag-date sa akin?
+Dialogue: 0,0:33:50.57,0:33:54.42,Default,,0,0,0,,Akala ng lahat na niligtas mo ako,\Ndahil wala kang magawa sa pag-ibig.
+Dialogue: 0,0:33:54.44,0:33:56.63,Default,,0,0,0,,Sila rin ang pumupuna\N sa hindi ko alam,
+Dialogue: 0,0:33:56.65,0:33:58.38,Default,,0,0,0,,at iniwan ka,
+Dialogue: 0,0:33:58.41,0:33:59.84,Default,,0,0,0,,so anong klaseng babae...?
+Dialogue: 0,0:33:59.87,0:34:03.03,Default,,0,0,0,,Anong klaseng babae ang hindi gustong makipag-date sa iyo?
+Dialogue: 0,0:34:04.29,0:34:06.85,Default,,0,0,0,,Gwapo ka, mabait,
+Dialogue: 0,0:34:06.87,0:34:08.93,Default,,0,0,0,,matalino, ngunit hindi mayabang.
+Dialogue: 0,0:34:08.96,0:34:12.29,Default,,0,0,0,,At saka, magaling kang magluto.
+Dialogue: 0,0:34:12.92,0:34:14.87,Default,,0,0,0,,Walang lalaking katulad mo.
+Dialogue: 0,0:34:15.42,0:34:18.61,Default,,0,0,0,,Kahit ipanganak akong muli ng isang daang\Nbeses, papakasalan pa rin kita...
+Dialogue: 0,0:34:18.63,0:34:20.54,Default,,0,0,0,,bawat isang pagkakataon.
+Dialogue: 0,0:34:31.86,0:34:34.25,Default,,0,0,0,,Paano mo nasabi ang ganoong bagay,
+Dialogue: 0,0:34:34.28,0:34:36.39,Default,,0,0,0,,nang hindi kumukurap...
+Dialogue: 0,0:34:37.49,0:34:39.05,Default,,0,0,0,,iyong mga mata?
+Dialogue: 0,0:34:39.07,0:34:40.69,Default,,0,0,0,,Totoo,
+Dialogue: 0,0:34:41.07,0:34:43.06,Default,,0,0,0,,so bakit ako magdadalawang isip?
+Dialogue: 0,0:34:45.91,0:34:50.20,Default,,0,0,0,,Alam mo kung paano pabilisin ang puso ko.
+Dialogue: 0,0:35:13.40,0:35:15.52,Default,,0,0,0,,Nakuha mo na ba sa wakas?
+Dialogue: 0,0:35:16.07,0:35:18.05,Default,,0,0,0,,Walang pakialam si Hae-in sa iyo.
+Dialogue: 0,0:35:18.07,0:35:19.84,Default,,0,0,0,,Palagi ka niyang ginagamit.
+Dialogue: 0,0:35:19.86,0:35:22.19,Default,,0,0,0,,Alam ko na yan.
+Dialogue: 0,0:35:22.32,0:35:24.98,Default,,0,0,0,,- Pero hinahayaan mo pa rin siya?\N- Oo.
+Dialogue: 0,0:35:25.33,0:35:26.86,Default,,0,0,0,,Ito ay isang ugali.
+Dialogue: 0,0:35:28.50,0:35:30.49,Default,,0,0,0,,Lagi akong ginagamit...
+Dialogue: 0,0:35:30.75,0:35:32.37,Default,,0,0,0,,sa iyo rin.
+Dialogue: 0,0:35:40.72,0:35:45.55,Default,,0,0,0,,Naiinis ka sa aking pag-abandona\Nyou sa ibang bansa, di ba?
+Dialogue: 0,0:35:46.26,0:35:49.74,Default,,0,0,0,,Sa tingin mo ba hindi ko alam na inabuso ka ng iyong\Nadoptive parents,
+Dialogue: 0,0:35:49.77,0:35:52.75,Default,,0,0,0,,kahit binayaran ng malaki?
+Dialogue: 0,0:35:52.77,0:35:54.21,Default,,0,0,0,,Nagkataon lang ba...
+Dialogue: 0,0:35:54.23,0:35:57.31,Default,,0,0,0,,na ang mga hindi umiinom ay namatay habang nagmamaneho ng lasing?
+Dialogue: 0,0:35:57.86,0:35:59.73,Default,,0,0,0,,Anong sinasabi mo?
+Dialogue: 0,0:36:00.99,0:36:03.67,Default,,0,0,0,,Paano ang orphanage\Ndirector na minamaltrato sa iyo?
+Dialogue: 0,0:36:03.70,0:36:08.69,Default,,0,0,0,,Nagsara sila dahil sa biglang\Nsunog, at namatay ang direktor.
+Dialogue: 0,0:36:09.62,0:36:11.66,Default,,0,0,0,,Nagkataon lang ba iyon?
+Dialogue: 0,0:36:16.25,0:36:17.81,Default,,0,0,0,,Hindi kita pinabayaan.
+Dialogue: 0,0:36:17.84,0:36:21.78,Default,,0,0,0,,Hindi lang ako naupo sa mga kamay ko nang\Nyung mga taong nagdulot sa iyo ng sakit,
+Dialogue: 0,0:36:21.80,0:36:23.90,Default,,0,0,0,,o nakaharang sa iyo,
+Dialogue: 0,0:36:23.93,0:36:25.15,Default,,0,0,0,,at hindi iyon nagbago.
+Dialogue: 0,0:36:25.18,0:36:27.03,Default,,0,0,0,,Hindi sapat ang pagiging chairman.
+Dialogue: 0,0:36:27.05,0:36:31.08,Default,,0,0,0,,Layunin kong gawing iyo ang lahat,
+Dialogue: 0,0:36:31.10,0:36:33.30,Default,,0,0,0,,at hindi ako uupo...
+Dialogue: 0,0:36:34.15,0:36:36.14,Default,,0,0,0,,kung may humarang sa akin,
+Dialogue: 0,0:36:36.23,0:36:38.68,Default,,0,0,0,,si Hae-in man o ibang tao.
+Dialogue: 0,0:36:39.19,0:36:42.56,Default,,0,0,0,,Naiintindihan mo ba? Ito ang paraan ko para mahalin ka.
+Dialogue: 0,0:36:45.62,0:36:47.84,Default,,0,0,0,,Kung talagang mahal mo siya,
+Dialogue: 0,0:36:47.87,0:36:51.15,Default,,0,0,0,,at ayoko siyang masaktan,
+Dialogue: 0,0:36:52.16,0:36:56.78,Default,,0,0,0,,at huwag mong hayaang gamitin ka niya.\NI won't stand for it.
+Dialogue: 0,0:37:00.38,0:37:01.40,Default,,0,0,0,,Halika.
+Dialogue: 0,0:37:01.42,0:37:03.96,Default,,0,0,0,,Paano ka muling masasaktan?
+Dialogue: 0,0:37:05.38,0:37:06.40,Default,,0,0,0,,Ano ang nangyari?
+Dialogue: 0,0:37:06.43,0:37:09.25,Default,,0,0,0,,Sinabi ko na sa iyo.
+Dialogue: 0,0:37:09.35,0:37:11.99,Default,,0,0,0,,Ito ay isang maliit na aksidente sa sasakyan.
+Dialogue: 0,0:37:12.02,0:37:15.58,Default,,0,0,0,,Wala lahat ng isip ko noong nagmamaneho ako.
+Dialogue: 0,0:37:15.60,0:37:18.56,Default,,0,0,0,,Tama, nakita mo ba ang iyong lolo?
+Dialogue: 0,0:37:19.32,0:37:22.27,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Lolo, nakikilala mo ba ako?{\c}{\i0}
+Dialogue: 0,0:37:25.40,0:37:29.23,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Miss, gutom na ako.{\c}{\i0}
+Dialogue: 0,0:37:33.32,0:37:35.02,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Lolo...{\c}{\i0}
+Dialogue: 0,0:37:42.67,0:37:44.41,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Lolo.{\c}{\i0}
+Dialogue: 0,0:37:44.44,0:37:46.78,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Wala akong oras.{\c}{\i0}
+Dialogue: 0,0:37:50.81,0:37:53.37,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Naaalala mo ba itong panulat?{\c}{\i0}
+Dialogue: 0,0:37:53.39,0:37:55.30,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Niregalo mo ito sa akin.{\c}{\i0}
+Dialogue: 0,0:37:55.56,0:37:58.26,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Inukit mo pa ang mga inisyal ko dito.{\c}{\i0}
+Dialogue: 0,0:37:58.29,0:38:00.53,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Maaari itong mag-record ng mga tunog.{\c}{\i0}
+Dialogue: 0,0:38:08.82,0:38:10.22,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Ilalagay ko ito doon,{\c}{\i0}
+Dialogue: 0,0:38:10.24,0:38:13.39,Default,,0,0,0,,{\i1}{\c&HFFFF00&}kaya kung mayroon kang sasabihin, i-record ito.{\c}{\i0}
+Dialogue: 0,0:38:13.41,0:38:15.43,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Babalik ako sa lalong madaling panahon.{\c}{\i0}
+Dialogue: 0,0:38:15.45,0:38:17.52,Default,,0,0,0,,{\i1}Makikilala niya ang panulat kapag dumating siya...{\i0}
+Dialogue: 0,0:38:17.54,0:38:18.64,Default,,0,0,0,,sa kanyang sentido.
+Dialogue: 0,0:38:18.67,0:38:20.94,Default,,0,0,0,,Nakuha niya itong custom-made at niregalo sa akin...
+Dialogue: 0,0:38:20.96,0:38:22.35,Default,,0,0,0,,nung naging CEO ako.
+Dialogue: 0,0:38:22.38,0:38:24.54,Default,,0,0,0,,Ito ay isang bagay na kami lang ang nakakaalam.
+Dialogue: 0,0:38:29.72,0:38:31.57,Default,,0,0,0,,Ano ang sinabi ni Hae-in?
+Dialogue: 0,0:38:31.60,0:38:34.55,Default,,0,0,0,,I'll bet nagtanong siya tungkol sa secret fund.
+Dialogue: 0,0:38:35.10,0:38:37.74,Default,,0,0,0,,Bakit kailangan mong itago\Nit at pahirapan kaming lahat?
+Dialogue: 0,0:38:37.77,0:38:41.81,Default,,0,0,0,,Dapat ay inilipat mo na sa akin,\Kung iyon ang plano mo noon pa man.
+Dialogue: 0,0:38:42.06,0:38:44.21,Default,,0,0,0,,Ano ang gagawin mo? Dalhin mo kapag namatay ka?
+Dialogue: 0,0:38:44.23,0:38:45.54,Default,,0,0,0,,Ang tanga mo.
+Dialogue: 0,0:38:45.57,0:38:50.27,Default,,0,0,0,,Hindi ka maaaring mamatay. Bahagya ka lang\Nalive dahil sa perang yan!
+Dialogue: 0,0:39:04.80,0:39:06.36,Default,,0,0,0,,Sigurado ka bang wala ka na?
+Dialogue: 0,0:39:06.38,0:39:07.86,Default,,0,0,0,,Sinabi ba sayo ni Hae-in?
+Dialogue: 0,0:39:07.88,0:39:10.94,Default,,0,0,0,,Malapit na siyang mamatay.
+Dialogue: 0,0:39:10.97,0:39:14.34,Default,,0,0,0,,May bihirang kaso siya ng\Nbrain tumor at hindi magtatagal.
+Dialogue: 0,0:39:15.43,0:39:18.55,Default,,0,0,0,,Tingnan kung ano ang nangyari sa dakilang Hong Man-dae.
+Dialogue: 0,0:39:18.93,0:39:22.15,Default,,0,0,0,,Hindi mo man lang maproseso ang katotohanan na\Ang paborito mong apo ay namamatay.
+Dialogue: 0,0:39:22.18,0:39:24.00,Default,,0,0,0,,Nagsisilbi sa iyo nang tama.
+Dialogue: 0,0:39:51.88,0:39:53.65,Default,,0,0,0,,Malakas ako.
+Dialogue: 0,0:39:53.68,0:39:55.24,Default,,0,0,0,,Ako ang pinakamahusay.
+Dialogue: 0,0:39:55.26,0:39:57.74,Default,,0,0,0,,Baliw ako.
+Dialogue: 0,0:39:57.77,0:40:01.59,Default,,0,0,0,,Ako ay isang ganap na baliw. ako ay...
+Dialogue: 0,0:40:08.23,0:40:11.31,Default,,0,0,0,,Malakas akong lalaki...
+Dialogue: 0,0:40:20.70,0:40:22.27,Default,,0,0,0,,Kailan ka nakarating dito?
+Dialogue: 0,0:40:22.29,0:40:25.45,Default,,0,0,0,,Dumating ako pagkatapos ng aking morning jog.
+Dialogue: 0,0:40:26.21,0:40:28.56,Default,,0,0,0,,Paalalahanan mo ako sa sarili ko\Nung una akong nagsimula sa boxing.
+Dialogue: 0,0:40:28.59,0:40:30.54,Default,,0,0,0,,Gusto ko itong ugali mo.
+Dialogue: 0,0:40:33.22,0:40:34.61,Default,,0,0,0,,Saan ka nanggaling?
+Dialogue: 0,0:40:34.64,0:40:36.45,Default,,0,0,0,,Ibinaba ko si Ho-yeol sa school.
+Dialogue: 0,0:40:36.47,0:40:38.17,Default,,0,0,0,,Ay, oo.
+Dialogue: 0,0:40:38.89,0:40:40.84,Default,,0,0,0,,Nga pala,
+Dialogue: 0,0:40:41.39,0:40:43.58,Default,,0,0,0,,nagtatrabaho ba ang asawa mo sa malayong lugar?
+Dialogue: 0,0:40:43.60,0:40:46.12,Default,,0,0,0,,- Sa weekend lang ba kayo nagkikita?\N- Hindi, we live together.
+Dialogue: 0,0:40:46.15,0:40:47.96,Default,,0,0,0,,Nakikita ko. Hindi ko lang siya nakilala.
+Dialogue: 0,0:40:47.98,0:40:49.25,Default,,0,0,0,,Nakikita mo...
+Dialogue: 0,0:40:49.28,0:40:51.42,Default,,0,0,0,,Noong una kaming ikasal,
+Dialogue: 0,0:40:51.44,0:40:54.26,Default,,0,0,0,,sinabi ito ng nanay ko sa kanya.\N"You're my daughter-in-law."
+Dialogue: 0,0:40:54.28,0:40:55.97,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Hindi kita anak.{\c}{\i0}
+Dialogue: 0,0:40:55.99,0:40:58.14,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Ang isang manugang na babae ay hindi maaaring maging anak na babae.{\c}{\i0}
+Dialogue: 0,0:40:58.16,0:41:00.10,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Natamaan ko si Mi-seon.{\c}{\i0}
+Dialogue: 0,0:41:00.12,0:41:02.20,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Halika.{\c}{\i0}
+Dialogue: 0,0:41:02.37,0:41:05.68,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Pero may sarili kang mga magulang,\Nand hindi ko iyon magagawa sa iyo.{\c}{\i0}
+Dialogue: 0,0:41:05.71,0:41:09.06,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Dapat nating panoorin kung ano ang sinasabi natin at hindi kailanman pisikal...{\c}{\i0}
+Dialogue: 0,0:41:09.09,0:41:10.27,Default,,0,0,0,,{\i1}{\c&HFFFF00&}kung kami ay biyenan.{\c}{\i0}
+Dialogue: 0,0:41:10.30,0:41:11.77,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Oo, tama ka.{\c}{\i0}
+Dialogue: 0,0:41:11.80,0:41:13.51,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Kaya ngayong may asawa ka na,{\c}{\i0}
+Dialogue: 0,0:41:13.53,0:41:15.23,Default,,0,0,0,,{\i1}{\c&HFFFF00&}- iwasan nating magkita.\N- Ano?{\c}{\i0}
+Dialogue: 0,0:41:15.25,0:41:16.32,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Seryoso?{\c}{\i0}
+Dialogue: 0,0:41:16.34,0:41:21.12,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Maaari mong bisitahin ang iyong mga magulang o pumunta sa isang\Ntrip sa mga pambansang holiday kung gusto mo.{\c}{\i0}
+Dialogue: 0,0:41:21.14,0:41:22.53,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Salamat.{\c}{\i0}
+Dialogue: 0,0:41:22.56,0:41:25.45,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Huwag kang mag-abala na bigyan ako ng mga regalo sa kaarawan.{\c}{\i0}
+Dialogue: 0,0:41:25.48,0:41:28.97,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Ito ay hindi komportable. Kung gusto mo, i-text mo lang ako ng emoji.{\c}{\i0}
+Dialogue: 0,0:41:30.36,0:41:33.88,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Sa palagay mo ba ay masyadong maliit iyon?{\c}{\i0}
+Dialogue: 0,0:41:33.90,0:41:36.80,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Manahimik ka. Gayunpaman, mayroon akong isang kundisyon.{\c}{\i0}
+Dialogue: 0,0:41:36.82,0:41:39.26,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Maraming depekto ang anak ko,{\c}{\i0}
+Dialogue: 0,0:41:39.28,0:41:41.01,Default,,0,0,0,,{\i1}{\c&HFFFF00&}at wala na akong magagawa.{\c}{\i0}
+Dialogue: 0,0:41:41.04,0:41:43.81,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Pwede mo siyang subukang ayusin,\Npero huwag mo siyang ibalik sa akin.{\c}{\i0}
+Dialogue: 0,0:41:43.83,0:41:45.61,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Halika, Nanay.{\c}{\i0}
+Dialogue: 0,0:41:50.17,0:41:52.87,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Gagawin ko ang lahat.{\c}{\i0}
+Dialogue: 0,0:41:53.71,0:41:56.03,Default,,0,0,0,,Napaka-laid-back ng nanay mo.
+Dialogue: 0,0:41:56.05,0:41:58.57,Default,,0,0,0,,Salamat sa kanya, sabi ng mga kasamahan ng asawa ko...
+Dialogue: 0,0:41:58.59,0:42:00.36,Default,,0,0,0,,siya ang may pinakamagandang biyenan.
+Dialogue: 0,0:42:00.39,0:42:02.12,Default,,0,0,0,,Nakikita ko iyon.
+Dialogue: 0,0:42:02.14,0:42:03.70,Default,,0,0,0,,Dahil maganda ang pakikitungo ng nanay ko sa kanya,
+Dialogue: 0,0:42:03.72,0:42:07.00,Default,,0,0,0,,Ang aking asawa ay may posibilidad na manatiling\Nbulag ang mata sa karamihan ng mga bagay...
+Dialogue: 0,0:42:07.02,0:42:08.93,Default,,0,0,0,,I do.
+Dialogue: 0,0:42:09.02,0:42:10.85,Default,,0,0,0,,Ganyan tayo nabubuhay.
+Dialogue: 0,0:42:15.90,0:42:18.02,Default,,0,0,0,,Hey...
+Dialogue: 0,0:42:18.07,0:42:20.13,Default,,0,0,0,,- Hindi ko sinasadyang magmayabang.\N- Pero ginawa mo.
+Dialogue: 0,0:42:20.16,0:42:22.36,Default,,0,0,0,,Hindi ko sinasadya.
+Dialogue: 0,0:42:23.37,0:42:25.35,Default,,0,0,0,,Nagtatampo ka ba? Soo-cheol.
+Dialogue: 0,0:42:25.37,0:42:27.20,Default,,0,0,0,,Darn it.
+Dialogue: 0,0:42:29.83,0:42:30.81,Default,,0,0,0,,Ito na?
+Dialogue: 0,0:42:30.83,0:42:34.56,Default,,0,0,0,,Alam kong ninakaw mo lahat ng mahal nilang artwork...
+Dialogue: 0,0:42:34.59,0:42:36.40,Default,,0,0,0,,- bago umalis.\N- Hindi, hindi.
+Dialogue: 0,0:42:36.42,0:42:38.07,Default,,0,0,0,,Nakuha ko lang ang ilan.
+Dialogue: 0,0:42:38.09,0:42:39.28,Default,,0,0,0,,Tapos bumili ako ng apartment.
+Dialogue: 0,0:42:39.30,0:42:42.61,Default,,0,0,0,,Alam kong nagnakaw ka ng golden\NBuddha statue na ganito kalaki.
+Dialogue: 0,0:42:42.64,0:42:44.32,Default,,0,0,0,,Hindi, hindi ko ginawa.
+Dialogue: 0,0:42:44.35,0:42:47.18,Default,,0,0,0,,Hindi mo ako niloloko.
+Dialogue: 0,0:43:00.78,0:43:02.82,Default,,0,0,0,,Geon-u, okay ka lang?
+Dialogue: 0,0:43:04.45,0:43:06.57,Default,,0,0,0,,Hoy, anong ginagawa mo?
+Dialogue: 0,0:43:08.28,0:43:10.49,Default,,0,0,0,,Siya ang kahinaan mo.
+Dialogue: 0,0:43:11.92,0:43:12.89,Default,,0,0,0,,Nababaliw ka na ba?
+Dialogue: 0,0:43:12.92,0:43:14.98,Default,,0,0,0,,Hipuin siya, at patay ka.
+Dialogue: 0,0:43:15.00,0:43:17.25,Default,,0,0,0,,Nasaan ang rebulto?
+Dialogue: 0,0:43:17.92,0:43:19.82,Default,,0,0,0,,Alam kong hindi mo pa ito naibenta.
+Dialogue: 0,0:43:19.84,0:43:23.38,Default,,0,0,0,,Napagmasdan ko na ito, kaya huwag kang magsinungaling sa akin.
+Dialogue: 0,0:43:28.31,0:43:30.34,Default,,0,0,0,,Nasa pribadong safe.
+Dialogue: 0,0:43:31.06,0:43:33.26,Default,,0,0,0,,Pupunta tayo doon bukas ng umaga.
+Dialogue: 0,0:43:34.94,0:43:37.59,Default,,0,0,0,,Okay. Mabuti.
+Dialogue: 0,0:43:37.61,0:43:39.35,Default,,0,0,0,,Good girl.
+Dialogue: 0,0:43:42.32,0:43:45.73,Default,,0,0,0,,Hoy, buhusan mo ako ng alak. Okay?
+Dialogue: 0,0:45:49.16,0:45:50.97,Default,,0,0,0,,Nakatulog ka ba ng maayos?
+Dialogue: 0,0:45:50.99,0:45:52.69,Default,,0,0,0,,Oo.
+Dialogue: 0,0:45:54.16,0:45:55.86,Default,,0,0,0,,Gusto ko ang lugar na ito.
+Dialogue: 0,0:45:56.37,0:45:59.74,Default,,0,0,0,,Nakatulog agad ako, katulad mo.
+Dialogue: 0,0:46:03.30,0:46:05.04,Default,,0,0,0,,Sabi ko sayo.
+Dialogue: 0,0:46:05.30,0:46:06.78,Default,,0,0,0,,Gusto mo bang matulog pa?
+Dialogue: 0,0:46:06.80,0:46:08.38,Default,,0,0,0,,Hindi.
+Dialogue: 0,0:46:12.93,0:46:15.43,Default,,0,0,0,,Bigyan mo ako ng sampung minuto.
+Dialogue: 0,0:46:17.81,0:46:20.14,Default,,0,0,0,,Hindi, lima lang.
+Dialogue: 0,0:46:50.09,0:46:52.20,Default,,0,0,0,,Matagal na kaming hindi nakakapag-almusal.
+Dialogue: 0,0:46:52.22,0:46:55.38,Default,,0,0,0,,Dapat may salad at kape ako.
+Dialogue: 0,0:46:55.89,0:46:58.54,Default,,0,0,0,,Si Hyun-woo ay sumilip dito kagabi.
+Dialogue: 0,0:46:58.56,0:47:00.09,Default,,0,0,0,,Ano?
+Dialogue: 0,0:47:00.35,0:47:02.00,Default,,0,0,0,,Kabutihan. Paano?
+Dialogue: 0,0:47:02.02,0:47:05.04,Default,,0,0,0,,Alam niyang nasira ang camera sa likod ng gate\N at pumasok doon.
+Dialogue: 0,0:47:05.07,0:47:06.60,Default,,0,0,0,,Nakikita ko.
+Dialogue: 0,0:47:06.82,0:47:09.59,Default,,0,0,0,,- Napakatalino at masinsinan niya.\N- Hindi naman.
+Dialogue: 0,0:47:09.61,0:47:13.61,Default,,0,0,0,,Hindi niya binura ang dashcam\Nfootage sa kabilang sasakyan,
+Dialogue: 0,0:47:15.79,0:47:17.99,Default,,0,0,0,,kaya nalaman ko kung paano siya nakapasok.
+Dialogue: 0,0:47:30.26,0:47:33.25,Default,,0,0,0,,Bakit mo ako nilalagay sa atsara?
+Dialogue: 0,0:47:33.39,0:47:35.11,Default,,0,0,0,,Nakalimutan mo na ba kung sino ako?
+Dialogue: 0,0:47:35.14,0:47:38.37,Default,,0,0,0,,Ikaw ang depektong heroine na sumali sa aming panig.
+Dialogue: 0,0:47:38.39,0:47:41.41,Default,,0,0,0,,Hindi. Ipagpatuloy mo ito, at babalik ako.
+Dialogue: 0,0:47:41.44,0:47:45.27,Default,,0,0,0,,Ms. Papatayin ako ni Moh kapag nalaman niya.
+Dialogue: 0,0:47:45.77,0:47:48.56,Default,,0,0,0,,Malapit ko nang mahanap ang secret fund.
+Dialogue: 0,0:47:48.86,0:47:51.69,Default,,0,0,0,,Kaya pumunta si Hae-in dito.
+Dialogue: 0,0:47:52.41,0:47:54.94,Default,,0,0,0,,Sus, nakakabaliw ito.
+Dialogue: 0,0:47:55.49,0:47:57.55,Default,,0,0,0,,Bigyan mo ako ng 3% ng pera, kung gayon.
+Dialogue: 0,0:47:57.58,0:47:59.40,Default,,0,0,0,,Gawin na 5%.
+Dialogue: 0,0:47:59.75,0:48:00.72,Default,,0,0,0,,Ibig mo bang sabihin?
+Dialogue: 0,0:48:00.75,0:48:05.56,Default,,0,0,0,,Pinagkanulo ko sila, at\Ngagalit pa rin sila tungkol dito.
+Dialogue: 0,0:48:05.59,0:48:08.12,Default,,0,0,0,,Siyempre. Mapagkakatiwalaan mo ako.
+Dialogue: 0,0:48:09.76,0:48:10.90,Default,,0,0,0,,Huwag kang ngumiti sa akin.
+Dialogue: 0,0:48:10.92,0:48:14.46,Default,,0,0,0,,Delikado ang mga gwapong lalaki.
+Dialogue: 0,0:48:24.48,0:48:26.71,Default,,0,0,0,,Papatayin ako ni Seul-hee.
+Dialogue: 0,0:48:26.73,0:48:28.31,Default,,0,0,0,,Salamat.
+Dialogue: 0,0:48:28.86,0:48:29.88,Default,,0,0,0,,{\i1}Minsan kitang pinatawad,{\i0}
+Dialogue: 0,0:48:29.90,0:48:32.59,Default,,0,0,0,,so how dare you side with them again like a rat?
+Dialogue: 0,0:48:32.61,0:48:35.84,Default,,0,0,0,,Ang mga aso ay maaaring alagang hayop, ngunit hindi mga daga.
+Dialogue: 0,0:48:35.87,0:48:38.85,Default,,0,0,0,,Kailangan silang patayin sa lahat ng paraan.
+Dialogue: 0,0:48:38.87,0:48:43.03,Default,,0,0,0,,Ibalik ang iyong pass sa kotse, ID card,\Nand company card bago ka umalis.
+Dialogue: 0,0:48:43.33,0:48:46.81,Default,,0,0,0,,Ang iyong kasakiman ay maaring magdulot sa iyo ng pera na mayroon ka, Grace.
+Dialogue: 0,0:48:46.84,0:48:49.86,Default,,0,0,0,,Mas mainam na humiga para sa iyong kaligtasan.
+Dialogue: 0,0:48:49.88,0:48:50.98,Default,,0,0,0,,- Ms. Moh.\N- Magwala.
+Dialogue: 0,0:48:51.01,0:48:52.53,Default,,0,0,0,,Hindi, hindi ko magagawa iyon.
+Dialogue: 0,0:48:52.55,0:48:55.65,Default,,0,0,0,,Paano ako, kung may malaking hindi pagkakaunawaan?
+Dialogue: 0,0:48:55.68,0:48:59.28,Default,,0,0,0,,Nabubuhay ako sa impormasyon,\Nang madalas napagkakamalan akong daga ng mga tao,
+Dialogue: 0,0:48:59.31,0:49:00.45,Default,,0,0,0,,pero ano ang magagawa ko?
+Dialogue: 0,0:49:00.47,0:49:02.88,Default,,0,0,0,,Ganyan lang ako.
+Dialogue: 0,0:49:05.35,0:49:06.41,Default,,0,0,0,,Isang hindi pagkakaunawaan?
+Dialogue: 0,0:49:06.44,0:49:10.00,Default,,0,0,0,,Pagkatapos ay ipaliwanag kung bakit mo dinala\NHyun-woo, sa lahat ng tao,
+Dialogue: 0,0:49:10.03,0:49:11.56,Default,,0,0,0,,sa aking tahanan.
+Dialogue: 0,0:49:12.36,0:49:15.59,Default,,0,0,0,,Nag-alok si Hyun-woo sa akin ng deal.
+Dialogue: 0,0:49:15.61,0:49:18.40,Default,,0,0,0,,Nag-alok siya na bigyan ako ng 10% ng secret fund.
+Dialogue: 0,0:49:18.83,0:49:21.14,Default,,0,0,0,,So alam niya kung saan ang pera?
+Dialogue: 0,0:49:21.16,0:49:22.89,Default,,0,0,0,,Iyan ang na-curious ako,
+Dialogue: 0,0:49:22.91,0:49:24.39,Default,,0,0,0,,kaya pumayag akong tumulong.
+Dialogue: 0,0:49:24.41,0:49:26.16,Default,,0,0,0,,At nasaan ito?
+Dialogue: 0,0:49:26.67,0:49:31.37,Default,,0,0,0,,Nag-alok si Hyun-woo ng 10%,\Npero ayos lang ako sa 7% mula sa iyo.
+Dialogue: 0,0:49:32.26,0:49:33.92,Default,,0,0,0,,Huwag mo akong pakialaman.
+Dialogue: 0,0:49:35.18,0:49:37.28,Default,,0,0,0,,Pagkatapos ay isang maliit na gusali at 5% lang.
+Dialogue: 0,0:49:37.30,0:49:40.38,Default,,0,0,0,,I deserve that much.
+Dialogue: 0,0:49:44.52,0:49:46.30,Default,,0,0,0,,Sabihin mo sa akin.
+Dialogue: 0,0:49:49.11,0:49:50.58,Default,,0,0,0,,Sa tingin niya...
+Dialogue: 0,0:49:50.61,0:49:52.77,Default,,0,0,0,,nasa bahay na ito.
+Dialogue: 0,0:50:04.75,0:50:06.39,Default,,0,0,0,,- Maaari ba akong mali?\N- Ano?
+Dialogue: 0,0:50:06.42,0:50:09.44,Default,,0,0,0,,Nakikita ko ang ilang lalaki na kumukuha ng\Nmga larawan ko sa likod ng dingding na iyon.
+Dialogue: 0,0:50:09.46,0:50:11.44,Default,,0,0,0,,Sus.
+Dialogue: 0,0:50:11.46,0:50:13.40,Default,,0,0,0,,Hindi ako makapaniwala dito.
+Dialogue: 0,0:50:13.42,0:50:14.86,Default,,0,0,0,,Nakuha ko pa rin, di ba?
+Dialogue: 0,0:50:14.88,0:50:16.44,Default,,0,0,0,,- Pabayaan mo sila.\N- Bakit?
+Dialogue: 0,0:50:16.47,0:50:19.42,Default,,0,0,0,,Aalis na sila saglit.
+Dialogue: 0,0:50:22.39,0:50:24.09,Default,,0,0,0,,Umalis ba sila?
+Dialogue: 0,0:50:25.48,0:50:26.95,Default,,0,0,0,,Bang-sil.
+Dialogue: 0,0:50:26.98,0:50:29.41,Default,,0,0,0,,Umalis sila. Hindi mo na kailangang hawakan ito nang magkasama.
+Dialogue: 0,0:50:29.44,0:50:30.46,Default,,0,0,0,,Ayan na.
+Dialogue: 0,0:50:30.48,0:50:32.83,Default,,0,0,0,,Parang nakita ko na sila...
+Dialogue: 0,0:50:32.86,0:50:35.09,Default,,0,0,0,,- kahapon din.\N- Ano?
+Dialogue: 0,0:50:35.11,0:50:37.42,Default,,0,0,0,,Patuloy silang dumaan sakay ng itim na van.
+Dialogue: 0,0:50:37.45,0:50:40.94,Default,,0,0,0,,Patuloy silang kumukuha ng mga larawan ng mga bagay.
+Dialogue: 0,0:50:42.58,0:50:44.69,Default,,0,0,0,,Saan ko inilagay ang mahal kong takong?
+Dialogue: 0,0:50:49.75,0:50:51.14,Default,,0,0,0,,Hey.
+Dialogue: 0,0:50:51.17,0:50:53.16,Default,,0,0,0,,Kailangan nating mag-usap.
+Dialogue: 0,0:50:55.38,0:50:56.36,Default,,0,0,0,,Ano ang gusto mo?
+Dialogue: 0,0:50:56.38,0:50:58.56,Default,,0,0,0,,Kunan mo ng litrato ang bahay namin?\NGIbigay mo sa akin ang camera mo.
+Dialogue: 0,0:50:58.58,0:51:01.20,Default,,0,0,0,,- Wala kaming kinuha. Tara na.\N- Nakita kita,
+Dialogue: 0,0:51:01.22,0:51:02.61,Default,,0,0,0,,kaya ibigay mo sa akin!
+Dialogue: 0,0:51:02.64,0:51:04.66,Default,,0,0,0,,Kabutihan.
+Dialogue: 0,0:51:04.68,0:51:06.03,Default,,0,0,0,,Hoy, baliw ka ba?
+Dialogue: 0,0:51:06.06,0:51:07.84,Default,,0,0,0,,Hey.
+Dialogue: 0,0:51:08.56,0:51:11.41,Default,,0,0,0,,- Ikaw ang unang tumama sa akin.\N- Oo. Kaya ano?
+Dialogue: 0,0:51:11.44,0:51:14.31,Default,,0,0,0,,Alam mo ba kung anong klaseng heels ang suot ko?
+Dialogue: 0,0:51:15.48,0:51:19.90,Default,,0,0,0,,May dumi sila sa kanila,\Nand tatapakan kita!
+Dialogue: 0,0:51:25.87,0:51:27.95,Default,,0,0,0,,Mga hamak!
+Dialogue: 0,0:51:37.55,0:51:39.25,Default,,0,0,0,,Sus, ang sakit.
+Dialogue: 0,0:51:39.38,0:51:41.32,Default,,0,0,0,,Hoy, anong ginagawa niyo diyan?
+Dialogue: 0,0:51:41.34,0:51:43.70,Default,,0,0,0,,- Dad...\N- Anong ginagawa mo?
+Dialogue: 0,0:51:43.72,0:51:45.38,Default,,0,0,0,,Tulungan kami...
+Dialogue: 0,0:51:45.64,0:51:47.58,Default,,0,0,0,,Ready, set, go.
+Dialogue: 0,0:51:47.60,0:51:49.29,Default,,0,0,0,,Cross. yun lang. Krus.
+Dialogue: 0,0:51:49.31,0:51:51.16,Default,,0,0,0,,Cross.
+Dialogue: 0,0:51:51.19,0:51:55.21,Default,,0,0,0,,Isang binti.
+Dialogue: 0,0:51:55.23,0:51:56.58,Default,,0,0,0,,Cross. yun lang. Krus.
+Dialogue: 0,0:51:56.61,0:51:57.59,Default,,0,0,0,,Oo. Krus.
+Dialogue: 0,0:51:57.61,0:51:59.59,Default,,0,0,0,,Isang binti.
+Dialogue: 0,0:51:59.61,0:52:00.61,Default,,0,0,0,,- Tumalon.\N- Narinig mo ba?
+Dialogue: 0,0:52:00.64,0:52:01.63,Default,,0,0,0,,Tumalon! ano?
+Dialogue: 0,0:52:01.66,0:52:03.88,Default,,0,0,0,,- Bumubuo sila ng Yongdu-ri Quintet.\N- Tama.
+Dialogue: 0,0:52:03.91,0:52:06.82,Default,,0,0,0,,Ibig mong sabihin ang village patrol team?\NI narinig ang tungkol sa misteryosong van.
+Dialogue: 0,0:52:06.85,0:52:08.38,Default,,0,0,0,, Eksakto.
+Dialogue: 0,0:52:08.75,0:52:10.70,Default,,0,0,0,,Ituloy mo. Ulitin.
+Dialogue: 0,0:52:11.08,0:52:12.77,Default,,0,0,0,,Magsa-sign up ako.
+Dialogue: 0,0:52:12.79,0:52:15.52,Default,,0,0,0,,Mabilis akong lumaki ng ilang muscles\Ntoo. nagbulke up ako. Hawakan ito.
+Dialogue: 0,0:52:15.54,0:52:17.62,Default,,0,0,0,,Hindi, salamat.
+Dialogue: 0,0:52:18.05,0:52:20.44,Default,,0,0,0,,Ang ibig sabihin ng Quintet ay pipili sila ng limang tao.
+Dialogue: 0,0:52:20.47,0:52:24.15,Default,,0,0,0,,Ang pagiging bahagi nito ay nangangahulugan na hindi ako magiging\Wala sa limang pinakamalakas na lalaki dito.
+Dialogue: 0,0:52:24.18,0:52:27.57,Default,,0,0,0,,Sa tingin mo kaya ko? Gusto kong suntukin ang isang bagay at basagin ito.
+Dialogue: 0,0:52:27.60,0:52:30.31,Default,,0,0,0,,Nagmumungkahi ka ba ng wooden bar o roof tiles?
+Dialogue: 0,0:52:30.33,0:52:31.33,Default,,0,0,0,,Soo-cheol...
+Dialogue: 0,0:52:31.35,0:52:33.04,Default,,0,0,0,,Alam kong hindi ito magiging madali,
+Dialogue: 0,0:52:33.06,0:52:36.22,Default,,0,0,0,,pero nanaginip ako kagabi.
+Dialogue: 0,0:52:36.32,0:52:37.29,Default,,0,0,0,,Nakaramdam ako ng pag-asa.
+Dialogue: 0,0:52:37.32,0:52:39.68,Default,,0,0,0,,Magkakaroon ng mas mababa sa limang kalahok.
+Dialogue: 0,0:52:47.28,0:52:48.43,Default,,0,0,0,,Sige.
+Dialogue: 0,0:52:48.45,0:52:49.93,Default,,0,0,0,,Tapos na tayo.
+Dialogue: 0,0:52:49.95,0:52:51.99,Default,,0,0,0,,Magiging lima tayo.
+Dialogue: 0,0:52:52.50,0:52:54.39,Default,,0,0,0,,Iwanan mo ako dito.
+Dialogue: 0,0:52:54.42,0:52:56.35,Default,,0,0,0,,Kakababa ko lang sa pwesto.
+Dialogue: 0,0:52:56.38,0:52:59.31,Default,,0,0,0,,Maaaring bigyang-kahulugan ito ng mga tao sa pulitika...
+Dialogue: 0,0:52:59.34,0:53:02.19,Default,,0,0,0,,pag nalaman nilang bumuo ako ng private group.
+Dialogue: 0,0:53:02.22,0:53:06.45,Default,,0,0,0,,Magpapasiklab lang ito ng conflict\Nsa pagitan ng dalawang partido.
+Dialogue: 0,0:53:06.47,0:53:09.92,Default,,0,0,0,,Hindi ko rin maiwan ang nanay ko.
+Dialogue: 0,0:53:10.43,0:53:13.29,Default,,0,0,0,,Palagi mo siyang iniiwan kapag umiinom ka.
+Dialogue: 0,0:53:13.31,0:53:17.54,Default,,0,0,0,,- Bakit ka nagpapanggap na mabait na anak?\N- Tara na guys.
+Dialogue: 0,0:53:17.56,0:53:19.67,Default,,0,0,0,,Kailangan namin ng hindi bababa sa limang miyembro...
+Dialogue: 0,0:53:19.69,0:53:22.92,Default,,0,0,0,,kung gusto nating mapondohan ang grupong ito.
+Dialogue: 0,0:53:22.94,0:53:24.48,Default,,0,0,0,,Ibig sabihin ba nito...
+Dialogue: 0,0:53:25.11,0:53:26.92,Default,,0,0,0,,Pasok ako?
+Dialogue: 0,0:53:26.95,0:53:29.23,Default,,0,0,0,,Oo, totoo.
+Dialogue: 0,0:53:29.66,0:53:30.93,Default,,0,0,0,,Kaya ko itong suntukin.
+Dialogue: 0,0:53:30.95,0:53:31.97,Default,,0,0,0,,Okay lang yan.
+Dialogue: 0,0:53:32.00,0:53:34.43,Default,,0,0,0,,Ang pagiging isa sa atin ay nangangahulugan na ito ay magiging permanente.
+Dialogue: 0,0:53:34.46,0:53:36.66,Default,,0,0,0,,Hindi ka makakapag-back out mamaya.
+Dialogue: 0,0:53:36.96,0:53:38.27,Default,,0,0,0,,See?
+Dialogue: 0,0:53:38.29,0:53:41.37,Default,,0,0,0,,Sinabi ko sa iyo na hindi mo na kailangang sumubok ng marami.
+Dialogue: 0,0:54:04.03,0:54:05.00,Default,,0,0,0,,Malapit na ba tayo?
+Dialogue: 0,0:54:05.03,0:54:06.13,Default,,0,0,0,,Oo.
+Dialogue: 0,0:54:06.15,0:54:07.86,Default,,0,0,0,,Halos.
+Dialogue: 0,0:54:08.49,0:54:10.32,Default,,0,0,0,,Labas ba tayo?
+Dialogue: 0,0:54:26.51,0:54:28.03,Default,,0,0,0,,Maganda ito.
+Dialogue: 0,0:54:28.05,0:54:31.20,Default,,0,0,0,,Lahat ay nagtapat ng kanilang nararamdaman dito,
+Dialogue: 0,0:54:31.22,0:54:34.22,Default,,0,0,0,,at walang nabigo sa ngayon.
+Dialogue: 0,0:54:34.72,0:54:38.04,Default,,0,0,0,,Nagkakatotoo ang iyong pag-ibig kung ipagtatapat mo dito,
+Dialogue: 0,0:54:38.06,0:54:42.01,Default,,0,0,0,,at ito ay gumagana sa bawat oras.
+Dialogue: 0,0:54:42.19,0:54:43.81,Default,,0,0,0,,Kalokohan iyon.
+Dialogue: 0,0:54:45.11,0:54:47.09,Default,,0,0,0,,Hindi lang nakakakuha ka ng...
+Dialogue: 0,0:54:47.11,0:54:49.77,Default,,0,0,0,,isang magandang paglubog ng araw,
+Dialogue: 0,0:54:50.28,0:54:54.39,Default,,0,0,0,,ngunit ang liwanag ay nagbibigay din sa iyong mukha ng mainit na tono,
+Dialogue: 0,0:54:54.41,0:54:56.22,Default,,0,0,0,,na nagpapaganda sa iyo.
+Dialogue: 0,0:54:56.25,0:54:58.89,Default,,0,0,0,,Ang ganda mo...
+Dialogue: 0,0:54:58.92,0:54:59.98,Default,,0,0,0,,ngayon.
+Dialogue: 0,0:55:00.00,0:55:01.83,Default,,0,0,0,,Talaga?
+Dialogue: 0,0:55:02.21,0:55:04.75,Default,,0,0,0,,Kaya ipagtatapat mo ang iyong pag-ibig?
+Dialogue: 0,0:55:07.67,0:55:09.92,Default,,0,0,0,,Ito ay talagang higit pa...
+Dialogue: 0,0:55:10.26,0:55:11.96,Default,,0,0,0,,ng isang kahilingan.
+Dialogue: 0,0:55:12.80,0:55:14.51,Default,,0,0,0,,Anong uri?
+Dialogue: 0,0:55:24.77,0:55:27.98,Default,,0,0,0,,Isang pag-withdraw sa diborsyo.
+Dialogue: 0,0:55:30.86,0:55:34.09,Default,,0,0,0,,Ang paghiling sa iyo na pakasalan akong muli ay labis na,
+Dialogue: 0,0:55:34.12,0:55:37.53,Default,,0,0,0,,kaya maaari mo bang bawiin ang diborsyo?
+Dialogue: 0,0:55:52.30,0:55:54.42,Default,,0,0,0,,Naalala mo ang laki ko.
+Dialogue: 0,0:55:55.64,0:55:57.51,Default,,0,0,0,,Siyempre,
+Dialogue: 0,0:55:58.27,0:56:01.30,Default,,0,0,0,,pero dapat kong ilagay iyon sa iyo.
+Dialogue: 0,0:56:14.95,0:56:16.65,Default,,0,0,0,,Kumuha ng refund.
+Dialogue: 0,0:56:20.87,0:56:22.41,Default,,0,0,0,,Bakit?
+Dialogue: 0,0:56:23.08,0:56:26.41,Default,,0,0,0,,Sabi mo gusto mo akong pakasalan every single time.
+Dialogue: 0,0:56:26.46,0:56:29.71,Default,,0,0,0,,Iyon ay kung ako ay ipinanganak na muli, ngunit hindi ngayon.
+Dialogue: 0,0:56:31.55,0:56:34.67,Default,,0,0,0,,Bakit hindi, eksakto?
+Dialogue: 0,0:56:35.01,0:56:36.59,Default,,0,0,0,,Bakit?
+Dialogue: 0,0:56:43.27,0:56:45.26,Default,,0,0,0,,Kahapon, akala ko...
+Dialogue: 0,0:56:49.86,0:56:51.64,Default,,0,0,0,,ikaw iyon.
+Dialogue: 0,0:56:53.03,0:56:54.90,Default,,0,0,0,,- Ano?\N- Ako...
+Dialogue: 0,0:56:55.16,0:56:56.98,Default,,0,0,0,,sinundan si Eun-sung...
+Dialogue: 0,0:56:57.83,0:56:59.99,Default,,0,0,0,,kasi akala ko ikaw yun.
+Dialogue: 0,0:57:02.16,0:57:04.16,Default,,0,0,0,,Naabot na ito.
+Dialogue: 0,0:57:04.21,0:57:06.10,Default,,0,0,0,,Hindi stable ang memorya ko.
+Dialogue: 0,0:57:06.13,0:57:08.74,Default,,0,0,0,,Nakalimutan ko kung nasaan ako,
+Dialogue: 0,0:57:09.25,0:57:13.04,Default,,0,0,0,,at sa huli, hindi kita nakilala.
+Dialogue: 0,0:57:29.48,0:57:31.06,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Hyun-woo?{\c}{\i0}
+Dialogue: 0,0:57:56.18,0:57:57.71,Default,,0,0,0,,Sabi ko sayo...
+Dialogue: 0,0:57:58.39,0:58:00.28,Default,,0,0,0,,hindi tayo dapat magkasama...
+Dialogue: 0,0:58:00.31,0:58:02.26,Default,,0,0,0,,kung lumala ang sakit ko,
+Dialogue: 0,0:58:03.31,0:58:05.05,Default,,0,0,0,,pero...
+Dialogue: 0,0:58:05.69,0:58:07.89,Default,,0,0,0,, dumating ang oras na iyon nang mas maaga kaysa sa inaasahan.
+Dialogue: 0,0:58:12.73,0:58:14.94,Default,,0,0,0,,Ang ganda ng sunset.
+Dialogue: 0,0:58:15.28,0:58:16.81,Default,,0,0,0,,Tama ka.
+Dialogue: 0,0:58:17.57,0:58:19.80,Default,,0,0,0,,Ang sikat ng araw...
+Dialogue: 0,0:58:19.82,0:58:22.90,Default,,0,0,0,,mas guwapo ka,
+Dialogue: 0,0:58:25.66,0:58:27.20,Default,,0,0,0,,pero...
+Dialogue: 0,0:58:29.88,0:58:33.04,Default,,0,0,0,,ikaw ba talaga si Baek Hyun-woo?
+Dialogue: 0,0:58:37.72,0:58:40.42,Default,,0,0,0,,Totoo ba ito? hindi ako nananaginip?
+Dialogue: 0,0:58:43.39,0:58:46.05,Default,,0,0,0,,Wala na akong masigurado.
+Dialogue: 0,0:58:49.48,0:58:52.12,Default,,0,0,0,,Kaya hindi ako makakagawa ng anumang pangako.
+Dialogue: 0,0:58:52.15,0:58:53.68,Default,,0,0,0,,Pasensya na.
+Dialogue: 0,0:59:48.41,0:59:50.02,Default,,0,0,0,,Ano iyon sa kamay niya?
+Dialogue: 0,0:59:50.04,0:59:51.64,Default,,0,0,0,,Nakaharang ang kurtina.
+Dialogue: 0,0:59:51.67,0:59:54.87,Default,,0,0,0,,May mababang resolution ito.\NSdapat ba akong makakuha ng mas mataas?
+Dialogue: 0,0:59:59.88,1:00:01.49,Default,,0,0,0,,Nakita mo na ba ang aking ina?
+Dialogue: 0,1:00:01.51,1:00:03.59,Default,,0,0,0,,Hindi, hindi pa.
+Dialogue: 0,1:00:04.89,1:00:08.05,Default,,0,0,0,,Hindi ka nagsisinungaling, di ba? Seryoso ako.
+Dialogue: 0,1:00:08.27,1:00:09.49,Default,,0,0,0,,Anong sinasabi niya?
+Dialogue: 0,1:00:09.52,1:00:11.20,Default,,0,0,0,,seryoso din ako.
+Dialogue: 0,1:00:11.23,1:00:13.30,Default,,0,0,0,,Hoy! Yeong-song!
+Dialogue: 0,1:00:13.48,1:00:15.25,Default,,0,0,0,,- Nahanap mo na ba siya?\N- Hindi.
+Dialogue: 0,1:00:15.27,1:00:16.63,Default,,0,0,0,,Wala rin siya sa bayan.
+Dialogue: 0,1:00:16.65,1:00:18.88,Default,,0,0,0,, Dapat tayong tumawag ng pulis.
+Dialogue: 0,1:00:18.90,1:00:19.96,Default,,0,0,0,,Nagawa ko na.
+Dialogue: 0,1:00:19.99,1:00:21.05,Default,,0,0,0,,Good job.
+Dialogue: 0,1:00:21.07,1:00:24.55,Default,,0,0,0,,Hindi mo akalain na nasa\Nbundok na naman siya, di ba?
+Dialogue: 0,1:00:24.57,1:00:27.26,Default,,0,0,0,,- Goodness.\N- Malapit nang lumubog ang araw.
+Dialogue: 0,1:00:27.29,1:00:28.39,Default,,0,0,0,,Titingnan ko.
+Dialogue: 0,1:00:28.41,1:00:29.99,Default,,0,0,0,,Maghintay.
+Dialogue: 0,1:00:31.08,1:00:34.49,Default,,0,0,0,,Sa tingin ko makakatulong ako.
+Dialogue: 0,1:00:43.22,1:00:45.25,Default,,0,0,0,,Ayan na.
+Dialogue: 0,1:00:46.01,1:00:47.36,Default,,0,0,0,,Medyo sa kanan.
+Dialogue: 0,1:00:47.39,1:00:49.43,Default,,0,0,0,,Medyo pa, at makikita mo ang mga mineral spring.
+Dialogue: 0,1:00:49.46,1:00:51.29,Default,,0,0,0,,Medyo higit pa. Oo, doon.
+Dialogue: 0,1:00:51.31,1:00:53.91,Default,,0,0,0,,Umakyat mula roon.
+Dialogue: 0,1:00:53.94,1:00:55.66,Default,,0,0,0,,Higit pa.
+Dialogue: 0,1:00:55.69,1:00:57.85,Default,,0,0,0,,Ituloy mo.
+Dialogue: 0,1:01:00.86,1:01:03.60,Default,,0,0,0,,May isang peak na tinatawag na "Fairy Peak."
+Dialogue: 0,1:01:06.24,1:01:08.32,Default,,0,0,0,,Ayan!
+Dialogue: 0,1:01:18.13,1:01:19.91,Default,,0,0,0,,Ayan na siya!
+Dialogue: 0,1:01:30.18,1:01:31.72,Default,,0,0,0,,Nay!
+Dialogue: 0,1:01:32.93,1:01:34.47,Default,,0,0,0,,Nay!
+Dialogue: 0,1:01:39.69,1:01:41.81,Default,,0,0,0,,- Tulog ba siya?\N- Oo.
+Dialogue: 0,1:01:42.15,1:01:44.69,Default,,0,0,0,,Maraming salamat.
+Dialogue: 0,1:01:45.41,1:01:46.47,Default,,0,0,0,,Nagseselos ako.
+Dialogue: 0,1:01:46.49,1:01:48.09,Default,,0,0,0,,Sa ano?
+Dialogue: 0,1:01:48.12,1:01:50.82,Default,,0,0,0,,May sakit din ang tatay ko,
+Dialogue: 0,1:01:51.04,1:01:53.14,Default,,0,0,0,,pero hindi ko man lang siya maalagaan.
+Dialogue: 0,1:01:53.16,1:01:54.78,Default,,0,0,0,,Tama.
+Dialogue: 0,1:01:55.12,1:01:56.82,Default,,0,0,0,,Narinig ko.
+Dialogue: 0,1:01:57.38,1:02:00.74,Default,,0,0,0,,Siya ay isang malakas na tao.
+Dialogue: 0,1:02:00.80,1:02:05.00,Default,,0,0,0,,Hindi siya natinag, kahit na\Ngaano ko siya hinamon,
+Dialogue: 0,1:02:06.88,1:02:09.59,Default,,0,0,0,,kaya tinuloy ko,
+Dialogue: 0,1:02:10.68,1:02:12.80,Default,,0,0,0,,pero hindi ko ginawa...
+Dialogue: 0,1:02:13.22,1:02:15.55,Default,,0,0,0,,kung alam kong mangyayari ito.
+Dialogue: 0,1:02:15.89,1:02:19.60,Default,,0,0,0,,Alam mo ba kung ano ang\Nhuling sinabi ko sa kanya?
+Dialogue: 0,1:02:20.44,1:02:22.98,Default,,0,0,0,,"Magkita tayo sa iyong libing."
+Dialogue: 0,1:02:28.61,1:02:30.51,Default,,0,0,0,,This darn mouth of mine.
+Dialogue: 0,1:02:30.53,1:02:32.65,Default,,0,0,0,,Dapat naging mas maingat ako.
+Dialogue: 0,1:02:36.37,1:02:39.70,Default,,0,0,0,,Hindi ko pa na-challenge ang nanay ko dati.
+Dialogue: 0,1:02:41.25,1:02:42.98,Default,,0,0,0,,Nagyayabang ka ba ngayon?
+Dialogue: 0,1:02:43.00,1:02:44.83,Default,,0,0,0,,Umalis ng bahay ang nanay ko...
+Dialogue: 0,1:02:44.88,1:02:47.46,Default,,0,0,0,,noong maliit pa ako.
+Dialogue: 0,1:02:48.13,1:02:51.38,Default,,0,0,0,,Abusado at niloko siya ng tatay ko,
+Dialogue: 0,1:02:53.39,1:02:55.63,Default,,0,0,0,,kaya lumaki akong wala siya.
+Dialogue: 0,1:02:56.73,1:02:58.80,Default,,0,0,0,,Tapos nagkaroon siya ng dementia,
+Dialogue: 0,1:02:59.31,1:03:02.85,Default,,0,0,0,,kaya inalis ko siya sa nursing\Nhome at kasama ko siya.
+Dialogue: 0,1:03:03.94,1:03:06.61,Default,,0,0,0,,Wish ko na makipagtalo sa kanya kapag matino na siya.
+Dialogue: 0,1:03:06.64,1:03:07.63,Default,,0,0,0,,I...
+Dialogue: 0,1:03:07.65,1:03:10.34,Default,,0,0,0,,Wala akong ideya.
+Dialogue: 0,1:03:10.36,1:03:12.07,Default,,0,0,0,,Lahat tayo...
+Dialogue: 0,1:03:12.24,1:03:15.53,Default,,0,0,0,,may mga pasanin na dapat nating dalhin sa buhay.
+Dialogue: 0,1:03:15.70,1:03:18.68,Default,,0,0,0,,Kahit yung mga mukhang walang pakialam...
+Dialogue: 0,1:03:18.71,1:03:21.66,Default,,0,0,0,,magdala ng mabibigat na bato sa kanilang mga bulsa,
+Dialogue: 0,1:03:22.67,1:03:24.19,Default,,0,0,0,,kaya...
+Dialogue: 0,1:03:24.21,1:03:26.44,Default,,0,0,0,,wag kang magselos...
+Dialogue: 0,1:03:26.46,1:03:28.54,Default,,0,0,0,,o sisihin mo ang iyong sarili.
+Dialogue: 0,1:03:28.63,1:03:31.50,Default,,0,0,0,,Sigurado akong alam ng tatay mo kung gaano ka nagmamalasakit.
+Dialogue: 0,1:05:03.10,1:05:04.62,Default,,0,0,0,,Sinundan ko ang trak.
+Dialogue: 0,1:05:04.65,1:05:08.28,Default,,0,0,0,,Umalis ito sa iyong tahanan sa Hanil-dong mula sa\Nwarehouse sa Gyeonggi Province.
+Dialogue: 0,1:05:08.30,1:05:09.33,Default,,0,0,0,,Ano ito?
+Dialogue: 0,1:05:09.36,1:05:11.09,Default,,0,0,0,,So nasa bahay lang ang pera?
+Dialogue: 0,1:05:11.11,1:05:13.01,Default,,0,0,0,,Imposible iyon.
+Dialogue: 0,1:05:13.03,1:05:15.59,Default,,0,0,0,,Kahit na ang isang apple crate ay mayroong $600,000,
+Dialogue: 0,1:05:15.62,1:05:18.26,Default,,0,0,0,,kailangan niya ng kabuuang 1500 crates.
+Dialogue: 0,1:05:18.28,1:05:22.26,Default,,0,0,0,,Kailangan niya ng higit pa sa storage room.\NKailangan nito ng humigit-kumulang 3600 square feet ng espasyo.
+Dialogue: 0,1:05:22.29,1:05:25.39,Default,,0,0,0,,May lihim bang espasyo sa aming tahanan,
+Dialogue: 0,1:05:25.42,1:05:26.73,Default,,0,0,0,,o isang bodega marahil?
+Dialogue: 0,1:05:26.75,1:05:29.61,Default,,0,0,0,,Tumigil kami sa distrito\Noffice para tingnan ang mga floor plan,
+Dialogue: 0,1:05:29.63,1:05:31.84,Default,,0,0,0,,ngunit wala kaming nakita.
+Dialogue: 0,1:05:31.86,1:05:32.90,Default,,0,0,0,,Kung gayon ano ito?
+Dialogue: 0,1:05:32.92,1:05:34.36,Default,,0,0,0,,Kagabi,
+Dialogue: 0,1:05:34.38,1:05:37.75,Default,,0,0,0,,May sinabi sa akin si lolo noong nagkita kami.
+Dialogue: 0,1:05:39.56,1:05:40.53,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Ano ito?{\c}{\i0}
+Dialogue: 0,1:05:40.56,1:05:42.76,Default,,0,0,0,,{\i1}{\c&HFFFF00&}May sasabihin ka ba?{\c}{\i0}
+Dialogue: 0,1:05:43.35,1:05:46.91,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Ginang, pumunta ka sa aking lugar kung sumiklab ang digmaan.{\c}{\i0}
+Dialogue: 0,1:05:46.94,1:05:50.29,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Mayroon kaming air-raid shelter.{\c}{\i0}
+Dialogue: 0,1:05:50.32,1:05:52.09,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Maaari kang magtago doon.{\c}{\i0}
+Dialogue: 0,1:05:52.11,1:05:53.90,Default,,0,0,0,,Nagbanggit siya ng isang air-raid shelter.
+Dialogue: 0,1:05:53.93,1:05:54.96,Default,,0,0,0,,Isang air-raid shelter?
+Dialogue: 0,1:05:54.99,1:05:56.26,Default,,0,0,0,,Sa bahay namin?
+Dialogue: 0,1:05:56.28,1:05:57.63,Default,,0,0,0,,Hindi pwede iyon.
+Dialogue: 0,1:05:57.66,1:05:59.01,Default,,0,0,0,,Malamang nagdadrama siya.
+Dialogue: 0,1:05:59.03,1:06:01.36,Default,,0,0,0,,Mayroon kaming katulad.
+Dialogue: 0,1:06:03.41,1:06:05.35,Default,,0,0,0,,Sinabi niya sa akin kung paano niya binuo...
+Dialogue: 0,1:06:05.37,1:06:07.31,Default,,0,0,0,,isang panic room.
+Dialogue: 0,1:06:07.33,1:06:08.98,Default,,0,0,0,,Tama ka. narinig ko rin,
+Dialogue: 0,1:06:09.00,1:06:10.27,Default,,0,0,0,,pero nasaan na?
+Dialogue: 0,1:06:10.29,1:06:11.90,Default,,0,0,0,,Narinig lang namin ang tungkol dito.
+Dialogue: 0,1:06:11.92,1:06:14.27,Default,,0,0,0,,Walang nakakaalam kung nasaan ito.
+Dialogue: 0,1:06:14.30,1:06:17.11,Default,,0,0,0,,Kahit ang floor plan ay walang ipinakita.
+Dialogue: 0,1:06:17.13,1:06:18.40,Default,,0,0,0,,Totoo yan,
+Dialogue: 0,1:06:18.43,1:06:22.51,Default,,0,0,0,,ngunit maaaring mayroong lihim na floor plan.
+Dialogue: 0,1:06:24.23,1:06:26.75,Default,,0,0,0,,Kung nandito ang pera gaya ng sinabi ni Grace,
+Dialogue: 0,1:06:26.77,1:06:28.00,Default,,0,0,0,,kung gayon alam ko.
+Dialogue: 0,1:06:28.02,1:06:31.72,Default,,0,0,0,,Lahat ng pera na iyon ay hindi magkakasya sa ilang safe.
+Dialogue: 0,1:06:32.48,1:06:33.88,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Oo, at mayroon din kaming kwartong iyon.{\c}{\i0}
+Dialogue: 0,1:06:33.90,1:06:36.16,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Alam mo ba ang pelikulang may\Nsecret room, "Shock Room"?{\c}{\i0}
+Dialogue: 0,1:06:36.19,1:06:38.72,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Ito ay "Panic Room," ang tanga mo.{\c}{\i0}
+Dialogue: 0,1:06:39.62,1:06:42.19,Default,,0,0,0,,Narinig kong may panic room ang lugar na ito.
+Dialogue: 0,1:06:44.75,1:06:47.03,Default,,0,0,0,,Alam mo ba ang tungkol dito?
+Dialogue: 0,1:06:50.82,1:06:52.25,Default,,0,0,0,,Hindi ito ang Yongdu-ri Quintet.
+Dialogue: 0,1:06:52.28,1:06:53.27,Default,,0,0,0,,Ito ay isang trio.
+Dialogue: 0,1:06:53.30,1:06:57.08,Default,,0,0,0,,Sasamahan nila tayo sa inuman\N mamaya pagkatapos nating magpatrolya.
+Dialogue: 0,1:06:58.55,1:06:59.78,Default,,0,0,0,,Sino iyon, sa oras na ito?
+Dialogue: 0,1:06:59.80,1:07:01.70,Default,,0,0,0,,Siguro sila yung mga lalaking yun kanina.
+Dialogue: 0,1:07:01.72,1:07:05.34,Default,,0,0,0,,Dapat nagdala kami ng Taser o kung ano.
+Dialogue: 0,1:07:05.47,1:07:06.74,Default,,0,0,0,,- Taxi ito.\N- Taxi?
+Dialogue: 0,1:07:06.77,1:07:08.97,Default,,0,0,0,,Nagmaneho sila ng itim na van.
+Dialogue: 0,1:07:11.48,1:07:13.13,Default,,0,0,0,,Sino kaya sila?
+Dialogue: 0,1:07:13.15,1:07:16.04,Default,,0,0,0,,Bakit sila magdadala ng\N maleta dito sa ganitong oras?
+Dialogue: 0,1:07:16.07,1:07:17.85,Default,,0,0,0,,Hindi ba ito ang sinasabi nila tungkol sa mga mamamatay-tao...
+Dialogue: 0,1:07:17.88,1:07:19.56,Default,,0,0,0,,- sa balita?\N- Tawagan ko ba sila?
+Dialogue: 0,1:07:19.59,1:07:21.19,Default,,0,0,0,,Dapat ba?
+Dialogue: 0,1:07:59.61,1:08:01.40,Default,,0,0,0,,Kumusta ka na?
+Dialogue: 0,1:08:02.74,1:08:04.61,Default,,0,0,0,,Sigurado akong...
+Dialogue: 0,1:08:05.41,1:08:07.07,Default,,0,0,0,,may...
+Dialogue: 0,1:08:07.66,1:08:10.07,Default,,0,0,0,,isang magandang panaginip kagabi.
+Dialogue: 0,1:08:36.48,1:08:37.46,Default,,0,0,0,,Pasensya na.
+Dialogue: 0,1:08:37.48,1:08:40.59,Default,,0,0,0,,Ito ang lahat maliban sa\Npera na ginastos sa flight at hotel.
+Dialogue: 0,1:08:40.61,1:08:42.46,Default,,0,0,0,,Bumili ako ng condo sa U.S.
+Dialogue: 0,1:08:42.49,1:08:43.97,Default,,0,0,0,,pero ibabalik ko ang pera.
+Dialogue: 0,1:08:43.99,1:08:46.38,Default,,0,0,0,,Ibibigay ko sa iyo kapag nakuha ko na.
+Dialogue: 0,1:08:46.41,1:08:48.24,Default,,0,0,0,,I'm really sorry.
+Dialogue: 0,1:08:49.58,1:08:50.64,Default,,0,0,0,,Alam mo bang...
+Dialogue: 0,1:08:50.66,1:08:52.97,Default,,0,0,0,,ano ang nagawa mo?
+Dialogue: 0,1:08:53.00,1:08:55.23,Default,,0,0,0,,Ang pagbabalik ng pera ay hindi makakabawas dito.
+Dialogue: 0,1:08:55.25,1:08:56.81,Default,,0,0,0,,- Nay.\N- Alam ko naman yun.
+Dialogue: 0,1:08:56.84,1:08:59.20,Default,,0,0,0,,Alam kong hindi ito mapapatawad.
+Dialogue: 0,1:09:00.21,1:09:01.75,Default,,0,0,0,,Talagang...
+Dialogue: 0,1:09:02.38,1:09:03.90,Default,,0,0,0,,pasensya na.
+Dialogue: 0,1:09:03.93,1:09:06.15,Default,,0,0,0,,Gabi na, at kailangan nating matulog lahat.
+Dialogue: 0,1:09:06.18,1:09:07.96,Default,,0,0,0,,Matulog ka muna.
+Dialogue: 0,1:09:08.06,1:09:09.41,Default,,0,0,0,,Okay. pwede ka na matulog...
+Dialogue: 0,1:09:09.43,1:09:11.80,Default,,0,0,0,,- doon...\N- Wag kang maging absurd.
+Dialogue: 0,1:09:12.43,1:09:14.91,Default,,0,0,0,,Ayokong makita ka o ang bagay na iyon, kaya umalis ka na.
+Dialogue: 0,1:09:14.94,1:09:18.31,Default,,0,0,0,,Ang pangalan niya ay Geon-u,
+Dialogue: 0,1:09:18.98,1:09:21.88,Default,,0,0,0,,at wala kang karapatang sabihan silang umalis.
+Dialogue: 0,1:09:21.90,1:09:24.48,Default,,0,0,0,,Hindi ito ang aming tahanan.
+Dialogue: 0,1:09:25.49,1:09:27.40,Default,,0,0,0,,Tama siya, Seon-hwa.
+Dialogue: 0,1:09:29.87,1:09:32.35,Default,,0,0,0,,So titira ka\Nkasama ang baby ng iba?
+Dialogue: 0,1:09:32.37,1:09:33.81,Default,,0,0,0,,Anak ko siya!
+Dialogue: 0,1:09:33.83,1:09:36.44,Default,,0,0,0,,Pinutol ko ang pusod niya,\Nsang lullabies sa kanya gabi-gabi,
+Dialogue: 0,1:09:36.46,1:09:37.52,Default,,0,0,0,,at ako mismo ang nagpaligo sa kanya.
+Dialogue: 0,1:09:37.54,1:09:39.60,Default,,0,0,0,,Geon-u...
+Dialogue: 0,1:09:39.63,1:09:42.71,Default,,0,0,0,,sabi ng "Dad" bago pa man niya masabi ang "Mom"!
+Dialogue: 0,1:09:50.39,1:09:52.09,Default,,0,0,0,,Bumangon.
+Dialogue: 0,1:10:04.45,1:10:06.44,Default,,0,0,0,,Pero...
+Dialogue: 0,1:10:16.87,1:10:19.58,Default,,0,0,0,,Kailangan nating linisin ang ilang bagay.
+Dialogue: 0,1:10:22.09,1:10:23.86,Default,,0,0,0,,Ano ang dapat nating tawagan sa isa't isa?
+Dialogue: 0,1:10:23.88,1:10:26.27,Default,,0,0,0,,Alam mo ang edad ko, kaya hindi na tayo\N maging tulad ng dati.
+Dialogue: 0,1:10:26.30,1:10:27.61,Default,,0,0,0,,Wala akong pakialam.
+Dialogue: 0,1:10:27.64,1:10:29.45,Default,,0,0,0,,Pakialam ko. mas matanda ako sayo.
+Dialogue: 0,1:10:29.47,1:10:33.09,Default,,0,0,0,,Gusto mo bang tratuhin kita bilang isa?
+Dialogue: 0,1:10:33.60,1:10:35.13,Default,,0,0,0,,Ma'am?
+Dialogue: 0,1:10:36.52,1:10:39.55,Default,,0,0,0,,Hindi na ako bumalik para magsama ulit tayo.
+Dialogue: 0,1:10:40.73,1:10:43.35,Default,,0,0,0,,- Tapos?\N- Dumating ako para ibalik lahat,
+Dialogue: 0,1:10:43.73,1:10:45.27,Default,,0,0,0,,at Jun-ho...
+Dialogue: 0,1:10:47.40,1:10:51.61,Default,,0,0,0,,Pinaplano ng hatak na iyon na\I-iwas ka bilang kanyang scapegoat.
+Dialogue: 0,1:10:51.87,1:10:53.72,Default,,0,0,0,,Tigilan mo siya, kung hindi, makukulong ka.
+Dialogue: 0,1:10:53.74,1:10:56.24,Default,,0,0,0,,Kaya pumunta ka dito para lang sabihin sa akin yun?
+Dialogue: 0,1:10:58.96,1:11:00.70,Default,,0,0,0,,Nag-aalala ako.
+Dialogue: 0,1:11:01.09,1:11:04.66,Default,,0,0,0,,Nagpakasal lang ako para mooch off...
+Dialogue: 0,1:11:05.13,1:11:07.87,Default,,0,0,0,,ng isang tanga, mayaman.
+Dialogue: 0,1:11:12.64,1:11:15.22,Default,,0,0,0,,Hindi kita inaasahan...
+Dialogue: 0,1:11:16.73,1:11:18.51,Default,,0,0,0,,to care...
+Dialogue: 0,1:11:19.31,1:11:21.14,Default,,0,0,0,,sobra tungkol sa akin.
+Dialogue: 0,1:11:25.32,1:11:27.42,Default,,0,0,0,,Wala pang...
+Dialogue: 0,1:11:27.44,1:11:29.71,Default,,0,0,0,,Tinatrato mo ako sa paraang ginawa mo.
+Dialogue: 0,1:11:29.74,1:11:32.77,Default,,0,0,0,,Hindi ko makalimutan kung gaano kahusay...
+Dialogue: 0,1:11:34.83,1:11:36.78,Default,,0,0,0,,ginamot mo ako.
+Dialogue: 0,1:11:37.45,1:11:40.57,Default,,0,0,0,,Ni hindi ako nakakain ng maayos.
+Dialogue: 0,1:11:42.54,1:11:44.02,Default,,0,0,0,,Kaya ako nandito.
+Dialogue: 0,1:11:44.04,1:11:45.56,Default,,0,0,0,,Pumunta ka dito para sabihin sa akin yan?
+Dialogue: 0,1:11:45.59,1:11:47.86,Default,,0,0,0,,Talaga? At kapag tapos ka na,
+Dialogue: 0,1:11:47.88,1:11:49.79,Default,,0,0,0,,aalis ka na naman?
+Dialogue: 0,1:11:53.35,1:11:55.42,Default,,0,0,0,,Nahihiya din ako.
+Dialogue: 0,1:11:56.14,1:11:57.20,Default,,0,0,0,,Hindi kita kayang tumira.
+Dialogue: 0,1:11:57.22,1:11:58.66,Default,,0,0,0,,No.
+Dialogue: 0,1:11:58.68,1:12:00.80,Default,,0,0,0,,Dapat akong tumira sa iyo.
+Dialogue: 0,1:12:03.15,1:12:04.67,Default,,0,0,0,,Wala akong pakialam kung bakit ka nandito.
+Dialogue: 0,1:12:04.69,1:12:07.23,Default,,0,0,0,,Titira ako sa iyo.
+Dialogue: 0,1:12:08.32,1:12:10.85,Default,,0,0,0,,Hinding-hindi na ako papayag na umalis ka o ang anak ko.
+Dialogue: 0,1:12:13.49,1:12:15.22,Default,,0,0,0,,Pumunta kung gusto mo.
+Dialogue: 0,1:12:15.24,1:12:17.10,Default,,0,0,0,,Hahanapin kita, nasaan ka man.
+Dialogue: 0,1:12:17.12,1:12:18.65,Default,,0,0,0,,Ikaw talaga...
+Dialogue: 0,1:12:18.95,1:12:21.41,Default,,0,0,0,,wag kang makinig ha?
+Dialogue: 0,1:12:22.71,1:12:25.20,Default,,0,0,0,,- Mas matanda ako sayo.\N- Manahimik ka.
+Dialogue: 0,1:12:36.43,1:12:37.49,Default,,0,0,0,,- Kaya...\N- Excuse me.
+Dialogue: 0,1:12:37.51,1:12:40.49,Default,,0,0,0,,Magkaroon ng ilan dito.
+Dialogue: 0,1:12:40.52,1:12:41.70,Default,,0,0,0,,Salamat.
+Dialogue: 0,1:12:41.73,1:12:43.43,Default,,0,0,0,,Salamat.
+Dialogue: 0,1:12:43.81,1:12:45.67,Default,,0,0,0,,Siya ang panginoon ko...
+Dialogue: 0,1:12:45.69,1:12:48.25,Default,,0,0,0,,- Hindi siya mukhang nanay.\N- Stop staring.
+Dialogue: 0,1:12:48.28,1:12:50.36,Default,,0,0,0,,I heard she made quite an entrance.
+Dialogue: 0,1:12:50.39,1:12:51.38,Default,,0,0,0,,Nakakabaliw.
+Dialogue: 0,1:12:51.40,1:12:53.47,Default,,0,0,0,,Sinabi sa akin ng asawa ko ang tungkol dito.
+Dialogue: 0,1:12:53.49,1:12:56.97,Default,,0,0,0,,Siya ay lumitaw sa kalagitnaan ng\Ngabi habang hawak ang ulo ni Buddha.
+Dialogue: 0,1:12:56.99,1:12:59.30,Default,,0,0,0,,Nabigla ang asawa ko.
+Dialogue: 0,1:12:59.33,1:13:02.60,Default,,0,0,0,,Patuloy siyang nagkakaroon ng sleep paralysis...
+Dialogue: 0,1:13:02.62,1:13:03.68,Default,,0,0,0,,at paggising.
+Dialogue: 0,1:13:03.71,1:13:04.77,Default,,0,0,0,,Sabi ko sayo.
+Dialogue: 0,1:13:04.79,1:13:07.35,Default,,0,0,0,, Kailangan ni Chun-sik ng black goat extract.
+Dialogue: 0,1:13:07.38,1:13:09.27,Default,,0,0,0,,- Tapos pakainin mo siya.\N- Talaga?
+Dialogue: 0,1:13:09.30,1:13:12.57,Default,,0,0,0,,Gawa ba talaga sa ginto ang gintong Buddha na iyon?
+Dialogue: 0,1:13:12.59,1:13:13.65,Default,,0,0,0,,Purong ginto?
+Dialogue: 0,1:13:13.68,1:13:15.63,Default,,0,0,0,,Binabugbog ako.
+Dialogue: 0,1:13:18.51,1:13:22.08,Default,,0,0,0,,Ano ang sinasabi ng iyong kutob? Dapat tayong magpasya sa pagitan ng "gusto" o "hindi gusto."
+Dialogue: 0,1:13:22.10,1:13:23.45,Default,,0,0,0,,- Anong ibig mong sabihin?\N- I mean...
+Dialogue: 0,1:13:23.48,1:13:26.87,Default,,0,0,0,,Madalas natin siyang masasapak, kaya kailangan nating malaman...
+Dialogue: 0,1:13:26.90,1:13:29.92,Default,,0,0,0,,anong uri ng paninindigan ang dapat gawin.
+Dialogue: 0,1:13:29.94,1:13:31.63,Default,,0,0,0,,Tatanggapin ba natin siya o papansinin?
+Dialogue: 0,1:13:31.65,1:13:32.71,Default,,0,0,0,,Eksakto.
+Dialogue: 0,1:13:32.74,1:13:34.26,Default,,0,0,0,,Gusto ba o ayaw?
+Dialogue: 0,1:13:34.28,1:13:36.56,Default,,0,0,0,,Gagawin namin ang sinabi mo.
+Dialogue: 0,1:13:37.91,1:13:40.11,Default,,0,0,0,,Hindi pa ako sigurado.
+Dialogue: 0,1:13:41.91,1:13:43.35,Default,,0,0,0,,Hindi ikaw?
+Dialogue: 0,1:13:43.37,1:13:45.89,Default,,0,0,0,,Masama ang loob ko sa kanya,
+Dialogue: 0,1:13:45.92,1:13:47.85,Default,,0,0,0,,pero may nararamdaman din.
+Dialogue: 0,1:13:47.88,1:13:50.29,Default,,0,0,0,,Kailangan ko siyang bantayan ng kaunti.
+Dialogue: 0,1:14:23.62,1:14:25.22,Default,,0,0,0,,Naalala pa niya...
+Dialogue: 0,1:14:25.25,1:14:27.74,Default,,0,0,0,,laki ko.
+Dialogue: 0,1:14:29.79,1:14:33.20,Default,,0,0,0,,Isang round brilliant cut?
+Dialogue: 0,1:14:40.72,1:14:42.84,Default,,0,0,0,,Hindi ka ba pumasok sa trabaho?
+Dialogue: 0,1:14:44.60,1:14:46.13,Default,,0,0,0,,Oo,
+Dialogue: 0,1:14:46.94,1:14:49.18,Default,,0,0,0,,pero may nakalimutan ako.
+Dialogue: 0,1:14:58.82,1:15:00.86,Default,,0,0,0,,Ibabalik ko ito.
+Dialogue: 0,1:15:02.03,1:15:04.01,Default,,0,0,0,,Naisip ko ang sinabi mo.
+Dialogue: 0,1:15:04.04,1:15:06.78,Default,,0,0,0,,I think I pushed advance too much.
+Dialogue: 0,1:15:07.46,1:15:10.58,Default,,0,0,0,,Ibabalik ko ito papunta sa trabaho ngayon.
+Dialogue: 0,1:15:13.46,1:15:15.27,Default,,0,0,0,,Ngayon?
+Dialogue: 0,1:15:15.30,1:15:18.12,Default,,0,0,0,,Hindi ito ang mahalaga sa ngayon.
+Dialogue: 0,1:15:18.34,1:15:19.32,Default,,0,0,0,,Huwag kang sumama.
+Dialogue: 0,1:15:19.34,1:15:21.92,Default,,0,0,0,,Okay lang talaga ako.
+Dialogue: 0,1:15:25.64,1:15:27.26,Default,,0,0,0,,Okay, kung gayon.
+Dialogue: 0,1:15:43.74,1:15:45.61,Default,,0,0,0,,Ano?
+Dialogue: 0,1:15:46.04,1:15:47.64,Default,,0,0,0,,Ano ito?
+Dialogue: 0,1:15:47.66,1:15:48.89,Default,,0,0,0,,ako lang...
+Dialogue: 0,1:15:48.91,1:15:50.35,Default,,0,0,0,,sinubukan ito.
+Dialogue: 0,1:15:50.37,1:15:52.64,Default,,0,0,0,,Ito ay isang bagong disenyo.\NI gustong pag-aralan ang mga uso.
+Dialogue: 0,1:15:52.67,1:15:56.62,Default,,0,0,0,,I can't slack off just\Nkasi nagpapahinga ako.
+Dialogue: 0,1:15:58.55,1:16:01.28,Default,,0,0,0,,Totoo iyon.
+Dialogue: 0,1:16:01.30,1:16:02.90,Default,,0,0,0,,Nagustuhan ko ang singsing.
+Dialogue: 0,1:16:02.93,1:16:06.34,Default,,0,0,0,,Alam mong bagay sa akin ang mga singsing.
+Dialogue: 0,1:16:06.52,1:16:07.66,Default,,0,0,0,,Maganda ang mata mo.
+Dialogue: 0,1:16:07.68,1:16:08.91,Default,,0,0,0,,Ibibigay ko sayo yan,
+Dialogue: 0,1:16:08.93,1:16:10.33,Default,,0,0,0,,pero...
+Dialogue: 0,1:16:10.35,1:16:12.75,Default,,0,0,0,,yan lang,
+Dialogue: 0,1:16:12.77,1:16:15.85,Default,,0,0,0,,kaya huwag mong mali ang interpretasyon sa mga kilos ko.
+Dialogue: 0,1:16:16.28,1:16:17.98,Default,,0,0,0,,Maghintay.
+Dialogue: 0,1:16:18.24,1:16:21.59,Default,,0,0,0,,Sigurado ka bang natapos mo na ang pagsusuri sa mga uso?
+Dialogue: 0,1:16:21.61,1:16:23.56,Default,,0,0,0,,Baka pag-aralan mo pa.
+Dialogue: 0,1:16:24.24,1:16:25.68,Default,,0,0,0,,Tapos ko na itong pag-aralan.
+Dialogue: 0,1:16:25.70,1:16:27.49,Default,,0,0,0,,Aalis na ako.
+Dialogue: 0,1:16:36.17,1:16:37.69,Default,,0,0,0,,Hae-in.
+Dialogue: 0,1:16:37.71,1:16:38.94,Default,,0,0,0,,Hindi ko na ibabalik.
+Dialogue: 0,1:16:38.96,1:16:41.86,Default,,0,0,0,,Iiwan ko ito sa dati.
+Dialogue: 0,1:16:41.88,1:16:43.65,Default,,0,0,0,,{\i1}Kailangan mong suriin ang mga uso,{\i0}
+Dialogue: 0,1:16:43.68,1:16:46.09,Default,,0,0,0,,{\i1}kaya isuot mo ito kahit kailan mo gusto.{\i0}
+Dialogue: 0,1:16:52.60,1:16:54.54,Default,,0,0,0,,Isang panic room? Katulad ng nasa pelikula...
+Dialogue: 0,1:16:54.56,1:16:57.08,Default,,0,0,0,,para kapag may nuclear\Nbomb? Kung saan may mga baril...
+Dialogue: 0,1:16:57.11,1:16:59.09,Default,,0,0,0,,at taon na halaga ng pagkain?
+Dialogue: 0,1:16:59.11,1:17:02.67,Default,,0,0,0,,Hindi ako sigurado sa bahaging iyon, ngunit\Nbinanggit ng chairman ang isang panic room,
+Dialogue: 0,1:17:02.70,1:17:04.80,Default,,0,0,0,,ngunit walang nakakaalam kung saan ito matatagpuan.
+Dialogue: 0,1:17:06.24,1:17:08.51,Default,,0,0,0,,- Paano naman sa rehistro?\N- Wala doon.
+Dialogue: 0,1:17:08.54,1:17:10.39,Default,,0,0,0,,- Itanong mo sa designer.\N- Namatay siya.
+Dialogue: 0,1:17:10.41,1:17:12.89,Default,,0,0,0,,Ang anak ang pumalit sa kompanya.
+Dialogue: 0,1:17:12.91,1:17:14.35,Default,,0,0,0,,Tapos tanungin mo siya.
+Dialogue: 0,1:17:14.37,1:17:15.77,Default,,0,0,0,,Ginawa ko,
+Dialogue: 0,1:17:15.79,1:17:16.77,Default,,0,0,0,,at hindi niya alam.
+Dialogue: 0,1:17:16.79,1:17:19.40,Default,,0,0,0,,Hiningi ko yung floor plan,\Npero wala siya.
+Dialogue: 0,1:17:19.42,1:17:22.07,Default,,0,0,0,,Tuloy-tuloy akong tumatawag sa kanya, at\Nngayon ay hindi na siya sumasagot.
+Dialogue: 0,1:17:22.09,1:17:23.48,Default,,0,0,0,,Talaga?
+Dialogue: 0,1:17:23.51,1:17:24.69,Default,,0,0,0,,Ano ang gagawin mo?
+Dialogue: 0,1:17:24.72,1:17:26.57,Default,,0,0,0,,Wala akong masyadong magagawa.
+Dialogue: 0,1:17:26.60,1:17:29.49,Default,,0,0,0,,Kailangan ng ibang tao na kumbinsihin siya.
+Dialogue: 0,1:17:29.51,1:17:31.03,Default,,0,0,0,,Sino?
+Dialogue: 0,1:17:31.06,1:17:32.08,Default,,0,0,0,,- Ikaw.\N- Ako?
+Dialogue: 0,1:17:32.10,1:17:34.66,Default,,0,0,0,,Goodness, nagkita tayong muli.
+Dialogue: 0,1:17:34.69,1:17:36.62,Default,,0,0,0,,Hindi mo alam ang hinaharap.
+Dialogue: 0,1:17:36.65,1:17:37.79,Default,,0,0,0,,Sumasang-ayon ako.
+Dialogue: 0,1:17:37.81,1:17:40.38,Default,,0,0,0,,Nakilala ko na ulit ang lifesaver ko.
+Dialogue: 0,1:17:40.40,1:17:43.06,Default,,0,0,0,,Sus, hindi ko deserve ang titulong iyon.
+Dialogue: 0,1:17:45.07,1:17:46.38,Default,,0,0,0,,Kumusta ang building sa Pangyo?
+Dialogue: 0,1:17:46.41,1:17:48.22,Default,,0,0,0,,Mabuti, at salamat sa iyo.
+Dialogue: 0,1:17:48.24,1:17:50.18,Default,,0,0,0,,Muntik na akong mawala.
+Dialogue: 0,1:17:50.20,1:17:53.92,Default,,0,0,0,,Nga pala, narinig ko ang kaibigan ko dito na ginugulo ka.
+Dialogue: 0,1:17:53.94,1:17:54.93,Default,,0,0,0,,Humihingi ako ng paumanhin.
+Dialogue: 0,1:17:54.96,1:17:58.79,Default,,0,0,0,,Ayokong makisali\Nin something complicated.
+Dialogue: 0,1:17:58.88,1:18:01.73,Default,,0,0,0,,Hindi, pasensya na sa paghingi ng ganyang pabor.
+Dialogue: 0,1:18:01.76,1:18:03.78,Default,,0,0,0,,Kung ang panic room na ito ay ginawa para sa paglikas,
+Dialogue: 0,1:18:03.80,1:18:07.20,Default,,0,0,0,,air pipe at electrical installation\Npara sa bentilasyon at komunikasyon...
+Dialogue: 0,1:18:07.22,1:18:08.66,Default,,0,0,0,,dapat naka-install,
+Dialogue: 0,1:18:08.69,1:18:10.60,Default,,0,0,0,,ngunit wala akong mahanap sa floor plan.
+Dialogue: 0,1:18:10.62,1:18:13.28,Default,,0,0,0,,Paano natin ito mahahanap? Dapat nating baligtarin ang lugar.
+Dialogue: 0,1:18:13.30,1:18:14.29,Default,,0,0,0,,Ano ang kawili-wili...
+Dialogue: 0,1:18:14.32,1:18:16.79,Default,,0,0,0,,{\i1}yun ba ang elevator niya na\Nkumokonekta sa basement...{\i0}
+Dialogue: 0,1:18:16.81,1:18:20.25,Default,,0,0,0,,{\i1}ay espesyal na ginawa hindi katulad ng iba.{\i0}
+Dialogue: 0,1:18:20.27,1:18:21.63,Default,,0,0,0,,{\i1}Ang elevator niya?{\i0}
+Dialogue: 0,1:18:21.65,1:18:24.14,Default,,0,0,0,,Walang kakaiba sa pakiramdam ko.
+Dialogue: 0,1:18:32.08,1:18:33.97,Default,,0,0,0,,{\i1}Mayroon itong dalawang pinto.{\i0}
+Dialogue: 0,1:18:34.00,1:18:36.81,Default,,0,0,0,,{\i1}Ang likod na bahagi ay isang pinto din.{\i0}
+Dialogue: 0,1:18:36.83,1:18:39.48,Default,,0,0,0,,Ang pintuan sa harap ay patungo sa silid ng pamilya,
+Dialogue: 0,1:18:39.50,1:18:43.27,Default,,0,0,0,,{\i1}ngunit ang pinto sa likod ay humahantong sa isang\Nbuong magkaibang espasyo. Iyon ba?{\i0}
+Dialogue: 0,1:18:43.30,1:18:44.69,Default,,0,0,0,,{\i1}At iyon ang panic room?{\i0}
+Dialogue: 0,1:18:44.72,1:18:47.49,Default,,0,0,0,,{\i1}Iyan ang hula ko, ngunit kailangan kong suriin.{\i0}
+Dialogue: 0,1:18:47.51,1:18:51.11,Default,,0,0,0,,- Hindi ba pwedeng salakayin na lang natin ang lugar?\N- Mahigpit ang seguridad.
+Dialogue: 0,1:18:51.14,1:18:52.95,Default,,0,0,0,,Kakasuhan tayo ng trespassing.
+Dialogue: 0,1:18:52.97,1:18:56.41,Default,,0,0,0,,Pero paano kung mahanap ito ni Seul-hee bago natin gawin?
+Dialogue: 0,1:18:56.44,1:18:58.16,Default,,0,0,0,,Nakipag-usap ako sa kanyang doktor ngayon.
+Dialogue: 0,1:18:58.19,1:19:00.33,Default,,0,0,0,,Sinabi sa akin ng kanyang doktor na hindi pa siya nakakatanggap ng...
+Dialogue: 0,1:19:00.36,1:19:02.29,Default,,0,0,0,,anumang mandatory na paggamot,
+Dialogue: 0,1:19:02.32,1:19:04.09,Default,,0,0,0,,tulad ng rehabilitasyon o memory training,
+Dialogue: 0,1:19:04.11,1:19:05.92,Default,,0,0,0,,mula nang magising siya at umuwi.
+Dialogue: 0,1:19:05.94,1:19:09.30,Default,,0,0,0,,Malamang wala na siyang gamot,\Npero hindi na siya nakapag-appointment.
+Dialogue: 0,1:19:09.32,1:19:11.68,Default,,0,0,0,,Ano? Alam kong mangyayari ito.
+Dialogue: 0,1:19:11.70,1:19:13.80,Default,,0,0,0,,Ano ang dapat nating gawin?
+Dialogue: 0,1:19:13.83,1:19:16.35,Default,,0,0,0,,Maaari namin silang iulat para sa pagkakulong,
+Dialogue: 0,1:19:16.37,1:19:18.27,Default,,0,0,0,,at pumasok sa bahay...
+Dialogue: 0,1:19:18.29,1:19:19.95,Default,,0,0,0,,sa pulis.
+Dialogue: 0,1:19:20.21,1:19:22.48,Default,,0,0,0,,At tingnan ang elevator?
+Dialogue: 0,1:19:22.50,1:19:26.12,Default,,0,0,0,,Una muna tayong lahat sa umaga.
+Dialogue: 0,1:20:05.63,1:20:07.66,Default,,0,0,0,,Bumalik ka.
+Dialogue: 0,1:20:09.88,1:20:11.49,Default,,0,0,0,,Alam ko.
+Dialogue: 0,1:20:11.51,1:20:13.59,Default,,0,0,0,,Mukhang medyo off ka...
+Dialogue: 0,1:20:13.64,1:20:17.26,Default,,0,0,0,,mula nang dumating si Hae-in.
+Dialogue: 0,1:20:19.18,1:20:21.54,Default,,0,0,0,,Napapaisip ka ba paminsan-minsan?
+Dialogue: 0,1:20:21.56,1:20:24.62,Default,,0,0,0,,Ngunit ang tagal ay masyadong\Nmaikli para magawa mo ang anumang bagay.
+Dialogue: 0,1:20:24.65,1:20:26.46,Default,,0,0,0,,Hindi ka maaaring humiling ng tulong.
+Dialogue: 0,1:20:26.48,1:20:27.71,Default,,0,0,0,,Hindi ka malayang makagalaw.
+Dialogue: 0,1:20:27.73,1:20:29.17,Default,,0,0,0,,Wala ka ring telepono.
+Dialogue: 0,1:20:29.19,1:20:31.94,Default,,0,0,0,,Impyerno siguro ang lugar na ito, di ba?
+Dialogue: 0,1:20:32.24,1:20:33.67,Default,,0,0,0,,Tama ka.
+Dialogue: 0,1:20:33.70,1:20:35.27,Default,,0,0,0,,Ito ay...
+Dialogue: 0,1:20:35.70,1:20:36.72,Default,,0,0,0,,isang buhay na impiyerno,
+Dialogue: 0,1:20:36.74,1:20:38.44,Default,,0,0,0,,at...
+Dialogue: 0,1:20:38.75,1:20:40.01,Default,,0,0,0,,Pinaparusahan ako.
+Dialogue: 0,1:20:40.04,1:20:41.93,Default,,0,0,0,,Kaya nga binigay ko sayo yung pill na yun,
+Dialogue: 0,1:20:41.96,1:20:44.85,Default,,0,0,0,,para makatulog ka nang payapa nang walang pag-aalala,
+Dialogue: 0,1:20:44.88,1:20:46.60,Default,,0,0,0,,so bakit hindi mo kunin ang mga ito?
+Dialogue: 0,1:20:46.63,1:20:48.48,Default,,0,0,0,,Moh Seul-hee.
+Dialogue: 0,1:20:48.51,1:20:52.33,Default,,0,0,0,,Ito ba palagi ang motibo mo sa pagpunta dito?
+Dialogue: 0,1:20:56.18,1:20:58.57,Default,,0,0,0,,Tapos akala mo minahal kita ng totoo...
+Dialogue: 0,1:20:58.60,1:21:00.72,Default,,0,0,0,,o isang bagay?
+Dialogue: 0,1:21:02.98,1:21:04.46,Default,,0,0,0,,Nakakatakot lang ako?
+Dialogue: 0,1:21:04.48,1:21:05.79,Default,,0,0,0,,Hindi mo ba nami-miss ang iyong mga anak?
+Dialogue: 0,1:21:05.81,1:21:06.92,Default,,0,0,0,,Maaari kang pumunta.
+Dialogue: 0,1:21:06.94,1:21:08.85,Default,,0,0,0,,Sabihin mo lang...
+Dialogue: 0,1:21:09.07,1:21:11.64,Default,,0,0,0,,kung nasaan ang iyong secret fund.
+Dialogue: 0,1:21:13.53,1:21:16.43,Default,,0,0,0,,Wala kang magagawa kung matino ka lang...
+Dialogue: 0,1:21:16.45,1:21:18.39,Default,,0,0,0,,sa maikling sandali sa isang pagkakataon.
+Dialogue: 0,1:21:18.41,1:21:19.89,Default,,0,0,0,,Sabihin mo lang sa akin,
+Dialogue: 0,1:21:19.91,1:21:22.99,Default,,0,0,0,,at magiging maayos ang lahat.
+Dialogue: 0,1:21:26.17,1:21:27.70,Default,,0,0,0,,Sabihin mo sa akin!
+Dialogue: 0,1:22:43.58,1:22:45.37,Default,,0,0,0,,Ano ang nangyayari?
+Dialogue: 0,1:22:45.40,1:22:46.39,Default,,0,0,0,,Hyun-woo.
+Dialogue: 0,1:22:46.41,1:22:48.68,Default,,0,0,0,,Tumawag ka rin ba ng ambulansya?
+Dialogue: 0,1:22:48.71,1:22:50.94,Default,,0,0,0,,Hindi, hindi pa dumarating ang opisyal na nakontak ko.
+Dialogue: 0,1:22:50.96,1:22:52.02,Default,,0,0,0,,Kung gayon ano ang nangyayari?
+Dialogue: 0,1:22:52.05,1:22:54.08,Default,,0,0,0,,May nangyari ba?
+Dialogue: 0,1:22:58.39,1:23:00.42,Default,,0,0,0,,Ano ito?
+Dialogue: 0,1:23:00.51,1:23:02.21,Default,,0,0,0,,Ano ang nangyayari?
+Dialogue: 0,1:23:04.72,1:23:06.63,Default,,0,0,0,,Sabihin mo sa akin.
+Dialogue: 0,1:23:09.15,1:23:10.65,Default,,0,0,0,,- Move.\N- Hindi ka makakapasok.
+Dialogue: 0,1:23:10.67,1:23:11.67,Default,,0,0,0,,Sus.
+Dialogue: 0,1:23:11.69,1:23:13.46,Default,,0,0,0,,{\i1}Si Hong Man-dae, edad 80, ay may dementia.{\i0}
+Dialogue: 0,1:23:13.48,1:23:16.13,Default,,0,0,0,,{\i1}Naniniwala kami na ang cervical-spine\Nfracture ang sanhi ng kamatayan.{\i0}
+Dialogue: 0,1:23:16.15,1:23:19.52,Default,,0,0,0,,{\i1}Malapit na siyang dalhin sa Daemang Hospital.{\i0}
+Dialogue: 0,1:23:20.03,1:23:22.44,Default,,0,0,0,,Tatay!
+Dialogue: 0,1:23:26.00,1:23:29.62,Default,,0,0,0,,Tatay!
+Dialogue: 0,1:23:45.85,1:23:47.38,Default,,0,0,0,,Tatay?
+Dialogue: 0,1:23:47.52,1:23:49.05,Default,,0,0,0,,Ama.
+Dialogue: 0,1:23:49.48,1:23:50.75,Default,,0,0,0,,Ama.
+Dialogue: 0,1:23:50.77,1:23:52.62,Default,,0,0,0,,Nandito na tayo.
+Dialogue: 0,1:23:52.65,1:23:54.35,Default,,0,0,0,,Nandito na tayo.
+Dialogue: 0,1:23:55.48,1:23:57.02,Default,,0,0,0,,Tatay...
+Dialogue: 0,1:23:57.15,1:23:59.35,Default,,0,0,0,,Gawin ang isang bagay...
+Dialogue: 0,1:24:00.41,1:24:01.94,Default,,0,0,0,,Beom-jun.
+Dialogue: 0,1:24:02.41,1:24:04.30,Default,,0,0,0,,Gumawa ng isang bagay.
+Dialogue: 0,1:24:04.33,1:24:07.82,Default,,0,0,0,,Mainit pa rin ang kanyang mga kamay.
+Dialogue: 0,1:24:07.87,1:24:08.93,Default,,0,0,0,,Hindi.
+Dialogue: 0,1:24:08.96,1:24:10.35,Default,,0,0,0,,Ano ang nangyayari?
+Dialogue: 0,1:24:10.37,1:24:11.73,Default,,0,0,0,,Honey.
+Dialogue: 0,1:24:11.75,1:24:13.56,Default,,0,0,0,,Sir.
+Dialogue: 0,1:24:13.59,1:24:16.31,Default,,0,0,0,,Pakibigyan siya ng CPR o anuman.
+Dialogue: 0,1:24:16.34,1:24:17.94,Default,,0,0,0,,- Dad...\N- Sorry.
+Dialogue: 0,1:24:17.96,1:24:19.94,Default,,0,0,0,,Gumawa ka, please.
+Dialogue: 0,1:24:19.97,1:24:22.33,Default,,0,0,0,,Pasensya na. Kailangan natin siyang ilipat.
+Dialogue: 0,1:24:22.68,1:24:24.82,Default,,0,0,0,,Kailangan natin siyang ilipat. pasensya na po.
+Dialogue: 0,1:24:24.85,1:24:27.51,Default,,0,0,0,,- Dad!\N- Excuse us.
+Dialogue: 0,1:24:27.72,1:24:29.33,Default,,0,0,0,,Tatay!
+Dialogue: 0,1:24:29.35,1:24:30.66,Default,,0,0,0,,Teka!
+Dialogue: 0,1:24:30.69,1:24:32.12,Default,,0,0,0,,- Dad!\N- I'm sorry.
+Dialogue: 0,1:24:32.15,1:24:34.67,Default,,0,0,0,,- Teka.\N- Kailangan natin siyang ilipat. pasensya na po.
+Dialogue: 0,1:24:34.69,1:24:36.50,Default,,0,0,0,,- Kailangan nating lumipat. I'm sorry.\N- Dad!
+Dialogue: 0,1:24:36.52,1:24:37.84,Default,,0,0,0,,- I'm sorry.\N- Dad!
+Dialogue: 0,1:24:37.86,1:24:39.46,Default,,0,0,0,,Lolo.
+Dialogue: 0,1:24:39.49,1:24:41.10,Default,,0,0,0,,Lolo.
+Dialogue: 0,1:24:43.74,1:24:45.36,Default,,0,0,0,,Tatay...
+Dialogue: 0,1:24:46.08,1:24:48.53,Default,,0,0,0,,Tatay...
+Dialogue: 0,1:24:49.04,1:24:50.95,Default,,0,0,0,,Tatay...
+Dialogue: 0,1:25:00.34,1:25:03.69,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}Isang kilalang business mogul\Nnamatay kaninang umaga.{\c}{\i0}
+Dialogue: 0,1:25:03.72,1:25:06.41,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}Pagkatapos magsimula bilang isang\Nshoeshine boy sa mga lansangan,{\c}{\i0}
+Dialogue: 0,1:25:06.43,1:25:08.74,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}at pagbuo ng Queens Group\Ninto na isang nangunguna sa industriya,{\c}{\i0}
+Dialogue: 0,1:25:08.77,1:25:11.16,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}Hong Man-dae, ang dating tagapangulo ng Queens Group,{\c}{\i0}
+Dialogue: 0,1:25:11.18,1:25:14.72,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}ay namatay sa edad na 80.{\c}{\i0}
+Dialogue: 0,1:25:15.02,1:25:19.79,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}Siya ay inatake bigla sa puso isang\Nbuwan na ang nakalipas at na-coma.{\c}{\i0}
+Dialogue: 0,1:25:19.82,1:25:24.81,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}Sa kabila ng kamakailang paggising, siya ay\Nnagpakita ng mga palatandaan ng vascular dementia.{\c}{\i0}
+Dialogue: 0,1:25:25.28,1:25:29.97,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}Mahigpit na sinusubaybayan ng industriya\NQueens Group ang sitwasyon ng pamumuno.{\c}{\i0}
+Dialogue: 0,1:25:29.99,1:25:33.93,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}Nilagdaan ni Hong ang power of attorney sa\Nkanyang domestic partner, si Moh Seul-hee,{\c}{\i0}
+Dialogue: 0,1:25:33.96,1:25:37.70,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}na nagbibigay sa kanya ng mga karapatan, gaya ng\Nkontrol sa kanyang mga share at tahanan.{\c}{\i0}
+Dialogue: 0,1:25:37.92,1:25:40.23,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}Gayunpaman, dahil sa kanyang pagpanaw,{\c}{\i0}
+Dialogue: 0,1:25:40.26,1:25:43.42,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}magiging null and void ang kanyang mga karapatan.{\c}{\i0}
+Dialogue: 0,1:27:10.39,1:27:11.95,Default,,0,0,0,,Dahil sa pagkamatay ni Chairman Hong,
+Dialogue: 0,1:27:11.97,1:27:14.78,Default,,0,0,0,,ibibigay ang kanyang buong kayamanan...
+Dialogue: 0,1:27:14.81,1:27:16.41,Default,,0,0,0,,ayon sa kanyang notarized na testamento.
+Dialogue: 0,1:27:16.43,1:27:21.10,Default,,0,0,0,,Ito ay magkakabisa kaagad\N nang hindi nangangailangan ng pag-apruba ng korte.
+Dialogue: 0,1:27:21.77,1:27:23.79,Default,,0,0,0,,Nakuha mo ba yun?
+Dialogue: 0,1:27:23.82,1:27:25.13,Default,,0,0,0,,Mag-pack up at umalis na.
+Dialogue: 0,1:27:25.15,1:27:26.89,Default,,0,0,0,,Hindi ba dapat tumutok...
+Dialogue: 0,1:27:27.11,1:27:29.90,Default,,0,0,0,,sa hiling sa kanya ng kapayapaan sa ngayon?
+Dialogue: 0,1:27:30.24,1:27:34.03,Default,,0,0,0,,Maaari nating pag-usapan ang mga ganitong bagay sa ibang pagkakataon.
+Dialogue: 0,1:27:36.45,1:27:38.91,Default,,0,0,0,,Gustung-gusto niya ang tahanan na ito.
+Dialogue: 0,1:27:40.63,1:27:42.41,Default,,0,0,0,,Pakibigay sa kanya...
+Dialogue: 0,1:27:43.21,1:27:45.20,Default,,0,0,0,,isang huling tour.
+Dialogue: 0,1:27:46.05,1:27:47.87,Default,,0,0,0,,Ang liit mo...!
+Dialogue: 0,1:29:01.37,1:29:02.47,Default,,0,0,0,,Mapalad ka...
+Dialogue: 0,1:29:02.50,1:29:04.46,Default,,0,0,0,,may guwapo at matalinong anak.
+Dialogue: 0,1:29:04.48,1:29:05.48,Default,,0,0,0,,Oo.
+Dialogue: 0,1:29:05.50,1:29:07.02,Default,,0,0,0,,Magaling siya sa boxing...
+Dialogue: 0,1:29:07.05,1:29:08.73,Default,,0,0,0,,at swimming din.
+Dialogue: 0,1:29:08.76,1:29:10.01,Default,,0,0,0,,Tama.
+Dialogue: 0,1:29:10.03,1:29:11.03,Default,,0,0,0,,Tingnan dito.
+Dialogue: 0,1:29:11.05,1:29:13.99,Default,,0,0,0,,Pumunta pa siya sa isang Marine Corps Camp ng mga bata.
+Dialogue: 0,1:29:14.01,1:29:15.65,Default,,0,0,0,,Siya minsan...
+Dialogue: 0,1:29:15.68,1:29:18.42,Default,,0,0,0,, kahit na nailigtas ang isang bata mula sa pagkalunod.
+Dialogue: 0,1:29:20.93,1:29:23.16,Default,,0,0,0,,{\i1}{\c&HFFFF00&}- Ano ang nangyayari?\N- Huwag kang pumunta doon.{\c}{\i0}
+Dialogue: 0,1:29:23.19,1:29:26.75,Default,,0,0,0,,{\i1}{\c&HFFFF00&}- Ano ang nangyayari?\N- Bilisan mo!{\c}{\i0}
+Dialogue: 0,1:29:26.77,1:29:31.10,Default,,0,0,0,,{\i1}{\c&HFFFF00&}- Ano ang nangyayari?\N- Ano ang nangyayari?{\c}{\i0}
+Dialogue: 0,1:29:35.41,1:29:37.04,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Hae-in!{\c}{\i0}
+Dialogue: 0,1:29:37.74,1:29:39.90,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Hae-in!{\c}{\i0}
+Dialogue: 0,1:30:26.96,1:30:28.66,Default,,0,0,0,,{\i1}{\c&HFFFF00&}- Dalawa.\N- Dalawa.{\c}{\i0}
+Dialogue: 0,1:30:30.46,1:30:32.04,Default,,0,0,0,,{\i1}{\c&HFFFF00&}- Tatlo.\N- Tatlo.{\c}{\i0}
+Dialogue: 0,1:30:35.30,1:30:37.50,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Bakit ka pumasok doon?{\c}{\i0}
+Dialogue: 0,1:30:37.68,1:30:39.80,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Okay ka lang? Sumama ka.{\c}{\i0}
+Dialogue: 0,1:30:51.48,1:30:54.02,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Su-wan...{\c}{\i0}
+Dialogue: 0,1:30:54.32,1:30:57.48,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Hindi, Su-wan...{\c}{\i0}
+Dialogue: 0,1:30:57.95,1:31:00.48,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Su-wan, please!{\c}{\i0}
+Dialogue: 0,1:31:01.83,1:31:03.86,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Kaawa-awa kong anak!{\c}{\i0}
+Dialogue: 0,1:31:05.25,1:31:06.60,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Su-wan!{\c}{\i0}
+Dialogue: 0,1:31:06.62,1:31:09.42,Default,,0,0,0,,{\i1}{\c&HFFFF&}Reyna ng Luha{\c}{\i0}
+Dialogue: 0,1:31:39.78,1:31:42.55,Default,,0,0,0,,{\an8}{\i1}Hae-in. Salamat.{\i0}
+Dialogue: 0,1:31:42.58,1:31:43.72,Default,,0,0,0,,{\an8}{\i1}Ikaw iyon, di ba?{\i0}
+Dialogue: 0,1:31:43.74,1:31:46.49,Default,,0,0,0,,{\an8}{\i1}Sinabi ko na sa iyo. Gusto ko siyang mabuhay.{\i0}
+Dialogue: 0,1:31:46.66,1:31:48.89,Default,,0,0,0,,{\an8}{\i1}Aalis ako kapag tapos na ako rito.{\i0}
+Dialogue: 0,1:31:48.92,1:31:50.35,Default,,0,0,0,,{\an8}{\i1}Balsam?{\i0}
+Dialogue: 0,1:31:50.37,1:31:52.94,Default,,0,0,0,,{\an8}{\i1}Ito ay nagpapahiwatig ng aking pananabik\Nand na umaasa sa unang snow...{\i0}
+Dialogue: 0,1:31:52.96,1:31:54.40,Default,,0,0,0,,{\an8}{\i1}na akala ko ay hindi ko na makikita.{\i0}
+Dialogue: 0,1:31:54.42,1:31:56.32,Default,,0,0,0,,{\an8}{\i1}Ito ay...{\i0}
+Dialogue: 0,1:31:56.34,1:31:58.78,Default,,0,0,0,,{\an8}{\i1}ang tinatawag mong totoong kapalaran.{\i0}
+Dialogue: 0,1:31:58.80,1:32:01.24,Default,,0,0,0,,{\an8}{\i1}Sisirain mo ito\Nall para lang kay Hong Hae-in?{\i0}
+Dialogue: 0,1:32:01.26,1:32:03.07,Default,,0,0,0,,{\an8}{\i1}Kumuha siya ng pain.{\i0}
+Dialogue: 0,1:32:03.10,1:32:06.55,Default,,0,0,0,,{\an8}{\i1}Itago si Eun-sung sa\Nloop para mabalisa siya...{\i0}
+Dialogue: 0,1:32:07.10,1:32:08.41,Default,,0,0,0,,{\an8}{\i1}Hae-in!{\i0}
+Dialogue: 0,1:32:08.43,1:32:11.30,Default,,0,0,0,,{\an8}{\i1}May isang bagay na hindi ko rin sinabi sa iyo.{\i0}
