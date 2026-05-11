@@ -1,0 +1,1184 @@
+WEBVTT
+
+﻿[Info Skrip]
+Tipe Skrip: v4.00+
+Tabrakan: Biasa
+MainkanResX: 1920
+PutarResY: 960
+Pengatur waktu: 100.0
+Gaya Bungkus: 0
+ScaledBorderAndShadow: ya
+
+[Gaya V4+]
+Format: Nama, Nama Font, Ukuran Font, Warna Utama, Warna Sekunder, Warna Garis Besar, Warna Belakang, Tebal, Miring, Garis Bawah, Coret, ScaleX, ScaleY, Spasi, Sudut, Gaya Batas, Garis Besar, Bayangan, Perataan, MarginL, MarginR, MarginV, Pengkodean
+Gaya: Default,sans-serif,71,&H00FFFFFF,&H00FFFFFF,&H000F0F0F,&H000F0F0F,0,0,0,0,100,100,0,0.00,1,2.37,1.97,2,20,20,20,0
+
+[Acara]
+Format: Lapisan, Mulai, Akhir, Gaya, Aktor, MarginL, MarginR, MarginV, Efek, Teks
+Dialog: 0,0:00:19.47,0:00:23.86,Default,,0,0,0,,{\i1}{\c&HFFFF&}Kim Soo-hyun - Kim Ji-won{\c}{\i0}
+Dialog: 0,0:00:23.95,0:00:26.94,Default,,0,0,0,,{\i1}{\c&HFFFF&}Park Sung-hoon - Kwak Dong-yeon - Lee Joo-bin{\c}{\i0}
+Dialog: 0,0:00:31.55,0:00:33.50,Default,,0,0,0,,{\an8}{\i1}{\c&HFFFF&}Kim Gab-soo - Lee Mi-sook{\c}{\i0}
+Dialog: 0,0:00:33.63,0:00:35.63,Default,,0,0,0,,{\an8}{\i1}{\c&HFFFF&}Jung Jin-young - Na Young-hee{\c}{\i0}
+Dialog: 0,0:00:35.66,0:00:37.66,Default,,0,0,0,,{\an8}{\i1}{\c&HFFFF&}Jeon Bae-soo - Hwang Young-hee{\c}{\i0}
+Dialog: 0,0:00:37.68,0:00:39.70,Default,,0,0,0,,{\an8}{\i1}{\c&HFFFF&}Kim Jung-nan - Kim Joo-ryoung{\c}{\i0}
+Dialog: 0,0:00:39.73,0:00:41.88,Default,,0,0,0,,{\an8}{\i1}{\c&HFFFF&}Jang Yoon-ju - Kim Do-hyun{\c}{\i0}
+Dialog: 0,0:00:50.13,0:00:52.79,Default,,0,0,0,,{\an8}{\i1}{\c&HFFFF&}Penulis Skenario: Park Ji-eun{\c}{\i0}
+Dialog: 0,0:00:53.00,0:00:55.61,Default,,0,0,0,,{\an8}{\i1}{\c&HFFFF&}Sutradara: Jang Young-woo - Kim Hee-won{\c}{\i0}
+Dialog: 0,0:00:59.14,0:01:02.03,Default,,0,0,0,,{\i1}{\c&HFFFF&}Ratu Air Mata{\c}{\i0}
+Dialog: 0,0:01:02.56,0:01:04.48,Default,,0,0,0,,{\an8}{\i1}{\c&HFFFF&}Episode 4{\c}{\i0}
+Dialog: 0,0:01:07.48,0:01:10.26,Default,,0,0,0,,{\an8}Tn. Oh, apakah kamu sudah berangkat? Kamu ada di mana?
+Dialogue: 0,0:01:10.90,0:01:13.85,Default,,0,0,0,,{\an8}Apa? Ini dia.
+Dialogue: 0,0:01:18.53,0:01:20.90,Default,,0,0,0,,{\an8}Itu ada di sakuku.
+Dialogue: 0,0:01:23.62,0:01:25.32,Default,,0,0,0,,{\an8}Apa?
+Dialogue: 0,0:01:28.50,0:01:30.85,Default,,0,0,0,,{\an8}Hae-in, tunggu.
+Dialog: 0,0:01:30.88,0:01:32.10,Default,,0,0,0,,{\an8}Tunggu.
+Dialog: 0,0:01:32.13,0:01:33.61,Default,,0,0,0,,{\an8}Tunggu.
+Dialogue: 0,0:01:33.63,0:01:35.33,Default,,0,0,0,,{\an8}Tunggu!
+Dialog: 0,0:01:43.85,0:01:45.55,Default,,0,0,0,,Apa yang kamu lakukan?
+Dialog: 0,0:01:46.35,0:01:48.00,Default,,0,0,0,,Saya tidak yakin.
+Dialog: 0,0:01:48.02,0:01:50.72,Default,,0,0,0,,Apa aku...
+Dialog: 0,0:01:52.40,0:01:54.14,Default,,0,0,0,,apa yang sedang dilakukan?
+Dialog: 0,0:01:54.98,0:01:56.98,Default,,0,0,0,,Saya senang...
+Dialog: 0,0:01:57.15,0:02:00.36,Default,,0,0,0,,Anda menemukan ponsel Anda.
+Dialogue: 0,0:02:01.41,0:02:04.69,Default,,0,0,0,,Akan merepotkan untuk mendapatkannya.
+Dialogue: 0,0:02:11.58,0:02:13.29,Default,,0,0,0,,Kenapa aku tidak...
+Dialog: 0,0:02:17.80,0:02:19.63,Default,,0,0,0,,yakin?
+Dialog: 0,0:02:19.93,0:02:21.75,Default,,0,0,0,,Apa?
+Dialog: 0,0:02:22.60,0:02:24.59,Default,,0,0,0,,Apa katamu?
+Dialog: 0,0:02:27.10,0:02:29.05,Default,,0,0,0,,Benar.
+Dialog: 0,0:02:33.77,0:02:35.77,Default,,0,0,0,,Sudah kubilang kan?
+Dialog: 0,0:02:37.74,0:02:39.44,Default,,0,0,0,,Saya akan mulai...
+Dialog: 0,0:02:40.07,0:02:42.44,Default,,0,0,0,,mencoba hal baru.
+Dialog: 0,0:04:32.31,0:04:34.01,Default,,0,0,0,,Selamat malam.
+Dialog: 0,0:04:35.19,0:04:37.76,Default,,0,0,0,,Benar. Selamat malam.
+Dialog: 0,0:04:45.61,0:04:47.40,Default,,0,0,0,,Apakah kamu mau tidur?
+Dialog: 0,0:05:02.42,0:05:04.12,Default,,0,0,0,,Nah,
+Dialog: 0,0:05:05.22,0:05:06.79,Default,,0,0,0,,Saya tidak yakin.
+Dialog: 0,0:05:21.61,0:05:24.23,Default,,0,0,0,,Ini akan terisi ulang dalam waktu singkat.
+Dialog: 0,0:05:24.28,0:05:25.98,Default,,0,0,0,,Apa itu tadi?
+Dialogue: 0,0:05:26.15,0:05:28.17,Default,,0,0,0,,Dia bisa saja mengatakan...
+Dialog: 0,0:05:28.20,0:05:29.98,Default,,0,0,0,,dia ingin masuk.
+Dialog: 0,0:05:33.04,0:05:35.24,Default,,0,0,0,,Ada apa dengan dia?
+Dialogue: 0,0:06:31.39,0:06:33.13,Default,,0,0,0,,Ulang tahun Hae-in?
+Dialog: 0,0:06:33.35,0:06:35.84,Default,,0,0,0,,Pada hari department store go public.
+Dialog: 0,0:06:37.64,0:06:39.47,Default,,0,0,0,,Ulang tahunku?
+Dialogue: 0,0:06:41.77,0:06:44.31,Default,,0,0,0,,Ini bukan ulang tahun pernikahan kita.
+Dialogue: 0,0:06:44.65,0:06:45.88,Default,,0,0,0,,Satu Miliar Klub?
+Dialog: 0,0:06:45.90,0:06:46.92,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}Coba lagi dalam 30 detik{\c}{\i0}
+Dialogue: 0,0:06:46.94,0:06:48.89,Default,,0,0,0,,Sialan.
+Dialog: 0,0:07:18.98,0:07:20.68,Default,,0,0,0,,Jangan bilang...
+Dialog: 0,0:07:28.40,0:07:30.48,Default,,0,0,0,,Ini 1031?
+Dialog: 0,0:07:34.82,0:07:36.24,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}9 Pesan Belum Dibaca{\c}{\i0}
+Dialog: 0,0:07:39.31,0:07:40.41,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}Hapus{\c}{\i0}
+Dialog: 0,0:07:40.44,0:07:41.43,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}8 Pesan Belum Dibaca{\c}{\i0}
+Dialog: 0,0:07:41.46,0:07:43.03,Default,,0,0,0,,Oke, selesai.
+Dialogue: 0,0:07:43.21,0:07:44.91,Default,,0,0,0,,Ya ampun.
+Dialogue: 0,0:07:46.13,0:07:48.41,Default,,0,0,0,,Kamu mengagetkanku.
+Dialog: 0,0:07:53.38,0:07:55.50,Default,,0,0,0,,Apa yang kamu...
+Dialog: 0,0:07:57.81,0:07:59.51,Default,,0,0,0,,apa yang dilakukan di sini?
+Dialog: 0,0:08:00.22,0:08:01.93,Default,,0,0,0,,Yah...
+Dialogue: 0,0:08:04.56,0:08:06.43,Default,,0,0,0,,Aku tidak bisa tidur, jadi...
+Dialogue: 0,0:08:09.36,0:08:11.31,Default,,0,0,0,,Kamu tidak bisa...
+Dialog: 0,0:08:11.82,0:08:13.56,Default,,0,0,0,,tidur,
+Dialog: 0,0:08:17.37,0:08:19.61,Default,,0,0,0,,jadi kamu datang ke kamarku?
+Dialog: 0,0:08:26.08,0:08:27.95,Default,,0,0,0,,Jadi...
+Dialog: 0,0:08:28.79,0:08:30.75,Default,,0,0,0,,karena aku?
+Dialog: 0,0:08:31.92,0:08:35.25,Default,,0,0,0,,Kamu tidak bisa tidur karena aku?
+Dialogue: 0,0:08:41.89,0:08:44.20,Default,,0,0,0,,Bukan itu.
+Dialog: 0,0:08:44.23,0:08:47.72,Default,,0,0,0,,Sama sekali tidak seperti itu. aku hanya...
+Dialog: 0,0:08:47.94,0:08:49.75,Default,,0,0,0,,Aku tidak bisa tidur,
+Dialog: 0,0:08:49.77,0:08:51.04,Default,,0,0,0,,tanpa alasan tertentu,
+Dialogue: 0,0:08:51.07,0:08:57.11,Default,,0,0,0,,jadi aku datang untuk melihat apakah kamu juga merasakan hal yang sama,
+Dialog: 0,0:08:58.45,0:08:59.72,Default,,0,0,0,,dan...
+Dialog: 0,0:08:59.74,0:09:02.11,Default,,0,0,0,,jika kamu ingin bicara.
+Dialog: 0,0:09:03.62,0:09:05.82,Default,,0,0,0,,Tapi kamu terlalu lelah, kan?
+Dialog: 0,0:09:06.54,0:09:08.49,Default,,0,0,0,,Saya sedikit lelah,
+Dialog: 0,0:09:09.00,0:09:12.00,Default,,0,0,0,,tapi ayo kita lakukan. Mari kita bicara.
+Dialogue: 0,0:09:13.84,0:09:15.54,Default,,0,0,0,,Jadi dimana?
+Dialog: 0,0:09:15.80,0:09:16.90,Default,,0,0,0,,Haruskah kita duduk di sini?
+Dialog: 0,0:09:16.93,0:09:18.74,Default,,0,0,0,,Kamu lelah.
+Dialogue: 0,0:09:18.76,0:09:21.13,Default,,0,0,0,,Saya pikir saya...
+Dialog: 0,0:09:21.47,0:09:23.16,Default,,0,0,0,,hanya diriku sendiri.
+Dialogue: 0,0:09:23.18,0:09:25.99,Default,,0,0,0,,Kamu sudah minum sedikit, dan ini sudah larut malam.
+Dialog: 0,0:09:26.02,0:09:27.25,Default,,0,0,0,,Itu benar, tapi...
+Dialog: 0,0:09:27.27,0:09:29.29,Default,,0,0,0,,Jadi kamu lelah.
+Dialogue: 0,0:09:29.31,0:09:31.83,Default,,0,0,0,,Yah, sepertinya aku sudah sadar\Nup sedikit. Ayo duduk.
+Dialog: 0,0:09:31.86,0:09:34.23,Default,,0,0,0,,Tidak. Jangan duduk.
+Dialogue: 0,0:09:34.78,0:09:39.06,Default,,0,0,0,,Aku lengah.
+Dialogue: 0,0:09:40.41,0:09:42.11,Default,,0,0,0,,maafkan aku.
+Dialog: 0,0:09:42.20,0:09:45.95,Default,,0,0,0,,Ada banyak hal yang harus kamu lakukan besok. Anda harus istirahat.
+Dialog: 0,0:09:47.21,0:09:49.27,Default,,0,0,0,,Selamat tidur malam yang nyenyak.
+Dialog: 0,0:09:49.29,0:09:51.29,Default,,0,0,0,,Berbaring.
+Dialogue: 0,0:09:59.34,0:10:01.34,Default,,0,0,0,,Dia peduli...
+Dialogue: 0,0:10:04.27,0:10:06.30,Default,,0,0,0,,begitu banyak buatku.
+Dialogue: 0,0:10:13.82,0:10:16.23,Default,,0,0,0,,Hampir saja.
+Dialog: 0,0:10:40.01,0:10:41.71,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Tidak mungkin...{\c}{\i0}
+Dialog: 0,0:10:47.22,0:10:49.38,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Sekarang 1031?{\c}{\i0}
+Dialog: 0,0:10:51.77,0:10:54.81,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Selamat. Anda sedang hamil empat minggu.{\c}{\i0}
+Dialog: 0,0:10:57.99,0:10:59.67,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Yah...{\c}{\i0}
+Dialog: 0,0:10:59.70,0:11:02.40,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Empat minggu...{\c}{\i0}
+Dialogue: 0,0:11:02.70,0:11:05.44,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Lalu kapan bayinya akan lahir?{\c}{\i0}
+Dialogue: 0,0:11:05.58,0:11:08.85,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Batas waktunya tanggal 31 Oktober.{\c}{\i0}
+Dialogue: 0,0:11:08.87,0:11:12.99,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Begitu. 31 Oktober.{\c}{\i0}
+Dialogue: 0,0:11:13.92,0:11:15.60,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Itu kencan yang bagus.{\c}{\i0}
+Dialog: 0,0:11:15.63,0:11:17.66,Default,,0,0,0,,{\i1}{\c&HFFFF00&}31 Oktober.{\c}{\i0}
+Dialogue: 0,0:11:33.90,0:11:37.13,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Harap gunakan material interior ramah lingkungan\N berkualitas tinggi.{\c}{\i0}
+Dialog: 0,0:11:37.15,0:11:40.81,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Benar. Kudengar benda itu\Tidak wajib untuk kamar bayi.{\c}{\i0}
+Dialog: 0,0:12:20.11,0:12:21.80,Default,,0,0,0,,Saya harus...
+Dialog: 0,0:12:21.82,0:12:23.92,Default,,0,0,0,,Bagaimana kamu bisa pergi ke sana?
+Dialogue: 0,0:12:23.95,0:12:26.93,Default,,0,0,0,,Maksudku, kita belum pernah bertemu dengannya\Ndengan baik sejak mereka menikah,
+Dialog: 0,0:12:26.95,0:12:31.19,Default,,0,0,0,,- tapi mereka tiba-tiba menyebutkan perceraian, jadi...\N- Bu, aku mencoba menghentikannya.
+Dialogue: 0,0:12:31.29,0:12:32.99,Default,,0,0,0,,Dan kamu pergi bersamanya?
+Dialogue: 0,0:12:34.17,0:12:35.60,Default,,0,0,0,,Lagi pula, apa yang dia katakan?
+Dialog: 0,0:12:35.62,0:12:37.85,Default,,0,0,0,,Dia tidak tahu.
+Dialog: 0,0:12:37.88,0:12:40.51,Default,,0,0,0,,- Ya.\N- Hanya Hyun-woo yang memikirkan perceraian.
+Dialog: 0,0:12:40.53,0:12:41.52,Default,,0,0,0,,Benarkah?
+Dialogue: 0,0:12:41.55,0:12:44.57,Default,,0,0,0,,Dan dia bilang dia akan segera datang mengunjungi kita.
+Dialog: 0,0:12:44.59,0:12:46.29,Default,,0,0,0,,- Dan Ayah.\N- Ya?
+Dialog: 0,0:12:47.85,0:12:51.30,Default,,0,0,0,,Akhirnya aku menambahkan dia di aplikasi messengerku!
+Dialogue: 0,0:12:52.93,0:12:55.00,Default,,0,0,0,,Tapi bagaimana dengan Hyun-woo?
+Dialogue: 0,0:12:55.02,0:12:57.25,Default,,0,0,0,,Dia bilang dia tidak akan menceraikannya.
+Dialogue: 0,0:12:57.27,0:12:58.79,Default,,0,0,0,,Mereka baik-baik saja. Jangan khawatir.
+Dialogue: 0,0:12:58.81,0:13:01.04,Default,,0,0,0,,- Itu melegakan.\N- Tidak!
+Dialogue: 0,0:13:01.07,0:13:05.17,Default,,0,0,0,,Dia sedang mempertimbangkan perceraian\Nsementara istrinya tidak tahu.
+Dialogue: 0,0:13:05.20,0:13:06.84,Default,,0,0,0,,Menurutmu semuanya baik-baik saja?
+Dialog: 0,0:13:06.86,0:13:09.98,Default,,0,0,0,,Tak satu pun dari mereka tahu bagaimana perasaan yang lain.
+Dialog: 0,0:13:14.79,0:13:16.70,Default,,0,0,0,,Undang saya dalam obrolan.
+Dialog: 0,0:13:17.37,0:13:20.62,Default,,0,0,0,,Saya tidak akan banyak bicara atau mengirim foto.
+Dialogue: 0,0:13:36.14,0:13:40.18,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Sekarang kita akan mengambil foto\Nanggota keluarga dan kerabatnya.{\c}{\i0}
+Dialog: 0,0:13:43.48,0:13:45.19,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Ms. Kim.{\c}{\i0}
+Dialog: 0,0:13:45.95,0:13:47.48,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Ya?{\c}{\i0}
+Dialog: 0,0:13:48.41,0:13:49.93,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Saya tahu...{\c}{\i0}
+Dialogue: 0,0:13:49.95,0:13:54.40,Default,,0,0,0,,{\i1}{\c&HFFFF00&}kamu tidak menyukai Hyun-woo sebagai menantumu.{\c}{\i0}
+Dialogue: 0,0:13:54.58,0:13:57.10,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Aku tidak yakin apakah aku harus mengatakan ini,{\c}{\i0}
+Dialog: 0,0:13:57.12,0:14:00.73,Default,,0,0,0,,{\i1}{\c&HFFFF00&}tetapi ketika Hyun-woo memberi tahu kami bahwa dia sedang berkencan dengan seseorang,{\c}{\i0}
+Dialogue: 0,0:14:00.75,0:14:04.36,Default,,0,0,0,,{\i1}{\c&HFFFF00&}dia bilang gadis itu mungkin akan dipecat\Ndan segera menjadi pengangguran,{\c}{\i0}
+Dialogue: 0,0:14:04.38,0:14:07.69,Default,,0,0,0,,{\i1}{\c&HFFFF00&}jadi dia harus menafkah\Nuntuknya jika dia menikahinya.{\c}{\i0}
+Dialogue: 0,0:14:07.72,0:14:12.07,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Kemudian keluarga kami berkata\Ndia bisa menemukan gadis yang lebih baik,{\c}{\i0}
+Dialog: 0,0:14:12.10,0:14:14.62,Default,,0,0,0,,{\i1}{\c&HFFFF00&}dan dia terlalu miskin.{\c}{\i0}
+Dialogue: 0,0:14:14.64,0:14:18.37,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Bahkan keluarga seperti kami pun begitu penuh perhitungan.{\c}{\i0}
+Dialogue: 0,0:14:18.39,0:14:20.33,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Aku tidak bisa membayangkan bagaimana perasaanmu.{\c}{\i0}
+Dialogue: 0,0:14:20.35,0:14:25.04,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Ada perbedaan besar. Saya yakin\NAnda kesal dan kecewa.{\c}{\i0}
+Dialogue: 0,0:14:25.07,0:14:28.21,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Bagaimanapun juga, kita semua adalah manusia,{\c}{\i0}
+Dialog: 0,0:14:28.24,0:14:29.55,Default,,0,0,0,,{\i1}{\c&HFFFF00&}jadi...{\c}{\i0}
+Dialog: 0,0:14:29.57,0:14:31.44,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Saya mengerti.{\c}{\i0}
+Dialog: 0,0:14:31.62,0:14:35.61,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Benar. Saya senang Anda memahaminya.{\c}{\i0}
+Dialog: 0,0:14:36.08,0:14:37.18,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Saya tahu...{\c}{\i0}
+Dialogue: 0,0:14:37.20,0:14:38.81,Default,,0,0,0,,{\i1}{\c&HFFFF00&}anakku banyak kekurangan,{\c}{\i0}
+Dialogue: 0,0:14:38.83,0:14:42.16,Default,,0,0,0,,{\i1}{\c&HFFFF00&}tapi aku harap kamu menjaganya dengan baik.{\c}{\i0}
+Dialogue: 0,0:14:42.25,0:14:44.90,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Dia kekurangan banyak? Anda jelas tidak mengenal anak Anda.{\c}{\i0}
+Dialogue: 0,0:14:44.92,0:14:47.15,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Dia berhasil menikahi putriku.{\c}{\i0}
+Dialogue: 0,0:14:47.17,0:14:49.28,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Dia benar-benar hebat.{\c}{\i0}
+Dialog: 0,0:14:49.30,0:14:50.74,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Maaf?{\c}{\i0}
+Dialogue: 0,0:14:50.76,0:14:53.45,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Ini sebuah pujian. Sebagai seorang pengacara, dia seharusnya...{\c}{\i0}
+Dialog: 0,0:14:53.47,0:14:57.41,Default,,0,0,0,,{\i1}{\c&HFFFF00&}pandai menghitung, praktis,\Ndan mengambil apa yang diinginkannya.{\c}{\i0}
+Dialogue: 0,0:14:57.43,0:15:00.29,Default,,0,0,0,,{\i1}{\c&HFFFF00&}- Apa yang kamu...?\N- Maksudku dia pintar...{\c}{\i0}
+Dialog: 0,0:15:00.31,0:15:02.43,Default,,0,0,0,,{\i1}{\c&HFFFF00&}bahwa dia tidak melewatkan kesempatan ini.{\c}{\i0}
+Dialogue: 0,0:15:03.61,0:15:06.33,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Apa yang Anda maksud dengan "peluang ini"?{\c}{\i0}
+Dialog: 0,0:15:06.36,0:15:08.23,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Saya yakin Anda tahu.{\c}{\i0}
+Dialog: 0,0:15:08.49,0:15:09.63,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Benar.{\c}{\i0}
+Dialogue: 0,0:15:09.65,0:15:12.13,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Terserah maksudmu,{\c}{\i0}
+Dialogue: 0,0:15:12.16,0:15:15.22,Default,,0,0,0,,{\i1}{\c&HFFFF00&}ini adalah pernikahan antara anak-anak kita.{\c}{\i0}
+Dialog: 0,0:15:15.24,0:15:16.47,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Saya tahu itu.{\c}{\i0}
+Dialog: 0,0:15:16.49,0:15:20.22,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Tepat. Aku hanya ingin bilang ini akan menyenangkan,{\c}{\i0}
+Dialogue: 0,0:15:20.25,0:15:23.70,Default,,0,0,0,,{\i1}{\c&HFFFF00&}sebagai orang tuanya, jika kita bisa membantu mereka...{\c}{\i0}
+Dialog: 0,0:15:23.75,0:15:26.61,Default,,0,0,0,,{\i1}{\c&HFFFF00&}menjalani pernikahan yang bahagia. Itu saja.{\c}{\i0}
+Dialogue: 0,0:15:26.63,0:15:28.57,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Jika itu pernikahan mereka,{\c}{\i0}
+Dialogue: 0,0:15:28.59,0:15:31.53,Default,,0,0,0,,{\i1}{\c&HFFFF00&}adalah urusan mereka untuk menjalani hidup bahagia.{\c}{\i0}
+Dialogue: 0,0:15:31.55,0:15:34.13,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Mengapa kami harus membantu?{\c}{\i0}
+Dialogue: 0,0:15:37.64,0:15:40.18,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Siapa dia yang bisa memberitahuku apa yang harus aku lakukan?{\c}{\i0}
+Dialogue: 0,0:15:45.36,0:15:47.42,Default,,0,0,0,,{\i1}Cerai atau tidak,{\i0}
+Dialogue: 0,0:15:47.44,0:15:49.56,Default,,0,0,0,,Aku sangat khawatir.
+Dialog: 0,0:15:50.32,0:15:54.56,Default,,0,0,0,,Harap jalani hidup yang baik, ya?
+Dialog: 0,0:15:54.87,0:15:56.57,Default,,0,0,0,,Sial!
+Dialogue: 0,0:16:12.22,0:16:14.40,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Jangan lupa minum\jus Norange di pagi hari.{\c}{\i0}
+Dialogue: 0,0:16:14.43,0:16:16.46,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Itulah obat mabukmu.{\c}{\i0}
+Dialog: 0,0:16:19.43,0:16:21.16,Default,,0,0,0,,Bukankah itu terlalu dingin?
+Dialogue: 0,0:16:21.18,0:16:23.83,Default,,0,0,0,,Mau aku buatkan teh untukmu?
+Dialogue: 0,0:16:23.85,0:16:25.66,Default,,0,0,0,,Sesuatu yang hangat akan lebih baik.
+Dialog: 0,0:16:25.69,0:16:27.43,Default,,0,0,0,,Saya baik-baik saja.
+Dialog: 0,0:16:28.65,0:16:30.35,Default,,0,0,0,,Tunggu.
+Dialogue: 0,0:16:48.42,0:16:51.41,Default,,0,0,0,,Jaga penampilanmu tetap rapi. Kamu bukan anak kecil.
+Dialog: 0,0:17:10.15,0:17:12.52,Default,,0,0,0,,Ya ampun.
+Dialog: 0,0:17:13.28,0:17:15.94,Default,,0,0,0,,Aku penasaran kenapa jantungku berdebar kencang.
+Dialogue: 0,0:17:16.99,0:17:20.36,Default,,0,0,0,,Itu karena aku takut. Itu saja.
+Dialog: 0,0:17:20.45,0:17:23.36,Default,,0,0,0,,Itulah sebabnya jantungku berdebar kencang.
+Dialog: 0,0:17:47.14,0:17:50.93,Default,,0,0,0,,Bagaimana menurut anda? Saya memakai\Nini untuk rapat malam ini.
+Dialog: 0,0:17:57.70,0:17:59.40,Default,,0,0,0,,Saya mengerti.
+Dialogue: 0,0:18:00.32,0:18:03.03,Default,,0,0,0,,Ini jaket vintage Hercyna dari tahun 1982.
+Dialog: 0,0:18:03.91,0:18:06.77,Default,,0,0,0,,- Benarkah?\N- Hanya ada dua bagian di dunia.
+Dialog: 0,0:18:06.79,0:18:08.60,Default,,0,0,0,,Istri CEO Hermann punya satu,
+Dialog: 0,0:18:08.62,0:18:10.66,Default,,0,0,0,,dan yang lainnya adalah yang ini.
+Dialog: 0,0:18:15.30,0:18:17.00,Default,,0,0,0,,Kamu tidak menyukainya?
+Dialog: 0,0:18:18.59,0:18:20.29,Default,,0,0,0,,Bukan itu.
+Dialog: 0,0:18:20.47,0:18:22.17,Default,,0,0,0,,Yah...
+Dialog: 0,0:18:27.48,0:18:29.39,Default,,0,0,0,,Kelihatannya baik-baik saja.
+Dialogue: 0,0:18:41.91,0:18:43.86,Default,,0,0,0,,Kenapa dia terlihat cantik?
+Dialog: 0,0:18:44.87,0:18:46.57,Default,,0,0,0,,Mengapa?
+Dialogue: 0,0:18:48.46,0:18:50.16,Default,,0,0,0,,Kenapa sih?
+Dialog: 0,0:18:52.33,0:18:54.04,Default,,0,0,0,,Apa yang kamu lakukan?
+Dialog: 0,0:19:04.47,0:19:06.17,Default,,0,0,0,,Ayo pergi.
+Dialog: 0,0:19:08.98,0:19:10.80,Default,,0,0,0,,Saya suka setelan Anda.
+Dialogue: 0,0:19:13.52,0:19:14.58,Default,,0,0,0,,Pakaianku?
+Dialog: 0,0:19:14.61,0:19:16.77,Default,,0,0,0,,Ya. Kamu terlihat baik.
+Dialog: 0,0:19:35.63,0:19:37.91,Default,,0,0,0,,Suasana hatimu pasti bagus.
+Dialog: 0,0:19:38.59,0:19:39.69,Default,,0,0,0,,Tidak, tidak juga.
+Dialogue: 0,0:19:39.72,0:19:41.75,Default,,0,0,0,,Tapi kamu bersenandung.
+Dialog: 0,0:19:42.43,0:19:44.59,Default,,0,0,0,,- Saya?\N- Ya.
+Dialog: 0,0:19:49.43,0:19:51.55,Default,,0,0,0,,- Kapan?\N- Baru saja.
+Dialog: 0,0:19:57.61,0:19:58.79,Default,,0,0,0,,Apakah kamu bersemangat?
+Dialogue: 0,0:19:58.82,0:20:02.52,Default,,0,0,0,,Karena dia memujimu?\NIItukah sebabnya kamu bersenandung?
+Dialog: 0,0:20:02.57,0:20:04.65,Default,,0,0,0,,Astaga, apa aku sudah gila?
+Dialogue: 0,0:20:05.28,0:20:09.11,Default,,0,0,0,,Mungkin pernah, karena dia sudah lama tidak\Nmemujiku, atau...
+Dialogue: 0,0:20:17.71,0:20:20.71,Default,,0,0,0,,Lihatlah keningnya. Dia tidak senang dengan sesuatu.
+Dialogue: 0,0:20:21.47,0:20:23.07,Default,,0,0,0,,Dia akan segera marah.
+Dialog: 0,0:20:23.09,0:20:28.32,Default,,0,0,0,,Lima, empat, tiga, dua, satu.
+Dialogue: 0,0:20:28.35,0:20:31.37,Default,,0,0,0,,Apa yang terjadi dengan mendekorasi\Nruang pembelanja pribadi seperti galeri?
+Dialog: 0,0:20:31.39,0:20:33.87,Default,,0,0,0,,- Oh, tidak.\N- Reputasi dan warna artis...
+Dialog: 0,0:20:33.89,0:20:36.12,Default,,0,0,0,,tidak sesuai dengan desain interior!
+Dialog: 0,0:20:36.15,0:20:40.64,Default,,0,0,0,,Berteriak dan melotot seperti\Nitu, dia terlihat sangat kejam.
+Dialogue: 0,0:20:40.73,0:20:44.10,Default,,0,0,0,,Itu sebabnya aku takut dan jantungku berdebar kencang.
+Dialog: 0,0:20:48.28,0:20:51.24,Default,,0,0,0,,Ya, ini yang saya bicarakan!
+Dialog: 0,0:20:51.45,0:20:53.97,Default,,0,0,0,,Apa yang terjadi? Dia bersemangat.
+Dialog: 0,0:20:54.00,0:20:55.70,Default,,0,0,0,,Lumayan.
+Dialog: 0,0:21:07.39,0:21:10.09,Default,,0,0,0,,Apa...? Ada apa denganku?
+Dialogue: 0,0:21:11.14,0:21:12.84,Default,,0,0,0,,Kenapa aku tersenyum?
+Dialog: 0,0:21:13.39,0:21:14.91,Default,,0,0,0,,Pegang kendali.
+Dialog: 0,0:21:14.94,0:21:16.41,Default,,0,0,0,,{\i1}Hei, itu berbahaya.{\i0}
+Dialog: 0,0:21:16.44,0:21:20.33,Default,,0,0,0,,Anda tahu bagaimana para aktor jatuh cinta pada\Nnyata saat syuting adegan romantis bersama.
+Dialog: 0,0:21:20.36,0:21:22.25,Default,,0,0,0,,Seperti Hyun Bin dan Son Ye-jin.
+Dialog: 0,0:21:22.28,0:21:23.75,Default,,0,0,0,,Bukan itu masalahnya.
+Dialogue: 0,0:21:23.78,0:21:27.02,Default,,0,0,0,,Dan kamu masih membeli sepatunya?
+Dialog: 0,0:21:31.08,0:21:32.51,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Ya ampun.{\c}{\i0}
+Dialogue: 0,0:21:32.54,0:21:36.14,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Inti dari eskalator\Niadalah untuk menghindari keharusan berjalan ke atas.{\c}{\i0}
+Dialogue: 0,0:21:36.16,0:21:38.20,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Dia sangat tidak sabar.{\c}{\i0}
+Dialog: 0,0:21:39.25,0:21:40.95,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Aku tidak percaya padanya.{\c}{\i0}
+Dialog: 0,0:21:42.13,0:21:43.96,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Hati-hati!{\c}{\i0}
+Dialogue: 0,0:21:51.60,0:21:53.74,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Apakah seseorang baru saja berteriak?{\c}{\i0}
+Dialog: 0,0:21:53.77,0:21:54.87,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Saya juga mendengarnya.{\c}{\i0}
+Dialogue: 0,0:21:54.89,0:21:57.84,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Orang gila macam apa yang berteriak seperti itu di sini?{\c}{\i0}
+Dialog: 0,0:22:06.57,0:22:08.13,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Pak?{\c}{\i0}
+Dialog: 0,0:22:08.16,0:22:09.86,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Ada yang bisa saya bantu?{\c}{\i0}
+Dialog: 0,0:22:10.78,0:22:12.57,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Baiklah...{\c}{\i0}
+Dialogue: 0,0:22:13.74,0:22:17.11,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Apakah Anda punya sepasang ini dalam ukuran 6?{\c}{\i0}
+Dialogue: 0,0:22:17.58,0:22:20.24,Default,,0,0,0,,{\i1}Itulah sebabnya kamu membelikan sepatu untuknya?{\i0}
+Dialog: 0,0:22:20.54,0:22:22.81,Default,,0,0,0,,Dia belum mengubah wasiatnya. Aku tidak bisa membiarkan dia...
+Dialog: 0,0:22:22.84,0:22:25.06,Default,,0,0,0,,- jatuh dan mati.\N- Benar.
+Dialog: 0,0:22:25.09,0:22:26.57,Default,,0,0,0,,- Jadi itu alasannya?\N- Tentu saja.
+Dialog: 0,0:22:26.59,0:22:27.82,Default,,0,0,0,,Bahkan aku terkejut...
+Dialog: 0,0:22:27.84,0:22:30.53,Default,,0,0,0,,bahwa aku begitu penuh perhitungan dan berhati dingin.
+Dialog: 0,0:22:30.55,0:22:32.88,Default,,0,0,0,,Jadi apa yang dia katakan?
+Dialogue: 0,0:22:45.94,0:22:48.88,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Jadi kamu membelinya karena diskon 50%?{\c}{\i0}
+Dialog: 0,0:22:48.90,0:22:50.76,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Dan hari ini adalah hari terakhir.{\c}{\i0}
+Dialogue: 0,0:22:50.78,0:22:53.26,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Plus, 6 adalah ukuran yang populer,{\c}{\i0}
+Dialogue: 0,0:22:53.28,0:22:55.76,Default,,0,0,0,,{\i1}{\c&HFFFF00&}dan yang putih\Nterjual habis di seluruh negeri.{\c}{\i0}
+Dialog: 0,0:22:55.79,0:22:58.07,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Kecuali untuk pasangan ini.{\c}{\i0}
+Dialogue: 0,0:22:58.71,0:23:00.41,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Saya harus membelinya.{\c}{\i0}
+Dialogue: 0,0:23:00.67,0:23:02.37,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Saya yakin begitu,{\c}{\i0}
+Dialogue: 0,0:23:02.75,0:23:05.10,Default,,0,0,0,,{\i1}{\c&HFFFF00&}tapi lemari sepatuku...{\c}{\i0}
+Dialogue: 0,0:23:05.13,0:23:08.69,Default,,0,0,0,,{\i1}{\c&HFFFF00&}penuh dengan sepatu mahal\NI harus membayar ekstra untuk membelinya.{\c}{\i0}
+Dialogue: 0,0:23:08.72,0:23:12.57,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Apakah saya akan memakai pakaian yang dibeli dengan setengah harga?{\c}{\i0}
+Dialogue: 0,0:23:12.59,0:23:16.96,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Tentu saja aku tahu kamu punya banyak\Tidak sepatu yang mahal dan mewah,{\c}{\i0}
+Dialog: 0,0:23:17.40,0:23:19.64,Default,,0,0,0,,{\i1}{\c&HFFFF00&}tapi tidak satupun yang nyaman.{\c}{\i0}
+Dialogue: 0,0:23:21.77,0:23:24.64,Default,,0,0,0,,{\i1}{\c&HFFFF00&}- Cantik.\N- Kamu cantik bahkan tanpanya.{\c}{\i0}
+Dialogue: 0,0:23:25.27,0:23:30.81,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Lagi pula, hak sepatunya sangat tipis dan tinggi.{\c}{\i0}
+Dialogue: 0,0:23:31.91,0:23:34.02,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Aku khawatir kamu terjatuh,{\c}{\i0}
+Dialog: 0,0:23:35.45,0:23:37.26,Default,,0,0,0,,{\i1}{\c&HFFFF00&}jadi kenapa tidak...{\c}{\i0}
+Dialogue: 0,0:23:37.29,0:23:39.82,Default,,0,0,0,,{\i1}{\c&HFFFF00&}pakai sepatu yang nyaman sesekali?{\c}{\i0}
+Dialog: 0,0:23:43.54,0:23:45.33,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Kalau begitu, tinggalkan di sini.{\c}{\i0}
+Dialog: 0,0:23:45.84,0:23:47.56,Default,,0,0,0,,Saat itu dia tidak menyukainya.
+Dialog: 0,0:23:47.59,0:23:49.86,Default,,0,0,0,,Aku tidak percaya reaksinya.
+Dialog: 0,0:23:49.88,0:23:51.23,Default,,0,0,0,,Tetapi yang lebih sulit dipercaya?
+Dialog: 0,0:23:51.26,0:23:52.79,Default,,0,0,0,,Apa itu?
+Dialogue: 0,0:23:55.01,0:23:57.09,Default,,0,0,0,,Dia memakainya.
+Dialogue: 0,0:24:05.23,0:24:08.33,Default,,0,0,0,,{\i1}{\c&HFFFF00&}- Wow, Nona Hong kelihatannya begitu...\N- Benar?{\c}{\i0}
+Dialogue: 0,0:24:08.36,0:24:10.06,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Cantik kan?{\c}{\i0}
+Dialogue: 0,0:24:10.40,0:24:12.98,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Tidak, dia terlihat sangat bersemangat hari ini.{\c}{\i0}
+Dialogue: 0,0:24:15.28,0:24:17.98,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Sepertinya dia siap menghancurkan siapa pun.{\c}{\i0}
+Dialog: 0,0:24:20.00,0:24:21.70,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Tepat.{\c}{\i0}
+Dialogue: 0,0:24:22.50,0:24:26.20,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Lagipula, keduanya begitu sering bertemu akhir-akhir ini.{\c}{\i0}
+Dialog: 0,0:24:26.33,0:24:28.83,Default,,0,0,0,,{\i1}{\c&HFFFF00&}- Ini Sekretaris Na.\N- Hai.{\c}{\i0}
+Dialog: 0,0:24:28.92,0:24:30.75,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Benar.{\c}{\i0}
+Dialogue: 0,0:24:30.92,0:24:34.08,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Itu karena toko Hercyna.{\c}{\i0}
+Dialogue: 0,0:24:34.97,0:24:38.03,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Baru-baru ini Pak Yoon berkunjung setiap hari,{\c}{\i0}
+Dialog: 0,0:24:38.05,0:24:39.53,Default,,0,0,0,,{\i1}{\c&HFFFF00&}makan dan minum kopi,{\c}{\i0}
+Dialog: 0,0:24:39.56,0:24:42.22,Default,,0,0,0,,{\i1}{\c&HFFFF00&}dan bahkan berjalan-jalan dengannya.{\c}{\i0}
+Dialogue: 0,0:24:43.81,0:24:46.33,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Sepertinya kamu belum mengetahui hal ini,{\c}{\i0}
+Dialog: 0,0:24:46.35,0:24:48.33,Default,,0,0,0,,{\i1}{\c&HFFFF00&}tetapi para pecandu kerja bahkan menggunakan...{\c}{\i0}
+Dialog: 0,0:24:48.36,0:24:52.14,Default,,0,0,0,,{\i1}{\c&HFFFF00&}waktu makan dan rehat kopi untuk membicarakan pekerjaan.{\c}{\i0}
+Dialog: 0,0:24:52.28,0:24:53.81,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Itulah sebabnya.{\c}{\i0}
+Dialog: 0,0:25:03.25,0:25:05.02,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Tn. Yoon mungkin temannya,{\c}{\i0}
+Dialog: 0,0:25:05.04,0:25:08.49,Default,,0,0,0,,{\i1}{\c&HFFFF00&}tapi dia jelas tidak mengenal Hae-in dengan baik.{\c}{\i0}
+Dialogue: 0,0:25:08.67,0:25:09.81,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Hae-in membencinya...{\c}{\i0}
+Dialog: 0,0:25:09.84,0:25:13.61,Default,,0,0,0,,{\i1}{\c&HFFFF00&}ketika seseorang menyentuh rambutnya seperti itu.{\c}{\i0}
+Dialog: 0,0:25:13.63,0:25:15.33,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Dia tersenyum.{\c}{\i0}
+Dialogue: 0,0:25:16.30,0:25:19.84,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Sepertinya dia tidak terlalu membencinya.{\c}{\i0}
+Dialogue: 0,0:25:21.39,0:25:24.80,Default,,0,0,0,,Jadi apakah itu mengganggumu?\NDApakah itu membuatmu iri?
+Dialog: 0,0:25:25.39,0:25:28.46,Default,,0,0,0,,Apakah kamu mendengarkan? Apakah kamu tidak mengerti maksudku?
+Dialog: 0,0:25:28.48,0:25:31.31,Default,,0,0,0,,Itu maksudmu. Kamu cemburu.
+Dialogue: 0,0:25:31.82,0:25:34.06,Default,,0,0,0,,Tahukah kamu apa arti "cemburu"?
+Dialogue: 0,0:25:34.15,0:25:36.84,Default,,0,0,0,,Itulah yang kamu rasakan saat menyukai seseorang,
+Dialog: 0,0:25:36.86,0:25:39.63,Default,,0,0,0,,dan saingan muncul.
+Dialogue: 0,0:25:39.66,0:25:41.01,Default,,0,0,0,,Itu premis yang salah.
+Dialogue: 0,0:25:41.03,0:25:43.51,Default,,0,0,0,,Aku bahkan tidak menyukai Hae-in.\NKenapa aku harus cemburu?
+Dialog: 0,0:25:43.54,0:25:46.31,Default,,0,0,0,,- Jadi tidak mengganggu Anda?\N- Tidak, tidak sama sekali.
+Dialog: 0,0:25:46.33,0:25:48.68,Default,,0,0,0,,Aku tidak peduli jika mereka dekat,
+Dialog: 0,0:25:48.71,0:25:50.81,Default,,0,0,0,,atau jika mereka pergi ke mana pun bersama-sama.
+Dialogue: 0,0:25:50.84,0:25:54.54,Default,,0,0,0,,Saya mengerti, tapi apa yang Anda\Nbakar selain daging?
+Dialogue: 0,0:26:08.10,0:26:10.26,Default,,0,0,0,,Apakah kamu memakai itu?
+Dialogue: 0,0:26:10.48,0:26:14.77,Default,,0,0,0,,Suamiku membelikannya untukku, dan\Meminta aku memakainya. Apa yang bisa saya lakukan?
+Dialogue: 0,0:26:15.36,0:26:19.92,Default,,0,0,0,,Masih, kita akan menemui CEO Hercyna.\NBukankah lebih baik memakai sepatu mereka?
+Dialogue: 0,0:26:19.95,0:26:21.90,Default,,0,0,0,,Mau kucarikan beberapa?
+Dialogue: 0,0:26:22.28,0:26:24.05,Default,,0,0,0,,Aku memakai pakaian mereka.
+Dialog: 0,0:26:24.08,0:26:25.85,Default,,0,0,0,,Sepatu mereka tidak nyaman,
+Dialog: 0,0:26:25.87,0:26:29.02,Default,,0,0,0,,dan dia khawatir aku akan terjatuh.
+Dialog: 0,0:26:29.04,0:26:30.57,Default,,0,0,0,,Siapa?
+Dialog: 0,0:26:31.00,0:26:32.66,Default,,0,0,0,,Hyun-woo adalah.
+Dialogue: 0,0:26:33.30,0:26:35.50,Default,,0,0,0,,Sungguh mengkhawatirkan.
+Dialog: 0,0:26:54.27,0:26:55.85,Default,,0,0,0,,Benar.
+Dialog: 0,0:26:58.19,0:26:59.94,Default,,0,0,0,,Apa?
+Dialog: 0,0:27:00.91,0:27:03.84,Default,,0,0,0,,Apa pun yang dikatakan Hermann, dengarkan saja.
+Dialog: 0,0:27:03.87,0:27:05.48,Default,,0,0,0,,Setelah selesai,
+Dialog: 0,0:27:05.66,0:27:07.53,Default,,0,0,0,,ucapkan saja satu hal.
+Dialog: 0,0:27:31.85,0:27:33.71,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Sara Lopez?{\c}{\i0}
+Dialogue: 0,0:27:33.73,0:27:37.13,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Dia desainer terkenal di Eropa.\NKami berencana membuka toko.{\c}{\i0}
+Dialog: 0,0:27:37.62,0:27:39.19,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Bagaimana dengan dia?{\c}{\i0}
+Dialogue: 0,0:27:39.65,0:27:41.77,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Dia simpanan baru Hermann.{\c}{\i0}
+Dialogue: 0,0:27:44.74,0:27:47.03,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Istrinya tidak tahu?{\c}{\i0}
+Dialogue: 0,0:27:47.79,0:27:51.27,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Dia pengacara yang kompeten dan pemarah.{\c}{\i0}
+Dialogue: 0,0:27:51.29,0:27:52.85,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Jika dia mengetahuinya,{\c}{\i0}
+Dialogue: 0,0:27:52.87,0:27:56.08,Default,,0,0,0,,{\i1}{\c&HFFFF00&}dia tidak akan pernah melihat bayi perempuannya.{\c}{\i0}
+Dialog: 0,0:28:39.09,0:28:41.83,Default,,0,0,0,,Hermann memelototimu.
+Dialogue: 0,0:28:43.09,0:28:46.59,Default,,0,0,0,,Karena selain keduanya,\NI lah satu-satunya yang mengetahuinya.
+Dialogue: 0,0:28:47.22,0:28:49.30,Default,,0,0,0,,Apakah kamu masih dalam perbaikan?
+Dialog: 0,0:28:50.06,0:28:51.24,Default,,0,0,0,,Tidak apa-apa.
+Dialog: 0,0:28:51.27,0:28:55.43,Default,,0,0,0,,Saya punya beberapa kartu lagi untuk dimainkan melawan dia.
+Dialogue: 0,0:28:57.44,0:28:59.13,Default,,0,0,0,,Ye-na benar.
+Dialogue: 0,0:28:59.15,0:29:01.79,Default,,0,0,0,,Kamu bukan Eun-sung yang kukenal.
+Dialogue: 0,0:29:01.82,0:29:03.94,Default,,0,0,0,,Apa yang terjadi?
+Dialog: 0,0:29:05.53,0:29:07.73,Default,,0,0,0,,Saya telah bekerja sangat keras...
+Dialog: 0,0:29:07.87,0:29:10.15,Default,,0,0,0,,untuk mendengarkan ini dari Anda.
+Dialogue: 0,0:29:11.08,0:29:15.20,Default,,0,0,0,,Hutang atau kebaikan, aku selalu\Nmembayarnya. Aku berhutang budi padamu.
+Dialog: 0,0:29:17.33,0:29:19.74,Default,,0,0,0,,Baiklah. Aku akan menahanmu untuk itu.
+Dialog: 0,0:29:26.63,0:29:28.85,Default,,0,0,0,,{\an8}{\i1}{\c&HFFFF&}Camilan Kenari dan Kacang Tanah{\c}{\i0}
+Dialogue: 0,0:29:32.43,0:29:34.03,Default,,0,0,0,,Tolong satu kantong kue kacang.
+Dialog: 0,0:29:34.06,0:29:35.16,Default,,0,0,0,,Tentu.
+Dialog: 0,0:29:35.19,0:29:37.25,Default,,0,0,0,,Harap kemas dalam dua lapisan.
+Dialog: 0,0:29:37.27,0:29:38.97,Default,,0,0,0,,Oke.
+Dialog: 0,0:29:39.81,0:29:42.02,Default,,0,0,0,,- Anda membawanya pulang?\N- Ya.
+Dialog: 0,0:29:46.82,0:29:48.67,Default,,0,0,0,,Inilah sebabnya aku curiga.
+Dialogue: 0,0:29:48.70,0:29:52.76,Default,,0,0,0,,Di mata saya, jika Anda memikirkan\Ndia ketika melihat makanan ringan ini...
+Dialog: 0,0:29:52.79,0:29:54.99,Default,,0,0,0,,saat kamu mabuk,
+Dialog: 0,0:29:55.71,0:29:57.89,Default,,0,0,0,,berarti kamu mencintainya!
+Dialog: 0,0:29:57.92,0:29:58.98,Default,,0,0,0,,Cinta, kakiku.
+Dialogue: 0,0:29:59.00,0:30:01.40,Default,,0,0,0,,- Itu hanya kue kacang.\N- Ini.
+Dialogue: 0,0:30:01.42,0:30:03.20,Default,,0,0,0,,Kamu mau juga?
+Dialog: 0,0:30:03.42,0:30:05.52,Default,,0,0,0,,- Terima kasih.\N- Terima kasih.
+Dialogue: 0,0:30:05.55,0:30:07.25,Default,,0,0,0,,Mereka hanya...
+Dialog: 0,0:30:09.01,0:30:10.71,Default,,0,0,0,,kue kacang.
+Dialog: 0,0:30:15.06,0:30:18.37,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}Di mana kamu? Cepat pulang.\Ada yang ingin kukatakan padamu.{\c}{\i0}
+Dialog: 0,0:30:18.39,0:30:21.08,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}Jangan khawatir. Ini kabar baik yang pasti Anda sukai.{\c}{\i0}
+Dialog: 0,0:30:21.11,0:30:22.33,Default,,0,0,0,,Ada yang ingin kukatakan padaku?
+Dialogue: 0,0:30:22.36,0:30:25.27,Default,,0,0,0,,Kabar baik yang akan kamu sukai?
+Dialog: 0,0:30:26.90,0:30:28.59,Default,,0,0,0,,Tunggu! Mustahil.
+Dialog: 0,0:30:28.61,0:30:30.97,Default,,0,0,0,,- Apa?\N- "Saya meninggalkan semua aset saya..."
+Dialog: 0,0:30:30.99,0:30:32.84,Default,,0,0,0,,"kepada Baek Hyun-woo."
+Dialogue: 0,0:30:32.87,0:30:34.65,Default,,0,0,0,,Mengubah keinginannya.
+Dialog: 0,0:30:38.16,0:30:40.48,Default,,0,0,0,,- Ayo. Tidak mungkin.\N- Ya, mungkin!
+Dialogue: 0,0:30:40.50,0:30:42.73,Default,,0,0,0,,Pasti begitu!
+Dialog: 0,0:30:42.75,0:30:45.27,Default,,0,0,0,,Selamat, brengsek!
+Dialog: 0,0:30:45.30,0:30:47.48,Default,,0,0,0,,- Jangan lupakan aku.\N- Tidak mungkin seperti itu.
+Dialog: 0,0:30:47.51,0:30:48.65,Default,,0,0,0,,Lepaskan.
+Dialog: 0,0:30:48.68,0:30:50.38,Default,,0,0,0,,Dasar brengsek!
+Dialog: 0,0:30:52.47,0:30:54.09,Default,,0,0,0,,Hei.
+Dialog: 0,0:30:54.22,0:30:56.30,Default,,0,0,0,,Hei.
+Dialogue: 0,0:30:58.60,0:31:02.01,Default,,0,0,0,,Ini kue kacang. Ingin beberapa?
+Dialogue: 0,0:31:12.24,0:31:14.94,Default,,0,0,0,,Aku ingin memberimu ini sebelum menjadi dingin,
+Dialog: 0,0:31:14.99,0:31:16.94,Default,,0,0,0,,jadi aku bergegas pulang.
+Dialog: 0,0:31:21.04,0:31:22.74,Default,,0,0,0,,Bagaimana?
+Dialog: 0,0:31:22.88,0:31:23.98,Default,,0,0,0,,Bagus.
+Dialog: 0,0:31:24.00,0:31:25.70,Default,,0,0,0,,Masih hangat.
+Dialog: 0,0:31:26.13,0:31:27.83,Default,,0,0,0,,Benar?
+Dialog: 0,0:31:31.59,0:31:33.29,Default,,0,0,0,,Omong-omong,
+Dialogue: 0,0:31:33.51,0:31:37.16,Default,,0,0,0,,kabar baik apa yang aku suka?
+Dialog: 0,0:31:37.18,0:31:38.88,Default,,0,0,0,,Benar.
+Dialog: 0,0:31:39.64,0:31:41.47,Default,,0,0,0,,Kenapa kamu tidak membukanya?
+Dialog: 0,0:31:43.02,0:31:44.72,Default,,0,0,0,,Ini?
+Dialog: 0,0:31:49.61,0:31:51.40,Default,,0,0,0,,Buka?
+Dialog: 0,0:31:54.03,0:31:56.19,Default,,0,0,0,,Jangan kaget.
+Dialog: 0,0:31:58.54,0:32:00.24,Default,,0,0,0,,Oke.
+Dialog: 0,0:32:00.29,0:32:02.07,Default,,0,0,0,,Saya tidak akan melakukannya.
+Dialog: 0,0:32:04.63,0:32:06.10,Default,,0,0,0,,Saya baru saja mendapatkannya.
+Dialogue: 0,0:32:06.13,0:32:09.02,Default,,0,0,0,,Ini dari salah satu\Npusat kanker terbaik di Eropa.
+Dialog: 0,0:32:09.05,0:32:13.13,Default,,0,0,0,,Di halaman berikutnya ada makalah penelitian mereka.
+Dialog: 0,0:32:20.14,0:32:21.24,Default,,0,0,0,,Ya.
+Dialog: 0,0:32:21.27,0:32:22.37,Default,,0,0,0,,Benar.
+Dialog: 0,0:32:22.39,0:32:25.58,Default,,0,0,0,,Mereka pikir bisa menyembuhkanku,
+Dialogue: 0,0:32:25.61,0:32:27.77,Default,,0,0,0,,- Apa?\N- ...dan peluangnya...
+Dialog: 0,0:32:31.82,0:32:33.65,Default,,0,0,0,,lebih dari 50%.
+Dialog: 0,0:32:33.86,0:32:35.73,Default,,0,0,0,,Over?
+Dialogue: 0,0:32:36.62,0:32:38.98,Default,,0,0,0,,Aku tahu kamu akan sangat bahagia.
+Dialog: 0,0:32:42.12,0:32:43.82,Default,,0,0,0,,Di Sini.
+Dialog: 0,0:32:44.44,0:32:47.31,Default,,0,0,0,,Peluangnya sekitar 51%,
+Dialogue: 0,0:32:47.34,0:32:49.98,Default,,0,0,0,,dan mereka ingin melakukan perawatan klinis padaku.
+Dialog: 0,0:32:50.00,0:32:52.23,Default,,0,0,0,,- Benar.\N- Apa yang kubilang?
+Dialogue: 0,0:32:52.26,0:32:54.90,Default,,0,0,0,,Aku bilang aku tidak akan pernah kalah dari penyakit itu.
+Dialogue: 0,0:32:54.93,0:32:56.88,Default,,0,0,0,,Bahwa Tuhan ada di pihakku.
+Dialogue: 0,0:32:56.93,0:32:59.51,Default,,0,0,0,,Kau di sisiku,
+Dialog: 0,0:32:59.64,0:33:01.55,Default,,0,0,0,,dan begitu juga Tuhan.
+Dialog: 0,0:33:01.93,0:33:04.51,Default,,0,0,0,,Ya ampun.
+Dialog: 0,0:33:05.06,0:33:07.14,Default,,0,0,0,,Saya merasa sangat tenang.
+Dialog: 0,0:33:42.72,0:33:44.30,Default,,0,0,0,,Jika...
+Dialog: 0,0:33:44.52,0:33:46.55,Default,,0,0,0,,dia sembuh,
+Dialog: 0,0:33:47.23,0:33:48.87,Default,,0,0,0,,lalu...
+Dialog: 0,0:33:48.90,0:33:50.21,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Makan malam tim selesai...{\c}{\i0}
+Dialogue: 0,0:33:50.23,0:33:54.04,Default,,0,0,0,,{\i1}{\c&HFFFF00&}- jam 09.30 tadi malam, jadi kenapa...?\N- Kenapa kamu harus mengungkitnya jam...?{\c}{\i0}
+Dialogue: 0,0:33:54.07,0:33:56.02,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Bukankah aku sudah memberitahumu?{\c}{\i0}
+Dialogue: 0,0:33:56.15,0:33:58.44,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Aku hanya khawatir.{\c}{\i0}
+Dialog: 0,0:33:58.66,0:34:00.30,Default,,0,0,0,,{\i1}{\c&HFFFF00&}- Katakan sesuatu!\N- Itu bukan Hyun-woo.{\c}{\i0}
+Dialog: 0,0:34:00.32,0:34:03.69,Default,,0,0,0,,{\i1}{\c&HFFFF00&}- Anda adalah bagian dari keluarga Hong kami!\N- Hyun-woo!{\c}{\i0}
+Dialog: 0,0:34:06.08,0:34:10.37,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Percepat. Kita akan terlambat.\NInilah sebabnya kamu selalu terlambat.{\c}{\i0}
+Dialog: 0,0:34:10.50,0:34:13.75,Default,,0,0,0,,{\i1}{\c&HFFFF00&}- Maafkan aku.\N- Kamu sangat membuat frustrasi.{\c}{\i0}
+Dialogue: 0,0:34:57.17,0:34:58.96,Default,,0,0,0,,Hidup seperti itu...
+Dialog: 0,0:34:59.47,0:35:01.59,Default,,0,0,0,,selama 50 tahun lagi?
+Dialog: 0,0:35:03.51,0:35:05.21,Default,,0,0,0,,Tidak.
+Dialog: 0,0:35:06.47,0:35:08.34,Default,,0,0,0,,Saya harus bercerai...
+Dialog: 0,0:35:08.43,0:35:10.89,Default,,0,0,0,,seperti yang saya rencanakan semula.
+Dialog: 0,0:35:12.40,0:35:13.37,Default,,0,0,0,,{\an8}{\i1}{\c&H7AA0FF&}Perjanjian Perceraian{\c}{\i0}
+Dialog: 0,0:35:15.23,0:35:17.06,Default,,0,0,0,,{\i1}Benar.{\i0}
+Dialogue: 0,0:35:17.11,0:35:20.15,Default,,0,0,0,,{\i1}Sekarang aku sudah sembuh,{\i0}
+Dialogue: 0,0:35:20.53,0:35:22.59,Default,,0,0,0,,{\i1}kamu akan mengkhianatiku?{\i0}
+Dialogue: 0,0:35:22.62,0:35:25.18,Default,,0,0,0,,{\i1}Hidupmu kembali,{\i0}
+Dialog: 0,0:35:25.20,0:35:28.11,Default,,0,0,0,,{\i1}jadi aku ingin milikku kembali juga.{\i0}
+Dialog: 0,0:35:32.08,0:35:33.78,Default,,0,0,0,,{\i1}Benar.{\i0}
+Dialogue: 0,0:35:34.13,0:35:37.00,Default,,0,0,0,,{\i1}Orang bisa merasakan hal itu.{\i0}
+Dialog: 0,0:35:37.09,0:35:38.79,Default,,0,0,0,,{\i1}Dapat dimengerti.{\i0}
+Dialog: 0,0:35:41.51,0:35:43.25,Default,,0,0,0,,{\i1}Namun...{\i0}
+Dialogue: 0,0:35:54.31,0:35:56.89,Default,,0,0,0,,{\i1}Bukan bangsaku.{\i0}
+Dialogue: 0,0:36:03.41,0:36:08.28,Default,,0,0,0,,Ini mungkin lebih buruk dari imajinasiku.
+Dialogue: 0,0:36:15.59,0:36:17.02,Default,,0,0,0,,Astaga, aku kelelahan.
+Dialog: 0,0:36:17.04,0:36:18.19,Default,,0,0,0,,- Ya ampun.\N- Apakah kamu baik-baik saja?
+Dialog: 0,0:36:18.21,0:36:19.52,Default,,0,0,0,,Ya, saya baik-baik saja.
+Dialogue: 0,0:36:19.55,0:36:22.62,Default,,0,0,0,,Ya ampun, melelahkan.
+Dialog: 0,0:36:25.26,0:36:26.99,Default,,0,0,0,,Ya ampun.
+Dialogue: 0,0:36:27.01,0:36:28.87,Default,,0,0,0,,Aku sudah jauh lebih baik.
+Dialogue: 0,0:36:28.89,0:36:32.09,Default,,0,0,0,,Ayah, apakah ayah tidak haus? Miliki ini.
+Dialog: 0,0:36:33.27,0:36:35.14,Default,,0,0,0,,Benar. Terima kasih.
+Dialogue: 0,0:36:36.56,0:36:39.46,Default,,0,0,0,,Bolehkah aku meminum ini?\NKamu tidak meracuninya, kan?
+Dialog: 0,0:36:39.48,0:36:42.56,Default,,0,0,0,,Ayo, Ayah. Minum saja.
+Dialogue: 0,0:36:42.61,0:36:44.46,Default,,0,0,0,,Apa yang merasukimu?
+Dialogue: 0,0:36:44.49,0:36:46.77,Default,,0,0,0,,Aku selalu seperti ini.
+Dialogue: 0,0:36:47.62,0:36:49.34,Default,,0,0,0,,Lihat ini.
+Dialogue: 0,0:36:49.37,0:36:51.10,Default,,0,0,0,,Dulu kita begitu bahagia bersama.
+Dialogue: 0,0:36:51.12,0:36:55.02,Default,,0,0,0,,Maksudku, kita dulu, sebelum\Nbeberapa gadis masuk ke dalam gambar.
+Dialogue: 0,0:36:55.04,0:36:56.94,Default,,0,0,0,,Kami tidak sekacau ini.
+Dialog: 0,0:36:56.96,0:36:59.66,Default,,0,0,0,,Tn. Hong, aku masuk dulu.
+Dialog: 0,0:37:11.14,0:37:14.05,Default,,0,0,0,,Ayah, apakah kamu ingat...
+Dialogue: 0,0:37:14.10,0:37:16.58,Default,,0,0,0,,seberapa besar kamu memujaku?
+Dialogue: 0,0:37:16.60,0:37:17.66,Default,,0,0,0,,Kamu menyayangiku.
+Dialogue: 0,0:37:17.69,0:37:21.63,Default,,0,0,0,,Kamu selalu membelikan hadiah untukku dalam\Nperjalanan pulang dari perjalanan bisnismu.
+Dialogue: 0,0:37:21.65,0:37:23.59,Default,,0,0,0,,Itu sudah lama sekali.
+Dialogue: 0,0:37:23.61,0:37:27.93,Default,,0,0,0,,Kamu selalu menyuruhku untuk tinggal bersama\Nkamu selamanya tanpa menikah,
+Dialog: 0,0:37:27.95,0:37:30.39,Default,,0,0,0,,dan lihat? aku masih bersamamu.
+Dialog: 0,0:37:30.41,0:37:33.66,Default,,0,0,0,,Aku tidak menyuruhmu menikah dan kembali.
+Dialog: 0,0:37:33.69,0:37:34.72,Default,,0,0,0,,Ayo.
+Dialogue: 0,0:37:34.75,0:37:36.98,Default,,0,0,0,,Cinta adalah tentang kembalinya, Ayah.
+Dialogue: 0,0:37:37.00,0:37:40.15,Default,,0,0,0,,Mengapa saya kembali dalam\Ntiga tahun setiap kali saya menikah?
+Dialog: 0,0:37:40.17,0:37:42.83,Default,,0,0,0,,Itu karena...
+Dialogue: 0,0:37:43.05,0:37:45.69,Default,,0,0,0,,putri cantikmu mencintaimu.
+Dialogue: 0,0:37:45.72,0:37:47.95,Default,,0,0,0,,Hei, hentikan. Aku akan segera makan.
+Dialog: 0,0:37:47.97,0:37:49.82,Default,,0,0,0,,- Nafsu makanku akan hilang.\N- Oh, tidak.
+Dialogue: 0,0:37:49.85,0:37:52.07,Default,,0,0,0,,Kamu tidak boleh kehilangan nafsu makan.
+Dialogue: 0,0:37:52.10,0:37:55.33,Default,,0,0,0,,Di usiamu, ini lebih berbahaya\Ndaripada kehabisan uang.
+Dialog: 0,0:37:55.35,0:37:59.26,Default,,0,0,0,,Apa itu? Katakan saja.\NKenapa kamu jadi seperti ini?
+Dialogue: 0,0:38:00.11,0:38:02.92,Default,,0,0,0,,Kau tahu, ini hari ulang tahunku\Nlusa.
+Dialog: 0,0:38:02.94,0:38:05.48,Default,,0,0,0,,Saya tidak menginginkan yang lain.
+Dialogue: 0,0:38:05.57,0:38:09.55,Default,,0,0,0,,Aku hanya ingin kencan dengan\Nayah tercinta, hanya kita berdua.
+Dialog: 0,0:38:09.57,0:38:11.57,Default,,0,0,0,,- Tolong?\N- Ya ampun.
+Dialog: 0,0:38:11.91,0:38:14.44,Default,,0,0,0,,Tolong, Ayah?
+Dialog: 0,0:38:14.62,0:38:17.02,Default,,0,0,0,,Aku ingin makan sesuatu yang enak bersamamu.
+Dialogue: 0,0:38:17.04,0:38:19.64,Default,,0,0,0,,- Hentikan.\N- Maukah kamu mentraktirku sesuatu yang menyenangkan?
+Dialogue: 0,0:38:19.67,0:38:22.19,Default,,0,0,0,,Hei, hentikan. Itu menjijikkan!
+Dialog: 0,0:38:22.21,0:38:24.16,Default,,0,0,0,,Berhenti! Pergilah!
+Dialog: 0,0:38:50.20,0:38:51.98,Default,,0,0,0,,Hei.
+Dialog: 0,0:38:52.74,0:38:54.39,Default,,0,0,0,,- Halo.\N- Halo.
+Dialogue: 0,0:38:54.41,0:38:57.39,Default,,0,0,0,,Apa yang kamu lakukan di sini\Npagi hari di akhir pekan?
+Dialog: 0,0:38:57.41,0:38:59.18,Default,,0,0,0,,Untuk negosiasi dengan Hercyna.
+Dialog: 0,0:39:00.10,0:39:01.60,Default,,0,0,0,,Kalau begitu aku harus bergabung denganmu.
+Dialog: 0,0:39:01.63,0:39:05.61,Default,,0,0,0,,Tim hukum harus berada dalam\Nproses untuk menangani detailnya.
+Dialog: 0,0:39:05.63,0:39:06.65,Default,,0,0,0,,Itu akan terjadi nanti.
+Dialog: 0,0:39:06.67,0:39:10.15,Default,,0,0,0,,Kami sedang mendiskusikan\Nnegosiasi antar CEO,
+Dialog: 0,0:39:10.18,0:39:13.38,Default,,0,0,0,,untuk menghilangkan faktor-faktor yang merusak kesepakatan.
+Dialog: 0,0:39:14.68,0:39:17.24,Default,,0,0,0,,Apakah kami mengganggumu? Kita bisa pergi ke tempat lain.
+Dialogue: 0,0:39:17.27,0:39:19.13,Default,,0,0,0,,Bagaimana dengan hotelku?
+Dialog: 0,0:39:19.48,0:39:21.12,Default,,0,0,0,,Kamu bisa melakukannya di sini saja.
+Dialog: 0,0:39:21.15,0:39:23.14,Default,,0,0,0,,Di sini, dengan nyaman.
+Dialog: 0,0:39:24.77,0:39:26.35,Default,,0,0,0,,Terima kasih.
+Dialog: 0,0:39:26.40,0:39:27.88,Default,,0,0,0,,Saya harus berterima kasih.
+Dialogue: 0,0:39:27.90,0:39:30.13,Default,,0,0,0,,Kamu membantu istriku.
+Dialogue: 0,0:39:30.15,0:39:31.13,Default,,0,0,0,,Mau kopi?
+Dialog: 0,0:39:31.16,0:39:33.19,Default,,0,0,0,,- Ya, terima kasih.\N- Tentu.
+Dialog: 0,0:39:33.78,0:39:37.40,Default,,0,0,0,,Kamu juga? Anda tidak minum\Nkopi saat perut kosong.
+Dialog: 0,0:39:43.75,0:39:45.45,Default,,0,0,0,,Itu benar.
+Dialog: 0,0:39:46.42,0:39:49.96,Default,,0,0,0,,- Espresso untukmu, kan?\N- Ya.
+Dialogue: 0,0:40:01.14,0:40:04.26,Default,,0,0,0,,Dia sangat peduli padaku.
+Dialog: 0,0:40:04.98,0:40:06.81,Default,,0,0,0,,Apa?
+Dialogue: 0,0:40:07.40,0:40:11.60,Default,,0,0,0,,Dia bilang kopi itu seperti racun saat perut kosong\Nan dan itu tidak sehat.
+Dialog: 0,0:40:12.86,0:40:15.05,Default,,0,0,0,,Dia tidak mengizinkanku meminumnya.
+Dialogue: 0,0:40:15.07,0:40:17.48,Default,,0,0,0,,Maksudku, aku bukan anaknya, tahu?
+Dialog: 0,0:40:18.87,0:40:21.11,Default,,0,0,0,,Saya kira dia tidak bisa berhenti...
+Dialog: 0,0:40:21.16,0:40:23.23,Default,,0,0,0,,mengkhawatirkanku.
+Dialogue: 0,0:40:23.25,0:40:26.24,Default,,0,0,0,,Hae-in pasti sangat peduli padamu.
+Dialogue: 0,0:40:26.71,0:40:28.41,Default,,0,0,0,,Aku iri padamu.
+Dialog: 0,0:40:28.75,0:40:30.86,Default,,0,0,0,,Ya, ya. Saya pikir juga begitu.
+Dialog: 0,0:40:30.88,0:40:32.86,Default,,0,0,0,,Dia tidak seperti itu bagiku.
+Dialog: 0,0:40:32.88,0:40:37.50,Default,,0,0,0,,Dia selalu meminta bantuanku, mengatakan\NIlah satu-satunya yang bisa membantunya.
+Dialogue: 0,0:40:37.56,0:40:39.59,Default,,0,0,0,,Dia selalu seperti itu.
+Dialogue: 0,0:40:39.64,0:40:44.33,Default,,0,0,0,,Dia meneleponku kapan saja untuk meminta bantuan,\Nmengatakan hanya aku satu-satunya yang dia punya.
+Dialogue: 0,0:40:44.35,0:40:46.00,Default,,0,0,0,,Kalau begitu, bagaimana saya bisa membantu?
+Dialog: 0,0:40:46.02,0:40:50.13,Default,,0,0,0,,Bahkan kali ini. Negosiasi semacam ini bahkan bisa memakan waktu hingga satu tahun,
+Dialog: 0,0:40:50.15,0:40:53.19,Default,,0,0,0,,tapi dia memintaku menyelesaikannya dalam dua minggu.
+Dialogue: 0,0:40:53.90,0:40:57.48,Default,,0,0,0,,Saya tidak punya waktu untuk melakukan\Napa pun selama berada di Korea.
+Dialog: 0,0:40:57.62,0:40:58.72,Default,,0,0,0,,Sepertinya...
+Dialog: 0,0:40:58.74,0:41:01.82,Default,,0,0,0,,Aku harus terjebak bersamanya sepanjang waktu.
+Dialog: 0,0:41:04.87,0:41:06.58,Default,,0,0,0,,Itu...
+Dialog: 0,0:41:07.46,0:41:09.41,Default,,0,0,0,,meyakinkan.
+Dialogue: 0,0:41:17.76,0:41:20.55,Default,,0,0,0,,Apakah kamu membawakan ini padanya?
+Dialog: 0,0:41:25.90,0:41:28.01,Default,,0,0,0,,Tiba-tiba aku penasaran.
+Dialogue: 0,0:41:28.94,0:41:30.00,Default,,0,0,0,,Tentang apa?
+Dialogue: 0,0:41:30.02,0:41:33.80,Default,,0,0,0,,Tidakkah kamu benci kalau\Nseseorang menyentuh rambutmu?
+Dialog: 0,0:41:33.82,0:41:35.05,Default,,0,0,0,,- Apa?\N- Maksudku,
+Dialog: 0,0:41:35.07,0:41:36.63,Default,,0,0,0,,saat aku menyentuhnya terakhir kali,
+Dialog: 0,0:41:36.66,0:41:40.19,Default,,0,0,0,,kamu berteriak padaku, mengatakan\NI merusak gaya rambutmu.
+Dialog: 0,0:41:40.53,0:41:42.49,Default,,0,0,0,,Apa yang kamu katakan?
+Dialog: 0,0:41:42.62,0:41:44.15,Default,,0,0,0,,Sederhananya.
+Dialog: 0,0:41:45.37,0:41:47.82,Default,,0,0,0,,Kamu marah saat aku melakukannya,
+Dialogue: 0,0:41:48.13,0:41:50.83,Default,,0,0,0,,jadi kenapa kamu tidak melakukannya ketika Pak Yoon yang melakukannya?
+Dialog: 0,0:41:51.25,0:41:52.79,Default,,0,0,0,,Apa?
+Dialog: 0,0:41:56.43,0:41:57.40,Default,,0,0,0,,Itu karena...
+Dialog: 0,0:41:57.43,0:41:59.34,Default,,0,0,0,,Saya ingin Anda bersikap adil.
+Dialogue: 0,0:41:59.68,0:42:01.36,Default,,0,0,0,,Bukan hanya Pak Yoon.
+Dialog: 0,0:42:01.39,0:42:04.22,Default,,0,0,0,,Jika ada pria yang menyentuh rambutmu,
+Dialogue: 0,0:42:04.43,0:42:06.13,Default,,0,0,0,,kamu seharusnya marah.
+Dialogue: 0,0:42:07.94,0:42:10.01,Default,,0,0,0,,Kecuali penata rambutmu.
+Dialog: 0,0:42:25.66,0:42:27.36,Default,,0,0,0,,Dia baru saja pergi...
+Dialog: 0,0:42:29.04,0:42:30.95,Default,,0,0,0,,tanpa mengatakan apa pun.
+Dialogue: 0,0:42:42.72,0:42:44.32,Default,,0,0,0,,Bagaimana dia bisa melakukan itu?
+Dialogue: 0,0:42:44.35,0:42:46.01,Default,,0,0,0,,Sialan.
+Dialog: 0,0:42:49.85,0:42:51.72,Default,,0,0,0,,Ya ampun.
+Dialog: 0,0:42:56.32,0:42:58.02,Default,,0,0,0,,Astaga...
+Dialog: 0,0:42:59.03,0:43:01.26,Default,,0,0,0,,Ini sulit dipercaya.
+Dialogue: 0,0:43:01.28,0:43:05.72,Default,,0,0,0,,Aku belum pernah sebegitu\Njengkel dengan senyuman seseorang.
+Dialogue: 0,0:43:05.74,0:43:07.99,Default,,0,0,0,,Dia benar-benar sesuatu.
+Dialogue: 0,0:43:18.09,0:43:20.96,Default,,0,0,0,,Dia masih tersenyum. Apa?
+Dialogue: 0,0:43:21.68,0:43:25.42,Default,,0,0,0,,Si brengsek itu. Mengapa dia menarik\Nit ke bawah? Hei, brengsek. Tunggu.
+Dialog: 0,0:43:26.60,0:43:29.30,Default,,0,0,0,,Tunggu. Hai.
+Dialog: 0,0:43:29.48,0:43:31.62,Default,,0,0,0,,Ada apa dengan dia?
+Dialog: 0,0:43:31.65,0:43:34.12,Default,,0,0,0,,Kamu pikir aku tidak bisa mengawasimu jika kamu melakukan ini?
+Dialogue: 0,0:43:34.15,0:43:37.06,Default,,0,0,0,,Aku akan mencari jalan, apa pun yang terjadi.
+Dialog: 0,0:43:55.42,0:43:57.12,Default,,0,0,0,,Saya...
+Dialog: 0,0:43:57.42,0:43:59.96,Default,,0,0,0,,hanya lewat saja.
+Dialog: 0,0:44:00.59,0:44:02.29,Default,,0,0,0,,Berjalan keliling.
+Dialogue: 0,0:44:03.68,0:44:07.59,Default,,0,0,0,,Bukan karena aku penasaran.
+Dialog: 0,0:44:11.19,0:44:12.97,Default,,0,0,0,,Ya ampun.
+Dialog: 0,0:44:13.69,0:44:15.39,Default,,0,0,0,,Apa?
+Dialog: 0,0:44:15.98,0:44:17.89,Default,,0,0,0,,Apa itu?
+Dialog: 0,0:44:20.03,0:44:22.46,Default,,0,0,0,,Bukankah kamu bilang "Sayang"?
+Dialog: 0,0:44:22.49,0:44:24.34,Default,,0,0,0,,Tidak, saya tidak melakukannya.
+Dialog: 0,0:44:24.37,0:44:26.15,Default,,0,0,0,,Saya mengerti.
+Dialogue: 0,0:44:26.37,0:44:27.59,Default,,0,0,0,,Aku pasti salah dengar.
+Dialog: 0,0:44:27.62,0:44:29.26,Default,,0,0,0,,Baiklah.
+Dialog: 0,0:44:29.29,0:44:32.16,Default,,0,0,0,,Baiklah, lanjutkan.
+Dialog: 0,0:44:32.83,0:44:34.56,Default,,0,0,0,,Hubungi saya jika Anda membutuhkan saya.
+Dialog: 0,0:44:34.58,0:44:36.45,Default,,0,0,0,,Tidak, aku tidak membutuhkanmu hari ini.
+Dialog: 0,0:44:36.54,0:44:38.24,Default,,0,0,0,,Pergi dan istirahat saja.
+Dialog: 0,0:44:39.17,0:44:40.83,Default,,0,0,0,,Saya sedang istirahat.
+Dialog: 0,0:44:41.97,0:44:43.78,Default,,0,0,0,,- Hai.\N- Ya?
+Dialog: 0,0:44:43.80,0:44:44.94,Default,,0,0,0,,Bukan, bukan kamu.
+Dialog: 0,0:44:44.97,0:44:46.15,Default,,0,0,0,,Eun-sung!
+Dialogue: 0,0:44:46.18,0:44:49.57,Default,,0,0,0,,Kudengar adikku mengganggu\Nkamu pada hari Minggu, jadi aku datang.
+Dialog: 0,0:44:49.60,0:44:51.45,Default,,0,0,0,,Hei, pergilah.
+Dialog: 0,0:44:51.48,0:44:52.79,Default,,0,0,0,,Kami sedang bekerja.
+Dialog: 0,0:44:52.81,0:44:55.75,Default,,0,0,0,,Kau tahu, aku mencoba menghubungimu berkali-kali,
+Dialogue: 0,0:44:55.77,0:44:57.00,Default,,0,0,0,,tapi sekretarismu...
+Dialog: 0,0:44:57.02,0:44:59.83,Default,,0,0,0,,tidak sesuai dengan gambar internasional\Nyang rapi.
+Dialogue: 0,0:44:59.86,0:45:04.76,Default,,0,0,0,,Dia menutup teleponku tanpa mengetahui\Nseberapa dekat kita. Saya sangat terluka.
+Dialog: 0,0:45:04.78,0:45:07.57,Default,,0,0,0,,Benarkah? Saya akan berbicara dengan mereka, Tuan Hong.
+Dialogue: 0,0:45:07.62,0:45:11.22,Default,,0,0,0,,Jangan terlalu formal denganku. \NPerlakukan saja aku seperti adikmu.
+Dialog: 0,0:45:11.25,0:45:14.60,Default,,0,0,0,,Serius, aku merasa lebih dekat denganmu daripada Hyun-woo,
+Dialog: 0,0:45:14.62,0:45:17.78,Default,,0,0,0,,yang menjadi kakak iparku selama tiga tahun.
+Dialog: 0,0:45:18.21,0:45:20.12,Default,,0,0,0,,Kamu masih di sini?
+Dialogue: 0,0:45:21.46,0:45:23.11,Default,,0,0,0,,Aku berangkat.
+Dialog: 0,0:45:23.13,0:45:25.07,Default,,0,0,0,,- Tidak, jangan keluar.\N- Benar.
+Dialog: 0,0:45:25.09,0:45:26.79,Default,,0,0,0,,Saya tidak akan melakukannya.
+Dialog: 0,0:45:27.01,0:45:29.21,Default,,0,0,0,,Apakah kamu sudah makan?
+Dialogue: 0,0:45:29.85,0:45:31.97,Default,,0,0,0,,Kenapa kamu begitu sedih?
+Dialogue: 0,0:45:32.02,0:45:36.96,Default,,0,0,0,,Menurutku, Eun-sung seperti harapan barumu.
+Dialog: 0,0:45:36.98,0:45:38.37,Default,,0,0,0,,Apa maksudmu?
+Dialog: 0,0:45:38.40,0:45:41.63,Default,,0,0,0,,Hae-in mempunyai peluang 51% untuk hidup sekarang.
+Dialog: 0,0:45:41.65,0:45:44.13,Default,,0,0,0,,Tentu saja kamu harus bahagia untuknya,
+Dialog: 0,0:45:44.15,0:45:46.71,Default,,0,0,0,,tapi harapanmu hilang.
+Dialog: 0,0:45:46.74,0:45:50.39,Default,,0,0,0,,Harapanmu untuk perpisahan yang kaya dan aman.
+Dialog: 0,0:45:50.41,0:45:52.11,Default,,0,0,0,,Jadi?
+Dialogue: 0,0:45:52.49,0:45:56.98,Default,,0,0,0,,Bagaimana jika Eun-sung dan Hae-in jatuh cinta?
+Dialog: 0,0:45:57.00,0:45:58.06,Default,,0,0,0,,Kamu akan mendapat tunjangan.
+Dialog: 0,0:45:58.08,0:45:59.39,Default,,0,0,0,,Bukan, bukan Yoon Eun-sung.
+Dialog: 0,0:45:59.42,0:46:00.69,Default,,0,0,0,,Kenapa tidak?
+Dialogue: 0,0:46:00.71,0:46:04.37,Default,,0,0,0,,Orang itu menyeramkan.
+Dialog: 0,0:46:07.63,0:46:09.28,Default,,0,0,0,,Siapa yang peduli?
+Dialogue: 0,0:46:09.30,0:46:12.07,Default,,0,0,0,,Hei, menurutku dialah penyelamatmu.
+Dialogue: 0,0:46:12.10,0:46:15.37,Default,,0,0,0,,Kamu seharusnya bersyukur\Ndia datang untuk menyelamatkanmu.
+Dialog: 0,0:46:15.39,0:46:19.30,Default,,0,0,0,,Ada yang aneh dengan dia.
+Dialog: 0,0:46:19.69,0:46:23.31,Default,,0,0,0,,- Aku bisa merasakannya.\N- Ayolah.
+Dialogue: 0,0:46:24.19,0:46:26.92,Default,,0,0,0,,Siapa yang peduli seperti apa penyelamatmu?
+Dialogue: 0,0:46:26.95,0:46:30.98,Default,,0,0,0,,Jika kamu tenggelam, dan kamu tidak\Nmenyukai penyelamatnya, bukankah...
+Dialogue: 0,0:46:32.03,0:46:34.07,Default,,0,0,0,,pegang talinya?
+Dialogue: 0,0:46:36.46,0:46:39.49,Default,,0,0,0,,Bagaimanapun, aku tak boleh membiarkan si brengsek itu.
+Dialog: 0,0:46:39.75,0:46:41.37,Default,,0,0,0,,Saya bilang tidak.
+Dialog: 0,0:46:45.21,0:46:46.23,Default,,0,0,0,,Apakah kamu baik-baik saja?
+Dialog: 0,0:46:46.26,0:46:48.17,Default,,0,0,0,,{\i1}Eun-sung.{\i0}
+Dialog: 0,0:46:48.34,0:46:50.65,Default,,0,0,0,,Lihat tanah ini? Luasnya 825 hektar.
+Dialog: 0,0:46:50.68,0:46:53.78,Default,,0,0,0,,Neverland luasnya 355 hektar dan Souland luasnya 230 hektar.
+Dialogue: 0,0:46:53.81,0:46:55.58,Default,,0,0,0,,Ini lebih besar dari gabungan keduanya.
+Dialog: 0,0:46:55.60,0:46:57.59,Default,,0,0,0,,Mengesankan.
+Dialog: 0,0:46:58.06,0:47:01.00,Default,,0,0,0,,Anda tahu dua hal\Npaling penting dalam bisnis resor,
+Dialog: 0,0:47:01.02,0:47:02.92,Default,,0,0,0,,pengamanan tanah dan perizinan.
+Dialog: 0,0:47:02.94,0:47:07.02,Default,,0,0,0,,Seperti yang Anda lihat, kami memiliki\Nland, dan untuk perizinan...
+Dialog: 0,0:47:08.95,0:47:11.73,Default,,0,0,0,,Kami memiliki orang kami di Kementerian Pertanahan.
+Dialogue: 0,0:47:12.57,0:47:14.26,Default,,0,0,0,,Benarkah?
+Dialog: 0,0:47:14.28,0:47:16.47,Default,,0,0,0,,Dia belajar dengan beasiswa Queens,
+Dialog: 0,0:47:16.50,0:47:18.35,Default,,0,0,0,,dan dia adalah tutorku.
+Dialog: 0,0:47:18.37,0:47:20.39,Default,,0,0,0,,- Begitu.\N- Benar.
+Dialog: 0,0:47:20.42,0:47:23.94,Default,,0,0,0,,K-pop, K-drama. Konten Korea\Nisangat populer akhir-akhir ini.
+Dialogue: 0,0:47:23.96,0:47:27.12,Default,,0,0,0,,Mari kita kalahkan Disney bersama-sama, Eun-sung!
+Dialogue: 0,0:47:29.68,0:47:31.63,Default,,0,0,0,,Aku akan memikirkannya.
+Dialogue: 0,0:47:55.79,0:47:56.76,Default,,0,0,0,,Ya ampun.
+Dialogue: 0,0:47:56.79,0:47:59.68,Default,,0,0,0,,Dia bertemu semua orang ini?
+Dialogue: 0,0:47:59.71,0:48:03.06,Default,,0,0,0,,Tahukah Anda Robert Bailey,\Nmanajer dana lindung nilai yang legendaris?
+Dialogue: 0,0:48:03.08,0:48:06.23,Default,,0,0,0,,Di antara 12 muridnya,\Norang ini yang terbaik.
+Dialog: 0,0:48:06.25,0:48:11.29,Default,,0,0,0,,Robert bahkan mempercayakan manajemen asetnya\Npadanya. Apa lagi yang perlu dikatakan?
+Dialog: 0,0:48:11.97,0:48:13.07,Default,,0,0,0,,Benarkah?
+Dialogue: 0,0:48:13.09,0:48:16.50,Default,,0,0,0,,Dia sempurna sebagai partner Tuan Hong Soo-cheol,
+Dialog: 0,0:48:17.39,0:48:20.88,Default,,0,0,0,,tapi dia cukup pilih-pilih, jadi...
+Dialog: 0,0:48:21.27,0:48:24.21,Default,,0,0,0,,Tapi dia bersedia membantu\NHae-in mengenai Hercyna.
+Dialog: 0,0:48:24.23,0:48:27.14,Default,,0,0,0,,Ya, karena keduanya begitu dekat,
+Dialogue: 0,0:48:27.90,0:48:33.44,Default,,0,0,0,,dan mungkin itulah sebabnya Tuan Yoon\Ni tidak dekat dengan Tuan Hong.
+Dialog: 0,0:48:33.99,0:48:35.30,Default,,0,0,0,,Apa maksudmu?
+Dialog: 0,0:48:35.32,0:48:36.34,Default,,0,0,0,,Pikirkanlah.
+Dialog: 0,0:48:36.37,0:48:37.59,Default,,0,0,0,,Untuk Nona Hong,
+Dialogue: 0,0:48:37.62,0:48:41.76,Default,,0,0,0,,jika Hercyna buka di malnya, dia pasti\Nakan mencapai penjualan $1 miliar.
+Dialog: 0,0:48:41.79,0:48:46.73,Default,,0,0,0,,Kemudian ketua akan condong ke\Nmemberikan grup kepadanya, seperti yang dia janjikan.
+Dialogue: 0,0:48:46.75,0:48:48.02,Default,,0,0,0,,Apa maksudmu...
+Dialogue: 0,0:48:48.05,0:48:53.04,Default,,0,0,0,,Hae-in tidak ingin Soo-cheol berhasil\N dalam menarik investasi untuk resor?
+Dialog: 0,0:48:53.30,0:48:57.38,Default,,0,0,0,,Ya! Soo-cheol bisa membalikkan keadaan.
+Dialogue: 0,0:48:58.22,0:49:02.70,Default,,0,0,0,,Maksudku, aku tidak tahu apa\NM. Hong memberi tahu Tuan Yoon,
+Dialog: 0,0:49:02.73,0:49:06.93,Default,,0,0,0,,tapi sepertinya dia tidak mempertimbangkan\NMr. Hong sebagai mitra potensial.
+Dialogue: 0,0:49:07.02,0:49:10.60,Default,,0,0,0,,Dia makan malam bersama cucu Pimpinan\NYeom malam ini.
+Dialogue: 0,0:49:12.78,0:49:15.67,Default,,0,0,0,,Meramal tidak berbohong.
+Dialog: 0,0:49:15.70,0:49:17.01,Default,,0,0,0,,Sudah kubilang, bukan?
+Dialog: 0,0:49:17.03,0:49:22.70,Default,,0,0,0,,Ms. Hong ditakdirkan untuk memangsa\Non saudara-saudaranya sepanjang hidupnya.
+Dialogue: 0,0:49:23.66,0:49:27.66,Default,,0,0,0,,Lagi pula, kamu tidak perlu\Napa pun lagi untuk menghadapinya.
+Dialogue: 0,0:49:27.75,0:49:30.23,Default,,0,0,0,,Meramal nasib seperti Alkitab baginya.
+Dialog: 0,0:49:30.25,0:49:33.23,Default,,0,0,0,,Jika kamu mencari sesuatu secara online dan katakan padanya,
+Dialog: 0,0:49:33.26,0:49:34.65,Default,,0,0,0,,dia hanya mempercayainya.
+Dialog: 0,0:49:34.68,0:49:37.75,Default,,0,0,0,,Tapi itu menguntungkan Anda.
+Dialog: 0,0:49:38.26,0:49:43.93,Default,,0,0,0,,Itu benar. Saya mendapat banyak manfaat darinya selama sekitar 15 tahun.
+Dialogue: 0,0:50:20.80,0:50:22.63,Default,,0,0,0,,Apa yang membawamu kesini?
+Dialogue: 0,0:50:25.48,0:50:27.33,Default,,0,0,0,,Aku mengetahuinya.
+Dialogue: 0,0:50:27.35,0:50:32.13,Default,,0,0,0,,Jika aku tidak mencabut gugatannya, malmu\Nin Gwanggyo bahkan tidak akan ada.
+Dialogue: 0,0:50:32.15,0:50:33.85,Default,,0,0,0,,Kamu mau itu?
+Dialog: 0,0:50:36.74,0:50:39.48,Default,,0,0,0,,Berhenti berbelit-belit.
+Dialog: 0,0:50:39.87,0:50:41.57,Default,,0,0,0,,Katakan saja padaku.
+Dialogue: 0,0:50:42.95,0:50:45.68,Default,,0,0,0,,Apa yang kamu katakan pada Eun-sung tentang Soo-cheol?
+Dialogue: 0,0:50:45.70,0:50:49.81,Default,,0,0,0,,Apa katamu yang membuatnya\Ntidak mempertimbangkan untuk berinvestasi di Soo-cheol?
+Dialog: 0,0:50:49.83,0:50:51.02,Default,,0,0,0,,Apa maksudmu?
+Dialogue: 0,0:50:51.04,0:50:52.44,Default,,0,0,0,,Sudah jelas.
+Dialogue: 0,0:50:52.46,0:50:57.40,Default,,0,0,0,,"Jika Soo-cheol mendapat investasi, itu buruk\Nbagi saya, jadi berinvestasilah di Sang-jin saja."
+Dialog: 0,0:50:57.42,0:50:59.86,Default,,0,0,0,,Karena itu akan membuat ketua marah.
+Dialogue: 0,0:50:59.89,0:51:03.63,Default,,0,0,0,,Apakah menurutmu itu masuk akal?
+Dialog: 0,0:51:03.68,0:51:06.41,Default,,0,0,0,,Ya! Menurut saya, Anda lebih\Nmampu melakukan hal itu,
+Dialogue: 0,0:51:06.43,0:51:09.97,Default,,0,0,0,,karena kamu adalah seorang gadis\Nyang sangat egois.
+Dialog: 0,0:51:10.02,0:51:14.12,Default,,0,0,0,,Kamu tidak peduli jika ada orang di sekitarmu yang mati.\NKamu hanya perlu mencari cara untuk menyelamatkan diri sendiri,
+Dialogue: 0,0:51:14.15,0:51:16.73,Default,,0,0,0,,dan itulah sebabnya kakakmu...
+Dialog: 0,0:51:25.83,0:51:28.64,Default,,0,0,0,,Dia merasa tidak enak badan sejak pagi ini.
+Dialog: 0,0:51:28.66,0:51:30.14,Default,,0,0,0,,Saya pikir dia perlu istirahat.
+Dialogue: 0,0:51:30.17,0:51:31.91,Default,,0,0,0,,maafkan aku, Bu.
+Dialogue: 0,0:51:32.79,0:51:35.90,Default,,0,0,0,,Jadi, apa kamu menyuruhku pergi?
+Dialog: 0,0:51:35.92,0:51:38.46,Default,,0,0,0,,Kapan aku masih berbicara dengannya?
+Dialog: 0,0:51:40.63,0:51:42.34,Default,,0,0,0,,Maaf.
+Dialogue: 0,0:52:19.30,0:52:21.08,Default,,0,0,0,,Ayo beritahu keluargamu.
+Dialog: 0,0:52:22.34,0:52:23.32,Default,,0,0,0,,Saya bilang tidak.
+Dialog: 0,0:52:23.34,0:52:26.24,Default,,0,0,0,,Situasi seperti tadi bisa terjadi kapan saja.
+Dialog: 0,0:52:26.26,0:52:28.20,Default,,0,0,0,,Mereka mungkin mengetahuinya.
+Dialog: 0,0:52:28.22,0:52:30.17,Default,,0,0,0,,Saya akan dirawat.
+Dialogue: 0,0:52:31.39,0:52:33.75,Default,,0,0,0,,Kau bertingkah seolah aku akan mati besok.
+Dialogue: 0,0:52:33.77,0:52:35.51,Default,,0,0,0,,Kamu sedang...
+Dialog: 0,0:52:35.73,0:52:37.89,Default,,0,0,0,,egois dan tidak bertanggung jawab.
+Dialog: 0,0:52:38.32,0:52:39.79,Default,,0,0,0,,Ya.
+Dialog: 0,0:52:39.82,0:52:44.36,Default,,0,0,0,,Anda memikirkan uang Anda,\Nsaham, dan Klub Satu Miliar. Saya mengerti.
+Dialogue: 0,0:52:44.57,0:52:49.74,Default,,0,0,0,,Aku mengerti kamu khawatir keluargamu\Nakan mengambil milikmu jika mereka mengetahuinya,
+Dialog: 0,0:52:49.83,0:52:51.53,Default,,0,0,0,,tapi...
+Dialog: 0,0:52:52.37,0:52:55.07,Default,,0,0,0,, merahasiakan masalah penting ini dari mereka...
+Dialog: 0,0:52:55.13,0:52:58.08,Default,,0,0,0,,karena kamu tidak ingin ada yang diambil.
+Dialog: 0,0:52:58.63,0:53:00.16,Default,,0,0,0,,Benarkah?
+Dialog: 0,0:53:03.22,0:53:05.38,Default,,0,0,0,,Saya tidak ingin mengejutkan mereka.
+Dialog: 0,0:53:07.89,0:53:09.76,Default,,0,0,0,,Orang tuaku...
+Dialog: 0,0:53:15.77,0:53:18.43,Default,,0,0,0,,Mereka sudah kehilangan seorang anak.
+Dialogue: 0,0:53:24.95,0:53:27.02,Default,,0,0,0,,Jadi buat apa menakuti mereka?
+Dialogue: 0,0:53:30.33,0:53:33.03,Default,,0,0,0,,Lagi pula, aku tidak akan pernah bisa menjadi putri yang baik.
+Dialog: 0,0:53:33.33,0:53:35.03,Default,,0,0,0,,Saya hanya...
+Dialogue: 0,0:53:35.50,0:53:38.74,Default,,0,0,0,,tidak ingin menjadi keberadaan yang lebih\Nmengerikan bagi keluargaku,
+Dialog: 0,0:53:39.50,0:53:41.58,Default,,0,0,0,,dan yang lebih penting,
+Dialogue: 0,0:53:42.01,0:53:46.29,Default,,0,0,0,,Saya yakin saya akan sembuh,\Njadi berhentilah memperlakukan saya seperti pasien.
+Dialog: 0,0:53:53.56,0:53:55.16,Default,,0,0,0,,Bisakah kamu pergi?
+Dialog: 0,0:53:55.19,0:53:56.72,Default,,0,0,0,,Saya ingin istirahat.
+Dialogue: 0,0:54:10.24,0:54:11.93,Default,,0,0,0,,Dan pembelian stoknya?
+Dialog: 0,0:54:11.95,0:54:16.41,Default,,0,0,0,,Kami membeli total 14,7%, 4,9% per orang.
+Dialog: 0,0:54:16.83,0:54:19.45,Default,,0,0,0,,Dan direktur yang mendukung ketua?
+Dialogue: 0,0:54:26.13,0:54:29.53,Default,,0,0,0,,{\i1}Tingkat pengembalian\Nblind trust terakhir mendekati 90%,{\i0}
+Dialog: 0,0:54:29.55,0:54:32.82,Default,,0,0,0,,{\i1}jadi mereka bersemangat untuk bergabung dengan dana berikutnya.{\i0}
+Dialogue: 0,0:54:32.85,0:54:36.33,Default,,0,0,0,,Kita perlu mengarahkan mereka untuk menaruh\NSaham Queens sebagai jaminan selanjutnya.
+Dialog: 0,0:54:36.35,0:54:38.20,Default,,0,0,0,,Jumlah minimumnya sangat tinggi,
+Dialogue: 0,0:54:38.23,0:54:41.25,Default,,0,0,0,,Saya ragu mereka bisa menghasilkan\Nuang tunai sebanyak itu dalam hitungan hari.
+Dialogue: 0,0:54:41.27,0:54:44.64,Default,,0,0,0,,Jika kita mendesak mereka, mereka akan menaruh\Nsaham mereka sebagai jaminan.
+Dialog: 0,0:54:45.40,0:54:47.56,Default,,0,0,0,,Selanjutnya adalah Ketua Hong.
+Dialog: 0,0:54:47.70,0:54:50.69,Default,,0,0,0,,Investigasi penuntutan.
+Dialogue: 0,0:54:51.16,0:54:52.26,Default,,0,0,0,,Aku kasihan padanya.
+Dialogue: 0,0:54:52.28,0:54:55.03,Default,,0,0,0,,Dia benci penjara.
+Dialogue: 0,0:54:58.21,0:55:00.99,Default,,0,0,0,,Ngomong-ngomong, bagaimana cara melakukannya?
+Dialog: 0,0:55:01.79,0:55:05.06,Default,,0,0,0,,{\i1}Penjaga sebenarnya sang ketua...{\i0}
+Dialog: 0,0:55:05.09,0:55:07.48,Default,,0,0,0,,{\i1}adalah Song Jeong-beom di bidang Keuangan.{\i0}
+Dialogue: 0,0:55:07.51,0:55:12.80,Default,,0,0,0,,{\i1}Dia menyedot bagiannya sendiri,\Na juga dana gelap ketua.{\i0}
+Dialogue: 0,0:55:13.10,0:55:16.08,Default,,0,0,0,,Semua bukti akan kami serahkan\Nover ke pihak penuntut,
+Dialog: 0,0:55:16.10,0:55:18.37,Default,,0,0,0,,dan saat mereka melihat ke petinggi,
+Dialogue: 0,0:55:18.39,0:55:22.01,Default,,0,0,0,,mereka juga akan menyelidiki ketuanya.
+Dialog: 0,0:55:33.99,0:55:37.15,Default,,0,0,0,,Anda dapat melihat Menara Queens dari sini,
+Dialog: 0,0:55:39.41,0:55:41.37,Default,,0,0,0,,dan saya menyukainya.
+Dialogue: 0,0:55:41.83,0:55:45.83,Default,,0,0,0,,Rasanya seperti sedang melihat makanan lezat.
+Dialog: 0,0:56:05.02,0:56:06.72,Default,,0,0,0,,Sialan.
+Dialogue: 0,0:56:07.40,0:56:10.05,Default,,0,0,0,,Sudah kubilang buat fontnya lebih besar.
+Dialogue: 0,0:56:10.07,0:56:13.80,Default,,0,0,0,,Sialan. Siapkan dokumen\Nagain dan atur pertemuan lainnya.
+Dialogue: 0,0:56:13.82,0:56:16.23,Default,,0,0,0,,Aku tidak percaya mereka.
+Dialog: 0,0:56:16.62,0:56:18.24,Default,,0,0,0,,Keluar!
+Dialog: 0,0:56:19.12,0:56:20.74,Default,,0,0,0,,Keluar!
+Dialogue: 0,0:56:29.59,0:56:32.15,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}Saya rasa saya bisa mengizinkan Anda bergabung\Ndana ekuitas swasta.{\c}{\i0}
+Dialogue: 0,0:56:32.18,0:56:34.70,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}Jumlah minimumnya adalah $20 juta,{\c}{\i0}
+Dialogue: 0,0:56:34.72,0:56:38.45,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}dan kamu bisa menaruh saham Queens\Nup sebagai jaminan jika kamu kekurangan uang tunai.{\c}{\i0}
+Dialogue: 0,0:56:38.47,0:56:41.62,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}Tingkat penghasilan diperkirakan\Nlebih tinggi. Yang pertama datang, yang pertama dilayani,{\c}{\i0}
+Dialog: 0,0:56:41.64,0:56:44.71,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}jadi ambillah keputusan dengan cepat.\NKerahasiaan adalah suatu keharusan.{\c}{\i0}
+Dialog: 0,0:56:44.73,0:56:46.33,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}- Terima kasih.\N- Saya mengerti.{\c}{\i0}
+Dialog: 0,0:56:46.36,0:56:48.14,Default,,0,0,0,,{\an8}{\i1}{\c&H7AA0FF&}Itu mungkin.{\c}{\i0}
+Dialog: 0,0:56:51.19,0:56:53.01,Default,,0,0,0,,Dia sudah ada di sini.
+Dialogue: 0,0:56:53.03,0:56:56.02,Default,,0,0,0,,Apa yang terjadi pada Beom-ja?
+Dialogue: 0,0:56:56.49,0:57:00.07,Default,,0,0,0,,Kenapa dia tiba-tiba\Ningin mentraktirku makan?
+Dialog: 0,0:57:05.58,0:57:07.70,Default,,0,0,0,,Ketua telah tiba.
+Dialog: 0,0:57:25.73,0:57:27.29,Default,,0,0,0,,Tidak, Ayah. Anda tidak bisa pergi.
+Dialog: 0,0:57:27.31,0:57:29.68,Default,,0,0,0,,- Di atas mayatku.\N- Bergerak.
+Dialogue: 0,0:57:30.94,0:57:33.05,Default,,0,0,0,,Ayah, dengarkan aku saja.
+Dialog: 0,0:57:33.07,0:57:35.19,Default,,0,0,0,,Saya tidak menginginkan yang lain.
+Dialogue: 0,0:57:36.32,0:57:37.68,Default,,0,0,0,,Beri aku kesempatan saja.
+Dialogue: 0,0:57:37.70,0:57:38.93,Default,,0,0,0,,Dasar brengsek.
+Dialogue: 0,0:57:38.95,0:57:41.19,Default,,0,0,0,,Bukankah aku memberimu kesempatan?
+Dialog: 0,0:57:41.24,0:57:45.78,Default,,0,0,0,,Aku memberimu satu, tapi kamu menjualku\Tidak ke penuntutan untuk menyelamatkan dirimu sendiri!
+Dialogue: 0,0:57:46.25,0:57:49.52,Default,,0,0,0,,Saat aku dikurung,\Nkamu berencana menggantikanku...
+Dialog: 0,0:57:49.54,0:57:52.15,Default,,0,0,0,,dengan sutradara yang mendukung Anda.
+Dialogue: 0,0:57:52.17,0:57:54.65,Default,,0,0,0,,- Apa kamu lupa?\N- Aku sedang tidak waras.
+Dialog: 0,0:57:54.67,0:57:59.20,Default,,0,0,0,,Saya dengar Anda mencoba menyematkan\Ntuduhan penggelapan pada saya,
+Dialogue: 0,0:57:59.22,0:58:00.32,Default,,0,0,0,,jadi aku hilang.
+Dialogue: 0,0:58:00.35,0:58:02.76,Default,,0,0,0,,Maafkan aku.
+Dialogue: 0,0:58:03.77,0:58:05.45,Default,,0,0,0,,Sudah 20 tahun.
+Dialogue: 0,0:58:05.48,0:58:07.96,Default,,0,0,0,,Kamu bahkan akan memaafkan\Na orang asing setelah sekian lama.
+Dialogue: 0,0:58:07.98,0:58:09.79,Default,,0,0,0,,Kenapa kamu begitu kasar pada anakmu?
+Dialog: 0,0:58:09.81,0:58:12.04,Default,,0,0,0,,Saya lebih suka memaafkan orang asing!
+Dialogue: 0,0:58:12.07,0:58:15.39,Default,,0,0,0,,Bagaimana aku bisa memaafkan\anakku yang sekarang mengkhianatiku?
+Dialogue: 0,0:58:16.32,0:58:18.19,Default,,0,0,0,,Aku tidak bisa,
+Dialog: 0,0:58:18.57,0:58:20.55,Default,,0,0,0,,jadi jangan pernah melakukan hal seperti ini lagi.
+Dialog: 0,0:58:20.58,0:58:22.19,Default,,0,0,0,,Ayah!
+Dialog: 0,0:58:22.58,0:58:24.35,Default,,0,0,0,,Aku merindukanmu.
+Dialogue: 0,0:58:24.37,0:58:26.78,Default,,0,0,0,,Itulah alasanku datang.
+Dialogue: 0,0:58:29.96,0:58:32.08,Default,,0,0,0,,Nah, kamu sudah melihatku sekarang.
+Dialog: 0,0:58:33.55,0:58:35.25,Default,,0,0,0,,Saya tidak mau...
+Dialog: 0,0:58:35.55,0:58:37.46,Default,,0,0,0,,sampai jumpa lagi.
+Dialogue: 0,0:58:37.72,0:58:39.49,Default,,0,0,0,,Kau tak tahu terima kasih.
+Dialogue: 0,0:58:39.51,0:58:41.80,Default,,0,0,0,,Jangan datang ke pemakamanku.
+Dialog: 0,0:58:44.72,0:58:46.63,Default,,0,0,0,,Sialan.
+Dialogue: 0,0:59:05.91,0:59:08.36,Default,,0,0,0,,Kenapa kamu terlihat begitu sedih?
+Dialog: 0,0:59:08.96,0:59:11.16,Default,,0,0,0,,Sepertinya kamu belum makan.
+Dialog: 0,0:59:14.55,0:59:16.54,Default,,0,0,0,,Saat kamu sedang tidak enak badan,
+Dialog: 0,0:59:16.67,0:59:18.28,Default,,0,0,0,,tidak ada yang lebih baik dari...
+Dialogue: 0,0:59:18.30,0:59:21.21,Default,,0,0,0,,semangkuk ini.
+Dialogue: 0,0:59:22.22,0:59:26.45,Default,,0,0,0,,Ibuku selalu membuatkanku ini saat aku sakit.
+Dialogue: 0,0:59:26.47,0:59:30.91,Default,,0,0,0,,Dulu ketika aku biasa menjual koran\Ndan menyemir sepatu orang di Myeong-dong.
+Dialog: 0,0:59:30.94,0:59:33.64,Default,,0,0,0,,Saat aku lapar atau sakit,
+Dialog: 0,0:59:35.40,0:59:38.64,Default,,0,0,0,,Saya selalu memikirkan hal ini.
+Dialog: 0,0:59:38.74,0:59:40.65,Default,,0,0,0,,Makanlah.
+Dialogue: 0,0:59:41.07,0:59:45.86,Default,,0,0,0,,Dari tidur di jalanan\Nmenggunakan koran sebagai selimut,
+Dialog: 0,0:59:45.95,0:59:51.77,Default,,0,0,0,,untuk memiliki salah satu\Ndepartment store dan waralaba pasar terkemuka di Korea,
+Dialogue: 0,0:59:51.79,0:59:54.33,Default,,0,0,0,,butuh waktu 60 tahun,
+Dialog: 0,0:59:55.17,0:59:58.41,Default,,0,0,0,,tapi kenapa rasanya seperti...
+Dialog: 0,0:59:58.63,1:00:01.32,Default,,0,0,0,,Aku berdiri sendirian di hutan belantara?
+Dialogue: 0,1:00:01.34,1:00:04.49,Default,,0,0,0,,Pasti ada yang sangat menyakiti perasaanmu.
+Dialogue: 0,1:00:04.51,1:00:07.26,Default,,0,0,0,,Hanya aku yang tahu betapa lembutnya hati...
+Dialog: 0,1:00:07.39,1:00:09.34,Default,,0,0,0,,kamu.
+Dialog: 0,1:00:22.45,1:00:25.07,Default,,0,0,0,,Rasanya seperti...
+Dialogue: 0,1:00:25.49,1:00:27.74,Default,,0,0,0,,milik ibuku.
+Dialog: 0,1:00:34.46,1:00:36.10,Default,,0,0,0,,Mengapa Anda tidak bisa memberi kami pengembalian dana?
+Dialogue: 0,1:00:36.13,1:00:38.73,Default,,0,0,0,,Kulit bayiku rusak setelah dia menggunakan ini,
+Dialog: 0,1:00:38.76,1:00:42.15,Default,,0,0,0,,tetapi Anda tidak dapat memberi kami pengembalian dana,\Napalagi memberikan kompensasi kepada kami?
+Dialog: 0,1:00:42.18,1:00:45.45,Default,,0,0,0,,Pak, sudah lebih dari delapan bulan\Nsejak Anda membeli produk,
+Dialog: 0,1:00:45.47,1:00:47.66,Default,,0,0,0,,dan Anda hampir menggunakan semuanya.
+Dialog: 0,1:00:47.68,1:00:49.58,Default,,0,0,0,,Hei. Saya senang Anda mengungkitnya.
+Dialogue: 0,1:00:49.60,1:00:52.45,Default,,0,0,0,,Wajahku terlihat seperti ini\Nkarena aku sering menggunakannya.
+Dialogue: 0,1:00:52.48,1:00:55.54,Default,,0,0,0,,Jika tidak, kulitku\Ntidak akan menjadi seperti ini!
+Dialog: 0,1:00:55.56,1:00:59.02,Default,,0,0,0,,Sayang, jangan marah. Ini akan menjadi lebih buruk.
+Dialog: 0,1:00:59.07,1:01:01.05,Default,,0,0,0,,Beri kami pengembalian dana sekarang juga.
+Dialog: 0,1:01:01.07,1:01:02.92,Default,,0,0,0,,Pak, kami tidak bisa melakukan itu.
+Dialogue: 0,1:01:02.95,1:01:05.65,Default,,0,0,0,,Bukankah aku sudah menjelaskannya dengan cukup jelas?
+Dialogue: 0,1:01:09.16,1:01:11.31,Default,,0,0,0,,Pak harap tenang.
+Dialog: 0,1:01:11.33,1:01:13.86,Default,,0,0,0,,Bagaimana caranya agar aku bisa tenang?
+Dialog: 0,1:01:14.29,1:01:18.35,Default,,0,0,0,,Benar. Anda mengira saya adalah salah satu\pelanggan yang menyebalkan itu, bukan?
+Dialogue: 0,1:01:18.38,1:01:21.08,Default,,0,0,0,,Mau kutunjukkan yang asli?
+Dialog: 0,1:01:25.34,1:01:28.34,Default,,0,0,0,,Pak, Anda tidak dapat melakukan ini di sini.
+Dialogue: 0,1:01:29.22,1:01:33.76,Default,,0,0,0,,{\i1}{\c&HFFFF00&}Aku ingin menggunakan uang jaminan kami untuk\Noperasinya, tapi ibuku tidak mau mendengarkan.{\c}{\i0}
+Dialog: 0,1:01:36.19,1:01:40.08,Default,,0,0,0,,Ini adalah permintaan\N yang tidak masuk akal. Kami tidak dapat membantu Anda.
+Dialog: 0,1:01:40.11,1:01:41.54,Default,,0,0,0,,"Tidak Masuk Akal"?
+Dialogue: 0,1:01:41.57,1:01:45.44,Default,,0,0,0,,Kau putus asa. Kemarilah.\NBeraninya kamu berbicara denganku...?
+Dialog: 0,1:01:49.91,1:01:51.86,Default,,0,0,0,,Siapa kamu?
+Dialog: 0,1:01:51.99,1:01:53.56,Default,,0,0,0,,Lepaskan.
+Dialog: 0,1:01:53.58,1:01:55.57,Default,,0,0,0,,Lepaskan aku.
+Dialog: 0,1:01:58.29,1:02:00.10,Default,,0,0,0,,Ini bukan tempat untuk perilaku seperti itu.
+Dialog: 0,1:02:00.13,1:02:03.73,Default,,0,0,0,,Dengar, aku tidak ada urusan denganmu, anak kecil.
+Dialog: 0,1:02:03.76,1:02:04.94,Default,,0,0,0,,Bawa CEO Anda.
+Dialogue: 0,1:02:04.97,1:02:07.57,Default,,0,0,0,,Ajak CEOmu sekarang juga!
+Dialog: 0,1:02:07.59,1:02:09.24,Default,,0,0,0,,- Dia ada di sini.\N- Apa?
+Dialog: 0,1:02:09.26,1:02:11.30,Default,,0,0,0,,Saya CEO.
+Dialog: 0,1:02:12.14,1:02:13.41,Default,,0,0,0,,Apakah Anda CEO-nya?
+Dialogue: 0,1:02:13.43,1:02:15.87,Default,,0,0,0,,Mengapa Anda tidak melatih karyawan Anda dengan benar?
+Dialog: 0,1:02:15.89,1:02:18.89,Default,,0,0,0,,Kamu benar. Saya rasa saya tidak melakukannya dengan benar.
+Dialog: 0,1:02:20.98,1:02:22.81,Default,,0,0,0,,Ms. Kim Minji?
+Dialog: 0,1:02:23.44,1:02:25.13,Default,,0,0,0,,Hanya berurusan dengan pelanggan kami.
+Dialog: 0,1:02:25.15,1:02:28.05,Default,,0,0,0,,Untuk penjahat, laporkan\Nke polisi tanpa peringatan.
+Dialog: 0,1:02:28.07,1:02:30.38,Default,,0,0,0,,Apa? Seorang penjahat?
+Dialog: 0,1:02:30.41,1:02:32.80,Default,,0,0,0,,Anda menyebut pelanggan Anda penjahat?
+Dialog: 0,1:02:32.83,1:02:34.64,Default,,0,0,0,,Sayang, kamu merekam ini?
+Dialog: 0,1:02:34.66,1:02:35.89,Default,,0,0,0,,Ya.
+Dialog: 0,1:02:35.91,1:02:38.68,Default,,0,0,0,,CEO mal ini memandang\Nmeremehkan pelanggannya.
+Dialog: 0,1:02:38.71,1:02:40.98,Default,,0,0,0,,Ayo tuntut dia dan beri dia pelajaran.
+Dialog: 0,1:02:41.00,1:02:42.95,Default,,0,0,0,,Ayo lakukan itu.
+Dialogue: 0,1:02:43.59,1:02:45.19,Default,,0,0,0,,Pastikan melakukannya.
+Dialog: 0,1:02:45.21,1:02:46.92,Default,,0,0,0,,Saya juga akan melakukannya.
+Dialog: 0,1:02:47.93,1:02:50.82,Default,,0,0,0,,Saya tahu betul, karena suami saya adalah pengacara yang baik.
+Dialog: 0,1:02:50.85,1:02:52.07,Default,,0,0,0,,Anda dapat dikenakan biaya...
+Dialog: 0,1:02:52.10,1:02:55.03,Default,,0,0,0,,dengan hambatan bisnis, serangan khusus,
+Dialog: 0,1:02:55.06,1:02:57.41,Default,,0,0,0,,dan kerusakan properti,
+Dialog: 0,1:02:57.44,1:03:02.39,Default,,0,0,0,,dan saya akan mengajukan tuntutan lain atas\Nkerugian penjualan yang Anda sebabkan.
+Dialog: 0,1:03:02.52,1:03:04.75,Default,,0,0,0,,- Apakah kalian semua memfilmkannya?\N- Ya, benar!
+Dialog: 0,1:03:04.78,1:03:07.98,Default,,0,0,0,,- Ya. Ini!\N- Tolong beri jalan.
+Dialog: 0,1:03:09.24,1:03:10.55,Default,,0,0,0,,Bawa mereka ke polisi.
+Dialog: 0,1:03:10.57,1:03:12.65,Default,,0,0,0,,Ayo berangkat, Sayang.
+Dialog: 0,1:03:20.46,1:03:22.53,Default,,0,0,0,,Terima kasih.
+Dialog: 0,1:03:25.38,1:03:28.46,Default,,0,0,0,,Ngomong-ngomong, Tuan Baek, tentang Park Seok-hun.
+Dialogue: 0,1:03:28.59,1:03:30.36,Default,,0,0,0,,Bagaimana dengan dia?
+Dialogue: 0,1:03:30.38,1:03:33.07,Default,,0,0,0,,Dia berkeliling sambil berkata...
+Dialog: 0,1:03:33.10,1:03:38.08,Default,,0,0,0,,bahwa Pir Yongdu yang Anda promosikan\Nas makanan khas desa kami tidak memiliki masa depan.
+Dialog: 0,1:03:38.10,1:03:40.54,Default,,0,0,0,,Dia mengklaim Apple Yongdu akan...
+Dialog: 0,1:03:40.56,1:03:42.96,Default,,0,0,0,,kegemaran K-food baru di seluruh dunia.
+Dialog: 0,1:03:42.98,1:03:44.79,Default,,0,0,0,,Apple? Kebaikan.
+Dialog: 0,1:03:44.82,1:03:46.34,Default,,0,0,0,,Itu konyol.
+Dialogue: 0,1:03:46.36,1:03:48.80,Default,,0,0,0,,Secara tradisional, apel tidak sebanding dengan pir.
+Dialog: 0,1:03:48.82,1:03:51.05,Default,,0,0,0,,Tentu saja... Benarkah?
+Dialogue: 0,1:03:51.07,1:03:54.05,Default,,0,0,0,,Pikirkan saja tentang upacara peringatan.
+Dialog: 0,1:03:54.08,1:03:56.60,Default,,0,0,0,,Kami meletakkan pir di atas meja, bukan apel!
+Dialogue: 0,1:03:56.62,1:04:00.72,Default,,0,0,0,,Selain itu, kesemek dan pir cocok\Nbersama. Kesemek dan apel tidak.
+Dialogue: 0,1:04:00.75,1:04:04.98,Default,,0,0,0,,Beraninya dia meremehkan pentingnya\No pir, buah tradisional kita?
+Dialog: 0,1:04:05.00,1:04:07.36,Default,,0,0,0,,Lagi pula, orang ini berlari...
+Dialog: 0,1:04:07.38,1:04:11.11,Default,,0,0,0,,kampanye pemilu dengan cara yang cerdas.
+Dialogue: 0,1:04:11.13,1:04:13.57,Default,,0,0,0,,Kamu tahu restoran ibunya?
+Dialogue: 0,1:04:13.59,1:04:18.45,Default,,0,0,0,,Dia menawarkan makan siang setengah harga,\Njadi semua orang makan di sana sekarang.
+Dialog: 0,1:04:18.47,1:04:19.49,Default,,0,0,0,,Dasar bodoh!
+Dialogue: 0,1:04:19.52,1:04:21.47,Default,,0,0,0,,Kenapa kamu tidak memberitahuku lebih awal?
+Dialog: 0,1:04:21.69,1:04:23.37,Default,,0,0,0,,Sedikit itu...!
+Dialog: 0,1:04:23.40,1:04:25.96,Default,,0,0,0,,Dia tidak bermain adil, kan?
+Dialog: 0,1:04:25.98,1:04:28.31,Default,,0,0,0,,Apakah kamu akan ke sana?
+Dialog: 0,1:04:28.78,1:04:30.36,Default,,0,0,0,,{\i1}{\c&HFFFF&}Makan Siang Setengah Harga{\c}{\i0}
+Dialog: 0,1:04:37.74,1:04:38.72,Default,,0,0,0,,Halo.
+Dialog: 0,1:04:38.74,1:04:40.18,Default,,0,0,0,,Hei, Tuan Park.
+Dialog: 0,1:04:40.20,1:04:42.14,Default,,0,0,0,,Supnya sangat enak hari ini.
+Dialog: 0,1:04:42.16,1:04:43.98,Default,,0,0,0,,Ayo. Itu selalu bagus.
+Dialog: 0,1:04:44.00,1:04:46.69,Default,,0,0,0,,Apa ini?
+Dialog: 0,1:04:46.71,1:04:48.86,Default,,0,0,0,,Ini seperti pesta.
+Dialog: 0,1:04:48.88,1:04:51.86,Default,,0,0,0,,Kita harus bersaing dengan janji dan rencana,
+Dialog: 0,1:04:51.88,1:04:55.57,Default,,0,0,0,,tapi dia mencoba memenangkan hati orang\Nover dengan lagu populer.
+Dialogue: 0,1:04:55.60,1:04:59.62,Default,,0,0,0,,Maksud saya, jika dia memenangkan pemilu seperti ini,\Niitu bukan kemenangannya. Itu milik penyanyinya!
+Dialog: 0,1:04:59.64,1:05:04.25,Default,,0,0,0,,Ini harus dianggap sebagai\pelanggaran hukum pemilu. Ya.
+Dialog: 0,1:05:04.27,1:05:06.21,Default,,0,0,0,,Chun-sik, kumpulkan buktinya.
+Dialog: 0,1:05:06.23,1:05:10.93,Default,,0,0,0,,Mereka yang menghibur dan mereka yang\Nbermain bersama. Saya akan melaporkan semuanya!
+Dialog: 0,1:05:11.15,1:05:12.98,Default,,0,0,0,,Ayo!
+Dialogue: 0,1:05:16.24,1:05:18.11,Default,,0,0,0,,Kalian semua ditakdirkan.
+Dialog: 0,1:05:20.24,1:05:22.24,Default,,0,0,0,,Tunggu. Apa...?
+Dialog: 0,1:05:22.66,1:05:24.57,Default,,0,0,0,,- Tuan Baek.\N- Apa?
+Dialog: 0,1:05:34.30,1:05:37.74,Default,,0,0,0,,Seok-hun! Aku pesan satu piring daging babi lagi.
+Dialogue: 0,1:05:37.76,1:05:38.86,Default,,0,0,0,,Satu soju lagi juga!
+Dialog: 0,1:05:38.89,1:05:41.45,Default,,0,0,0,,Enak sekali!
+Dialog: 0,1:05:41.47,1:05:43.93,Default,,0,0,0,,Bagian itu...!
+Dialogue: 0,1:05:44.02,1:05:45.16,Default,,0,0,0,,Dasar anak...!
+Dialog: 0,1:05:45.19,1:05:46.29,Default,,0,0,0,,Saya harus...!
+Dialog: 0,1:05:46.31,1:05:47.54,Default,,0,0,0,,Seburuk apa?
+Dialog: 0,1:05:47.56,1:05:50.29,Default,,0,0,0,,Dia masuk ke dalam perangkap mereka.
+Dialog: 0,1:05:50.32,1:05:55.05,Default,,0,0,0,,Korupsi keluarga. Ini adalah masalah yang bahkan tidak dapat dihindari oleh presiden negara tersebut.
+Dialog: 0,1:05:55.07,1:05:58.80,Default,,0,0,0,,Putra kepala desa saat ini membiarkan\Npihak lawan mentraktirnya makan.
+Dialog: 0,1:05:58.82,1:06:02.26,Default,,0,0,0,,Orang bilang keluarga kepala keluarga hancur,
+Dialog: 0,1:06:02.29,1:06:05.56,Default,,0,0,0,,karena anak-anaknya\Ntidak disiplin dengan baik.
+Dialog: 0,1:06:05.58,1:06:06.85,Default,,0,0,0,,Dasar bodoh!
+Dialog: 0,1:06:06.87,1:06:08.66,Default,,0,0,0,,Aku tidak percaya padamu!
+Dialog: 0,1:06:10.34,1:06:12.65,Default,,0,0,0,,Ayah, saya akan mengubah pendapat mereka.
+Dialog: 0,1:06:12.67,1:06:13.90,Default,,0,0,0,,Apa yang dapat kamu lakukan?
+Dialog: 0,1:06:13.92,1:06:15.98,Default,,0,0,0,,Salon saya memproduksi sekitar 90%
+Dialogue: 0,1:06:16.01,1:06:18.70,Default,,0,0,0,,tentang rumor yang beredar di Yongdu-ri.
+Dialog: 0,1:06:18.72,1:06:20.84,Default,,0,0,0,,Kau tahu, penggosip!
+Dialog: 0,1:06:21.06,1:06:23.91,Default,,0,0,0,,- Kita bisa menggunakannya.\N- Suka kampanye kotor?
+Dialog: 0,1:06:23.93,1:06:27.08,Default,,0,0,0,,Tepat! Seok-hun mencuri makanan ringan dari toko kami...
+Dialog: 0,1:06:27.10,1:06:28.37,Default,,0,0,0,,ketika dia masih kecil.
+Dialog: 0,1:06:28.40,1:06:29.62,Default,,0,0,0,,Kami akan membeberkannya.
+Dialog: 0,1:06:29.65,1:06:33.43,Default,,0,0,0,,"Siapa yang mencuri sebutir telur, akan mencuri seekor lembu!"
+Dialog: 0,1:06:33.73,1:06:35.60,Default,,0,0,0,,Bagaimana menurut anda?
+Dialogue: 0,1:06:36.70,1:06:38.01,Default,,0,0,0,,Punya rokok?
+Dialog: 0,1:06:38.03,1:06:39.94,Default,,0,0,0,,Saya berhenti merokok.
+Dialog: 0,1:06:56.76,1:06:57.99,Default,,0,0,0,,Mi-seon, kamu ikut?
+Dialogue: 0,1:06:58.01,1:07:00.99,Default,,0,0,0,,Ayahmu dan Seok-hun\Nakan bertengkar hebat.
+Dialog: 0,1:07:01.01,1:07:02.36,Default,,0,0,0,,Silakan.
+Dialog: 0,1:07:02.39,1:07:08.12,Default,,0,0,0,,Saya kira tidak. Keluarga Anda membutuhkan\Nbanyak orang di pihak mereka.
+Dialog: 0,1:07:08.14,1:07:10.33,Default,,0,0,0,,- Mengapa?\N- Apa maksud Anda, "mengapa"?
+Dialog: 0,1:07:10.35,1:07:13.25,Default,,0,0,0,,Karena kepala berada dalam posisi yang tidak menguntungkan sekarang.
+Dialog: 0,1:07:13.27,1:07:14.84,Default,,0,0,0,,Pergi saja!
+Dialog: 0,1:07:14.86,1:07:15.92,Default,,0,0,0,,Datang saja!
+Dialogue: 0,1:07:15.94,1:07:18.13,Default,,0,0,0,,Astaga! Pergi saja!
+Dialog: 0,1:07:18.15,1:07:19.63,Default,,0,0,0,,Tidak, Pinky!
+Dialog: 0,1:07:19.66,1:07:21.55,Default,,0,0,0,,Anda masuk kembali.
+Dialog: 0,1:07:21.57,1:07:24.09,Default,,0,0,0,,{\i1}Saya berdiri di sini...{\i0}
+Dialog: 0,1:07:24.12,1:07:26.97,Default,,0,0,0,,{\i1}karena desa kami membutuhkan generasi muda.{\i0}
+Dialog: 0,1:07:27.00,1:07:28.31,Default,,0,0,0,,Seperti yang saya katakan sebelumnya,
+Dialogue: 0,1:07:28.33,1:07:32.44,Default,,0,0,0,,Saya akan menjadikan Apel Yongdu sebagai K-food\NDicintai oleh orang-orang di seluruh dunia!
+Dialog: 0,1:07:32.46,1:07:37.46,Default,,0,0,0,,Saya, Park Seok-hun, akan memulihkan\Ndua tahun Yongdu-ri yang hilang!
+Dialog: 0,1:07:39.55,1:07:41.15,Default,,0,0,0,,Dia diterima dengan baik.
+Dialog: 0,1:07:41.18,1:07:42.88,Default,,0,0,0,,Tidak apa-apa.
+Dialog: 0,1:07:43.35,1:07:45.30,Default,,0,0,0,,Tidak apa-apa.
+Dialog: 0,1:07:46.68,1:07:48.74,Default,,0,0,0,,Semuanya, Yongdu-ri kami...
+Dialog: 0,1:07:48.77,1:07:51.83,Default,,0,0,0,,seperti jantung buah pir Korea.
+Dialog: 0,1:07:51.85,1:07:55.83,Default,,0,0,0,,Nah, bukankah jantung buah pir Naju atau Seongju?
+Dialog: 0,1:07:55.86,1:08:00.51,Default,,0,0,0,,Benar! Yongdu-ri bukanlah\Nhati. Ini lebih seperti...
+Dialog: 0,1:08:00.53,1:08:01.59,Default,,0,0,0,,Bagaimana mengatakannya?
+Dialog: 0,1:08:01.61,1:08:04.38,Default,,0,0,0,,Ini lebih mirip usus.
+Dialogue: 0,1:08:04.41,1:08:06.03,Default,,0,0,0,,Benarkah?
+Dialog: 0,1:08:06.66,1:08:09.89,Default,,0,0,0,,Benar. Jika itu hati, pir kita...
+Dialogue: 0,1:08:09.91,1:08:14.06,Default,,0,0,0,,akan dijual di department store putri-\Nin-lawnya.
+Dialog: 0,1:08:14.09,1:08:16.12,Default,,0,0,0,,Kamu benar!
+Dialog: 0,1:08:17.96,1:08:21.32,Default,,0,0,0,,Apa? Mengapa mengangkat hal itu ke sini?
+Dialog: 0,1:08:21.34,1:08:22.61,Default,,0,0,0,,Menantu perempuanku...
+Dialog: 0,1:08:22.64,1:08:25.32,Default,,0,0,0,,memisahkan pekerjaan dan kehidupan pribadinya!
+Dialog: 0,1:08:25.35,1:08:27.87,Default,,0,0,0,,Saya mengerti bahwa dia adalah CEO yang baik,
+Dialogue: 0,1:08:27.89,1:08:28.91,Default,,0,0,0,,tapi kehidupan pribadinya?
+Dialog: 0,1:08:28.93,1:08:32.25,Default,,0,0,0,,Terus terang, kami hanya mendengar\Ndia dan putra Anda menikah.
+Dialog: 0,1:08:32.27,1:08:35.87,Default,,0,0,0,,- Kami belum pernah melihatnya.\N- Bukankah dia datang dengan helikopter?
+Dialog: 0,1:08:35.90,1:08:38.75,Default,,0,0,0,,Benar. Saya pikir perang telah pecah saat itu.
+Dialogue: 0,1:08:38.78,1:08:41.76,Default,,0,0,0,,Memang benar dia tidak pernah\Nberkunjung sejak mereka menikah.
+Dialogue: 0,1:08:41.78,1:08:44.19,Default,,0,0,0,,Itu sebelum mereka menikah?
+Dialog: 0,1:08:45.83,1:08:47.55,Default,,0,0,0,,- Apa?\N- Apa yang terjadi?
+Dialogue: 0,1:08:47.58,1:08:50.90,Default,,0,0,0,,- Apakah ini gempa bumi?\N- Apa yang terjadi?
+Dialog: 0,1:08:51.29,1:08:52.75,Default,,0,0,0,,{\i1}{\c&HFFFF&}Balai Komunitas Yongdu-ri{\c}{\i0}
+Dialog: 0,1:08:59.59,1:09:02.62,Default,,0,0,0,,- Apa itu?\N- Rekam.
+Dialog: 0,1:09:03.01,1:09:05.29,Default,,0,0,0,,Mereka membawa banyak.
+Dialog: 0,1:09:35.08,1:09:36.95,Default,,0,0,0,,Ayah?
+Dialogue: 0,1:09:38.42,1:09:39.81,Default,,0,0,0,,Ya ampun.
+Dialog: 0,1:09:39.84,1:09:41.75,Default,,0,0,0,,Ya ampun.
+Dialog: 0,1:09:51.52,1:09:53.17,Default,,0,0,0,,Tidak mungkin...
+Dialogue: 0,1:09:55.39,1:09:56.71,Default,,0,0,0,,Dia datang.
+Dialog: 0,1:09:56.73,1:09:58.64,Default,,0,0,0,,Akhirnya.
+Dialog: 0,1:10:05.40,1:10:09.01,Default,,0,0,0,,Apa yang kamu lakukan di sini?
+Dialog: 0,1:10:09.03,1:10:11.05,Default,,0,0,0,,Saya senang kalian semua ada di sini.
+Dialog: 0,1:10:11.08,1:10:13.26,Default,,0,0,0,,Aku melewatkan ulang tahunmu yang terakhir,
+Dialog: 0,1:10:13.29,1:10:17.66,Default,,0,0,0,,jadi saya datang untuk mentraktir penduduk desa makan.
+Dialog: 0,1:10:20.46,1:10:25.37,Default,,0,0,0,,Halo, saya Hong Hae-in, menantu\Nkepala desa.
+Dialog: 0,1:10:29.14,1:10:30.41,Default,,0,0,0,,Apa yang terjadi?
+Dialog: 0,1:10:30.43,1:10:31.99,Default,,0,0,0,,Aku mengirim pesan padanya.
+Dialog: 0,1:10:32.01,1:10:35.29,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}Anda bilang akan mengunjungi kami suatu hari nanti.{\c}{\i0}
+Dialogue: 0,1:10:35.31,1:10:39.37,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}Dapatkah hari itu terjadi pada hari ini dan saat ini juga?{\c}{\i0}
+Dialogue: 0,1:10:39.40,1:10:43.75,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}Ayahku mencalonkan diri untuk dipilih kembali,\Ndan hasilnya tidak bagus.{\c}{\i0}
+Dialog: 0,1:10:43.78,1:10:48.56,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}Saya pikir dia perlu menunjukkan kepada orang-orang\Nseseorang berpengaruh yang mendukungnya.{\c}{\i0}
+Dialog: 0,1:10:56.76,1:10:59.28,Default,,0,0,0,,Dia membacanya! Dikatakan "baca."
+Dialog: 0,1:11:03.05,1:11:05.25,Default,,0,0,0,,Dia datang karena teks itu?
+Dialog: 0,1:11:05.30,1:11:07.17,Default,,0,0,0,,Aku juga tidak percaya.
+Dialog: 0,1:11:07.88,1:11:10.38,Default,,0,0,0,,Kerja bagus!
+Dialog: 0,1:11:11.10,1:11:12.41,Default,,0,0,0,,Hong Hae-in!
+Dialog: 0,1:11:12.43,1:11:13.78,Default,,0,0,0,,Tidak banyak.
+Dialog: 0,1:11:13.81,1:11:16.99,Default,,0,0,0,,Suplemen nutrisi mahal, ginseng,
+Dialogue: 0,1:11:17.02,1:11:20.21,Default,,0,0,0,,kosmetik, syal sutra, muffler kasmir,
+Dialog: 0,1:11:20.23,1:11:22.50,Default,,0,0,0,,Sarung tangan kulit Italia, seterusnya.
+Dialogue: 0,1:11:22.52,1:11:25.25,Default,,0,0,0,,Tadinya aku mau beli sedikit untuk Ayah,
+Dialog: 0,1:11:25.28,1:11:26.46,Default,,0,0,0,,tapi saya berlebihan.
+Dialog: 0,1:11:26.49,1:11:28.34,Default,,0,0,0,,Anda dapat berbagi.
+Dialogue: 0,1:11:28.36,1:11:31.05,Default,,0,0,0,,Ya ampun. Aku tidak percaya padamu.
+Dialog: 0,1:11:31.07,1:11:34.28,Default,,0,0,0,,Kamu membeli terlalu banyak.
+Dialog: 0,1:11:36.16,1:11:39.10,Default,,0,0,0,,- Baek Du-gwan!\N- Baek Du-gwan!
+Dialog: 0,1:11:39.12,1:11:44.02,Default,,0,0,0,,- Hae-in!\N- Baek Du-gwan!
+Dialog: 0,1:11:44.04,1:11:47.27,Default,,0,0,0,,Semuanya! Apa spesialisasi Yongdu-ri? Apel atau pir?
+Dialog: 0,1:11:47.30,1:11:49.58,Default,,0,0,0,,- Pir!\N- Pir!
+Dialog: 0,1:11:50.59,1:11:53.66,Default,,0,0,0,,- Baek Du-gwan!\N- Baek Du-gwan!
+Dialog: 0,1:11:53.68,1:11:56.07,Default,,0,0,0,,- Hae-in!\N- Baek Du-gwan!
+Dialog: 0,1:11:56.10,1:11:58.35,Default,,0,0,0,,{\an8}{\i1}{\c&HFFFF&}Baek Du-gwan\NA pekerja keras yang melindungi Yongdu-ri{\c}{\i0}
+Dialog: 0,1:12:27.71,1:12:31.17,Default,,0,0,0,,{\i1}{\c&H7AA0FF&}Hyun-woo. Hae-in ada di sini.{\c}{\i0}
+Dialog: 0,1:12:34.47,1:12:36.57,Default,,0,0,0,,- Hai.\N- {\i1}Bu, aku tidak menjawab teleponmu.{\i0}
+Dialog: 0,1:12:36.60,1:12:38.78,Default,,0,0,0,,Tidak apa-apa. Apa kabarmu?
+Dialog: 0,1:12:38.81,1:12:42.58,Default,,0,0,0,,Saya mendengar Mi-seon dan Hyeon-tae pergi\Nke sana. Anda pasti terkejut.
+Dialog: 0,1:12:42.60,1:12:46.17,Default,,0,0,0,,Tidak, tidak apa-apa. Tidak ada hal buruk\Nyang terjadi, jadi jangan khawatir.
+Dialogue: 0,1:12:46.19,1:12:47.46,Default,,0,0,0,,{\i1}Dan Hae-in adalah...{\i0}
+Dialog: 0,1:12:47.48,1:12:49.44,Default,,0,0,0,,Ya, dia juga baik-baik saja.
+Dialog: 0,1:12:49.47,1:12:50.50,Default,,0,0,0,,Apa maksudmu?
+Dialog: 0,1:12:50.53,1:12:52.56,Default,,0,0,0,,{\i1}Apakah kalian berdua bertengkar?{\i0}
+Dialog: 0,1:12:53.95,1:12:54.92,Default,,0,0,0,,Tentu saja tidak.
+Dialog: 0,1:12:54.95,1:12:57.68,Default,,0,0,0,,Lalu kenapa kamu tidak tahu dimana dia?
+Dialog: 0,1:12:57.70,1:12:59.64,Default,,0,0,0,,{\i1}Dia ada di sini.{\i0}
+Dialog: 0,1:12:59.66,1:13:01.72,Default,,0,0,0,,Apa? Kenapa dia ada di sana?
+Dialog: 0,1:13:01.75,1:13:03.48,Default,,0,0,0,,{\i1}Kamu harus bertanya sendiri padanya.{\i0}
+Dialog: 0,1:13:03.50,1:13:06.91,Default,,0,0,0,,{\i1}Seluruh desa mengadakan\Na pesta, berkat dia.{\i0}
+Dialog: 0,1:13:08.30,1:13:10.33,Default,,0,0,0,,Apa yang dia bicarakan?
+Dialog: 0,1:13:12.26,1:13:14.63,Default,,0,0,0,,Di mana Hae-in sekarang?
+Dialog: 0,1:13:41.37,1:13:43.50,Default,,0,0,0,,{\an8}{\i1}{\c&H7AA0FF&}Baek Hyun-woo{\c}{\i0}
+Dialog: 0,1:15:05.62,1:15:07.53,Default,,0,0,0,,Siapa kamu?
+Dialog: 0,1:15:08.29,1:15:09.95,Default,,0,0,0,,Saya?
+Dialog: 0,1:15:10.17,1:15:12.02,Default,,0,0,0,,Saya menantunya.
+Dialog: 0,1:15:12.04,1:15:14.40,Default,,0,0,0,,- Siapa kamu?\N- Saya kenal semua orang di keluarga ini,
+Dialog: 0,1:15:14.42,1:15:16.33,Default,,0,0,0,,tapi aku belum pernah melihatmu.
+Dialog: 0,1:15:17.72,1:15:19.50,Default,,0,0,0,,Saya jarang datang ke sini.
+Dialog: 0,1:15:24.89,1:15:27.54,Default,,0,0,0,,Kenapa kamu menatapku seperti\Nitu? Saya bagian dari keluarga.
+Dialog: 0,1:15:27.56,1:15:29.55,Default,,0,0,0,,Lalu siapa nama anjingnya?
+Dialog: 0,1:15:32.31,1:15:33.58,Default,,0,0,0,,Apek.
+Dialogue: 0,1:15:33.61,1:15:34.58,Default,,0,0,0,,Jerawatan?
+Dialog: 0,1:15:34.61,1:15:36.25,Default,,0,0,0,,Mereka tidak punya anjing.
+Dialog: 0,1:15:36.28,1:15:37.46,Default,,0,0,0,,Kamu terlihat mencurigakan.
+Dialog: 0,1:15:37.49,1:15:39.59,Default,,0,0,0,,Kenapa kamu begitu curiga?
+Dialog: 0,1:15:39.61,1:15:43.18,Default,,0,0,0,,Saya istri Baek Hyun-woo,\Nputra keluarga ini. Senang? Sekarang pergilah.
+Dialog: 0,1:15:43.20,1:15:46.26,Default,,0,0,0,,Anda adalah pemilik gedung.\NAnda seharusnya memberi tahu saya lebih awal.
+Dialog: 0,1:15:46.29,1:15:48.31,Default,,0,0,0,,- Apa?\N- Ayahku bilang...
+Dialog: 0,1:15:48.33,1:15:51.53,Default,,0,0,0,,Istri Paman Hyun-woo adalah\Npemilik gedung kami.
+Dialog: 0,1:15:54.84,1:15:56.44,Default,,0,0,0,,Izinkan saya menyapa Anda dengan baik, Bibi.
+Dialogue: 0,1:15:56.46,1:15:59.33,Default,,0,0,0,,- Saya Baek Ho-yeol.\N- Begitu.
+Dialogue: 0,1:15:59.51,1:16:02.03,Default,,0,0,0,,Kau keponakanku yang hanya kudengar.
+Dialog: 0,1:16:02.05,1:16:03.49,Default,,0,0,0,,Ya, benar.
+Dialog: 0,1:16:03.51,1:16:05.95,Default,,0,0,0,,Saya melihat mobil asing di depan rumah.
+Dialog: 0,1:16:05.97,1:16:08.41,Default,,0,0,0,,Apakah itu milikmu, Bibi?
+Dialog: 0,1:16:08.43,1:16:10.18,Default,,0,0,0,,Ya, benar.
+Dialog: 0,1:16:10.81,1:16:12.16,Default,,0,0,0,,Itu sakit.
+Dialog: 0,1:16:12.19,1:16:16.29,Default,,0,0,0,,Mesin V8, tenaga kuda dan penyetelan kecepatan.
+Dialog: 0,1:16:16.32,1:16:19.39,Default,,0,0,0,,Mobil langka itu benar-benar milikmu?
+Dialog: 0,1:16:19.70,1:16:22.23,Default,,0,0,0,,Bolehkah saya minta tumpangan?
+Dialog: 0,1:16:23.24,1:16:26.48,Default,,0,0,0,,Jika aku mengizinkanmu, maukah kamu berhenti bicara padaku?
+Dialog: 0,1:16:26.95,1:16:28.90,Default,,0,0,0,,Saya berjanji.
+Dialog: 0,1:16:31.50,1:16:34.44,Default,,0,0,0,,Bisakah kamu mengantarnya keliling desa?
+Dialog: 0,1:16:34.46,1:16:37.23,Default,,0,0,0,,Mungkin tiga atau empat lap.
+Dialog: 0,1:16:37.25,1:16:38.96,Default,,0,0,0,,Iya bu.
+Dialog: 0,1:18:32.41,1:18:34.39,Default,,0,0,0,,Bungsuku ada di sini!
+Dialog: 0,1:18:34.41,1:18:35.85,Default,,0,0,0,,Astaga, Hyun-woo.
+Dialog: 0,1:18:35.87,1:18:39.27,Default,,0,0,0,,Kursi pijat yang Anda berikan kepada kami terakhir kali.
+Dialog: 0,1:18:39.29,1:18:42.25,Default,,0,0,0,,Bagus sekali. Terima kasih banyak.
+Dialogue: 0,1:18:42.67,1:18:46.48,Default,,0,0,0,,Temanku menyuruhku untuk mengambil\Nfoto bersamamu ketika aku bertemu denganmu.
+Dialog: 0,1:18:46.51,1:18:48.58,Default,,0,0,0,,Bolehkah?
+Dialog: 0,1:18:49.68,1:18:50.99,Default,,0,0,0,,Dua, tiga.
+Dialog: 0,1:18:51.01,1:18:53.07,Default,,0,0,0,,Maaf, tapi bisakah kamu minggir?
+Dialog: 0,1:18:53.10,1:18:54.53,Default,,0,0,0,,Ayo.
+Dialogue: 0,1:18:54.56,1:18:55.83,Default,,0,0,0,,Lenganmu juga.
+Dialog: 0,1:18:55.85,1:18:57.75,Default,,0,0,0,,- Bahkan lenganku?\N- Hanya kita berdua.
+Dialog: 0,1:18:57.77,1:19:02.50,Default,,0,0,0,,Sekarang, sekarang. Dia memasang AC\Nand boiler di pusat senior kami.
+Dialog: 0,1:19:02.52,1:19:07.15,Default,,0,0,0,,Hyun-woo adalah kebanggaan Yongdu-ri.\NGBeri dia tepuk tangan!
+Dialog: 0,1:19:07.78,1:19:08.92,Default,,0,0,0,,Dia saudaraku.
+Dialog: 0,1:19:08.95,1:19:10.01,Default,,0,0,0,,Saudaraku.
+Dialog: 0,1:19:10.03,1:19:11.73,Default,,0,0,0,,Makan sepuasnya.
+Dialog: 0,1:19:16.12,1:19:17.43,Default,,0,0,0,,Yah...
+Dialog: 0,1:19:17.46,1:19:20.69,Default,,0,0,0,,Aku mendengarnya dari kakak dan adikmu,
+Dialog: 0,1:19:20.71,1:19:23.04,Default,,0,0,0,,tapi jangan khawatirkan aku.
+Dialog: 0,1:19:23.09,1:19:25.73,Default,,0,0,0,,Saya tidak pernah menyebutkan perceraian kepada istri Anda.
+Dialog: 0,1:19:25.76,1:19:27.48,Default,,0,0,0,,Kamu menyebutkannya sekarang, Ayah.
+Dialog: 0,1:19:27.51,1:19:29.17,Default,,0,0,0,,Jangan khawatir.
+Dialog: 0,1:19:29.51,1:19:32.28,Default,,0,0,0,,Dia tidak ada di sini. Dia di rumah.
+Dialog: 0,1:19:32.30,1:19:33.70,Default,,0,0,0,,- Tidak, dia tidak.\N- Apa?
+Dialogue: 0,1:19:33.72,1:19:36.37,Default,,0,0,0,,Saya baru saja menjemput Ho-yeol. Dia tidak ada di sana.
+Dialog: 0,1:19:36.39,1:19:37.99,Default,,0,0,0,,Apa yang kamu bicarakan?
+Dialog: 0,1:19:38.02,1:19:39.80,Default,,0,0,0,,Dia tidak ada di sana.
+Dialog: 0,1:19:52.32,1:19:53.89,Default,,0,0,0,,Halo, Tuan Baek.
+Dialog: 0,1:19:53.91,1:19:55.09,Default,,0,0,0,,Di mana Hae-in?
+Dialogue: 0,1:19:55.12,1:19:59.36,Default,,0,0,0,,Dia tidak ada di balai komunitas?\NSaat aku kembali, dia tidak ada di sini.
+Dialog: 0,1:20:17.35,1:20:19.05,Default,,0,0,0,,Hong Hae-in!
+Dialog: 0,1:20:22.44,1:20:23.41,Default,,0,0,0,,Hong Hae-in!
+Dialog: 0,1:20:23.44,1:20:25.64,Default,,0,0,0,,Hae-in!
+Dialog: 0,1:20:28.86,1:20:30.39,Default,,0,0,0,,Hae-in!
+Dialog: 0,1:20:48.05,1:20:49.75,Default,,0,0,0,,Hong Hae-in!
+Dialog: 0,1:20:51.30,1:20:53.00,Default,,0,0,0,,Hae-in!
+Dialog: 0,1:21:09.32,1:21:11.02,Default,,0,0,0,,Hong Hae-in!
+Dialog: 0,1:21:56.45,1:21:57.98,Default,,0,0,0,,Apa yang terjadi?
+Dialog: 0,1:22:03.75,1:22:06.41,Default,,0,0,0,,- Kenapa kamu di sini?\N- Kenapa kamu berteriak?
+Dialogue: 0,1:22:09.29,1:22:11.91,Default,,0,0,0,,Kudengar kamu tiba-tiba datang ke sini,
+Dialog: 0,1:22:12.59,1:22:14.61,Default,,0,0,0,,jadi aku datang, tapi kamu tidak ada di rumah...
+Dialog: 0,1:22:14.63,1:22:16.78,Default,,0,0,0,,atau di aula. Tidak ada yang tahu di mana Anda berada.
+Dialog: 0,1:22:16.80,1:22:18.88,Default,,0,0,0,,Anda tidak menjawab telepon Anda!
+Dialog: 0,1:22:18.97,1:22:20.67,Default,,0,0,0,,Jadi...
+Dialog: 0,1:22:21.06,1:22:23.67,Default,,0,0,0,,- kenapa kamu di sini...?\N- Tunggu.
+Dialog: 0,1:22:25.23,1:22:27.26,Default,,0,0,0,,Saya keluar jalan-jalan.
+Dialog: 0,1:22:29.94,1:22:32.34,Default,,0,0,0,,Jalan-jalan di lingkungan ini?
+Dialog: 0,1:22:32.36,1:22:34.27,Default,,0,0,0,,Ya.
+Dialog: 0,1:22:35.86,1:22:38.40,Default,,0,0,0,,- Saya khawatir!\N- Mengapa Anda harus khawatir?
+Dialog: 0,1:22:39.53,1:22:41.53,Default,,0,0,0,,Saya bukan pasien.
+Dialog: 0,1:22:44.75,1:22:46.61,Default,,0,0,0,,Benar.
+Dialog: 0,1:22:47.00,1:22:49.66,Default,,0,0,0,,Ya, Anda mengatakan itu kepada saya.
+Dialog: 0,1:22:52.38,1:22:54.46,Default,,0,0,0,,Maaf aku berteriak.
+Dialog: 0,1:23:27.66,1:23:29.41,Default,,0,0,0,,Sebenarnya...
+Dialog: 0,1:23:30.92,1:23:32.70,Default,,0,0,0,,Saya tidak ingat.
+Dialog: 0,1:23:34.13,1:23:37.08,Default,,0,0,0,,Saya tidak ingat sama sekali kenapa saya ada di sana.
+Dialog: 0,1:23:48.52,1:23:50.58,Default,,0,0,0,,Aku tadi di depan rumahmu,
+Dialog: 0,1:23:50.60,1:23:53.47,Default,,0,0,0,,lalu tiba-tiba aku berada di tempat lain.
+Dialog: 0,1:23:56.74,1:23:59.35,Default,,0,0,0,,Saya tidak tahu kapan saya pergi ke sana,
+Dialog: 0,1:24:01.45,1:24:03.19,Default,,0,0,0,,atau bagaimana caranya.
+Dialog: 0,1:24:06.33,1:24:08.03,Default,,0,0,0,,Saya tidak tahu.
+Dialog: 0,1:24:09.96,1:24:11.66,Default,,0,0,0,,Saya...
+Dialog: 0,1:24:16.25,1:24:17.96,Default,,0,0,0,,sangat takut.
+Dialog: 0,1:25:39.17,1:25:42.90,Default,,0,0,0,,{\i1}{\c&HFFFF&}Dinobatkan sebagai Sekolah Berprestasi 2006{\c}{\i0}
+Dialog: 0,1:25:42.92,1:25:45.58,Default,,0,0,0,,- Kami sudah sampai.\N- Oke.
+Dialog: 0,1:25:46.18,1:25:48.50,Default,,0,0,0,,- Sampai jumpa lagi.\N- Sampai jumpa.
+Dialog: 0,1:25:50.89,1:25:52.80,Default,,0,0,0,,Tunggu, Hyun-woo.
+Dialogue: 0,1:25:53.43,1:25:56.50,Default,,0,0,0,,Orang Seoul tidak begitu\Nberbeda. Jangan merasa putus asa.
+Dialog: 0,1:25:56.52,1:25:58.54,Default,,0,0,0,,Berdiri teguh.
+Dialog: 0,1:25:58.57,1:26:00.13,Default,,0,0,0,,- Tegas.\N- Berdiri tegak,
+Dialog: 0,1:26:00.15,1:26:03.17,Default,,0,0,0,,dan coba silau seperti ini.
+Dialog: 0,1:26:03.19,1:26:05.05,Default,,0,0,0,,- Oke.\N- Bagus. Masuk.
+Dialog: 0,1:26:05.07,1:26:07.11,Default,,0,0,0,,- Sampai jumpa, Ayah.\N- Sampai jumpa.
+Dialog: 0,1:26:07.16,1:26:10.03,Default,,0,0,0,,- Dengarkan gurumu.\N- Berkendara dengan aman!
+Dialog: 0,1:26:16.17,1:26:19.31,Default,,0,0,0,,Hae-in pergi ke AS untuk belajar.
+Dialog: 0,1:26:19.34,1:26:21.36,Default,,0,0,0,,Ucapkan selamat tinggal padanya, oke?
+Dialogue: 0,1:26:21.38,1:26:23.62,Default,,0,0,0,,- Ya pak.\N- Ya pak.
+Dialog: 0,1:26:26.93,1:26:28.63,Default,,0,0,0,,Lihat wajahnya.
+Dialogue: 0,1:26:28.76,1:26:30.78,Default,,0,0,0,,Dia masih penuh dengan dirinya sendiri.
+Dialogue: 0,1:26:30.81,1:26:35.18,Default,,0,0,0,,Ada rumor kalau dia\Nad diterima di rumah sakit jiwa.
+Dialogue: 0,1:26:35.35,1:26:38.60,Default,,0,0,0,,Saya dengar itu karena dia menjadi\Ngila setelah kakaknya meninggal.
+Dialog: 0,1:27:21.02,1:27:22.72,Default,,0,0,0,,Tunggu.
+Dialog: 0,1:27:34.99,1:27:36.70,Default,,0,0,0,,Ambillah.
+Dialog: 0,1:27:40.29,1:27:41.99,Default,,0,0,0,,Saya tidak membutuhkannya.
+Dialog: 0,1:27:58.18,1:28:01.05,Default,,0,0,0,,Bersihkan dan beri salep di atasnya.
+Dialog: 0,1:28:12.41,1:28:13.98,Default,,0,0,0,,Apakah kamu menangis?
+Dialog: 0,1:28:16.91,1:28:18.82,Default,,0,0,0,,Saya tidak.
+Dialog: 0,1:28:29.84,1:28:31.71,Default,,0,0,0,,Kamu.
+Dialog: 0,1:28:43.27,1:28:46.19,Default,,0,0,0,,{\i1}{\c&HFFFF&}Ratu Air Mata{\c}{\i0}
+Dialogue: 0,1:29:13.38,1:29:15.32,Default,,0,0,0,,{\an8}{\i1}Jangan berani-berani menyebutkan perceraian.{\i0}
+Dialog: 0,1:29:15.35,1:29:17.03,Default,,0,0,0,,{\an8}{\i1}Anda mengerti.{\i0}
+Dialog: 0,1:29:17.06,1:29:19.33,Default,,0,0,0,,{\an8}{\i1}Perceraian bukanlah apa-apa.{\i0}
+Dialogue: 0,1:29:19.35,1:29:21.76,Default,,0,0,0,,{\an8}{\i1}Aku juga ingin bercerai.{\i0}
+Dialog: 0,1:29:23.39,1:29:24.87,Default,,0,0,0,,{\an8}- {\i1}Ada apa?\N- Jangan pedulikan aku.{\i0}
+Dialogue: 0,1:29:24.90,1:29:27.00,Default,,0,0,0,,{\an8}{\i1}Bagaimana cinta mereka bisa mati?{\i0}
+Dialog: 0,1:29:27.02,1:29:29.59,Default,,0,0,0,,{\an8}{\i1}Dulu mereka saling jatuh cinta.{\i0}
+Dialogue: 0,1:29:29.61,1:29:32.59,Default,,0,0,0,,{\an8}{\i1}Wanita yang kucintai saat ini adalah kamu.{\i0}
+Dialogue: 0,1:29:32.61,1:29:34.55,Default,,0,0,0,,{\an8}{\i1}Jumlah sel darah putihmu terlalu rendah.{\i0}
+Dialogue: 0,1:29:34.57,1:29:36.55,Default,,0,0,0,,{\an8}{\i1}Aku akan mencari jalannya.{\i0}
+Dialogue: 0,1:29:36.57,1:29:38.34,Default,,0,0,0,,{\an8}{\i1}Bahkan jika aku harus mencari di seluruh dunia,{\i0}
+Dialogue: 0,1:29:38.37,1:29:39.85,Default,,0,0,0,,{\an8}{\i1}Aku akan mencari cara untuk hidup.{\i0}
+Dialogue: 0,1:29:39.87,1:29:41.47,Default,,0,0,0,,{\an8}{\i1}Jadi aku seharusnya...{\i0}
+Dialog: 0,1:29:41.50,1:29:43.97,Default,,0,0,0,,{\an8}{\i1}denganmu di saat seperti ini.{\i0}
+Dialog: 0,1:29:44.00,1:29:45.02,Default,,0,0,0,,{\an8}{\i1}Aku menginginkanmu...{\i0}
+Dialogue: 0,1:29:45.04,1:29:47.41,Default,,0,0,0,,{\an8}{\i1}bersamaku.{\i0}
