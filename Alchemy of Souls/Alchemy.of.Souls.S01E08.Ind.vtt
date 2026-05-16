@@ -1,0 +1,814 @@
+WEBVTT
+
+﻿[Info Skrip]
+; Skrip dihasilkan oleh Aegisub 3.2.2
+; http://www.aegisub.org/
+Judul: File Aegisub default
+Tipe Skrip: v4.00+
+Gaya Bungkus: 0
+ScaledBorderAndShadow: ya
+Matriks YCbCr: TV.601
+PutarResX: 1280
+PutarResY: 720
+[Sampah Proyek Aegisub]
+Penyimpanan Gaya Terakhir: alkimia
+File Audio: ../../Downloads/Alchemy.Of.Souls.S01e08.Episode.8.1080P.Nf.Web-Dl.Ddp2.0.X264-Archie-1-360.mp4
+File Video: ../../Downloads/Alchemy.Of.Souls.S01e08.Episode.8.1080P.Nf.Web-Dl.Ddp2.0.X264-Archie-1-360.mp4
+Modus AR Video: 4
+Nilai AR Video: 1,777778
+Persen Zoom Video: 1.000000
+Posisi Gulir: 1
+Jalur Aktif: 4
+Posisi Video: 106216
+
+
+[Gaya V4+]
+Format: Nama, Nama Font, Ukuran Font, Warna Utama, Warna Sekunder, Warna Garis Besar, Warna Belakang, Tebal, Miring, Garis Bawah, Coret, ScaleX, ScaleY, Spasi, Sudut, Gaya Batas, Garis Besar, Bayangan, Perataan, MarginL, MarginR, MarginV, Pengkodean
+Gaya: общий текст,Tahoma,48,&H00F0D484,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,10,10,35,1
+Gaya: курсив,Tahoma,48,&H00F4CA7E,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,0,2,10,10,35,1
+Gaya: за кадром,Tahoma,48,&H00F281E9,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,1.2,0,2,10,10,35,1
+Gaya: воспоминания,Tahoma,48,&H006ED8F7,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.2,0,2,10,10,35,1
+Gaya: воспоминания курсив,Tahoma,48,&H006ED8F7,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,1.2,0,2,10,10,35,1
+Gaya: надписи, Gelombang karang, 85,&H00FBF7FC,&H000000FF,&H00010102,&H00000000,-1,0,0,0,100,100,2,0,1,4,0,2,10,10,10,1
+Gaya: примечания,Arial,35,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,10,10,10,1
+Gaya: ого,DS Sholom,50,&H59FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,1
+Gaya: judul,DS Sholom,73,&H00C8BD8E,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
+Gaya: nama panggilan,tangak,45,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,0,8,10,10,10,1
+Gaya: kredit latar belakang, Arial,60,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,0,0,0,0,400,400,3,0,3,2,2,2,10,10,10,1
+Gaya: kredit awal,tangak,77,&H00F6DD72,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,2,10,10,10,1
+Gaya: kredit latar akhir,Arial,20,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,0,0,0,0,200,300,0,0,3,2,2,2,10,10,10,1
+Gaya: kredit akhir,tangak,60,&H00F6DD72,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,1
+Gaya: pratinjau, Marker Felt, 45, & H00FFFFFF, & H000000FF, & H00000000, & H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
+
+[Acara]
+Format: Ditandai, Mulai, Akhir, Gaya, Nama, MarginL, MarginR, MarginV, Efek, Teks
+Dialog: 0,0:00:25.56,1:10:21.42,logo,,0,0,0,,{\pos(73.714,82)\frz359.7}M{\fntangak}ani{\fn}ya
+Dialog: 0,0:00:00.00,0:00:06.12,kredit dimulai di latar belakang,,0,0,0,,{\pos(434,196)}|||||\\\\\\\\\\\\\
+Dialog: 0,0:00:00.00,0:00:06.12,kredit awal,,0,0,0,,{\pos(624,452)}Grup Rilis {\fnSegoe Script}"{\fn}Mania{\fnSegoe Script}"{\fn} menyajikan\N
+Dialog: 0,1:13:49.43,1:14:00.74,kredit akhir,,0,0,0,,{\pos(296,726)}Terima kasih telah menonton bersama kami!\N
+Dialog: 0,1:14:01.74,1:14:04.70,nama,,0,0,0,,{\fad(113,113)}{\frz1.378\pos(544,460)}A{\fntangak}lkimia
+Dialog: 0,0:00:38.10,0:00:43.02,nama,,0,0,0,,{\fad(0030,0035)}{\frz1.378\pos(544,460)}A{\fntangak}lkimia
+Dialog: 0,1:14:01.74,1:14:04.70,nama,,0,0,0,,{\fad(113,113)}{\pos(792,526)}Д{\fs55}у{\fs}ш
+Dialog: 0,0:00:38.10,0:00:43.02,nama,,0,0,0,,{\fad(0030, 0035)}{\pos(792,526)}D{\fs55}y{\fs}w
+Dialog: 0,0:02:47.14,0:02:52.14,nicks,,0,0,0,,Koordinator dan editor proyek: {\c&HFFF4C5&} Ria_Lee
+Dialog: 0,0:02:52.14,0:02:57.14,nicks,,0,0,0,,Asisten koordinator:{\c&HFFF4C5&} Martini, gaarysn
+Dialogue: 0,0:02:57.14,0:03:02.14,nicks,,0,0,0,,Penerjemah juru ketik: {\c&HFFF4C5&} Ria_Lee
+Dialog: 0,0:00:59.50,0:01:00.67,di balik layar,,0,0,0,,Apakah ini alkimia jiwa?
+Dialog: 0,0:01:15.52,0:01:19.98, sulih suara,,0,0,0,,Jiwaku bergerak sekarang?
+Dialog: 0,0:03:07.92,0:03:09.34,teks umum,,0,0,0,,Jiwa belum bergerak
+Dialog: 0,0:03:10.89,0:03:12.26,teks umum,,0,0,0,,Apa yang terjadi?
+Dialog: 0,0:03:20.02,0:03:21.06,teks umum,,0,0,0,,Chan Wook
+Dialog: 0,0:03:22.11,0:03:23.23,teks umum,,0,0,0,,Chan Wook!
+Dialog: 0,0:03:26.44,0:03:27.69,teks umum,,0,0,0,,Chan Wook!
+Dialog: 0,0:03:28.86,0:03:30.03,teks umum,,0,0,0,,Chan Wook!
+Dialog: 0,0:03:45.17,0:03:48.84,teks umum,,0,0,0,,Kil Ju, kamu bertukar tubuh dengan muridku
+Dialog: 0,0:03:50.63,0:03:51.72,teks umum,,0,0,0,,Moo Dok
+Dialog: 0,0:03:55.47,0:03:58.02,teks umum,,0,0,0,,Aku lemah untuk melindunginya darimu
+Dialog: 0,0:03:58.89,0:04:01.35,teks umum,,0,0,0,,Tapi aku pasti akan menghabisimu
+Dialog: 0,0:04:07.19,0:04:08.44,teks umum,,0,0,0,,Saya tidak tahu,
+Dialog: 0,0:04:09.24,0:04:11.24,teks umum,,0,0,0,,kenapa kamu begitu mengkhawatirkan Chan Wook
+Dialog: 0,0:04:11.99,0:04:13.20,teks umum,,0,0,0,,Diam!
+Dialog: 0,0:04:15.33,0:04:16.49,teks umum,,0,0,0,,Guru!
+Dialog: 0,0:04:17.58,0:04:18.70,teks umum,,0,0,0,,Ini aku, Chan Wook
+Dialog: 0,0:04:19.62,0:04:20.87,teks umum,,0,0,0,,Kami belum berubah
+Dialog: 0,0:04:23.21,0:04:25.21,teks umum,,0,0,0,,Tatap mataku
+Dialog: 0,0:04:26.34,0:04:27.80,teks umum,,0,0,0,,Ini aku
+Dialog: 0,0:04:32.30,0:04:35.05,teks umum,,0,0,0,,Satu-satunya yang bisa melihatmu dari jarak sejauh itu
+Dialog: 0,0:04:38.77,0:04:40.10,teks umum,,0,0,0,,Apakah kamu mengenaliku?
+Dialog: 0,0:06:01.68,0:06:04.02,teks umum,,0,0,0,,Dia mempunyai tanda di bahunya
+Dialog: 0,0:06:05.81,0:06:08.69,teks umum,,0,0,0,,Jiwanya rupanya kembali ke tubuhnya
+Dialog: 0,0:06:09.77,0:06:11.07,teks umum,,0,0,0,,Lalu kenapa aku baik-baik saja?
+Dialog: 0,0:06:11.15,0:06:12.11,teks umum,,0,0,0,,Tidak juga
+Dialogue: 0,0:06:12.82,0:06:14.40,teks umum,,0,0,0,,Kamu juga sudah berubah. Lihat
+Dialog: 0,0:06:15.70,0:06:17.91,teks umum,,0,0,0,,Kamu tidak memakai gelang, tapi tanganmu tidak gemetar
+Dialog: 0,0:06:20.41,0:06:23.45,teks umum,,0,0,0,,Kamu benar. Saya bisa memindahkannya dengan bebas
+Dialog: 0,0:06:23.54,0:06:25.91,teks umum,,0,0,0,,Reflektor membantu mendapatkan energi
+Dialog: 0,0:06:26.00,0:06:29.71,teks umum,,0,0,0,,Racun membuka gerbangmu, mencerminkan peningkatan energi
+Dialog: 0,0:06:30.79,0:06:34.09,teks umum,,0,0,0,,Chan Wook, kamu sangat beruntung
+Dialog: 0,0:06:40.76,0:06:43.60,teks umum,,0,0,0,,Aku yakin aku melihatmu di sana
+Dialog: 0,0:06:44.52,0:06:45.64,teks umum,,0,0,0,,Apa?
+Dialog: 0,0:07:05.91,0:07:07.29,teks umum,,0,0,0,,Mengapa?
+Dialog: 0,0:07:08.25,0:07:09.79,teks umum,,0,0,0,,Kenapa kamu baik-baik saja?
+Dialog: 0,0:07:09.87,0:07:12.84,teks umum,,0,0,0,,Kamu gagal karena energimu yang lemah
+Dialog: 0,0:07:12.92,0:07:15.05,teks umum,,0,0,0,,Kamu juga pengembara
+Dialog: 0,0:07:15.13,0:07:16.97,teks umum,,0,0,0,,Nak Su kamu juga
+Dialog: 0,0:07:17.88,0:07:19.93,teks umum,,0,0,0,,kamu akan membatu dan mati
+Dialog: 0,0:07:21.05,0:07:23.05,teks umum,,0,0,0,,Bagaimana saya
+Dialog: 0,0:07:24.26,0:07:25.89,teks umum,,0,0,0,,Seperti ayahmu
+Dialog: 0,0:07:30.81,0:07:31.90,teks umum,,0,0,0,,Ayahku?
+Dialog: 0,0:07:32.56,0:07:33.57,miring,,0,0,0,,Ya
+Dialog: 0,0:07:34.07,0:07:36.90,teks umum,,0,0,0,,Penyihir Pengamat Bintang
+Dialog: 0,0:07:37.53,0:07:38.70,teks umum,,0,0,0,,Cho Chun!
+Dialog: 0,0:07:40.57,0:07:42.03,teks umum,,0,0,0,,Ayahku...
+Dialog: 0,0:07:44.87,0:07:46.29,teks umum,,0,0,0,,apakah seorang pengembara?
+Dialog: 0,0:07:49.21,0:07:53.67,teks umum,,0,0,0,,Keluargamu tidak dibunuh oleh keluarga utama Deho
+Dialog: 0,0:07:55.13,0:07:59.26,teks umum,,0,0,0,,Itu ayahmu. Dia berubah menjadi penelan jiwa dan membunuh semua orang
+Dialog: 0,0:08:01.38,0:08:03.39,kenangan miring,,0,0,0,,Tetap di dalam dan jangan keluar
+Dialog: 0,0:08:03.47,0:08:06.39,kenangan,,0,0,0,,Jika kamu melihat ayahmu, larilah
+Dialog: 0,0:08:06.47,0:08:08.10,kenangan,,0,0,0,,Jangan biarkan dia menangkapmu
+Dialog: 0,0:08:11.48,0:08:15.69,teks umum,,0,0,0,,Kamu dan ayahmu digunakan
+Dialog: 0,0:08:16.44,0:08:18.78,teks umum,,0,0,0,,Kamu akan membatu dan mati
+Dialogue: 0,0:08:19.74,0:08:21.74,teks umum,,0,0,0,,Ayahku pengembara
+Dialog: 0,0:08:23.11,0:08:24.28,teks umum,,0,0,0,,apakah Dan Zhu?
+Dialog: 0,0:08:25.37,0:08:27.37,teks umum,,0,0,0,,Jin Moo dari Jeonbugwan?
+Dialog: 0,0:08:27.95,0:08:30.91,teks umum,,0,0,0,,Jin Mu bukanlah Dan Zhu yang asli
+Dialog: 0,0:08:31.66,0:08:34.54,teks umum,,0,0,0,,Benar Dan Zhu adalah orang lain
+Dialog: 0,0:08:35.46,0:08:37.67,teks umum,,0,0,0,,- Dan siapa ini?\N- Nyata
+Dialog: 0,0:08:38.88,0:08:41.34,teks umum,,0,0,0,,dapat menghentikan membatu
+Dialog: 0,0:08:42.34,0:08:45.51,teks umum,,0,0,0,,Karena dia punya batu es
+Dialog: 0,0:08:45.60,0:08:47.85,teks umum,,0,0,0,,Siapakah Dan Zhu yang sebenarnya?
+Dialog: 0,0:09:12.62,0:09:14.71,teks umum,,0,0,0,,Moo Dok, kamu baik-baik saja?
+Dialog: 0,0:09:15.92,0:09:17.17,teks umum,,0,0,0,,OK
+Dialog: 0,0:09:18.04,0:09:19.96,teks umum,,0,0,0,,Kejar dia. Lebih cepat!
+Dialog: 0,0:09:56.71,0:09:59.04,di belakang layar,,0,0,0,,Kita harus keluar dari sini,
+Dialog: 0,0:09:59.71,0:10:01.71,di belakang layar,,0,0,0,,sampai racun santet menyebar
+Dialog: 0,0:10:26.15,0:10:27.32,miring,,0,0,0,,Lihat semua
+Dialog: 0,0:10:27.41,0:10:28.66,teks umum,,0,0,0,,- Ya\N- Ya
+Dialog: 0,0:10:52.26,0:10:53.22,teks umum,,0,0,0,,Tidak seorang pun
+Dialog: 0,0:10:58.81,0:11:00.69,teks umum,,0,0,0,,Saya merasakan energi sihir
+Dialog: 0,0:11:00.77,0:11:03.86,teks umum,,0,0,0,,Tuan Ho benar. Sapsari ini adalah Gwigu
+Dialog: 0,0:11:04.48,0:11:06.78,teks umum,,0,0,0,,Apakah memang ada alkimia jiwa di sini?
+Dialog: 0,0:11:15.87,0:11:16.79,teks umum,,0,0,0,,Apa ini?
+Dialog: 0,0:11:17.37,0:11:18.75,teks umum,,0,0,0,,Berbaring di tanah
+Dialog: 0,0:11:19.87,0:11:21.13,teks umum,,0,0,0,,Mungkin itu reflektor
+Dialog: 0,0:11:26.96,0:11:28.13,teks umum,,0,0,0,,Gelang ini...
+Dialog: 0,0:11:29.01,0:11:31.01,teks umum,,0,0,0,,Ini gelang Tuan Chan Wook?
+Dialog: 0,0:11:31.09,0:11:32.76,teks umum,,0,0,0,,Kenapa dia ada di sini?
+Dialog: 0,0:11:33.39,0:11:34.97,teks umum,,0,0,0,,Jadi Inggris ada di sini?
+Dialog: 0,0:11:39.77,0:11:40.98,teks umum,,0,0,0,,Mereka bertarung
+Dialog: 0,0:11:41.06,0:11:43.23,teks umum,,0,0,0,,Menurutmu ada sesuatu yang terjadi padanya?
+Dialog: 0,0:11:46.57,0:11:49.11,teks umum,,0,0,0,,Kembali ke Sosnovy Bor dan laporkan apa yang Anda lihat
+Dialog: 0,0:11:49.78,0:11:52.03,teks umum,,0,0,0,,Dan Gu, datang dan cari Uka
+Dialog: 0,0:11:52.12,0:11:54.03,teks umum,,0,0,0,,- Saya akan mencari di area tersebut\N- Oke
+Dialog: 0,0:12:29.90,0:12:32.41,teks umum,,0,0,0,,Bagaimana para penyihir Sosnovy Bor mengetahuinya?
+Dialog: 0,0:12:49.55,0:12:51.30,kenangan miring,,0,0,0,,Kamu juga pengembara
+Dialog: 0,0:12:51.88,0:12:53.59,kenangan,,0,0,0,,Nak Su, kamu juga
+Dialog: 0,0:12:54.51,0:12:56.72,kenangan,,0,0,0,,kamu akan membatu dan mati
+Dialogue: 0,0:12:56.80,0:12:58.81,kenangan,,0,0,0,,Seperti aku
+Dialog: 0,0:12:59.47,0:13:01.06,kenangan,,0,0,0,,Seperti ayahmu
+Dialog: 0,0:13:04.77,0:13:05.98,teks umum,,0,0,0,,Ayah...
+Dialogue: 0,0:13:30.34,0:13:31.96,kenangan miring,,0,0,0,,Dan kamu dan ayahmu
+Dialog: 0,0:13:33.67,0:13:36.22, kenangan miring,,0,0,0,,digunakan. Anda akan berubah menjadi batu
+Dialogue: 0,0:13:37.68,0:13:39.81,kenangan miring,,0,0,0,,dan kamu mati
+Dialog: 0,0:15:26.41,0:15:27.58,teks umum,,0,0,0,,Mengapa?
+Dialogue: 0,0:15:28.58,0:15:29.96,teks umum,,0,0,0,,Kenapa kamu lagi?
+Dialog: 0,0:15:36.38,0:15:39.22,teks umum,,0,0,0,,Apakah ini pengembara?
+Dialog: 0,0:15:39.30,0:15:41.30,teks umum,,0,0,0,,Tidak, pembantu Uka
+Dialog: 0,0:15:42.35,0:15:44.64,teks umum,,0,0,0,,Saya tidak sengaja melukainya, dia harus dibawa ke tabib
+Dialog: 0,0:15:51.56,0:15:54.07,teks umum,,0,0,0,,Hari yang luar biasa ini
+Dialogue: 0,0:15:54.15,0:15:56.82,teks umum,,0,0,0,,Perdagangan berjalan baik
+Dialog: 0,0:16:02.87,0:16:05.08,di belakang layar,,0,0,0,,Aku perlu mengisi kembali energiku, kalau tidak aku akan membatu sepenuhnya
+Dialog: 0,0:16:07.75,0:16:09.79,miring,,0,0,0,,- Selesai?\N- Sudah selesai
+Dialogue: 0,0:16:10.37,0:16:12.21,teks umum,,0,0,0,,Bagaimana kalau kita minum?
+Dialog: 0,0:16:12.88,0:16:13.92,miring,,0,0,0,,- Oke\N- Lebih cepat
+Dialog: 0,0:16:14.00,0:16:15.17,miring,,0,0,0,,Ayo pergi
+Dialog: 0,0:16:16.84,0:16:19.13,di belakang layar,,0,0,0,,Aku tidak akan bisa kembali jika aku membuat keributan
+Dialog: 0,0:16:19.22,0:16:22.13,di belakang layar,,0,0,0,,Aku perlu mencari tempat yang tenang agar aku bisa merasa cukup
+Dialog: 0,0:17:12.85,0:17:14.65,miring,,0,0,0,,Menjauh
+Dialog: 0,0:17:16.73,0:17:17.98,teks umum,,0,0,0,,Ah, oh, ayo masuk
+Dialog: 0,0:17:18.90,0:17:19.86,teks umum,,0,0,0,,Mr.
+Dialog: 0,0:17:19.94,0:17:22.19,teks umum,,0,0,0,,Anda tidak akan menipu kami dengan trik ini
+Dialog: 0,0:17:23.45,0:17:25.99,teks umum,,0,0,0,,Kamu telah mengikutinya sejak memasuki ibu kota
+Dialog: 0,0:17:33.50,0:17:35.83,kenangan,,0,0,0,,Orang ini menghantui kita
+Dialog: 0,0:17:39.59,0:17:42.97,teks umum,,0,0,0,,Kamu mengikutinya sampai ke penginapan
+Dialog: 0,0:17:45.13,0:17:47.43,teks umum,,0,0,0,,Kita hanya berada di satu arah
+Dialog: 0,0:17:47.51,0:17:48.64,teks umum,,0,0,0,,Jangan berbohong
+Dialogue: 0,0:17:48.72,0:17:51.52,teks umum,,0,0,0,,Kamu menatapnya sepanjang waktu!
+Dialog: 0,0:17:51.60,0:17:52.73,teks umum,,0,0,0,,Tidak sama sekali
+Dialog: 0,0:17:52.81,0:17:53.81,miring,,0,0,0,,Song Yi
+Dialog: 0,0:17:54.52,0:17:56.19,teks umum,,0,0,0,,Jangan mempermalukan dia
+Dialog: 0,0:18:00.15,0:18:03.57,teks umum,,0,0,0,,Saya merasa tidak nyaman jika Anda mengikuti saya, dan Anda juga tidak sopan
+Dialog: 0,0:18:04.15,0:18:07.11,teks umum,,0,0,0,,Jika kamu tidak ingin aku mencari penginapan lain,
+Dialog: 0,0:18:07.20,0:18:08.32,teks umum,,0,0,0,,pergi
+Dialog: 0,0:18:09.87,0:18:11.16,teks umum,,0,0,0,,Gadis
+Dialog: 0,0:18:11.99,0:18:14.33,teks umum,,0,0,0,,Mengapa kamu memutuskan aku mengikutimu?
+Dialog: 0,0:18:14.91,0:18:16.79,teks umum,,0,0,0,,Kamu tidak berhutang apapun padaku,
+Dialogue: 0,0:18:16.87,0:18:20.13,teks umum,,0,0,0,,Aku bahkan tidak mengenalmu, kenapa aku harus mengejarmu?
+Dialog: 0,0:18:20.21,0:18:23.17,teks umum,,0,0,0,,- Karena dia sangat...\N- Diam, Sun Yi
+Dialog: 0,0:18:24.72,0:18:26.34,teks umum,,0,0,0,,Biarkan dia menjawab
+Dialog: 0,0:18:28.51,0:18:32.72,teks umum,,0,0,0,,Aku punya banyak masalah karena pria yang mengikutiku karena kecantikanku
+Dialog: 0,0:18:32.81,0:18:33.97,teks umum,,0,0,0,,Jadi aku putuskan,
+Dialog: 0,0:18:35.18,0:18:36.81,teks umum,,0,0,0,,bahwa kamu adalah salah satunya
+Dialog: 0,0:18:37.39,0:18:38.23,teks umum,,0,0,0,,Mengerti
+Dialog: 0,0:18:39.15,0:18:39.98,teks umum,,0,0,0,,Tapi tidak demikian
+Dialog: 0,0:18:42.36,0:18:43.73,teks umum,,0,0,0,,Kecantikan tidak mengesankan
+Dialog: 0,0:18:44.44,0:18:46.20,teks umum,,0,0,0,,Dan aku tidak mengikutimu
+Dialog: 0,0:18:47.86,0:18:49.20,teks umum,,0,0,0,,Kalau begitu,
+Dialog: 0,0:18:51.20,0:18:52.54,teks umum,,0,0,0,,maafkan aku
+Dialog: 0,0:18:52.62,0:18:54.54,teks umum,,0,0,0,,Bolehkah aku naik ke atas?
+Dialog: 0,0:19:07.05,0:19:09.47,teks umum,,0,0,0,,- Ny. Ho\N- Ya?
+Dialog: 0,0:19:09.55,0:19:11.18,teks umum,,0,0,0,,Kamu harus makan
+Dialog: 0,0:19:13.22,0:19:14.39,teks umum,,0,0,0,,Bajingan ini...
+Dialog: 0,0:19:15.35,0:19:16.43,teks umum,,0,0,0,,Itu...
+Dialog: 0,0:19:17.02,0:19:19.90,teks umum,,0,0,0,,Apakah kamu malu karena mungkin akan bertemu dengannya lagi?
+Dialog: 0,0:19:21.15,0:19:22.44,teks umum,,0,0,0,,Tidak
+Dialog: 0,0:19:23.40,0:19:24.90,teks umum,,0,0,0,,Aku hanya merasa tidak enak badan
+Dialog: 0,0:19:25.48,0:19:27.24,teks umum,,0,0,0,,Ganti pakaian kering
+Dialog: 0,0:19:27.32,0:19:29.74,teks umum,,0,0,0,,Aku akan membawakanmu bubur
+Dialog: 0,0:21:10.38,0:21:11.59,teks umum,,0,0,0,,Apakah kamu baik-baik saja?
+Dialog: 0,0:21:14.97,0:21:17.72,teks umum,,0,0,0,,Apa itu tadi?
+Dialog: 0,0:21:19.01,0:21:20.56,teks umum,,0,0,0,,Apakah kamu mengikutinya?
+Dialog: 0,0:21:21.43,0:21:22.60,teks umum,,0,0,0,,Ya
+Dialog: 0,0:21:24.48,0:21:26.11,teks umum,,0,0,0,,Aku senang kamu tidak terluka
+Dialog: 0,0:21:26.94,0:21:28.07,teks umum,,0,0,0,,Tunggu
+Dialog: 0,0:21:29.73,0:21:30.73,teks umum,,0,0,0,,Terima kasih
+Dialog: 0,0:21:31.24,0:21:32.78,teks umum,,0,0,0,,Jika kamu merasa tidak enak,
+Dialog: 0,0:21:33.57,0:21:35.32,teks umum,,0,0,0,,pergi ke Sejukwon di Sosnovy Bor
+Dialog: 0,0:21:35.41,0:21:36.95,teks umum,,0,0,0,,Tahukah kamu tentang Saejukwon?
+Dialog: 0,0:21:37.03,0:21:38.74,teks umum,,0,0,0,,Saya dari Sejukwon...
+Dialog: 0,0:21:42.87,0:21:44.58,teks umum,,0,0,0,,Saya Ho Young Ok
+Dialog: 0,0:22:03.89,0:22:06.98,kenangan miring,,0,0,0,,Alih-alih ada teman di dekatmu, kamu punya peluit
+Dialogue: 0,0:22:08.23,0:22:10.11,kenangan miring,,0,0,0,,Jadi temanmu meninggalkanmu
+Dialog: 0,0:22:13.65,0:22:14.90,teks umum,,0,0,0,,Kamu tahu
+Dialog: 0,0:22:16.95,0:22:18.45,teks umum,,0,0,0,,siapakah aku selama ini
+Dialog: 0,0:23:19.72,0:23:20.97,teks umum,,0,0,0,,Apakah kamu baik-baik saja?
+Dialog: 0,0:23:21.05,0:23:22.76,teks umum,,0,0,0,,Hai, apa kabarmu di sana?
+Dialog: 0,0:23:22.85,0:23:25.68,teks umum,,0,0,0,,Cobalah bangun. Perlahan
+Dialog: 0,0:23:29.27,0:23:30.81,teks umum,,0,0,0,,Monster!
+Dialog: 0,0:23:32.90,0:23:33.94,teks umum,,0,0,0,,Penelan Jiwa!
+Dialog: 0,0:23:34.02,0:23:35.11,teks umum,,0,0,0,,Itu adalah penelan jiwa!
+Dialog: 0,0:23:35.19,0:23:37.44,teks umum,,0,0,0,,- Soul Swallow\N- Soul Swallower!
+Dialog: 0,0:24:10.64,0:24:13.44,kenangan,,0,0,0,,Benar Dan Zhu adalah orang lain
+Dialog: 0,0:24:14.44,0:24:18.11,kenangan,,0,0,0,,Yang asli bisa menghentikan membatu
+Dialog: 0,0:24:18.19,0:24:20.95, sulih suara,,0,0,0,,Ya, buka Dan Zhu-mu
+Dialog: 0,0:24:23.24,0:24:24.83,teks umum,,0,0,0,,Apakah Kil Zhu hilang?
+Dialog: 0,0:24:24.91,0:24:28.66,teks umum,,0,0,0,,Kami tidak tahu di mana dia berada sejak dia mengejar pembantu Chan Wook
+Dialog: 0,0:24:30.21,0:24:31.79,teks umum,,0,0,0,,pembantu Chang Wook?
+Dialog: 0,0:24:32.42,0:24:34.17,teks umum,,0,0,0,,Mengapa dia membutuhkannya?
+Dialog: 0,0:24:34.25,0:24:37.92,teks umum,,0,0,0,,Sejujurnya, dia mengikuti Chan Wook
+Dialog: 0,0:24:38.96,0:24:42.68,teks umum,,0,0,0,,Jimat roh yang tersisa setelah Nak Soo adalah milik Chan Wook
+Dialog: 0,0:24:43.43,0:24:46.56,teks umum,,0,0,0,,Dia mungkin mengira Chan Wook ada hubungannya dengan dia
+Dialog: 0,0:24:46.64,0:24:48.89,teks umum,,0,0,0,,Seharusnya kamu memberitahuku lebih awal!
+Dialog: 0,0:24:49.52,0:24:50.77,teks umum,,0,0,0,,Dia bilang diam
+Dialog: 0,0:24:50.85,0:24:53.15,teks umum,,0,0,0,,Mungkin ingin mencari bukti kuat
+Dialog: 0,0:24:53.77,0:24:55.90,teks umum,,0,0,0,,Beri tahu semua penyihir untuk menemukan Kil Ju
+Dialog: 0,0:25:02.15,0:25:03.82,teks umum,,0,0,0,,gelang Chan Wook
+Dialog: 0,0:25:03.91,0:25:06.37,teks umum,,0,0,0,,ditemukan di mana mereka melakukan alkimia jiwa?
+Dialogue: 0,0:25:06.45,0:25:07.95,teks umum,,0,0,0,,Dan Gu sedang mencari Tn.
+Dialog: 0,0:25:08.04,0:25:10.08,teks umum,,0,0,0,,Guru Jadi mengamati sekeliling kuil
+Dialog: 0,0:25:10.16,0:25:12.79,teks umum,,0,0,0,,- Mereka ada di kuil?\N- Ya
+Dialog: 0,0:25:12.87,0:25:16.92,teks umum,,0,0,0,,Saya ragu Inggris mampu melakukan alkimia
+Dialog: 0,0:25:17.00,0:25:18.34,teks umum,,0,0,0,,Guru Li,
+Dialog: 0,0:25:18.42,0:25:20.92,teks umum,,0,0,0,,bagaimana jika jiwa seseorang berpindah ke tubuh Uka?
+Dialog: 0,0:25:21.01,0:25:23.76,teks umum,,0,0,0,,Jangan khawatir. Saya yakin dia baik-baik saja
+Dialog: 0,0:25:28.39,0:25:30.56,teks umum,,0,0,0,,Dia akan melindunginya
+Dialog: 0,0:25:30.64,0:25:31.81,miring,,0,0,0,,Di mana
+Dialog: 0,0:25:31.89,0:25:35.60,teks umum,,0,0,0,,kepala kita, kapan ada kekacauan seperti ini di sini?
+Dialog: 0,0:25:36.52,0:25:38.23,teks umum,,0,0,0,,Sebelum Inggris lahir...
+Dialog: 0,0:25:39.98,0:25:42.03,teks umum,,0,0,0,,20 tahun yang lalu...
+Dialog: 0,0:25:42.61,0:25:43.61,teks umum,,0,0,0,,Chan Gan
+Dialog: 0,0:25:44.49,0:25:46.32,teks umum,,0,0,0,,melakukan alkimia jiwa?
+Dialog: 0,0:25:51.58,0:25:53.83,teks umum,,0,0,0,,Gwangju Jeonbugwan dan ilmu sihir?
+Dialog: 0,0:25:54.67,0:25:56.00,teks umum,,0,0,0,,Ini lucu sekali!
+Dialog: 0,0:25:56.08,0:25:57.29,teks umum,,0,0,0,,Jin Mu memberitahuku tentang ini
+Dialog: 0,0:25:58.92,0:26:00.96,teks umum,,0,0,0,,Aku tidak berani bertanya padanya,
+Dialog: 0,0:26:02.38,0:26:03.97,teks umum,,0,0,0,,itulah sebabnya aku datang kepadamu
+Dialog: 0,0:26:08.43,0:26:09.81,teks umum,,0,0,0,,Nona Do Hwa
+Dialog: 0,0:26:11.06,0:26:12.77,teks umum,,0,0,0,,khawatir Gwangju
+Dialog: 0,0:26:13.77,0:26:16.69,teks umum,,0,0,0,,tertarik pada beberapa mantra aneh
+Dialog: 0,0:26:17.52,0:26:20.82,teks umum,,0,0,0,,Tapi itu tidak bertahan lama
+Dialog: 0,0:26:21.40,0:26:23.65,teks umum,,0,0,0,,Gwangju belum pulang selama setahun
+Dialog: 0,0:26:24.28,0:26:27.82,teks umum,,0,0,0,,Melatih mantra dengan Jin Moo di ruang rahasia Jeonbugwan
+Dialog: 0,0:26:27.91,0:26:28.87,teks umum,,0,0,0,,Tapi
+Dialog: 0,0:26:28.95,0:26:32.74,teks umum,,0,0,0,,dia berhenti saat istrinya hamil
+Dialog: 0,0:26:36.67,0:26:40.54,ingatan miring,,0,0,0,,Dia adalah putra raja yang telah meninggal
+Dialog: 0,0:26:41.21,0:26:42.30,kenangan,,0,0,0,,Raja
+Dialog: 0,0:26:43.09,0:26:45.80,kenangan,,0,0,0,,meninggal karena sakit, tidak bisa bergerak
+Dialog: 0,0:26:45.88,0:26:47.26,kenangan,,0,0,0,,Bagaimana mungkin?
+Dialog: 0,0:26:49.22,0:26:52.68,kenangan,,0,0,0,,Hal ini dimungkinkan karena alkimia jiwa
+Dialog: 0,0:26:54.64,0:26:56.02,teks umum,,0,0,0,,Menjadi pesulap,
+Dialog: 0,0:26:57.35,0:26:59.52,teks umum,,0,0,0,,dia sangat tertarik pada hal-hal seperti itu
+Dialog: 0,0:26:59.60,0:27:00.52,teks umum,,0,0,0,,Tidak
+Dialog: 0,0:27:01.86,0:27:03.15,teks umum,,0,0,0,,Dia berkomitmen
+Dialog: 0,0:27:04.65,0:27:05.90,teks umum,,0,0,0,,sesuatu yang tidak dapat diperbaiki
+Dialog: 0,0:27:06.70,0:27:10.70,teks umum,,0,0,0,,dengan kehidupan Do Hwa dan Wook
+Dialog: 0,0:27:21.00,0:27:24.38,teks umum,,0,0,0,,Pesulap dari Chongjingak segera mencari tuan kita
+Dialog: 0,0:27:34.18,0:27:35.89,teks umum,,0,0,0,,Aku tidak tahu kamu ada di sini, paman
+Dialog: 0,0:27:35.97,0:27:37.27,teks umum,,0,0,0,,Apa itu?
+Dialog: 0,0:27:38.44,0:27:39.64,teks umum,,0,0,0,,menurutku,
+Dialog: 0,0:27:40.48,0:27:42.27,teks umum,,0,0,0,,Inggris menjadi korban alkimia jiwa
+Dialog: 0,0:27:43.36,0:27:44.44,teks umum,,0,0,0,,Apa?
+Dialog: 0,0:28:08.84,0:28:10.22,miring,,0,0,0,,Ini Jeonbugwan
+Dialog: 0,0:28:10.76,0:28:13.72,di balik layar,,0,0,0,,Dan Zhu yang asli ada di balik tembok ini?
+Dialog: 0,0:28:36.91,0:28:39.50,teks umum,,0,0,0,,Inilah jalan menuju istana
+Dialog: 0,0:28:40.33,0:28:43.17,teks umum,,0,0,0,,Apakah Dan Zhu yang asli ada di sana?
+Dialog: 0,0:28:52.97,0:28:54.14,teks umum,,0,0,0,,Saya dari Jeonbugwan
+Dialog: 0,0:28:54.85,0:28:56.60,teks umum,,0,0,0,,Ini mungkin mendesak
+Dialog: 0,0:29:04.77,0:29:06.02,teks umum,,0,0,0,,Tunjukkan wajahmu
+Dialog: 0,0:29:06.11,0:29:08.02,teks umum,,0,0,0,,Ini mendesak. Minggir
+Dialog: 0,0:29:08.11,0:29:09.40,teks umum,,0,0,0,,Tunjukkan wajahmu terlebih dahulu
+Dialog: 0,0:29:31.92,0:29:32.97,teks umum,,0,0,0,,Penelan Jiwa
+Dialog: 0,0:29:35.93,0:29:37.05,teks umum,,0,0,0,,Dibaliknya
+Dialog: 0,0:31:26.70,0:31:28.79,teks umum,,0,0,0,,Nyata di istana
+Dialog: 0,0:31:31.42,0:31:32.75,teks umum,,0,0,0,,Batu es, kan?
+Dialog: 0,0:31:33.92,0:31:35.46,teks umum,,0,0,0,,Anda menyebut dia
+Dialog: 0,0:31:37.13,0:31:40.26,teks umum,,0,0,0,,Aku akan menemukannya dan menyelamatkannya dari nasib yang sama denganmu
+Dialog: 0,0:32:11.50,0:32:12.92,teks umum,,0,0,0,,Tunggu, dia...
+Dialog: 0,0:32:13.88,0:32:15.25,teks umum,,0,0,0,,Lihat
+Dialog: 0,0:32:15.34,0:32:16.88,teks umum,,0,0,0,,Apakah dia benar-benar mati?
+Dialog: 0,0:32:16.96,0:32:18.76,teks umum,,0,0,0,,- Sentuh\N- Apakah itu layak?
+Dialog: 0,0:32:36.86,0:32:38.86,teks umum,,0,0,0,,Dia mencoba masuk ke istana sampai dia berubah menjadi batu
+Dialog: 0,0:32:40.74,0:32:41.95,teks umum,,0,0,0,,Apakah kamu membunuhnya?
+Dialog: 0,0:32:42.99,0:32:44.45,teks umum,,0,0,0,,Beraninya kita?
+Dialog: 0,0:32:44.53,0:32:47.37,teks umum,,0,0,0,,Tiba-tiba beberapa penyihir tak dikenal muncul dan membunuhnya
+Dialog: 0,0:32:48.12,0:32:50.37,teks umum,,0,0,0,,Dari keluarga mana dia? Pernahkah Anda melihat wajahnya?
+Dialog: 0,0:32:50.45,0:32:52.00,teks umum,,0,0,0,,Tidak, itu disembunyikan
+Dialogue: 0,0:32:52.08,0:32:54.75,teks umum,,0,0,0,,Tapi aku lihat dia menggunakan
+Dialog: 0,0:33:01.21,0:33:02.38,miring,,0,0,0,,Itu Tansu
+Dialog: 0,0:33:05.84,0:33:08.72,teks umum,,0,0,0,,- Tansu?\N- Ya, saya yakin
+Dialog: 0,0:33:09.85,0:33:11.39,teks umum,,0,0,0,,Dia memukul dengan energi dari pedang
+Dialog: 0,0:33:14.10,0:33:17.19,di luar layar,,0,0,0,,Tangsu dimiliki oleh Nak Soo
+Dialog: 0,0:33:17.27,0:33:20.27,di luar layar,,0,0,0,,Apakah ada orang lain yang menguasainya?
+Dialog: 0,0:33:29.33,0:33:31.79,teks umum,,0,0,0,,Kudengar kau menangkap jiwa yang menelan
+Dialog: 0,0:33:32.45,0:33:35.75,teks umum,,0,0,0,,Kami datang untuk melihat siapa orang itu
+Dialog: 0,0:33:37.04,0:33:39.96,teks umum,,0,0,0,,Tentu saja. Anda bisa melihat
+Dialog: 0,0:34:03.86,0:34:04.99,teks umum,,0,0,0,,Ini Kil Ju,
+Dialog: 0,0:34:05.86,0:34:08.66,teks umum,,0,0,0,,salah satu orangmu
+Dialog: 0,0:34:10.58,0:34:12.74,teks umum,,0,0,0,,Benar
+Dialog: 0,0:34:15.20,0:34:17.83,teks umum,,0,0,0,,Bawa jenazahnya dan keluarkan semua orang
+Dialog: 0,0:34:17.92,0:34:18.79,teks umum,,0,0,0,,Ya
+Dialog: 0,0:34:24.42,0:34:27.59,di belakang layar,,0,0,0,,Jin Mu bersamaku saat mereka melakukan alkimia
+Dialog: 0,0:34:28.43,0:34:30.01,di luar layar,,0,0,0,,Dia juga bingung
+Dialog: 0,0:34:31.01,0:34:34.47,di luar layar,,0,0,0,,Dia tidak tahu kalau mereka telah melakukan alkimia
+Dialog: 0,0:34:36.18,0:34:39.56,teks umum,,0,0,0,,Aku akan mengurusnya karena semuanya terjadi di Jeonbugwan
+Dialog: 0,0:34:39.65,0:34:41.36,teks umum,,0,0,0,,Tidak ada hubungannya dengan Sosnovy Bor
+Dialog: 0,0:34:42.07,0:34:43.15,teks umum,,0,0,0,,Tentu saja
+Dialog: 0,0:34:43.90,0:34:46.86,teks umum,,0,0,0,,Jika perlu, kami akan memberikan bantuan
+Dialog: 0,0:34:47.45,0:34:49.78,teks umum,,0,0,0,,Jika perlu
+Dialog: 0,0:34:52.37,0:34:54.83,miring,,0,0,0,,Pengembara lain berubah menjadi burung walet?
+Dialog: 0,0:34:55.41,0:34:58.54,teks umum,,0,0,0,,Syukurlah, dia tertangkap dan dibunuh
+Dialog: 0,0:34:58.62,0:35:00.63,teks umum,,0,0,0,,Dan siapa itu?
+Dialog: 0,0:35:00.71,0:35:01.92,teks umum,,0,0,0,,Kil Ju,
+Dialog: 0,0:35:02.00,0:35:05.21,teks umum,,0,0,0,,pesulap Jeonbugwan
+Dialog: 0,0:35:07.05,0:35:09.18,miring,,0,0,0,,Kil Zhu menjadi pengembara?
+Dialog: 0,0:35:10.18,0:35:13.26,teks umum,,0,0,0,,Jonbugwan menangkapnya?
+Dialog: 0,0:35:13.35,0:35:15.35,teks umum,,0,0,0,,Dia tertangkap di depan istana
+Dialog: 0,0:35:15.43,0:35:18.48,teks umum,,0,0,0,,Dia mencoba masuk ke istana ketika dia berlari liar
+Dialog: 0,0:35:19.44,0:35:21.15,teks umum,,0,0,0,,Apakah dia datang ke sini?
+Dialog: 0,0:35:21.23,0:35:23.40,teks umum,,0,0,0,,Tiba-tiba seorang penyihir muncul,
+Dialog: 0,0:35:23.48,0:35:25.61,teks umum,,0,0,0,,yang digunakan Tansu
+Dialog: 0,0:35:28.95,0:35:30.99,teks umum,,0,0,0,,Dan siapa itu?
+Dialog: 0,0:35:32.53,0:35:34.66,teks umum,,0,0,0,,Kil Ju membunuh Nak Soo
+Dialog: 0,0:35:34.74,0:35:35.99,teks umum,,0,0,0,,- Apa?\N- Nak Su?
+Dialog: 0,0:35:36.08,0:35:37.50,teks umum,,0,0,0,,Dia kembali!
+Dialog: 0,0:35:37.58,0:35:39.46,teks umum,,0,0,0,,- Nak Su?\N- Tentara Bayaran?
+Dialog: 0,0:35:40.00,0:35:44.04,teks umum,,0,0,0,,Seorang penyihir memegang Tansu yang muncul di depan istana
+Dialog: 0,0:35:44.13,0:35:45.92,teks umum,,0,0,0,,Nak Su yang memilikinya
+Dialog: 0,0:35:46.00,0:35:47.71,miring,,0,0,0,,- Benarkah?\N- Luar biasa
+Dialog: 0,0:35:47.80,0:35:49.17,teks umum,,0,0,0,,- Apakah itu dia?\N- Dia?
+Dialog: 0,0:35:49.26,0:35:50.55,teks umum,,0,0,0,,Tunggu
+Dialog: 0,0:35:50.63,0:35:51.97,teks umum,,0,0,0,,Nak Su sudah mati
+Dialog: 0,0:35:52.05,0:35:52.93,miring,,0,0,0,,Tepat!
+Dialog: 0,0:35:53.01,0:35:55.93,teks umum,,0,0,0,,Semua orang di sini melihat bagaimana tubuhnya dibakar
+Dialog: 0,0:35:56.01,0:35:58.35,teks umum,,0,0,0,,Saya melihatnya sendiri
+Dialog: 0,0:35:58.43,0:35:59.60,teks umum,,0,0,0,,- Ya\N- Tepat sekali
+Dialog: 0,0:35:59.68,0:36:02.10,teks umum,,0,0,0,,Tubuh terbakar, namun jiwa tetap hidup
+Dialog: 0,0:36:02.19,0:36:05.57,teks umum,,0,0,0,,Prajurit bayangan telah menjadi pengembara!
+Dialog: 0,0:36:05.65,0:36:07.32,teks umum,,0,0,0,,- Apa?\N- Benarkah?
+Dialog: 0,0:36:07.40,0:36:09.32,teks umum,,0,0,0,,- Tidak mungkin\N- Serius?
+Dialog: 0,0:36:09.40,0:36:11.28,teks umum,,0,0,0,,Tapi Nak Soo adalah seorang perempuan
+Dialog: 0,0:36:11.36,0:36:13.41,teks umum,,0,0,0,,Dan Kil Ju dibunuh oleh seorang pemuda
+Dialog: 0,0:36:13.49,0:36:16.66,teks umum,,0,0,0,,Pemuda jangkung berjubah biru
+Dialog: 0,0:36:17.33,0:36:19.33,teks umum,,0,0,0,,Nak Su itu pengembara ya?
+Dialog: 0,0:36:19.41,0:36:22.08,teks umum,,0,0,0,,Dia bisa bermigrasi ke tubuh pemuda ini
+Dialog: 0,0:36:23.88,0:36:25.79,teks umum,,0,0,0,,Dan kemudian aku menjadi lebih kuat
+Dialog: 0,0:36:27.30,0:36:28.96,teks umum,,0,0,0,,Dia kuat
+Dialog: 0,0:36:29.05,0:36:32.51,teks umum,,0,0,0,,Tapi di tubuh laki-laki itu menjadi lebih kuat
+Dialog: 0,0:36:34.72,0:36:36.14,teks umum,,0,0,0,,Pembunuhan Kil Ju adalah balas dendamnya
+Dialog: 0,0:36:36.22,0:36:38.68,teks umum,,0,0,0,,Jeonbugwan untuk tubuh yang terbakar
+Dialog: 0,0:36:39.35,0:36:40.85,teks umum,,0,0,0,,dan pembunuhan rakyatnya
+Dialogue: 0,0:36:40.93,0:36:42.35,teks umum,,0,0,0,,Mengapa kita harus membalas dendam?
+Dialog: 0,0:36:42.44,0:36:44.31,teks umum,,0,0,0,,Hutan Pinus membunuh Nak Su
+Dialog: 0,0:36:45.31,0:36:50.07,teks umum,,0,0,0,,"Berbalut warna biru, Nak Soo yang luar biasa telah kembali"
+Dialog: 0,0:36:50.15,0:36:52.74,teks umum,,0,0,0,,"Hutan Pinus adalah tujuan berikutnya"
+Dialog: 0,0:36:52.82,0:36:55.99,teks umum,,0,0,0,,Ini rumornya
+Dialogue: 0,0:36:56.07,0:36:58.95,teks umum,,0,0,0,,Sang penelan jiwa ditangkap beberapa jam yang lalu
+Dialog: 0,0:36:59.04,0:37:00.83,teks umum,,0,0,0,,dan sudah ada rumor yang tidak masuk akal?
+Dialogue: 0,0:37:01.41,0:37:05.21,teks umum,,0,0,0,,Rumor seperti itu secepat api
+Dialog: 0,0:37:05.29,0:37:06.96,teks umum,,0,0,0,,Dan rumor tersebut bukannya tidak berdasar
+Dialog: 0,0:37:07.04,0:37:10.00,teks umum,,0,0,0,,Pesulap menggunakan Tansa,
+Dialog: 0,0:37:10.09,0:37:12.47,teks umum,,0,0,0,,seperti Nak Su
+Dialogue: 0,0:37:12.55,0:37:14.47,teks umum,,0,0,0,,Dan dia satu-satunya yang memilikinya?
+Dialog: 0,0:37:16.05,0:37:18.76,teks umum,,0,0,0,,Saya ingin, saya sudah menguasainya sekarang
+Dialog: 0,0:37:20.56,0:37:23.27,teks umum,,0,0,0,,Jika rumor ini menyebar ke seluruh Sosnovy Bor,
+Dialog: 0,0:37:23.35,0:37:26.44,teks umum,,0,0,0,,kamu akan menjawab. Pastikan ini tidak terjadi
+Dialog: 0,0:37:27.23,0:37:28.27,teks umum,,0,0,0,,Ya
+Dialogue: 0,0:37:31.65,0:37:34.65,teks umum,,0,0,0,,Sungguh berkah kau menjadi penelan jiwa
+Dialog: 0,0:37:34.74,0:37:36.16,teks umum,,0,0,0,,bukan tuan muda
+Dialog: 0,0:37:37.07,0:37:40.28,teks umum,,0,0,0,,Tapi kenapa kami menemukan gelangnya di sana?
+Dialog: 0,0:37:41.95,0:37:44.16,teks umum,,0,0,0,,Kita akan tahu kapan kita menemukannya
+Dialog: 0,0:37:50.21,0:37:52.76,teks umum,,0,0,0,,Kamu terlihat buruk
+Dialog: 0,0:38:00.05,0:38:01.39,teks umum,,0,0,0,,Kamu harusnya
+Dialog: 0,0:38:02.14,0:38:04.48,teks umum,,0,0,0,,pulang dan tunggu dia disana
+Dialog: 0,0:38:14.82,0:38:16.53,teks umum,,0,0,0,,Apakah kamu merasa tidak enak badan?
+Dialog: 0,0:38:17.15,0:38:20.20,teks umum,,0,0,0,,Aku kaget sekali karena kue madu yang kumakan kemarin
+Dialog: 0,0:38:20.28,0:38:22.29,teks umum,,0,0,0,,masih ada di tenggorokanku
+Dialog: 0,0:38:24.33,0:38:27.29,teks umum,,0,0,0,,Aku sangat takut saat mendengar tentang penelan jiwa,
+Dialog: 0,0:38:27.37,0:38:29.71,teks umum,,0,0,0,,bahwa jiwa mula-mula meninggalkan tubuh lalu kembali
+Dialog: 0,0:38:37.84,0:38:40.26,teks umum,,0,0,0,,Apakah kebenarannya kembali?
+Dialogue: 0,0:38:43.18,0:38:44.52,teks umum,,0,0,0,,Apakah itu kamu, pembantu Kim?
+Dialog: 0,0:38:45.35,0:38:47.85,teks umum,,0,0,0,,Tidak, bab. Saya pembantu Pak
+Dialog: 0,0:38:49.06,0:38:52.69,teks umum,,0,0,0,,Aku bisa saja memukul punggung tuan muda itu, itu sangat membuatku takut
+Dialog: 0,0:38:54.78,0:38:56.19,teks umum,,0,0,0,,Pukul aku saja
+Dialog: 0,0:38:58.57,0:39:01.16,teks umum,,0,0,0,,Saya beri izin kepada Pembantu Pak
+Dialog: 0,0:39:01.74,0:39:02.83,teks umum,,0,0,0,,Ayo
+Dialog: 0,0:39:02.91,0:39:04.66,teks umum,,0,0,0,,Tanganku kuat
+Dialog: 0,0:39:04.74,0:39:06.70,teks umum,,0,0,0,,Itu akan menyakitkan
+Dialog: 0,0:39:07.58,0:39:09.79,teks umum,,0,0,0,,Aku tidak akan menangis,
+Dialog: 0,0:39:09.87,0:39:11.17,teks umum,,0,0,0,,beat
+Dialog: 0,0:39:14.80,0:39:17.72,teks umum,,0,0,0,,Anggaplah kamu sudah memukulku sekali
+Dialog: 0,0:39:19.05,0:39:20.34,teks umum,,0,0,0,,Mengapa?
+Dialog: 0,0:39:21.05,0:39:23.18,teks umum,,0,0,0,,Maukah kamu melakukan sesuatu yang tidak menyenangkan padaku sebagai balasannya?
+Dialog: 0,0:39:23.26,0:39:25.77,teks umum,,0,0,0,,Lalu aku batalkan pukulan ini
+Dialog: 0,0:39:25.85,0:39:27.18,teks umum,,0,0,0,,Pukul aku juga
+Dialog: 0,0:39:28.02,0:39:29.14,teks umum,,0,0,0,,Ayo
+Dialog: 0,0:39:30.10,0:39:31.56,teks umum,,0,0,0,,Cepat
+Dialog: 0,0:39:37.23,0:39:38.44,teks umum,,0,0,0,,Saya...
+Dialog: 0,0:39:40.20,0:39:41.86,teks umum,,0,0,0,,Aku tidak ingin menyakitimu
+Dialog: 0,0:39:44.24,0:39:46.20,teks umum,,0,0,0,,Sebagai kepala Sosnovy Bor,
+Dialog: 0,0:39:47.45,0:39:50.41,teks umum,,0,0,0,,Aku harus bersikap dingin dan tidak berperasaan
+Dialog: 0,0:39:51.08,0:39:52.42,teks umum,,0,0,0,,Tapi aku sungguh
+Dialog: 0,0:39:53.54,0:39:55.21,teks umum,,0,0,0,,Aku tidak ingin menyakitimu
+Dialog: 0,0:40:00.88,0:40:02.22,teks umum,,0,0,0,,Apakah kamu khawatir tentang
+Dialog: 0,0:40:02.76,0:40:06.22,teks umum,,0,0,0,,apa yang mereka tanyakan padaku tentang Guru Chang Gan kemarin?
+Dialog: 0,0:40:06.81,0:40:08.77,teks umum,,0,0,0,,Banyak yang telah terjadi
+Dialog: 0,0:40:08.85,0:40:10.85,teks umum,,0,0,0,,Sebagai kepala, aku tidak bisa
+Dialog: 0,0:40:11.85,0:40:13.81,teks umum,,0,0,0,,objektif
+Dialog: 0,0:40:14.77,0:40:16.90,teks umum,,0,0,0,,Pukulanmu menyadarkanku
+Dialog: 0,0:40:17.73,0:40:20.95,teks umum,,0,0,0,,Sekarang kita harus bertindak bijak
+Dialog: 0,0:40:25.12,0:40:27.03,teks umum,,0,0,0,,Kamu bisa dengan tenang mengalahkanku
+Dialog: 0,0:40:28.37,0:40:29.95,teks umum,,0,0,0,,sebagai pembantu Pak
+Dialog: 0,0:40:31.87,0:40:33.04,teks umum,,0,0,0,,Darimu
+Dialog: 0,0:40:34.04,0:40:35.63,teks umum,,0,0,0,,Saya terima
+Dialog: 0,0:40:51.81,0:40:53.14,teks umum,,0,0,0,,Mengapa kamu ada di sini?
+Dialog: 0,0:40:53.23,0:40:55.77,teks umum,,0,0,0,,Tuan Ho berkata untuk mencari tahu dari mana ilmu sihir itu berasal
+Dialogue: 0,0:40:55.86,0:40:58.15,teks umum,,0,0,0,,Dan saat itu juga aku menemukan ini
+Dialog: 0,0:40:59.15,0:41:01.28,teks umum,,0,0,0,,Hilang, rupanya
+Dialog: 0,0:41:02.70,0:41:04.24,teks umum,,0,0,0,,Kamu tidak memerlukannya lagi?
+Dialog: 0,0:41:05.28,0:41:07.07,teks umum,,0,0,0,,Tidak, tidak lagi
+Dialog: 0,0:41:07.78,0:41:10.24,teks umum,,0,0,0,,Hampir kehilangan harta keluarga Jin
+Dialog: 0,0:41:11.33,0:41:12.58,teks umum,,0,0,0,,Terima kasih telah menemukannya
+Dialog: 0,0:41:14.00,0:41:15.71,teks umum,,0,0,0,,Kamu kehilangan sesuatu yang lain
+Dialog: 0,0:41:17.00,0:41:18.84,teks umum,,0,0,0,,Apakah kamu tidak akan mencari Mu Dok?
+Dialog: 0,0:41:20.88,0:41:21.92,teks umum,,0,0,0,,Di mana dia?
+Dialog: 0,0:41:23.67,0:41:25.30,teks umum,,0,0,0,,Saya menemukannya ketika dia bersembunyi di hutan
+Dialog: 0,0:41:26.76,0:41:29.68,teks umum,,0,0,0,,Dia terluka dan berdarah
+Dialog: 0,0:41:44.99,0:41:45.91,teks umum,,0,0,0,,Moo Dok
+Dialog: 0,0:41:47.62,0:41:48.78,teks umum,,0,0,0,,Host,
+Dialog: 0,0:41:49.33,0:41:51.79,teks umum,,0,0,0,,bagaimana kamu bisa meninggalkanku?
+Dialog: 0,0:41:51.87,0:41:52.87,teks umum,,0,0,0,,Apa?
+Dialog: 0,0:41:54.62,0:41:58.08,teks umum,,0,0,0,,Kau lari, tinggalkan aku
+Dialog: 0,0:41:58.92,0:42:00.42,teks umum,,0,0,0,,Main bersamaku
+Dialogue: 0,0:42:04.13,0:42:07.22,teks umum,,0,0,0,,Ya... aku kabur
+Dialog: 0,0:42:07.80,0:42:08.76,teks umum,,0,0,0,,Tepat!
+Dialog: 0,0:42:08.84,0:42:12.14,teks umum,,0,0,0,,Kami menemui penelan jiwa saat bersembunyi dari hujan
+Dialog: 0,0:42:12.22,0:42:13.52,teks umum,,0,0,0,,Terima kasih
+Dialog: 0,0:42:13.60,0:42:16.89,teks umum,,0,0,0,,penelan jiwa ini hampir melahapku
+Dialog: 0,0:42:19.40,0:42:20.44,teks umum,,0,0,0,,Maaf
+Dialog: 0,0:42:22.02,0:42:25.74,teks umum,,0,0,0,,Aku sangat takut hingga tidak bisa memikirkan apa pun dan lari
+Dialog: 0,0:42:27.32,0:42:30.70,teks umum,,0,0,0,,Yul salah mengira Moo Deok sebagai penelan jiwa dan hampir membunuhnya
+Dialog: 0,0:42:31.37,0:42:34.41,teks umum,,0,0,0,,Jika dia tidak menjaganya, Moo Deok pasti sudah mati
+Dialog: 0,0:42:39.96,0:42:41.42,teks umum,,0,0,0,,Yul,
+Dialog: 0,0:42:41.50,0:42:45.42,teks umum,,0,0,0,,terima kasih telah menyelamatkan Moo Deok dan merawatnya
+Dialog: 0,0:42:51.30,0:42:53.10,teks umum,,0,0,0,,Apakah kamu benar-benar melarikan diri, meninggalkan dia?
+Dialog: 0,0:42:58.89,0:43:00.73,teks umum,,0,0,0,,Kalau tidak, aku akan mati
+Dialog: 0,0:43:01.36,0:43:02.82,teks umum,,0,0,0,,Terkadang kamu hanya perlu memikirkan dirimu sendiri
+Dialog: 0,0:43:04.32,0:43:06.40,teks umum,,0,0,0,,Apa yang kamu tonton? Tidak setuju?
+Dialog: 0,0:43:07.78,0:43:10.03,teks umum,,0,0,0,,Bagaimanapun, aku senang,
+Dialog: 0,0:43:10.11,0:43:12.83,teks umum,,0,0,0,,bahwa kita berdua baik-baik saja
+Dialog: 0,0:43:22.42,0:43:23.25,teks umum,,0,0,0,,Ya
+Dialog: 0,0:43:29.55,0:43:31.39,teks umum,,0,0,0,,Kudengar kamu bersembunyi di Danhyangok
+Dialog: 0,0:43:31.97,0:43:33.85,teks umum,,0,0,0,,Apakah kamu mendengar apa yang dikatakan pemimpin kita?
+Dialog: 0,0:43:33.93,0:43:36.06,teks umum,,0,0,0,,Hutan pinus akan menanggung rasa malumu
+Dialogue: 0,0:43:36.14,0:43:37.64,teks umum,,0,0,0,,aku capek sekali
+Dialog: 0,0:43:38.39,0:43:40.81,teks umum,,0,0,0,,Mengapa, jika saya bukan anggota Sosnovy Bor?
+Dialog: 0,0:43:40.89,0:43:43.02,teks umum,,0,0,0,,Duel dengan pangeran dalam dua minggu
+Dialog: 0,0:43:43.65,0:43:47.23,teks umum,,0,0,0,,Jangan muncul di kota sampai saat itu, jangan menimbulkan masalah
+Dialog: 0,0:43:47.32,0:43:48.53,teks umum,,0,0,0,,Tundukkan kepala
+Dialog: 0,0:43:54.53,0:43:56.79,teks umum,,0,0,0,,Terima kasih telah menjagaku
+Dialog: 0,0:43:56.87,0:43:58.95,teks umum,,0,0,0,,Rupanya, Inggris bisa melakukannya dengan baik tanpa gelang
+Dialog: 0,0:44:00.04,0:44:02.25,teks umum,,0,0,0,,Saya rasa dia bisa mengendalikan energi sekarang
+Dialog: 0,0:44:04.54,0:44:07.42,teks umum,,0,0,0,,Dia mempertaruhkan nyawanya lagi dan mendapatkan apa yang diinginkannya
+Dialog: 0,0:44:07.50,0:44:09.01,teks umum,,0,0,0,,Dan kamu ada di sana lagi
+Dialog: 0,0:44:11.80,0:44:15.60,teks umum,,0,0,0,,Jika itu sangat mengganggumu, kamu akan membiarkanku mati
+Dialog: 0,0:44:16.22,0:44:17.35,teks umum,,0,0,0,,Mungkin
+Dialog: 0,0:44:19.10,0:44:20.48,teks umum,,0,0,0,,lain kali
+Dialog: 0,0:44:27.36,0:44:28.57,miring,,0,0,0,,Moo Dok
+Dialog: 0,0:44:29.65,0:44:30.90,teks umum,,0,0,0,,Saya datang, tuan
+Dialog: 0,0:44:33.66,0:44:34.70,teks umum,,0,0,0,,Kami berangkat
+Dialog: 0,0:44:40.58,0:44:42.62,teks umum,,0,0,0,,Uk tidak terluka
+Dialog: 0,0:44:43.54,0:44:44.46,teks umum,,0,0,0,,Bagus sekali
+Dialog: 0,0:44:45.38,0:44:47.29,teks umum,,0,0,0,,Dia melihat
+Dialog: 0,0:44:47.38,0:44:49.88,teks umum,,0,0,0,,siapa yang bersama Kil Ju saat dia berubah jiwa?
+Dialog: 0,0:44:49.96,0:44:52.88,teks umum,,0,0,0,,Mungkin pria berbaju biru
+Dialog: 0,0:44:52.97,0:44:55.39,teks umum,,0,0,0,,Uk terlalu sibuk berlari untuk melihat
+Dialog: 0,0:44:55.47,0:44:57.18,teks umum,,0,0,0,,Apakah kamu bertanya pada pembantunya?
+Dialog: 0,0:44:58.60,0:45:00.35,teks umum,,0,0,0,,Dia pasti sudah melihat mantranya
+Dialog: 0,0:45:03.35,0:45:04.60,teks umum,,0,0,0,,Mu Dok...
+Dialog: 0,0:45:10.61,0:45:12.78,teks umum,,0,0,0,,Jika dia melihatnya, dia hampir tidak tahu apa itu
+Dialog: 0,0:45:13.99,0:45:16.74,teks umum,,0,0,0,,Ini adalah pelayan biasa yang hanya tahu sedikit tentang sihir
+Dialog: 0,0:45:19.41,0:45:21.58,teks umum,,0,0,0,,Bagaimana dengan tangan?
+Dialog: 0,0:45:23.33,0:45:24.16,teks umum,,0,0,0,,Sakit?
+Dialog: 0,0:45:26.71,0:45:29.75,teks umum,,0,0,0,,Ada racun sihir di reflektor yang kusentuh
+Dialog: 0,0:45:30.59,0:45:31.67,teks umum,,0,0,0,,Tapi aku baik-baik saja
+Dialogue: 0,0:45:33.34,0:45:34.72,teks umum,,0,0,0,,aku pergi
+Dialog: 0,0:46:12.84,0:46:14.67,teks umum,,0,0,0,,Mengapa kamu ingin bertemu denganku?
+Dialog: 0,0:46:16.55,0:46:20.76,teks umum,,0,0,0,,Kudengar kau mengambil hadiah pernikahanku
+Dialog: 0,0:46:21.39,0:46:22.72,teks umum,,0,0,0,,Mengapa?
+Dialogue: 0,0:46:22.81,0:46:25.93,teks umum,,0,0,0,,Takut aku akan menghancurkannya?
+Dialog: 0,0:46:26.02,0:46:30.02,teks umum,,0,0,0,,Aku akan menyimpannya sampai pernikahanmu berikutnya
+Dialog: 0,0:46:30.56,0:46:31.98,teks umum,,0,0,0,,Buang saja
+Dialog: 0,0:46:32.07,0:46:34.40,teks umum,,0,0,0,,Pernikahan bukan lagi prioritasku
+Dialogue: 0,0:46:35.40,0:46:37.53,teks umum,,0,0,0,,Jangan malu-malu
+Dialog: 0,0:46:37.61,0:46:42.12,teks umum,,0,0,0,,Pernikahan dipersiapkan secara diam-diam, hanya sedikit orang yang mengetahuinya
+Dialog: 0,0:46:44.16,0:46:45.12,teks umum,,0,0,0,,Benarkah?
+Dialog: 0,0:46:47.37,0:46:49.50,miring,,0,0,0,,Cho Young!
+Dialog: 0,0:46:53.13,0:46:54.88,teks umum,,0,0,0,,Mereka bilang kamu akan menikah
+Dialog: 0,0:46:55.67,0:46:58.80,teks umum,,0,0,0,,Saya mendengar tentang hadiah, dan saya menemukan pengrajin membuat cincin
+Dialog: 0,0:46:59.34,0:47:02.10,teks umum,,0,0,0,,Rupanya rumor sudah menyebar
+Dialog: 0,0:47:02.18,0:47:03.10,teks umum,,0,0,0,,Selamat
+Dialog: 0,0:47:03.18,0:47:05.43,teks umum,,0,0,0,,Selamat tuan muda Pak
+Dialog: 0,0:47:06.10,0:47:08.77,teks umum,,0,0,0,,- Aku?\N- Aku tahu kaulah yang akan menikah
+Dialogue: 0,0:47:08.85,0:47:10.69,italic,,0,0,0,,Dia menerima hadiah
+Dialog: 0,0:47:10.77,0:47:12.61,miring,,0,0,0,,Aku pergi bersamamu untuk mencoba cincin
+Dialog: 0,0:47:12.69,0:47:13.82,teks umum,,0,0,0,,Benarkah?
+Dialog: 0,0:47:13.90,0:47:16.74,teks umum,,0,0,0,,Ada rumor yang tidak masuk akal bahwa kamu akan menikahi Chan Wook
+Dialog: 0,0:47:17.32,0:47:18.28,miring,,0,0,0,,Tidak?
+Dialog: 0,0:47:18.36,0:47:20.03,miring,,0,0,0,,Kalian berdua akan menikah
+Dialog: 0,0:47:21.70,0:47:22.74,teks umum,,0,0,0,,Ya, benar
+Dialog: 0,0:47:22.82,0:47:24.74,teks umum,,0,0,0,,Tapi jangan dibicarakan
+Dialog: 0,0:47:24.83,0:47:26.25,teks umum,,0,0,0,,Masih dirahasiakan
+Dialog: 0,0:47:26.87,0:47:28.00,teks umum,,0,0,0,,Oke
+Dialog: 0,0:47:28.62,0:47:29.79,teks umum,,0,0,0,,Sampai jumpa
+Dialog: 0,0:47:31.04,0:47:33.42,teks umum,,0,0,0,,Sudah kubilang itu Dan Gu
+Dialog: 0,0:47:33.50,0:47:36.59,teks umum,,0,0,0,,Tepat. Dia tidak gila untuk menikahi Uka lagi
+Dialog: 0,0:47:36.67,0:47:38.26,miring,,0,0,0,,Jangan bilang
+Dialog: 0,0:47:40.93,0:47:42.01,teks umum,,0,0,0,,Dan Gu
+Dialog: 0,0:47:42.09,0:47:43.89,teks umum,,0,0,0,,Mengapa kamu membenarkan kata-kata mereka?
+Dialog: 0,0:47:44.47,0:47:46.77,teks umum,,0,0,0,,Ini lebih baik daripada mengakui bahwa Inggris menolakmu dua kali
+Dialog: 0,0:47:47.39,0:47:50.19,teks umum,,0,0,0,,Katakan saja kali ini kamu menolak menikah denganku
+Dialog: 0,0:47:50.27,0:47:52.06,teks umum,,0,0,0,,Tetap saja, ini hanya rumor belaka
+Dialog: 0,0:47:53.69,0:47:55.98,teks umum,,0,0,0,,Apakah Anda setuju dengan pengaturan ini?
+Dialog: 0,0:47:56.94,0:47:58.49,teks umum,,0,0,0,,Kamu akan malu
+Dialog: 0,0:47:59.74,0:48:00.95,teks umum,,0,0,0,,Saya setuju
+Dialog: 0,0:48:28.93,0:48:29.89,teks umum,,0,0,0,,Stink Mu Deok?
+Dialog: 0,0:48:31.48,0:48:33.94,teks umum,,0,0,0,,Apakah kamu kembali ke sini lagi? Apakah kamu tidak terluka?
+Dialog: 0,0:48:34.94,0:48:35.94,teks umum,,0,0,0,,Apa?
+Dialog: 0,0:48:38.86,0:48:40.40,teks umum,,0,0,0,,Lupakan. Minggir
+Dialog: 0,0:48:45.53,0:48:47.70,teks umum,,0,0,0,,Mencari Moo Deok lagi?
+Dialog: 0,0:48:47.78,0:48:50.54,teks umum,,0,0,0,,No. Gaun itu tampak familier
+Dialog: 0,0:48:51.87,0:48:54.33,teks umum,,0,0,0,,Moo Dok menjualnya kepada kami
+Dialog: 0,0:48:55.08,0:48:57.09,teks umum,,0,0,0,,- Terjual?\N- Ya
+Dialog: 0,0:48:57.17,0:49:00.09,teks umum,,0,0,0,,Dia bilang itu hadiah dari pria sembrono
+Dialog: 0,0:49:00.17,0:49:01.59,teks umum,,0,0,0,,Dan juga disediakan
+Dialog: 0,0:49:01.67,0:49:03.63,teks umum,,0,0,0,,dan tidak memerlukan gaun itu kembali
+Dialog: 0,0:49:05.26,0:49:07.89,teks umum,,0,0,0,,Benarkah dia mengatakan itu?
+Dialog: 0,0:49:07.97,0:49:11.77,teks umum,,0,0,0,,Ya. Bau Moo Deok dan sutra tidak bisa berjalan beriringan
+Dialog: 0,0:49:12.73,0:49:13.98,teks umum,,0,0,0,,Perhatikan bahasamu
+Dialog: 0,0:49:14.73,0:49:15.60,teks umum,,0,0,0,,Apa?
+Dialog: 0,0:49:15.69,0:49:19.07,teks umum,,0,0,0,,Aku memberinya nama ini dan hanya aku yang bisa memanggilnya seperti itu
+Dialog: 0,0:49:19.15,0:49:20.28,teks umum,,0,0,0,,Bukan kamu
+Dialog: 0,0:49:21.23,0:49:22.28,teks umum,,0,0,0,,Maaf
+Dialog: 0,0:49:23.99,0:49:25.07,teks umum,,0,0,0,,Dan juga
+Dialog: 0,0:49:27.16,0:49:29.45,teks umum,,0,0,0,,dia terlihat bagus dengan gaun itu
+Dialog: 0,0:49:30.16,0:49:32.54,teks umum,,0,0,0,,Lebih baik darimu yang mengenakan jubah biru itu
+Dialog: 0,0:49:33.12,0:49:34.79,teks umum,,0,0,0,,Rupanya kamu tidak menyukainya
+Dialog: 0,0:49:36.38,0:49:37.63,teks umum,,0,0,0,,Apa ini?
+Dialog: 0,0:49:37.71,0:49:40.34,teks umum,,0,0,0,,Semuanya di sini seperti ini
+Dialog: 0,0:49:40.42,0:49:42.46,teks umum,,0,0,0,,Ini jubah Nak Su
+Dialog: 0,0:49:42.55,0:49:43.59,teks umum,,0,0,0,,Siapa?
+Dialog: 0,0:49:43.67,0:49:47.05,teks umum,,0,0,0,,Pengembara Nak Su membunuh penyihir Jeonbugwan di depan istana
+Dialog: 0,0:49:47.64,0:49:49.81,teks umum,,0,0,0,,Dia mengenakan jubah serupa
+Dialog: 0,0:49:49.89,0:49:53.52,teks umum,,0,0,0,,Sekarang semua orang di ibu kota punya ini
+Dialog: 0,0:49:59.06,0:50:02.32,teks umum,,0,0,0,,- Ayo, beli jubah Nak Su\N- Aku punya satu
+Dialog: 0,0:50:02.40,0:50:04.15,teks umum,,0,0,0,,Ini akan melindungi jiwamu agar tidak terserap
+Dialog: 0,0:50:04.24,0:50:05.65,teks umum,,0,0,0,,- Ini\N- Ambil
+Dialog: 0,0:50:05.74,0:50:08.16,miring,,0,0,0,,Saya mau yang ini
+Dialog: 0,0:50:08.24,0:50:10.45,teks umum,,0,0,0,,- Tanjung Nak Su\N- Cobalah
+Dialog: 0,0:50:15.12,0:50:17.21,teks umum,,0,0,0,,Nomad berbaju Biru
+Dialog: 0,0:50:18.33,0:50:20.59,teks umum,,0,0,0,,Semua orang mengira Nak Soo telah kembali dari kematian
+Dialog: 0,0:50:22.30,0:50:26.13,teks umum,,0,0,0,,Tapi berkat "Nak Su berbaju Biru",
+Dialog: 0,0:50:26.22,0:50:28.89,teks umum,,0,0,0,,tidak ada yang ingat pertarungan antara Uka dan sang pangeran
+Dialog: 0,0:50:30.05,0:50:32.01,teks umum,,0,0,0,,Aku ingin tahu di mana Wook dan Moo Deok berada
+Dialog: 0,0:50:33.14,0:50:34.52,teks umum,,0,0,0,,Mereka tidak ada di Danhyangok
+Dialog: 0,0:50:35.39,0:50:36.85,teks umum,,0,0,0,,Saya yakin semuanya baik-baik saja
+Dialog: 0,0:50:37.56,0:50:40.19,teks umum,,0,0,0,,Mereka akan kembali dalam dua minggu
+Dialog: 0,0:50:42.65,0:50:44.28,teks umum,,0,0,0,,Ngomong-ngomong, Yul
+Dialog: 0,0:50:46.86,0:50:48.57,teks umum,,0,0,0,,Saya membelinya sendiri juga. Apakah Anda ingin mencobanya?
+Dialog: 0,0:50:54.29,0:50:55.25,teks umum,,0,0,0,,Oke
+Dialog: 0,0:50:59.83,0:51:02.38,teks umum,,0,0,0,,Siapakah itu?
+Dialog: 0,0:51:02.46,0:51:05.63,teks umum,,0,0,0,,Nak Su berwarna biru, memiliki Tansu?
+Dialog: 0,0:51:13.64,0:51:15.77,teks umum,,0,0,0,,Kamu bilang ini kuburan para penelan jiwa
+Dialog: 0,0:51:17.35,0:51:18.94,teks umum,,0,0,0,,Jadi seharusnya ada di sini
+Dialog: 0,0:51:20.81,0:51:21.94,teks umum,,0,0,0,,Ayahmu
+Dialog: 0,0:51:23.90,0:51:25.48,teks umum,,0,0,0,,Sayang
+Dialog: 0,0:51:26.03,0:51:29.78,teks umum,,0,0,0,,Saya pikir dia dibunuh oleh penyihir dari empat keluarga
+Dialog: 0,0:51:31.49,0:51:34.12,teks umum,,0,0,0,,Jin Mu membawaku kepadanya, aku memanggilnya Dan Zhu
+Dialog: 0,0:51:34.20,0:51:35.24,teks umum,,0,0,0,,Tapi...
+Dialog: 0,0:51:36.87,0:51:39.37,teks umum,,0,0,0,,ayahku pengembara, dia dimanfaatkan
+Dialog: 0,0:51:41.08,0:51:43.38,teks umum,,0,0,0,,Dan mereka memanfaatkanku, lalu meninggalkanku
+Dialog: 0,0:51:46.96,0:51:48.51,teks umum,,0,0,0,,Seperti yang dikatakan Kil Ju,
+Dialog: 0,0:51:49.63,0:51:51.38,teks umum,,0,0,0,,Aku akan membatu dan mati
+Dialog: 0,0:51:56.22,0:51:57.64,teks umum,,0,0,0,,Saat aku berubah menjadi batu,
+Dialog: 0,0:52:02.06,0:52:03.73,teks umum,,0,0,0,,maukah kamu menguburku di sini?
+Dialog: 0,0:52:15.24,0:52:19.33,teks umum,,0,0,0,,Saya menemukan di mana Dan Zhu yang sebenarnya berada
+Dialog: 0,0:52:21.00,0:52:24.04,teks umum,,0,0,0,,Di istana. Yang asli ada di sana
+Dialog: 0,0:52:28.51,0:52:31.38,teks umum,,0,0,0,,Ceritakan tentang batu es
+Dialog: 0,0:52:33.05,0:52:34.34,teks umum,,0,0,0,,Apakah kamu yakin,
+Dialog: 0,0:52:34.93,0:52:38.18,teks umum,,0,0,0,,bahwa itu dihancurkan
+Dialog: 0,0:52:39.56,0:52:43.27,teks umum,,0,0,0,,Tuan Seo Kyung dan kepala Jinyeowon 200 tahun lalu?
+Dialog: 0,0:52:46.06,0:52:47.65,teks umum,,0,0,0,,Kami yakin dia
+Dialog: 0,0:52:49.23,0:52:50.69,teks umum,,0,0,0,,bukan di Sosnovy Bor
+Dialog: 0,0:53:11.88,0:53:13.80,teks umum,,0,0,0,,Halo, Dan Zhu
+Dialog: 0,0:53:30.11,0:53:33.78,teks umum,,0,0,0,,Kil Ju menginginkan batu es, jadi dia datang ke istana menemuiku
+Dialog: 0,0:53:34.95,0:53:36.11,teks umum,,0,0,0,,Saya tidak tahu,
+Dialog: 0,0:53:37.07,0:53:39.58,teks umum,,0,0,0,,bahwa Kil Ju mengetahui siapa Dan Ju yang sebenarnya
+Dialog: 0,0:53:40.29,0:53:42.20,teks umum,,0,0,0,,Hari ketika keluarga Choi mendapatkan kembali kekuasaan,
+Dialog: 0,0:53:42.83,0:53:46.75,teks umum,,0,0,0,,dan Sosnovy Bor, penyebab kejatuhan kita, telah dihancurkan
+Dialog: 0,0:53:48.75,0:53:51.96,teks umum,,0,0,0,,sudah sangat dekat. Lalu aku akan mulai memerintah di Daeho
+Dialog: 0,0:53:53.72,0:53:56.26,teks umum,,0,0,0,,Aku menantikan hari ini tidak kurang darimu
+Dialog: 0,0:53:57.68,0:54:01.10,teks umum,,0,0,0,,Kita harus menemukan dan membunuh orang yang berurusan dengan Kil Ju
+Dialog: 0,0:54:02.60,0:54:05.06,teks umum,,0,0,0,,Orang ini mungkin menunggu sampai Kil Ju
+Dialog: 0,0:54:05.14,0:54:07.90,teks umum,,0,0,0,,akan datang ke istana untuk mengambil batu
+Dialog: 0,0:54:07.98,0:54:10.57,teks umum,,0,0,0,,Jika dia tahu di mana batu itu berada,
+Dialog: 0,0:54:11.07,0:54:12.44,teks umum,,0,0,0,,Anda harus menemukannya
+Dialog: 0,0:54:13.57,0:54:14.86,teks umum,,0,0,0,,dan bunuh dia
+Dialog: 0,0:54:19.45,0:54:20.91,teks umum,,0,0,0,,Saya tidak tahu siapa itu,
+Dialog: 0,0:54:21.95,0:54:23.91,teks umum,,0,0,0,,tapi Dan Zhu yang asli ada di istana dan memiliki batu
+Dialog: 0,0:54:24.00,0:54:26.71,teks umum,,0,0,0,,Dengan bantuannya, pengembara tidak berubah menjadi penelan jiwa
+Dialog: 0,0:54:28.79,0:54:32.05,teks umum,,0,0,0,,Jadi, kita harus masuk ke istana dan menemukan Dan Zhu?
+Dialog: 0,0:54:32.13,0:54:34.13,teks umum,,0,0,0,,Ini tidak mungkin sekarang
+Dialog: 0,0:54:34.92,0:54:37.38,teks umum,,0,0,0,,Saya seorang penyihir lemah yang ditolak oleh Jeongjingak
+Dialog: 0,0:54:38.01,0:54:40.60,teks umum,,0,0,0,,Tapi aku akan terus maju
+Dialog: 0,0:54:41.72,0:54:44.22,teks umum,,0,0,0,,Dan aku pasti akan sampai ke istana
+Dialog: 0,0:54:45.81,0:54:46.85,teks umum,,0,0,0,,Guru,
+Dialog: 0,0:54:48.10,0:54:49.35,teks umum,,0,0,0,,Saya akan temukan
+Dialog: 0,0:54:50.40,0:54:51.77,teks umum,,0,0,0,,batu untukmu
+Dialog: 0,0:54:57.28,0:54:58.32,teks umum,,0,0,0,,Chan Wook
+Dialog: 0,0:54:59.20,0:55:01.53,teks umum,,0,0,0,,Gurumu tidak cukup kuat untuk menarikmu ke atas
+Dialog: 0,0:55:02.62,0:55:05.29,teks umum,,0,0,0,,atau penutup dari belakang
+Dialog: 0,0:55:06.96,0:55:10.13,teks umum,,0,0,0,,Kamu belum pernah seperti ini
+Dialog: 0,0:55:10.67,0:55:12.25,teks umum,,0,0,0,,Selalu mendorongku sampai mati
+Dialog: 0,0:55:15.76,0:55:19.68,miring,,0,0,0,,Tetapi setiap saat aku menjadi lebih baik dan lebih kuat dari sebelumnya
+Dialog: 0,0:55:23.47,0:55:25.31,teks umum,,0,0,0,,Terus menempatkanku dalam bahaya
+Dialog: 0,0:55:25.89,0:55:27.52,teks umum,,0,0,0,,Yang penting dekat
+Dialog: 0,0:55:37.49,0:55:38.70,teks umum,,0,0,0,,Oke
+Dialog: 0,0:55:39.65,0:55:41.78,teks umum,,0,0,0,,Aku akan ke sana dan mendorongmu sampai mati,
+Dialog: 0,0:55:41.87,0:55:44.20,teks umum,,0,0,0,,jika kamu berhenti
+Dialog: 0,0:56:11.73,0:56:14.81,teks umum,,0,0,0,,Aku akan mencari Uka dan memastikan dia tidak ikut bertarung
+Dialog: 0,0:56:16.65,0:56:17.94,teks umum,,0,0,0,,Tidak perlu
+Dialog: 0,0:56:18.49,0:56:20.82,teks umum,,0,0,0,,Jika dia ingin datang,
+Dialog: 0,0:56:21.70,0:56:22.66,teks umum,,0,0,0,,biarkan
+Dialog: 0,0:56:22.74,0:56:25.41,teks umum,,0,0,0,,Ini adalah duel resmi antar penyihir
+Dialog: 0,0:56:26.16,0:56:28.37,teks umum,,0,0,0,,Kami tidak akan bisa melakukan intervensi bahkan jika seseorang meninggal
+Dialog: 0,0:56:30.50,0:56:32.25,teks umum,,0,0,0,,Jika seseorang meninggal,
+Dialog: 0,0:56:34.21,0:56:35.71,teks umum,,0,0,0,,jadi akan jadi
+Dialog: 0,0:56:40.13,0:56:41.67,teks umum,,0,0,0,,Kamu tidak akan menghentikan ini?
+Dialog: 0,0:56:45.64,0:56:48.31,teks umum,,0,0,0,,Dewan Terpadu menuntut dari Uka
+Dialog: 0,0:56:48.39,0:56:50.48,teks umum,,0,0,0,,bertarung atas nama Sosnovy Bor
+Dialog: 0,0:56:51.39,0:56:53.31,teks umum,,0,0,0,,Dia akan lari dari pengecut
+Dialog: 0,0:56:54.02,0:56:56.11,teks umum,,0,0,0,,dan akan mati dengan terhormat,
+Dialog: 0,0:56:56.90,0:57:01.78,teks umum,,0,0,0,,Saya hanya akan menonton sebagai kepala Sosnovy Bor
+Dialog: 0,0:58:33.91,0:58:38.21,teks umum,,0,0,0,,Yang Mulia Raja dan Ratu telah tiba
+Dialog: 0,0:59:11.28,0:59:14.08,teks umum,,0,0,0,,Sebulan yang lalu Go Won, pewaris keluarga kerajaan Daeho,
+Dialog: 0,0:59:14.16,0:59:17.71,teks umum,,0,0,0,,menantang putra sulung keluarga Chan untuk berduel
+Dialog: 0,0:59:17.79,0:59:21.33,teks umum,,0,0,0,,Sosnovy Bor menerima tantangan atas nama Chan Wook
+Dialog: 0,0:59:22.13,0:59:24.17,miring,,0,0,0,,Dengan menandatangani makalah ini,
+Dialog: 0,0:59:24.25,0:59:26.46,teks umum,,0,0,0,,Anda setuju untuk tidak membuat klaim apa pun
+Dialog: 0,0:59:27.42,0:59:30.47,teks umum,,0,0,0,,bahkan jika seseorang meninggal
+Dialog: 0,0:59:32.18,0:59:35.97,teks umum,,0,0,0,,Duel akan dimulai siang hari
+Dialog: 0,0:59:36.64,0:59:38.73,teks umum,,0,0,0,,Jika Chang Wook tidak muncul sebelum itu,
+Dialog: 0,0:59:39.52,0:59:41.52,teks umum,,0,0,0,,kami akan menganggap ini sebagai kekalahan
+Dialog: 0,0:59:44.23,0:59:49.24,teks umum,,0,0,0,,Kamu harus menyebutkan hukuman yang akan dia terima jika dia tidak muncul
+Dialog: 0,0:59:52.53,0:59:57.12,teks umum,,0,0,0,,Jika Chang Wook tidak datang hari ini,
+Dialog: 0,0:59:57.91,1:00:02.00,teks umum,,0,0,0,,dia akan kehilangan hak untuk menjadi Gwangju berikutnya
+Dialog: 0,1:00:03.92,1:00:05.34,teks umum,,0,0,0,,Jeonbugwan
+Dialog: 0,1:00:26.44,1:00:27.36,teks umum,,0,0,0,,Datanglah padaku
+Dialog: 0,1:00:29.11,1:00:30.95,teks umum,,0,0,0,,Apa isi kendi itu?
+Dialog: 0,1:00:32.74,1:00:34.41,teks umum,,0,0,0,,Air
+Dialog: 0,1:00:34.99,1:00:36.53,teks umum,,0,0,0,,Air?
+Dialog: 0,1:01:09.23,1:01:11.19,teks umum,,0,0,0,,Bab, ini sudah tengah hari
+Dialog: 0,1:01:11.28,1:01:13.24,teks umum,,0,0,0,,Tutup pintu aula
+Dialog: 0,1:01:14.45,1:01:15.62,teks umum,,0,0,0,,Saya harus
+Dialog: 0,1:01:16.87,1:01:18.37,teks umum,,0,0,0,,umumkan kekalahannya
+Dialog: 0,1:01:38.43,1:01:39.35,teks umum,,0,0,0,,Tutup
+Dialog: 0,1:01:54.40,1:01:55.66,teks umum,,0,0,0,,Chan Wook telah tiba!
+Dialog: 0,1:02:05.00,1:02:05.92,teks umum,,0,0,0,,Tuan...
+Dialog: 0,1:02:36.61,1:02:37.61,teks umum,,0,0,0,,Mr.
+Dialog: 0,1:02:39.20,1:02:40.20,teks umum,,0,0,0,,Semuanya akan baik-baik saja
+Dialog: 0,1:02:44.75,1:02:47.08,prasasti,,0,0,0,,Chan Wook
+Dialog: 0,1:03:07.39,1:03:09.35,teks umum,,0,0,0,,Anda menandatangani kertas
+Dialog: 0,1:03:09.44,1:03:10.94,teks umum,,0,0,0,,Sekarang tidak ada yang akan ikut campur,
+Dialog: 0,1:03:11.69,1:03:13.69,teks umum,,0,0,0,,bahkan jika kamu mati dalam pertarungan
+Dialog: 0,1:03:14.90,1:03:16.07,teks umum,,0,0,0,,Mengerti
+Dialog: 0,1:03:19.78,1:03:20.99,teks umum,,0,0,0,,Ibu,
+Dialog: 0,1:03:21.07,1:03:23.70,teks umum,,0,0,0,,hentikan pertarungan ini
+Dialog: 0,1:03:24.45,1:03:27.25,teks umum,,0,0,0,,Dia akan mati di tangan Putra Mahkota
+Dialog: 0,1:03:27.33,1:03:29.33,teks umum,,0,0,0,,Dia datang karena dia siap mati
+Dialog: 0,1:03:30.42,1:03:32.13,teks umum,,0,0,0,,Pernikahanmu telah bubar lagi
+Dialog: 0,1:03:32.21,1:03:34.96,teks umum,,0,0,0,,Nasibnya tidak ada hubungannya dengan kita
+Dialog: 0,1:03:48.48,1:03:49.85,teks umum,,0,0,0,,Anda dapat memulai
+Dialog: 0,1:04:19.05,1:04:21.26,memori miring,,0,0,0,,Pertama: jangan menyerang, pertahankan saja
+Dialog: 0,1:04:21.34,1:04:23.51,kenangan,,0,0,0,,Serang dia dengan keahlianmu -
+Dialog: 0,1:04:25.05,1:04:26.22,kenangan,,0,0,0,,kamu akan mati
+Dialog: 0,1:04:28.14,1:04:30.06,kenangan,,0,0,0,,Kamu hanya bisa menyerang ketika dia
+Dialog: 0,1:04:31.23,1:04:32.81,kenangan,,0,0,0,,kehilangan konsentrasi
+Dialog: 0,1:05:10.85,1:05:12.81,di belakang layar,,0,0,0,,Saya yakin dia menempatkannya
+Dialog: 0,1:05:12.89,1:05:15.61,kenangan miring,,0,0,0,,Bisakah kamu benar-benar pergi ke Sosnovy Bor kapan pun kamu mau?
+Dialog: 0,1:05:16.65,1:05:17.82,kenangan,,0,0,0,,Ya. Dan apa?
+Dialog: 0,1:05:18.86,1:05:20.40,kenangan,,0,0,0,,Saya punya permintaan
+Dialog: 0,1:05:20.99,1:05:22.82,kenangan,,0,0,0,,Kamu bisa menaruh air di ruang latihan,
+Dialog: 0,1:05:22.90,1:05:24.99,kenangan,,0,0,0,,jadi dia bisa menggunakan Tansu?
+Dialog: 0,1:05:39.17,1:05:42.17,kenangan,,0,0,0,, Kendi berisi air ini membuatku bingung
+Dialog: 0,1:05:43.88,1:05:44.84,kenangan,,0,0,0,,Hancurkan
+Dialog: 0,1:06:44.65,1:06:45.70,teks umum,,0,0,0,,Host
+Dialog: 0,1:06:57.37,1:06:58.50,teks umum,,0,0,0,,Tansu
+Dialog: 0,1:07:16.43,1:07:17.39,teks umum,,0,0,0,,Pangeran...
+Dialog: 0,1:07:17.48,1:07:18.56,teks umum,,0,0,0,,Duel
+Dialog: 0,1:07:19.10,1:07:20.27,teks umum,,0,0,0,,lebih
+Dialog: 0,1:07:25.32,1:07:27.65,teks umum,,0,0,0,,Tidak adil. Tidak masuk hitungan!
+Dialog: 0,1:07:37.50,1:07:39.04,teks umum,,0,0,0,,Itu Tansu
+Dialog: 0,1:07:39.96,1:07:42.92,teks umum,,0,0,0,,Hanya mereka yang sudah menguasai Chisu yang bisa menguasainya
+Dialog: 0,1:07:43.79,1:07:47.55,teks umum,,0,0,0,,Bagaimana Chan Wook, yang gerbangnya baru saja dibuka, bisa menguasainya?
+Dialog: 0,1:07:47.63,1:07:48.97,teks umum,,0,0,0,,Saya yakin,
+Dialog: 0,1:07:49.05,1:07:52.30,teks umum,,0,0,0,,bahwa salah satu master membantunya
+Dialog: 0,1:07:52.39,1:07:55.51,miring,,0,0,0,,Bagaimana mereka membantunya,
+Dialog: 0,1:07:55.60,1:07:57.43,teks umum,,0,0,0,,jika semua orang menonton?
+Dialog: 0,1:07:57.52,1:07:58.98,teks umum,,0,0,0,,Jangan bicara omong kosong!
+Dialog: 0,1:07:59.60,1:08:01.56,miring,,0,0,0,,Chan Wook, jawab
+Dialog: 0,1:08:01.65,1:08:04.19,teks umum,,0,0,0,,Kamu benar-benar menguasai Chisa, lalu Tansa
+Dialog: 0,1:08:04.27,1:08:05.98,teks umum,,0,0,0,,dalam waktu sesingkat itu?
+Dialog: 0,1:08:07.53,1:08:08.86,teks umum,,0,0,0,,Tidak juga
+Dialog: 0,1:08:09.78,1:08:11.78,teks umum,,0,0,0,,Kontrol energiku buruk
+Dialog: 0,1:08:11.86,1:08:14.12,teks umum,,0,0,0,,Saya hanya bisa menggunakan Tansa jika ada air
+Dialog: 0,1:08:14.70,1:08:17.41,teks umum,,0,0,0,,Saya hanya tahu cara memotong air
+Dialog: 0,1:08:17.50,1:08:19.79,teks umum,,0,0,0,,Siapa yang mengajarimu ini?
+Dialogue: 0,1:08:21.58,1:08:23.79,teks umum,,0,0,0,,Seharusnya ada yang membantumu
+Dialog: 0,1:08:26.96,1:08:28.01,teks umum,,0,0,0,,Tidak ada
+Dialog: 0,1:08:29.92,1:08:30.97,teks umum,,0,0,0,,Kamu lihat
+Dialog: 0,1:08:31.68,1:08:33.14,teks umum,,0,0,0,,Ini lucu sekali
+Dialog: 0,1:08:33.22,1:08:35.76,teks umum,,0,0,0,,Mengklaim bahwa dia sendiri yang menguasai keterampilan ini
+Dialog: 0,1:08:38.85,1:08:41.44,teks umum,,0,0,0,,Saya melihat kendi air di sini
+Dialog: 0,1:08:43.15,1:08:45.19,teks umum,,0,0,0,,Siapa yang menaruhnya?
+Dialog: 0,1:08:46.86,1:08:48.69,teks umum,,0,0,0,,Gurumu?
+Dialog: 0,1:08:50.57,1:08:52.03,teks umum,,0,0,0,,Saya belajar sendiri
+Dialogue: 0,1:08:52.11,1:08:53.49,teks umum,,0,0,0,,Aku tidak akan tertipu!
+Dialog: 0,1:08:53.57,1:08:55.45,teks umum,,0,0,0,,Chan Wook, jelaskan dirimu
+Dialog: 0,1:08:58.91,1:09:02.04,teks umum,,0,0,0,,Siapa yang membantumu berlatih?
+Dialog: 0,1:09:12.17,1:09:13.26,miring,,0,0,0,,aku menaruh kendi
+Dialog: 0,1:09:25.90,1:09:27.48,teks umum,,0,0,0,,Dan aku bersamanya
+Dialog: 0,1:09:28.27,1:09:31.44,teks umum,,0,0,0,,Semua yang dia katakan adalah benar
+Dialog: 0,1:09:35.11,1:09:36.28,teks umum,,0,0,0,,Dan siapa kamu?
+Dialog: 0,1:09:37.20,1:09:39.12,teks umum,,0,0,0,,Beraninya kamu ikut campur?
+Dialog: 0,1:09:39.20,1:09:40.29,teks umum,,0,0,0,,Diam!
+Dialog: 0,1:09:41.04,1:09:43.71,teks umum,,0,0,0,,Ini Hemp Master Li
+Dialog: 0,1:09:43.79,1:09:45.50,teks umum,,0,0,0,,murid Master Seo Kyung
+Dialog: 0,1:09:45.58,1:09:47.42,teks umum,,0,0,0,,Sapa dia!
+Dialog: 0,1:09:50.80,1:09:52.63,teks umum,,0,0,0,,Halo, master
+Dialog: 0,1:09:55.47,1:09:58.89,teks umum,,0,0,0,,Saya bersamanya di Danhyangk dan melihat semuanya
+Dialog: 0,1:09:58.97,1:10:01.68,teks umum,,0,0,0,,Dia menghabiskan waktu berhari-hari belajar memotong tetesan air
+Dialog: 0,1:10:04.89,1:10:06.44,teks umum,,0,0,0,,Dan bersamanya
+Dialog: 0,1:10:07.94,1:10:10.32,teks umum,,0,0,0,,hanya ada pembantunya
+Dialog: 0,1:10:12.36,1:10:15.40,teks umum,,0,0,0,,Guru Li menjaminnya
+Dialog: 0,1:10:17.45,1:10:21.91,teks umum,,0,0,0,,Apakah ada keberatan lain?
+Dialog: 0,1:10:56.86,1:10:58.49,teks umum,,0,0,0,,Ayo pergi, Yang Mulia
+Dialog: 0,1:11:15.59,1:11:18.34,teks umum,,0,0,0,,Biarkan Chan Wook masuk ke Jeonbugwan
+Dialog: 0,1:11:31.48,1:11:34.90,teks umum,,0,0,0,,Pantas saja putra Gwangju Chang Gan sangat berbakat
+Dialog: 0,1:11:34.98,1:11:40.03,teks umum,,0,0,0,,Karena kamu belum memiliki guru, Jeonbugwan akan dengan senang hati menerimamu
+Dialog: 0,1:11:40.82,1:11:42.70,teks umum,,0,0,0,,Saya tidak membutuhkannya di sini!
+Dialog: 0,1:11:42.78,1:11:45.12,teks umum,,0,0,0,,Saya harus menjadi gurunya
+Dialog: 0,1:11:45.20,1:11:48.33,teks umum,,0,0,0,,Aku membuka gerbangnya, dan akulah yang memberinya energiku
+Dialog: 0,1:11:48.41,1:11:50.83,teks umum,,0,0,0,,Uk, ikut aku ke Sejukwon
+Dialog: 0,1:11:50.92,1:11:53.21,teks umum,,0,0,0,,Saya akan mengajari Anda semua yang saya tahu
+Dialog: 0,1:11:53.29,1:11:55.55,teks umum,,0,0,0,,Atau mungkin di Jinyoewon?
+Dialog: 0,1:11:57.30,1:11:59.13,teks umum,,0,0,0,,Pertunangan dengan Cho Young terputus,
+Dialog: 0,1:11:59.22,1:12:02.47,teks umum,,0,0,0,,tapi kami akan menganggapmu keluarga dan mengajarimu mantra kami
+Dialog: 0,1:12:06.93,1:12:08.14,teks umum,,0,0,0,,Chan Wook,
+Dialog: 0,1:12:09.02,1:12:11.27,teks umum,,0,0,0,,kalau mau, kamu bisa bergabung dengan Jeonjingak
+Dialog: 0,1:12:12.98,1:12:14.27,teks umum,,0,0,0,,Kami akan menerimamu
+Dialog: 0,1:12:33.46,1:12:34.59,teks umum,,0,0,0,,Mu Dok,
+Dialog: 0,1:12:34.67,1:12:38.42,teks umum,,0,0,0,,semua orang memanggilku. Ke mana harus pergi?
+Dialog: 0,1:12:50.89,1:12:52.69,teks umum,,0,0,0,,Masuk Sosnovy Bor,
+Dialog: 0,1:12:53.56,1:12:54.69,teks umum,,0,0,0,,host
+Dialog: 0,1:13:04.70,1:13:06.78,teks umum,,0,0,0,,Saya, Chan Wook, putra sulung keluarga Chan,
+Dialog: 0,1:13:07.58,1:13:09.66,teks umum,,0,0,0,,Saya akan memasuki Jeonjingak
+Dialog: 0,1:14:06.79,1:14:09.92,pratinjau,,0,0,0,,Master menjadi penyihir Jeonjingak
+Dialog: 0,1:14:10.01,1:14:13.22,pratinjau,,0,0,0,,Selamat datang pesulap baru kami, Chan Wook
+Dialog: 0,1:14:13.88,1:14:16.05,pratinjau,,0,0,0,,Aku benci tuanmu sampai aku mengertakkan gigi
+Dialog: 0,1:14:16.14,1:14:17.05,pratinjau,,0,0,0,,Tentu saja
+Dialog: 0,1:14:19.81,1:14:22.06,pratinjau,,0,0,0,,Jika cinta ini berubah-ubah, maka aku tidak membutuhkannya!
+Dialog: 0,1:14:22.14,1:14:23.10,pratinjau,,0,0,0,,Izinkan saya masuk
+Dialog: 0,1:14:23.19,1:14:24.02,pratinjau,,0,0,0,,Moo Dok
+Dialog: 0,1:14:24.10,1:14:26.44,pratinjau,,0,0,0,,Saya harus bersama pemiliknya
+Dialog: 0,1:14:26.52,1:14:27.65,pratinjau,,0,0,0,,Pulang, tunggu disana
+Dialog: 0,1:14:27.73,1:14:30.07,pratinjau,,0,0,0,,Tn. Chan keluar dan pulang
+Dialog: 0,1:14:30.82,1:14:32.70,pratinjau,,0,0,0,,Master! Tunggu di sana
+Dialog: 0,1:14:32.78,1:14:34.95,pratinjau,,0,0,0,,- Saya mendatangi Anda\N- Saya menemukan soal untuk ujian
+Dialog: 0,1:14:35.61,1:14:36.87,pratinjau,,0,0,0,,Apa pun yang terjadi,
+Dialog: 0,1:14:36.95,1:14:39.37,pratinjau,,0,0,0,,Saya akan pergi ke Sosnovy Bor ke pemiliknya
+Dialog: 0,1:14:39.45,1:14:40.66,pratinjau,,0,0,0,,Moo Dok
+Dialog: 0,1:14:40.74,1:14:43.75,pratinjau,,0,0,0,,Aku bisa menangani apa pun hanya untuk bertemu denganmu
+Dialog: 0,0:02:57.14,0:02:59.14,pratinjau,,0,0,0,,
+
+Komentar: 0,1:13:41.43,1:13:52.74,kredit latar belakang akhir,,0,0,0,,{\pos(472,518)}////////////////////////////////////////
+Komentar: 0,0:02:45.14,0:02:47.14,nicks,,0,0,0,,Editor beta: {\c&HFFF4C5&} Sana

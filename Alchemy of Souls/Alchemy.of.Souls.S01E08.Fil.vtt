@@ -1,0 +1,814 @@
+WEBVTT
+
+[Impormasyon ng script]
+; Ang script ay nabuo ng Aegisub 3.2.2
+; http://www.aegisub.org/
+Pamagat: Default na Aegisub file
+Uri ng Iskrip: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: oo
+YCbCr Matrix: TV.601
+PlayResX: 1280
+PlayResY: 720
+[Mga Basura ng Aegisub Project]
+Imbakan ng Huling Estilo: alchemy
+Audio File: ../../Downloads/Alchemy.Of.Souls.S01e08.Episode.8.1080P.Nf.Web-Dl.Ddp2.0.X264-Archie-1-360.mp4
+File ng Video: ../../Downloads/Alchemy.Of.Souls.S01e08.Episode.8.1080P.Nf.Web-Dl.Ddp2.0.X264-Archie-1-360.mp4
+Video AR Mode: 4
+Halaga ng AR ng Video: 1.777778
+Porsyento ng Pag-zoom ng Video: 1.000000
+Posisyon ng Pag-scroll: 1
+Aktibong Linya: 4
+Posisyon ng Video: 106216
+
+
+[V4+ Styles]
+Format: Pangalan, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Estilo: общий текст, Tahoma,48,&H00F0D484,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,10,10
+Estilo: курсив, Tahoma,48,&H00F4CA7E,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,0,2,10,10,35
+Estilo: за кадром, Tahoma,48,&H00F281E9,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,1.2,0,2,10,10,10
+Estilo: воспоминания, Tahoma,48,&H006ED8F7,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.2,0,2,10,10
+Estilo: воспоминания курсив, Tahoma,48,&H006ED8F7,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,1.2,1
+Estilo: надписи,Coral waves,85,&H00FBF7FC,&H000000FF,&H00010102,&H00000000,-1,0,0,0,100,100,2,0,1,4,0,2,10,10,10,
+Estilo: примечания,Arial,35,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,10,10,10,1
+Estilo: лого,DS Sholom,50,&H59FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,1
+Estilo: pamagat,DS Sholom,73,&H00C8BD8E,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
+Estilo: mga palayaw,tangak,45,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,0,8,10,10,10,1
+Estilo: mga kredito sa background,Arial,60,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,0,0,0,0,400,400,3,0,3,2,2,2,10,10,10,1
+Style: start credits,tangak,77,&H00F6DD72,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,2,10,10,10,1
+Estilo: pagtatapos ng mga credit sa background,Arial,20,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,0,0,0,0,200,300,0,0,3,2,2,2,10,10,10,1
+Estilo: mga end credit,tangak,60,&H00F6DD72,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,1
+Estilo: preview,Marker Felt,45,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
+
+[Mga Kaganapan]
+Format: Minarkahan, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:25.56,1:10:21.42,logo,,0,0,0,,{\pos(73.714,82)\frz359.7}M{\fntangak}ani{\fn}ya
+Dialogue: 0,0:00:00.00,0:00:06.12,nagsisimula ang mga credit sa background,,0,0,0,,{\pos(434,196)}|||||\\\\\\\\\\\\\
+Dialogue: 0,0:00:00.00,0:00:06.12,start credits,,0,0,0,,{\pos(624,452)}Release Group {\fnSegoe Script}"{\fn}Mania{\fnSegoe Script}"{\fn} presents\N
+Dialogue: 0,1:13:49.43,1:14:00.74,end credits,,0,0,0,,{\pos(296,726)}Salamat sa panonood sa amin!\N
+Dialogue: 0,1:14:01.74,1:14:04.70,pangalan,,0,0,0,,{\fad(113,113)}{\frz1.378\pos(544,460)}A{\fntangak}lchemistry
+Dialogue: 0,0:00:38.10,0:00:43.02,pangalan,,0,0,0,,{\fad(0030,0035)}{\frz1.378\pos(544,460)}A{\fntangak}lchemistry
+Dialogue: 0,1:14:01.74,1:14:04.70,pangalan,,0,0,0,,{\fad(113,113)}{\pos(792,526)}Д{\fs55}u{\fs}ш
+Dialogue: 0,0:00:38.10,0:00:43.02,pangalan,,0,0,0,,{\fad(0030, 0035)}{\pos(792,526)}D{\fs55}y{\fs}w
+Dialogue: 0,0:02:47.14,0:02:52.14,nicks,,0,0,0,,Project coordinator at editor: {\c&HFFF4C5&} Ria_Lee
+Dialogue: 0,0:02:52.14,0:02:57.14,nicks,,0,0,0,,Coordinator assistant:{\c&HFFF4C5&} Martini, gaarysn
+Dialogue: 0,0:02:57.14,0:03:02.14,nicks,,0,0,0,,Mga tagasalin ng Typesetter: {\c&HFFF4C5&} Ria_Lee
+Dialogue: 0,0:00:59.50,0:01:00.67,behind the scenes,,0,0,0,,Ito ba ang alchemy ng mga kaluluwa?
+Dialogue: 0,0:01:15.52,0:01:19.98,voiceover,,0,0,0,,Ang aking kaluluwa ay gumagalaw ngayon?
+Dialogue: 0,0:03:07.92,0:03:09.34,pangkalahatang teksto,,0,0,0,,Hindi gumagalaw ang kaluluwa
+Dialogue: 0,0:03:10.89,0:03:12.26,general text,,0,0,0,,Ano ang nangyari?
+Dialogue: 0,0:03:20.02,0:03:21.06,pangkalahatang teksto,,0,0,0,,Chan Wook
+Dialogue: 0,0:03:22.11,0:03:23.23,pangkalahatang teksto,,0,0,0,,Chan Wook!
+Dialogue: 0,0:03:26.44,0:03:27.69,pangkalahatang teksto,,0,0,0,,Chan Wook!
+Dialogue: 0,0:03:28.86,0:03:30.03,pangkalahatang text,,0,0,0,,Chan Wook!
+Dialogue: 0,0:03:45.17,0:03:48.84,general text,,0,0,0,,Kil Ju, nagpalit ka ng katawan sa estudyante ko
+Dialogue: 0,0:03:50.63,0:03:51.72,pangkalahatang teksto,,0,0,0,,Moo Dok
+Dialogue: 0,0:03:55.47,0:03:58.02,general text,,0,0,0,,Naging mahina ako para protektahan siya mula sa iyo
+Dialogue: 0,0:03:58.89,0:04:01.35,general text,,0,0,0,,Pero tatapusin talaga kita
+Dialogue: 0,0:04:07.19,0:04:08.44,general text,,0,0,0,,Hindi ko alam,
+Dialogue: 0,0:04:09.24,0:04:11.24,general text,,0,0,0,,bakit ka nag-aalala kay Chan Wook
+Dialogue: 0,0:04:11.99,0:04:13.20,general text,,0,0,0,,Shut up!
+Dialogue: 0,0:04:15.33,0:04:16.49,pangkalahatang teksto,,0,0,0,,Guro!
+Dialogue: 0,0:04:17.58,0:04:18.70,pangkalahatang text,,0,0,0,,Ako ito, Chan Wook
+Dialogue: 0,0:04:19.62,0:04:20.87,pangkalahatang teksto,,0,0,0,,Hindi kami nagbago
+Dialogue: 0,0:04:23.21,0:04:25.21,pangkalahatang teksto,,0,0,0,,Tumingin ka sa aking mga mata
+Dialogue: 0,0:04:26.34,0:04:27.80,pangkalahatang text,,0,0,0,,Ako ito
+Dialogue: 0,0:04:32.30,0:04:35.05,general text,,0,0,0,,Ang tanging makakatingin sa iyo mula sa ganoong kalayuan
+Dialogue: 0,0:04:38.77,0:04:40.10,general text,,0,0,0,,Kilala mo ba ako?
+Dialogue: 0,0:06:01.68,0:06:04.02,general text,,0,0,0,,May marka siya sa balikat
+Dialogue: 0,0:06:05.81,0:06:08.69,pangkalahatang teksto,,0,0,0,,Mukhang bumalik ang kanyang kaluluwa sa kanyang katawan
+Dialogue: 0,0:06:09.77,0:06:11.07,general text,,0,0,0,,Kung ganoon bakit okay ako?
+Dialogue: 0,0:06:11.15,0:06:12.11,pangkalahatang teksto,,0,0,0,,Hindi talaga
+Dialogue: 0,0:06:12.82,0:06:14.40,general text,,0,0,0,,Nagbago ka na rin. Tingnan mo
+Dialogue: 0,0:06:15.70,0:06:17.91,general text,,0,0,0,,Wala kang suot na bracelet, pero hindi nanginginig ang kamay mo
+Dialogue: 0,0:06:20.41,0:06:23.45,general text,,0,0,0,,Tama ka. Malaya kong nagagalaw ito
+Dialogue: 0,0:06:23.54,0:06:25.91,pangkalahatang teksto,,0,0,0,,Nakatulong ang Reflector na makakuha ng enerhiya
+Dialogue: 0,0:06:26.00,0:06:29.71,pangkalahatang teksto,,0,0,0,,Binuksan ng lason ang iyong mga pintuan, sumasalamin sa tumaas na enerhiya
+Dialogue: 0,0:06:30.79,0:06:34.09,pangkalahatang teksto,,0,0,0,,Chan Wook, napakaswerte mo
+Dialogue: 0,0:06:40.76,0:06:43.60,general text,,0,0,0,,Sigurado akong nakita kita doon
+Dialogue: 0,0:06:44.52,0:06:45.64,pangkalahatang teksto,,0,0,0,,Ano?
+Dialogue: 0,0:07:05.91,0:07:07.29,pangkalahatang teksto,,0,0,0,,Bakit?
+Dialogue: 0,0:07:08.25,0:07:09.79,general text,,0,0,0,,Bakit okay ka lang?
+Dialogue: 0,0:07:09.87,0:07:12.84,general text,,0,0,0,,Nabigo ka dahil sa mahina mong lakas
+Dialogue: 0,0:07:12.92,0:07:15.05,general text,,0,0,0,,Nomad ka rin
+Dialogue: 0,0:07:15.13,0:07:16.97,general text,,0,0,0,,Nak Su ikaw din
+Dialogue: 0,0:07:17.88,0:07:19.93,pangkalahatang teksto,,0,0,0,,mababato ka at mamamatay
+Dialogue: 0,0:07:21.05,0:07:23.05,pangkalahatang teksto,,0,0,0,,How I
+Dialogue: 0,0:07:24.26,0:07:25.89,pangkalahatang teksto,,0,0,0,,Tulad ng iyong ama
+Dialogue: 0,0:07:30.81,0:07:31.90,general text,,0,0,0,,Ang tatay ko?
+Dialogue: 0,0:07:32.56,0:07:33.57,italics,,0,0,0,,Oo
+Dialogue: 0,0:07:34.07,0:07:36.90,pangkalahatang teksto,,0,0,0,,Stargazer Mage
+Dialogue: 0,0:07:37.53,0:07:38.70,pangkalahatang teksto,,0,0,0,,Cho Chun!
+Dialogue: 0,0:07:40.57,0:07:42.03,pangkalahatang teksto,,0,0,0,,Ang aking ama...
+Dialogue: 0,0:07:44.87,0:07:46.29,pangkalahatang teksto,,0,0,0,,nomad ba?
+Dialogue: 0,0:07:49.21,0:07:53.67,general text,,0,0,0,,Ang iyong pamilya ay hindi pinatay ng mga pangunahing pamilya ni Deho
+Dialogue: 0,0:07:55.13,0:07:59.26,general text,,0,0,0,,Ito ay ang iyong ama. Siya ay naging isang lumulunok ng kaluluwa at pinatay ang lahat
+Dialogue: 0,0:08:01.38,0:08:03.39,mga alaala na italics,,0,0,0,, Manatili sa loob at huwag lumabas
+Dialogue: 0,0:08:03.47,0:08:06.39,mga alaala,,0,0,0,,Kung makita mo ang iyong ama, tumakbo ka
+Dialogue: 0,0:08:06.47,0:08:08.10,mga alaala,,0,0,0,,Huwag mong hayaang mahuli ka niya
+Dialogue: 0,0:08:11.48,0:08:15.69,pangkalahatang teksto,,0,0,0,,Ginamit ka at ang iyong ama
+Dialogue: 0,0:08:16.44,0:08:18.78,pangkalahatang teksto,,0,0,0,,Mababato ka at mamamatay
+Dialogue: 0,0:08:19.74,0:08:21.74,pangkalahatang teksto,,0,0,0,,Ang aking ama ay isang nomad
+Dialogue: 0,0:08:23.11,0:08:24.28,general text,,0,0,0,,si Dan Zhu ba?
+Dialogue: 0,0:08:25.37,0:08:27.37,pangkalahatang text,,0,0,0,,Jin Moo mula kay Jeonbugwan?
+Dialogue: 0,0:08:27.95,0:08:30.91,pangkalahatang teksto,,0,0,0,,Hindi si Jin Mu ang tunay na Dan Zhu
+Dialogue: 0,0:08:31.66,0:08:34.54,pangkalahatang teksto,,0,0,0,,True Dan Zhu ay ibang tao
+Dialogue: 0,0:08:35.46,0:08:37.67,general text,,0,0,0,,- At sino ito?\N- Real
+Dialogue: 0,0:08:38.88,0:08:41.34,pangkalahatang teksto,,0,0,0,,maaring ihinto ang petrification
+Dialogue: 0,0:08:42.34,0:08:45.51,general text,,0,0,0,,Dahil may ice stone siya
+Dialogue: 0,0:08:45.60,0:08:47.85,pangkalahatang teksto,,0,0,0,,Sino ang tunay na Dan Zhu?
+Dialogue: 0,0:09:12.62,0:09:14.71,general text,,0,0,0,,Moo Dok, okay ka lang?
+Dialogue: 0,0:09:15.92,0:09:17.17,pangkalahatang teksto,,0,0,0,,OK
+Dialogue: 0,0:09:18.04,0:09:19.96,general text,,0,0,0,,Sumunod ka sa kanya. Mas mabilis!
+Dialogue: 0,0:09:56.71,0:09:59.04,behind the scenes,,0,0,0,,Kailangan na nating umalis dito,
+Dialogue: 0,0:09:59.71,0:10:01.71,behind the scenes,,0,0,0,,hanggang sa kumalat ang lason mula sa kulam
+Dialogue: 0,0:10:26.15,0:10:27.32,italics,,0,0,0,,Tingnan lahat
+Dialogue: 0,0:10:27.41,0:10:28.66,pangkalahatang teksto,,0,0,0,,- Oo\N- Oo
+Dialogue: 0,0:10:52.26,0:10:53.22,pangkalahatang teksto,,0,0,0,,Walang sinuman
+Dialogue: 0,0:10:58.81,0:11:00.69,general text,,0,0,0,,Naramdaman ko ang lakas ng kulam
+Dialogue: 0,0:11:00.77,0:11:03.86,general text,,0,0,0,,Tama si Master Ho. Ang sapsari na ito ay si Gwigu
+Dialogue: 0,0:11:04.48,0:11:06.78,general text,,0,0,0,,May alchemy ba talaga ng mga kaluluwa dito?
+Dialogue: 0,0:11:15.87,0:11:16.79,pangkalahatang teksto,,0,0,0,,Ano ito?
+Dialogue: 0,0:11:17.37,0:11:18.75,pangkalahatang teksto,,0,0,0,,Nakahiga sa lupa
+Dialogue: 0,0:11:19.87,0:11:21.13,pangkalahatang teksto,,0,0,0,,Marahil ito ay isang reflector
+Dialogue: 0,0:11:26.96,0:11:28.13,pangkalahatang teksto,,0,0,0,,Itong pulseras...
+Dialogue: 0,0:11:29.01,0:11:31.01,general text,,0,0,0,,Ito ang bracelet ni Mr. Chan Wook?
+Dialogue: 0,0:11:31.09,0:11:32.76,general text,,0,0,0,,Bakit siya nandito?
+Dialogue: 0,0:11:33.39,0:11:34.97,pangkalahatang text,,0,0,0,,So andito si Uk?
+Dialogue: 0,0:11:39.77,0:11:40.98,general text,,0,0,0,,Nag-away sila
+Dialogue: 0,0:11:41.06,0:11:43.23,general text,,0,0,0,,Sa tingin mo ba may nangyari sa kanya?
+Dialogue: 0,0:11:46.57,0:11:49.11,pangkalahatang teksto,,0,0,0,,Bumalik sa Sosnovy Bor at iulat ang iyong nakita
+Dialogue: 0,0:11:49.78,0:11:52.03,general text,,0,0,0,,Dan Gu, halika at hanapin si Uka
+Dialogue: 0,0:11:52.12,0:11:54.03,general text,,0,0,0,,- Titingin ako sa area\N- Okay
+Dialogue: 0,0:12:29.90,0:12:32.41,pangkalahatang teksto,,0,0,0,,Paano nalaman ng mga salamangkero ng Sosnovy Bor?
+Dialogue: 0,0:12:49.55,0:12:51.30,memories italics,,0,0,0,,Nomad ka rin
+Dialogue: 0,0:12:51.88,0:12:53.59,memories,,0,0,0,,Nak Su, ikaw din
+Dialogue: 0,0:12:54.51,0:12:56.72,mga alaala,,0,0,0,,maglalaba ka at mamamatay
+Dialogue: 0,0:12:56.80,0:12:58.81,mga alaala,,0,0,0,,Tulad ko
+Dialogue: 0,0:12:59.47,0:13:01.06,mga alaala,,0,0,0,,Tulad ng iyong ama
+Dialogue: 0,0:13:04.77,0:13:05.98,pangkalahatang teksto,,0,0,0,,Ama...
+Dialogue: 0,0:13:30.34,0:13:31.96,memories italics,,0,0,0,,At ikaw at ang iyong ama
+Dialogue: 0,0:13:33.67,0:13:36.22,mga alaala na italics,,0,0,0,,ginamit. Magiging bato ka
+Dialogue: 0,0:13:37.68,0:13:39.81,mga alaala na italics,,0,0,0,,at mamatay ka
+Dialogue: 0,0:15:26.41,0:15:27.58,pangkalahatang teksto,,0,0,0,,Bakit?
+Dialogue: 0,0:15:28.58,0:15:29.96,general text,,0,0,0,,Bakit ikaw na naman?
+Dialogue: 0,0:15:36.38,0:15:39.22,general text,,0,0,0,,Nomad ba ito?
+Dialogue: 0,0:15:39.30,0:15:41.30,pangkalahatang text,,0,0,0,,Hindi, maid Uka
+Dialogue: 0,0:15:42.35,0:15:44.64,general text,,0,0,0,,Nasugatan ko siya ng hindi sinasadya, dapat dalhin siya sa mga manggagamot
+Dialogue: 0,0:15:51.56,0:15:54.07,pangkalahatang teksto,,0,0,0,,Anong araw ito
+Dialogue: 0,0:15:54.15,0:15:56.82,pangkalahatang teksto,,0,0,0,,Naging maayos ang kalakalan
+Dialogue: 0,0:16:02.87,0:16:05.08,behind the scenes,,0,0,0,,Kailangan kong lagyang muli ang aking enerhiya, kung hindi, ako ay ganap na mag-petrify
+Dialogue: 0,0:16:07.75,0:16:09.79,italics,,0,0,0,,- Tapos na?\N- Tapos na
+Dialogue: 0,0:16:10.37,0:16:12.21,general text,,0,0,0,,Inom ba tayo?
+Dialogue: 0,0:16:12.88,0:16:13.92,italics,,0,0,0,,- Okay\N- Mas mabilis
+Dialogue: 0,0:16:14.00,0:16:15.17,italics,,0,0,0,,Tara na
+Dialogue: 0,0:16:16.84,0:16:19.13,behind the scenes,,0,0,0,,Hindi na ako makakabalik kung gagawa ako ng kaguluhan
+Dialogue: 0,0:16:19.22,0:16:22.13,behind the scenes,,0,0,0,,I need to find a quiet place where I can get enough
+Dialogue: 0,0:17:12.85,0:17:14.65,italics,,0,0,0,,Lumayo
+Dialogue: 0,0:17:16.73,0:17:17.98,general text,,0,0,0,,Ah, oh, pasok ka
+Dialogue: 0,0:17:18.90,0:17:19.86,pangkalahatang teksto,,0,0,0,,Mr.
+Dialogue: 0,0:17:19.94,0:17:22.19,pangkalahatang teksto,,0,0,0,,Hindi mo kami malinlang sa mga panlilinlang na ito
+Dialogue: 0,0:17:23.45,0:17:25.99,general text,,0,0,0,,Sinusundan mo siya simula nang pumasok ka sa kabisera
+Dialogue: 0,0:17:33.50,0:17:35.83,mga alaala,,0,0,0,,Ginugulo tayo ng lalaking ito
+Dialogue: 0,0:17:39.59,0:17:42.97,general text,,0,0,0,,Sinundan mo siya hanggang sa inn
+Dialogue: 0,0:17:45.13,0:17:47.43,general text,,0,0,0,,Nasa isang direksyon lang kami
+Dialogue: 0,0:17:47.51,0:17:48.64,pangkalahatang teksto,,0,0,0,,Huwag magsinungaling
+Dialogue: 0,0:17:48.72,0:17:51.52,general text,,0,0,0,,Nakatitig ka sa kanya sa buong oras!
+Dialogue: 0,0:17:51.60,0:17:52.73,pangkalahatang teksto,,0,0,0,,Hindi naman
+Dialogue: 0,0:17:52.81,0:17:53.81,italics,,0,0,0,,Song Yi
+Dialogue: 0,0:17:54.52,0:17:56.19,general text,,0,0,0,,Huwag mo siyang ipahiya
+Dialogue: 0,0:18:00.15,0:18:03.57,general text,,0,0,0,,Hindi ako komportable sa pagsunod mo sa akin, at naging bastos din ito sa iyong panig
+Dialogue: 0,0:18:04.15,0:18:07.11,general text,,0,0,0,,Kung ayaw mong maghanap ako ng ibang inn,
+Dialogue: 0,0:18:07.20,0:18:08.32,pangkalahatang text,,0,0,0,,umalis ka
+Dialogue: 0,0:18:09.87,0:18:11.16,pangkalahatang text,,0,0,0,,Girl
+Dialogue: 0,0:18:11.99,0:18:14.33,general text,,0,0,0,,Bakit mo naisipang sundin kita?
+Dialogue: 0,0:18:14.91,0:18:16.79,general text,,0,0,0,,Wala kang utang sa akin,
+Dialogue: 0,0:18:16.87,0:18:20.13,general text,,0,0,0,,Hindi nga kita kilala, bakit kita hahabulin?
+Dialogue: 0,0:18:20.21,0:18:23.17,general text,,0,0,0,,- Dahil napaka...\N- Tumahimik ka, Sun Yi
+Dialogue: 0,0:18:24.72,0:18:26.34,pangkalahatang teksto,,0,0,0,,Hayaan siyang sumagot
+Dialogue: 0,0:18:28.51,0:18:32.72,general text,,0,0,0,,Marami akong problema dahil sa mga lalaking sumunod sa akin dahil sa kagandahan ko.
+Dialogue: 0,0:18:32.81,0:18:33.97,general text,,0,0,0,,Kaya nagpasya ako,
+Dialogue: 0,0:18:35.18,0:18:36.81,pangkalahatang teksto,,0,0,0,,na isa ka sa kanila
+Dialogue: 0,0:18:37.39,0:18:38.23,pangkalahatang teksto,,0,0,0,,Got it
+Dialogue: 0,0:18:39.15,0:18:39.98,pangkalahatang teksto,,0,0,0,,Ngunit hindi ganito
+Dialogue: 0,0:18:42.36,0:18:43.73,pangkalahatang teksto,,0,0,0,,Hindi pinahanga ni Beauty
+Dialogue: 0,0:18:44.44,0:18:46.20,general text,,0,0,0,,At hindi kita sinunod
+Dialogue: 0,0:18:47.86,0:18:49.20,pangkalahatang teksto,,0,0,0,,Kung gayon,
+Dialogue: 0,0:18:51.20,0:18:52.54,pangkalahatang text,,0,0,0,,I'm sorry
+Dialogue: 0,0:18:52.62,0:18:54.54,general text,,0,0,0,,Pwede ba akong umakyat?
+Dialogue: 0,0:19:07.05,0:19:09.47,general text,,0,0,0,,- Mrs. Ho\N- Yes?
+Dialogue: 0,0:19:09.55,0:19:11.18,pangkalahatang teksto,,0,0,0,,Kailangan mong kumain
+Dialogue: 0,0:19:13.22,0:19:14.39,pangkalahatang teksto,,0,0,0,,Ang bastos na ito...
+Dialogue: 0,0:19:15.35,0:19:16.43,pangkalahatang teksto,,0,0,0,,Iyon ay...
+Dialogue: 0,0:19:17.02,0:19:19.90,general text,,0,0,0,,Nahihiya ka ba dahil baka magkrus ulit kayo ng landas sa kanya?
+Dialogue: 0,0:19:21.15,0:19:22.44,pangkalahatang teksto,,0,0,0,,Hindi
+Dialogue: 0,0:19:23.40,0:19:24.90,general text,,0,0,0,,Hindi maganda ang pakiramdam ko
+Dialogue: 0,0:19:25.48,0:19:27.24,pangkalahatang teksto,,0,0,0,,Magpalit ng tuyong damit
+Dialogue: 0,0:19:27.32,0:19:29.74,general text,,0,0,0,,dalhan kita ng lugaw
+Dialogue: 0,0:21:10.38,0:21:11.59,general text,,0,0,0,,Okay ka lang?
+Dialogue: 0,0:21:14.97,0:21:17.72,pangkalahatang teksto,,0,0,0,,Ano iyon?
+Dialogue: 0,0:21:19.01,0:21:20.56,general text,,0,0,0,,Sinundan mo ba siya?
+Dialogue: 0,0:21:21.43,0:21:22.60,pangkalahatang teksto,,0,0,0,,Oo
+Dialogue: 0,0:21:24.48,0:21:26.11,general text,,0,0,0,,Natutuwa akong hindi ka nasaktan
+Dialogue: 0,0:21:26.94,0:21:28.07,pangkalahatang teksto,,0,0,0,,Maghintay
+Dialogue: 0,0:21:29.73,0:21:30.73,pangkalahatang teksto,,0,0,0,,Salamat
+Dialogue: 0,0:21:31.24,0:21:32.78,pangkalahatang teksto,,0,0,0,,Kung masama ang pakiramdam mo,
+Dialogue: 0,0:21:33.57,0:21:35.32,pangkalahatang teksto,,0,0,0,,pumunta sa Sejukwon sa Sosnovy Bor
+Dialogue: 0,0:21:35.41,0:21:36.95,pangkalahatang teksto,,0,0,0,,Alam mo ba ang tungkol sa Saejukwon?
+Dialogue: 0,0:21:37.03,0:21:38.74,pangkalahatang text,,0,0,0,,taga Sejukwon ako...
+Dialogue: 0,0:21:42.87,0:21:44.58,pangkalahatang teksto,,0,0,0,,Ako si Ho Young Ok
+Dialogue: 0,0:22:03.89,0:22:06.98,memories italics,,0,0,0,,Imbes na kaibigang malapit, mayroon kang sipol
+Dialogue: 0,0:22:08.23,0:22:10.11,memories italics,,0,0,0,,Kaya iniwan ka ng kaibigan mo
+Dialogue: 0,0:22:13.65,0:22:14.90,pangkalahatang teksto,,0,0,0,,Alam mo
+Dialogue: 0,0:22:16.95,0:22:18.45,general text,,0,0,0,,sino ako all this time
+Dialogue: 0,0:23:19.72,0:23:20.97,general text,,0,0,0,,Okay ka lang?
+Dialogue: 0,0:23:21.05,0:23:22.76,general text,,0,0,0,,Hoy, kamusta ka diyan?
+Dialogue: 0,0:23:22.85,0:23:25.68,pangkalahatang teksto,,0,0,0,,Subukang bumangon. Dahan-dahan
+Dialogue: 0,0:23:29.27,0:23:30.81,pangkalahatang teksto,,0,0,0,,Halimaw!
+Dialogue: 0,0:23:32.90,0:23:33.94,pangkalahatang teksto,,0,0,0,,Soul Swallower!
+Dialogue: 0,0:23:34.02,0:23:35.11,pangkalahatang teksto,,0,0,0,,Ito ay isang lumulunok ng kaluluwa!
+Dialogue: 0,0:23:35.19,0:23:37.44,pangkalahatang teksto,,0,0,0,,- Soul Swallow\N- Soul Swallower!
+Dialogue: 0,0:24:10.64,0:24:13.44,mga alaala,,0,0,0,,True Dan Zhu is someone else
+Dialogue: 0,0:24:14.44,0:24:18.11,mga alaala,,0,0,0,,Ang tunay ay kayang pigilan ang petrification
+Dialogue: 0,0:24:18.19,0:24:20.95,voiceover,,0,0,0,,Oo, pumunta sa iyong Dan Zhu
+Dialogue: 0,0:24:23.24,0:24:24.83,general text,,0,0,0,,Nawawala ba si Kil Zhu?
+Dialogue: 0,0:24:24.91,0:24:28.66,general text,,0,0,0,,Hindi namin alam kung nasaan siya simula nung hinabol niya ang maid ni Chan Wook
+Dialogue: 0,0:24:30.21,0:24:31.79,pangkalahatang text,,0,0,0,, kasambahay ni Chang Wook?
+Dialogue: 0,0:24:32.42,0:24:34.17,general text,,0,0,0,,Bakit kailangan niya siya?
+Dialogue: 0,0:24:34.25,0:24:37.92,general text,,0,0,0,,To be honest, sinusundan niya si Chan Wook
+Dialogue: 0,0:24:38.96,0:24:42.68,pangkalahatang teksto,,0,0,0,,Ang spirit amulet na nanatili pagkatapos ni Nak Soo ay kay Chan Wook
+Dialogue: 0,0:24:43.43,0:24:46.56,general text,,0,0,0,,Akala niya siguro ay konektado sa kanya si Chan Wook.
+Dialogue: 0,0:24:46.64,0:24:48.89,general text,,0,0,0,,Dapat sinabi mo sa akin kanina!
+Dialogue: 0,0:24:49.52,0:24:50.77,general text,,0,0,0,,Tahimik daw
+Dialogue: 0,0:24:50.85,0:24:53.15,pangkalahatang teksto,,0,0,0,,Marahil ay gustong makahanap ng matibay na ebidensya
+Dialogue: 0,0:24:53.77,0:24:55.90,pangkalahatang teksto,,0,0,0,,Sabihin sa lahat ng salamangkero na hanapin si Kil Ju
+Dialogue: 0,0:25:02.15,0:25:03.82,pangkalahatang text,,0,0,0,,bracelet ni Chan Wook
+Dialogue: 0,0:25:03.91,0:25:06.37,general text,,0,0,0,,nahanap kung saan nila ginawa ang alchemy of souls?
+Dialogue: 0,0:25:06.45,0:25:07.95,general text,,0,0,0,,Hinahanap ni Dan Gu si Mr.
+Dialogue: 0,0:25:08.04,0:25:10.08,pangkalahatang teksto,,0,0,0,,Sinusuri ni Master So ang paligid ng templo
+Dialogue: 0,0:25:10.16,0:25:12.79,general text,,0,0,0,,- Nasa templo sila?\N- Oo
+Dialogue: 0,0:25:12.87,0:25:16.92,pangkalahatang teksto,,0,0,0,,I doubt na may kakayahan si Uk sa alchemy
+Dialogue: 0,0:25:17.00,0:25:18.34,pangkalahatang teksto,,0,0,0,,Master Li,
+Dialogue: 0,0:25:18.42,0:25:20.92,general text,,0,0,0,,paano kung ang kaluluwa ng isang tao ay lumipat sa katawan ni Uka?
+Dialogue: 0,0:25:21.01,0:25:23.76,pangkalahatang teksto,,0,0,0,,Huwag mag-alala. Sigurado akong ayos lang siya
+Dialogue: 0,0:25:28.39,0:25:30.56,pangkalahatang teksto,,0,0,0,,Poprotektahan siya
+Dialogue: 0,0:25:30.64,0:25:31.81,italics,,0,0,0,,Saan
+Dialogue: 0,0:25:31.89,0:25:35.60,general text,,0,0,0,,ang ulo natin, kailan ba may ganitong kaguluhan dito?
+Dialogue: 0,0:25:36.52,0:25:38.23,pangkalahatang teksto,,0,0,0,,Bago ipinanganak si Uk...
+Dialogue: 0,0:25:39.98,0:25:42.03,pangkalahatang teksto,,0,0,0,,20 taon na ang nakalipas...
+Dialogue: 0,0:25:42.61,0:25:43.61,pangkalahatang teksto,,0,0,0,,Chan Gan
+Dialogue: 0,0:25:44.49,0:25:46.32,pangkalahatang teksto,,0,0,0,,nagsagawa ng alchemy ng mga kaluluwa?
+Dialogue: 0,0:25:51.58,0:25:53.83,pangkalahatang teksto,,0,0,0,,Gwangju Jeonbugwan at kulam?
+Dialogue: 0,0:25:54.67,0:25:56.00,general text,,0,0,0,,Nakakatawa lang ito!
+Dialogue: 0,0:25:56.08,0:25:57.29,general text,,0,0,0,,Jin Mu told me about this
+Dialogue: 0,0:25:58.92,0:26:00.96,general text,,0,0,0,,Hindi ako naglakas loob na tanungin siya,
+Dialogue: 0,0:26:02.38,0:26:03.97,pangkalahatang teksto,,0,0,0,,kaya ako pumunta sa iyo
+Dialogue: 0,0:26:08.43,0:26:09.81,pangkalahatang teksto,,0,0,0,,Miss Do Hwa
+Dialogue: 0,0:26:11.06,0:26:12.77,pangkalahatang teksto,,0,0,0,,nag-aalala na si Gwangju
+Dialogue: 0,0:26:13.77,0:26:16.69,pangkalahatang teksto,,0,0,0,,interesado sa ilang kakaibang spell
+Dialogue: 0,0:26:17.52,0:26:20.82,pangkalahatang teksto,,0,0,0,,Ngunit hindi ito nagtagal
+Dialogue: 0,0:26:21.40,0:26:23.65,general text,,0,0,0,,isang taon nang hindi umuuwi si Gwangju
+Dialogue: 0,0:26:24.28,0:26:27.82,pangkalahatang teksto,,0,0,0,, Sinanay na mga spelling kasama si Jin Moo sa sikretong silid ni Jeonbugwan
+Dialogue: 0,0:26:27.91,0:26:28.87,pangkalahatang teksto,,0,0,0,,Ngunit
+Dialogue: 0,0:26:28.95,0:26:32.74,general text,,0,0,0,,napatigil siya nang mabuntis ang kanyang asawa
+Dialogue: 0,0:26:36.67,0:26:40.54,memories italics,,0,0,0,,Siya ay anak ng isang namatay na hari
+Dialogue: 0,0:26:41.21,0:26:42.30,mga alaala,,0,0,0,,Hari
+Dialogue: 0,0:26:43.09,0:26:45.80,mga alaala,,0,0,0,,namatay dahil sa sakit, hindi makagalaw
+Dialogue: 0,0:26:45.88,0:26:47.26,mga alaala,,0,0,0,,Paano ito posible?
+Dialogue: 0,0:26:49.22,0:26:52.68,mga alaala,,0,0,0,,Posible ito dahil sa alchemy ng mga kaluluwa
+Dialogue: 0,0:26:54.64,0:26:56.02,pangkalahatang teksto,,0,0,0,,Pagiging isang salamangkero,
+Dialogue: 0,0:26:57.35,0:26:59.52,pangkalahatang teksto,,0,0,0,,nasusunog siya sa simpleng interes sa mga ganyang bagay
+Dialogue: 0,0:26:59.60,0:27:00.52,pangkalahatang teksto,,0,0,0,,Hindi
+Dialogue: 0,0:27:01.86,0:27:03.15,pangkalahatang teksto,,0,0,0,,Nangako siya
+Dialogue: 0,0:27:04.65,0:27:05.90,pangkalahatang teksto,,0,0,0,,isang bagay na hindi na mababawi
+Dialogue: 0,0:27:06.70,0:27:10.70,pangkalahatang teksto,,0,0,0,,kasama ang buhay nina Do Hwa at Wook
+Dialogue: 0,0:27:21.00,0:27:24.38,pangkalahatang teksto,,0,0,0,,Ang salamangkero mula sa Chongjingak ay agarang hinahanap ang aming panginoon
+Dialogue: 0,0:27:34.18,0:27:35.89,general text,,0,0,0,,Hindi ko alam na nandito ka tito
+Dialogue: 0,0:27:35.97,0:27:37.27,pangkalahatang teksto,,0,0,0,,Ano ito?
+Dialogue: 0,0:27:38.44,0:27:39.64,pangkalahatang teksto,,0,0,0,,Sa tingin ko,
+Dialogue: 0,0:27:40.48,0:27:42.27,pangkalahatang teksto,,0,0,0,,Nabiktima ang UK ng alchemy of souls
+Dialogue: 0,0:27:43.36,0:27:44.44,pangkalahatang teksto,,0,0,0,,Ano?
+Dialogue: 0,0:28:08.84,0:28:10.22,italics,,0,0,0,,Ito si Jeonbugwan
+Dialogue: 0,0:28:10.76,0:28:13.72,behind the scenes,,0,0,0,,The real Dan Zhu is behind these walls?
+Dialogue: 0,0:28:36.91,0:28:39.50,general text,,0,0,0,,Ito ang daan patungo sa palasyo
+Dialogue: 0,0:28:40.33,0:28:43.17,general text,,0,0,0,,Nandiyan ba ang totoong Dan Zhu?
+Dialogue: 0,0:28:52.97,0:28:54.14,general text,,0,0,0,,I'm from Jeonbugwan
+Dialogue: 0,0:28:54.85,0:28:56.60,pangkalahatang teksto,,0,0,0,,Ito ay malamang na apurahan
+Dialogue: 0,0:29:04.77,0:29:06.02,pangkalahatang teksto,,0,0,0,,Ipakita ang iyong mukha
+Dialogue: 0,0:29:06.11,0:29:08.02,pangkalahatang teksto,,0,0,0,,Ito ay apurahan. Out of the way
+Dialogue: 0,0:29:08.11,0:29:09.40,general text,,0,0,0,,Ipakita mo muna ang iyong mukha
+Dialogue: 0,0:29:31.92,0:29:32.97,pangkalahatang teksto,,0,0,0,,Soul Swallower
+Dialogue: 0,0:29:35.93,0:29:37.05,pangkalahatang teksto,,0,0,0,,Sa likod nito
+Dialogue: 0,0:31:26.70,0:31:28.79,pangkalahatang teksto,,0,0,0,,Totoo sa palasyo
+Dialogue: 0,0:31:31.42,0:31:32.75,general text,,0,0,0,,Ice stone, tama ba?
+Dialogue: 0,0:31:33.92,0:31:35.46,general text,,0,0,0,,Nabanggit mo siya
+Dialogue: 0,0:31:37.13,0:31:40.26,pangkalahatang teksto,,0,0,0,, hahanapin ko siya at ililigtas siya mula sa isang katulad na kapalaran sa iyo
+Dialogue: 0,0:32:11.50,0:32:12.92,general text,,0,0,0,,Teka, siya...
+Dialogue: 0,0:32:13.88,0:32:15.25,pangkalahatang teksto,,0,0,0,,Tingnan
+Dialogue: 0,0:32:15.34,0:32:16.88,general text,,0,0,0,,Patay na ba talaga siya?
+Dialogue: 0,0:32:16.96,0:32:18.76,general text,,0,0,0,,- Touch\N- Worth it ba?
+Dialogue: 0,0:32:36.86,0:32:38.86,general text,,0,0,0,,Sinubukan niyang makapasok sa palasyo hanggang sa naging bato
+Dialogue: 0,0:32:40.74,0:32:41.95,general text,,0,0,0,,Pinatay mo ba siya?
+Dialogue: 0,0:32:42.99,0:32:44.45,general text,,0,0,0,,How dare we?
+Dialogue: 0,0:32:44.53,0:32:47.37,general text,,0,0,0,,Biglang may lumitaw na hindi kilalang salamangkero at pinatay siya
+Dialogue: 0,0:32:48.12,0:32:50.37,general text,,0,0,0,,Saang pamilya siya galing? Nakita mo na ba ang mukha?
+Dialogue: 0,0:32:50.45,0:32:52.00,pangkalahatang teksto,,0,0,0,,Hindi, nakatago ito
+Dialogue: 0,0:32:52.08,0:32:54.75,general text,,0,0,0,,Pero nakita ko na ginamit niya
+Dialogue: 0,0:33:01.21,0:33:02.38,italics,,0,0,0,,Ito ay Tansu
+Dialogue: 0,0:33:05.84,0:33:08.72,general text,,0,0,0,,- Tansu?\N- Oo, sigurado ako
+Dialogue: 0,0:33:09.85,0:33:11.39,pangkalahatang teksto,,0,0,0,,Pinalo niya ng lakas mula sa espada
+Dialogue: 0,0:33:14.10,0:33:17.19,offscreen,,0,0,0,,Ang Tangsu ay pagmamay-ari ni Nak Soo
+Dialogue: 0,0:33:17.27,0:33:20.27,offscreen,,0,0,0,,Mayroon pa bang nakabisado nito?
+Dialogue: 0,0:33:29.33,0:33:31.79,pangkalahatang teksto,,0,0,0,,Narinig kong nahuli mo ang lumulunok ng kaluluwa
+Dialogue: 0,0:33:32.45,0:33:35.75,pangkalahatang teksto,,0,0,0,,Dumating kami upang makita kung sino ito
+Dialogue: 0,0:33:37.04,0:33:39.96,pangkalahatang teksto,,0,0,0,,Siyempre. Maaari kang tumingin
+Dialogue: 0,0:34:03.86,0:34:04.99,pangkalahatang teksto,,0,0,0,,Ito si Kil Ju,
+Dialogue: 0,0:34:05.86,0:34:08.66,pangkalahatang teksto,,0,0,0,,isa sa iyong mga tao
+Dialogue: 0,0:34:10.58,0:34:12.74,pangkalahatang teksto,,0,0,0,,Tama
+Dialogue: 0,0:34:15.20,0:34:17.83,pangkalahatang teksto,,0,0,0,,Ipasok ang katawan at ilabas ang lahat
+Dialogue: 0,0:34:17.92,0:34:18.79,pangkalahatang teksto,,0,0,0,,Oo
+Dialogue: 0,0:34:24.42,0:34:27.59,behind the scenes,,0,0,0,,Kasama ko si Jin Mu noong nag-alchemy sila
+Dialogue: 0,0:34:28.43,0:34:30.01,offscreen,,0,0,0,,Nalilito din siya
+Dialogue: 0,0:34:31.01,0:34:34.47,offscreen,,0,0,0,,Hindi niya alam na nagsagawa sila ng alchemy
+Dialogue: 0,0:34:36.18,0:34:39.56,general text,,0,0,0,,ako na pong bahala since nangyari lahat sa Jeonbugwan
+Dialogue: 0,0:34:39.65,0:34:41.36,pangkalahatang teksto,,0,0,0,,Walang kaugnayan kay Sosnovy Bor
+Dialogue: 0,0:34:42.07,0:34:43.15,pangkalahatang teksto,,0,0,0,,Siyempre
+Dialogue: 0,0:34:43.90,0:34:46.86,pangkalahatang teksto,,0,0,0,,Kung kinakailangan, magbibigay kami ng tulong
+Dialogue: 0,0:34:47.45,0:34:49.78,pangkalahatang teksto,,0,0,0,,Kung kinakailangan
+Dialogue: 0,0:34:52.37,0:34:54.83,italics,,0,0,0,,Isa pang lagalag na naging kaluluwa?
+Dialogue: 0,0:34:55.41,0:34:58.54,general text,,0,0,0,,Sa kabutihang palad, siya ay nahuli at napatay
+Dialogue: 0,0:34:58.62,0:35:00.63,pangkalahatang teksto,,0,0,0,,At sino ito?
+Dialogue: 0,0:35:00.71,0:35:01.92,pangkalahatang teksto,,0,0,0,,Kil Ju,
+Dialogue: 0,0:35:02.00,0:35:05.21,pangkalahatang teksto,,0,0,0,,mago Jeonbugwan
+Dialogue: 0,0:35:07.05,0:35:09.18,italics,,0,0,0,,Kil Zhu naging nomad?
+Dialogue: 0,0:35:10.18,0:35:13.26,general text,,0,0,0,,Nahuli siya ni Jonbugwan?
+Dialogue: 0,0:35:13.35,0:35:15.35,general text,,0,0,0,,Nahuli siya sa harap ng palasyo
+Dialogue: 0,0:35:15.43,0:35:18.48,general text,,0,0,0,,Sinubukan niyang makapasok sa palasyo nang siya ay tumatakbo ng ligaw
+Dialogue: 0,0:35:19.44,0:35:21.15,general text,,0,0,0,,Pumunta ba siya dito?
+Dialogue: 0,0:35:21.23,0:35:23.40,general text,,0,0,0,,Biglang may lumitaw na salamangkero,
+Dialogue: 0,0:35:23.48,0:35:25.61,pangkalahatang teksto,,0,0,0,,na ginamit ni Tansu
+Dialogue: 0,0:35:28.95,0:35:30.99,pangkalahatang teksto,,0,0,0,,At sino ito?
+Dialogue: 0,0:35:32.53,0:35:34.66,general text,,0,0,0,,Pinatay ni Kil Ju si Nak Soo
+Dialogue: 0,0:35:34.74,0:35:35.99,general text,,0,0,0,,- Ano?\N- Nak Su?
+Dialogue: 0,0:35:36.08,0:35:37.50,general text,,0,0,0,,Bumalik na siya!
+Dialogue: 0,0:35:37.58,0:35:39.46,general text,,0,0,0,,- Nak Su?\N- Mercenary?
+Dialogue: 0,0:35:40.00,0:35:44.04,pangkalahatang teksto,,0,0,0,,Isang salamangkero na may hawak na Tansu na nagpakita sa harap ng palasyo
+Dialogue: 0,0:35:44.13,0:35:45.92,pangkalahatang teksto,,0,0,0,,Pag-aari ito ni Nak Su
+Dialogue: 0,0:35:46.00,0:35:47.71,italics,,0,0,0,,- Talaga?\N- Amazing
+Dialogue: 0,0:35:47.80,0:35:49.17,general text,,0,0,0,,- Siya ba?\N- Siya?
+Dialogue: 0,0:35:49.26,0:35:50.55,pangkalahatang teksto,,0,0,0,,Maghintay
+Dialogue: 0,0:35:50.63,0:35:51.97,general text,,0,0,0,,Namatay si Nak Su
+Dialogue: 0,0:35:52.05,0:35:52.93,italics,,0,0,0,,Eksakto!
+Dialogue: 0,0:35:53.01,0:35:55.93,pangkalahatang teksto,,0,0,0,,Nakita ng lahat dito kung paano nasunog ang kanyang katawan
+Dialogue: 0,0:35:56.01,0:35:58.35,pangkalahatang teksto,,0,0,0,,Ako mismo ang nakakita nito
+Dialogue: 0,0:35:58.43,0:35:59.60,pangkalahatang teksto,,0,0,0,,- Oo\N- Eksakto
+Dialogue: 0,0:35:59.68,0:36:02.10,pangkalahatang teksto,,0,0,0,,Ang katawan ay sinunog, ngunit ang kaluluwa ay buhay
+Dialogue: 0,0:36:02.19,0:36:05.57,pangkalahatang teksto,,0,0,0,,Ang shadow warrior ay naging isang nomad!
+Dialogue: 0,0:36:05.65,0:36:07.32,general text,,0,0,0,,- Ano?\N- Talaga?
+Dialogue: 0,0:36:07.40,0:36:09.32,general text,,0,0,0,,- Hindi pwede\N- Seryoso?
+Dialogue: 0,0:36:09.40,0:36:11.28,general text,,0,0,0,,Pero si Nak Soo ay babae
+Dialogue: 0,0:36:11.36,0:36:13.41,pangkalahatang teksto,,0,0,0,,At si Kil Ju ay pinatay ng isang binata
+Dialogue: 0,0:36:13.49,0:36:16.66,pangkalahatang teksto,,0,0,0,,Matangkad na binata na naka-asul na roba
+Dialogue: 0,0:36:17.33,0:36:19.33,general text,,0,0,0,,Nomad si Nak Su diba?
+Dialogue: 0,0:36:19.41,0:36:22.08,general text,,0,0,0,,Maaari siyang lumipat sa katawan ng binatang ito
+Dialogue: 0,0:36:23.88,0:36:25.79,pangkalahatang teksto,,0,0,0,,At pagkatapos ay naging mas malakas ako
+Dialogue: 0,0:36:27.30,0:36:28.96,pangkalahatang teksto,,0,0,0,,Malakas siya
+Dialogue: 0,0:36:29.05,0:36:32.51,pangkalahatang teksto,,0,0,0,,Ngunit sa katawan ng isang lalaki ay lalo itong lumakas
+Dialogue: 0,0:36:34.72,0:36:36.14,general text,,0,0,0,,Ang pagpatay kay Kil Ju ay kanyang paghihiganti
+Dialogue: 0,0:36:36.22,0:36:38.68,pangkalahatang teksto,,0,0,0,,Jeonbugwan para sa nasunog na katawan
+Dialogue: 0,0:36:39.35,0:36:40.85,pangkalahatang teksto,,0,0,0,,at ang pagpatay sa kanyang mga tao
+Dialogue: 0,0:36:40.93,0:36:42.35,general text,,0,0,0,,Bakit tayo dapat maghiganti?
+Dialogue: 0,0:36:42.44,0:36:44.31,pangkalahatang teksto,,0,0,0,,Pine Forest pinatay si Nak Su
+Dialogue: 0,0:36:45.31,0:36:50.07,general text,,0,0,0,,"Nakasuot ng asul, nagbalik ang hindi kapani-paniwalang Nak Soo"
+Dialogue: 0,0:36:50.15,0:36:52.74,pangkalahatang teksto,,0,0,0,,"Pine Forest ang kanyang susunod na layunin"
+Dialogue: 0,0:36:52.82,0:36:55.99,pangkalahatang teksto,,0,0,0,,Ito ang mga alingawngaw
+Dialogue: 0,0:36:56.07,0:36:58.95,pangkalahatang teksto,,0,0,0,,Nahuli ang lumulunok ng kaluluwa ilang oras lang ang nakalipas
+Dialogue: 0,0:36:59.04,0:37:00.83,pangkalahatang teksto,,0,0,0,,at mga walang katotohanang tsismis?
+Dialogue: 0,0:37:01.41,0:37:05.21,pangkalahatang teksto,,0,0,0,,Ang mga ganitong tsismis ay kasing bilis ng wildfire
+Dialogue: 0,0:37:05.29,0:37:06.96,pangkalahatang teksto,,0,0,0,,At ang mga alingawngaw ay hindi walang batayan
+Dialogue: 0,0:37:07.04,0:37:10.00,general text,,0,0,0,,Ginamit ng salamangkero ang Tansa,
+Dialogue: 0,0:37:10.09,0:37:12.47,general text,,0,0,0,,like Nak Su
+Dialogue: 0,0:37:12.55,0:37:14.47,general text,,0,0,0,,At siya lang ang nagmamay-ari nito?
+Dialogue: 0,0:37:16.05,0:37:18.76,pangkalahatang teksto,,0,0,0,,Gusto ko, na-master ko na ito ngayon
+Dialogue: 0,0:37:20.56,0:37:23.27,pangkalahatang teksto,,0,0,0,,Kung kumalat ang mga tsismis na ito sa buong Sosnovy Bor,
+Dialogue: 0,0:37:23.35,0:37:26.44,general text,,0,0,0,,sasagot ka. Tiyaking hindi ito mangyayari
+Dialogue: 0,0:37:27.23,0:37:28.27,pangkalahatang teksto,,0,0,0,,Oo
+Dialogue: 0,0:37:31.65,0:37:34.65,pangkalahatang teksto,,0,0,0,,Napakalaking pagpapala na naging kaluluwa kang lumulunok
+Dialogue: 0,0:37:34.74,0:37:36.16,pangkalahatang teksto,,0,0,0,,hindi young master
+Dialogue: 0,0:37:37.07,0:37:40.28,general text,,0,0,0,,Pero bakit doon namin nakita ang bracelet niya?
+Dialogue: 0,0:37:41.95,0:37:44.16,pangkalahatang teksto,,0,0,0,,Malalaman natin kapag nakita natin ito
+Dialogue: 0,0:37:50.21,0:37:52.76,general text,,0,0,0,,Mukha kang masama
+Dialogue: 0,0:38:00.05,0:38:01.39,pangkalahatang teksto,,0,0,0,,Dapat mong
+Dialogue: 0,0:38:02.14,0:38:04.48,general text,,0,0,0,,umuwi ka at hintayin mo siya doon
+Dialogue: 0,0:38:14.82,0:38:16.53,general text,,0,0,0,,Masama ba ang pakiramdam mo?
+Dialogue: 0,0:38:17.15,0:38:20.20,general text,,0,0,0,,Nagulat ako sa honey cookies na kinain ko kahapon
+Dialogue: 0,0:38:20.28,0:38:22.29,general text,,0,0,0,,nasa lalamunan ko pa rin
+Dialogue: 0,0:38:24.33,0:38:27.29,general text,,0,0,0,,Natakot ako nang marinig ko ang tungkol sa lumulunok ng kaluluwa,
+Dialogue: 0,0:38:27.37,0:38:29.71,pangkalahatang teksto,,0,0,0,,na ang kaluluwa ay unang umalis sa katawan at pagkatapos ay bumalik
+Dialogue: 0,0:38:37.84,0:38:40.26,general text,,0,0,0,,Bumalik na ba ang katotohanan?
+Dialogue: 0,0:38:43.18,0:38:44.52,general text,,0,0,0,,Ikaw ba yan, maid Kim?
+Dialogue: 0,0:38:45.35,0:38:47.85,pangkalahatang teksto,,0,0,0,,Hindi, kabanata. Kasambahay ako ni Pak
+Dialogue: 0,0:38:49.06,0:38:52.69,general text,,0,0,0,,Pwede ko sanang hampasin ang young master sa likod, na sobrang nakakatakot sa akin.
+Dialogue: 0,0:38:54.78,0:38:56.19,pangkalahatang text,,0,0,0,,Hill me instead
+Dialogue: 0,0:38:58.57,0:39:01.16,general text,,0,0,0,,Binibigyan ko ng pahintulot ang Maid Pak
+Dialogue: 0,0:39:01.74,0:39:02.83,pangkalahatang teksto,,0,0,0,,Halika
+Dialogue: 0,0:39:02.91,0:39:04.66,general text,,0,0,0,,Malakas ang mga kamay ko
+Dialogue: 0,0:39:04.74,0:39:06.70,general text,,0,0,0,,Masakit
+Dialogue: 0,0:39:07.58,0:39:09.79,general text,,0,0,0,,Hindi ako iiyak,
+Dialogue: 0,0:39:09.87,0:39:11.17,pangkalahatang teksto,,0,0,0,,beat
+Dialogue: 0,0:39:14.80,0:39:17.72,general text,,0,0,0,,Consider na minsan mo na akong sinaktan
+Dialogue: 0,0:39:19.05,0:39:20.34,pangkalahatang teksto,,0,0,0,,Bakit?
+Dialogue: 0,0:39:21.05,0:39:23.18,pangkalahatang teksto,,0,0,0,,May gagawin ka bang hindi kasiya-siya sa akin bilang tugon?
+Dialogue: 0,0:39:23.26,0:39:25.77,pangkalahatang teksto,,0,0,0,,Pagkatapos ay kinakansela ko ang suntok na ito
+Dialogue: 0,0:39:25.85,0:39:27.18,pangkalahatang text,,0,0,0,,Hill me too
+Dialogue: 0,0:39:28.02,0:39:29.14,pangkalahatang teksto,,0,0,0,,Halika
+Dialogue: 0,0:39:30.10,0:39:31.56,pangkalahatang teksto,,0,0,0,,Magmadali
+Dialogue: 0,0:39:37.23,0:39:38.44,pangkalahatang teksto,,0,0,0,,I...
+Dialogue: 0,0:39:40.20,0:39:41.86,general text,,0,0,0,,ayokong masaktan ka
+Dialogue: 0,0:39:44.24,0:39:46.20,pangkalahatang teksto,,0,0,0,,Bilang pinuno ng Sosnovy Bor,
+Dialogue: 0,0:39:47.45,0:39:50.41,pangkalahatang teksto,,0,0,0,,Kailangan kong kumilos nang malamig at walang puso
+Dialogue: 0,0:39:51.08,0:39:52.42,general text,,0,0,0,,Pero ako talaga
+Dialogue: 0,0:39:53.54,0:39:55.21,general text,,0,0,0,,ayokong masaktan ka
+Dialogue: 0,0:40:00.88,0:40:02.22,pangkalahatang teksto,,0,0,0,,Nag-aalala ka ba tungkol sa
+Dialogue: 0,0:40:02.76,0:40:06.22,general text,,0,0,0,,ano ang tinanong nila sa akin tungkol kay Master Chang Gan kahapon?
+Dialogue: 0,0:40:06.81,0:40:08.77,general text,,0,0,0,,Maraming nangyari
+Dialogue: 0,0:40:08.85,0:40:10.85,pangkalahatang teksto,,0,0,0,,Sa pagiging pinuno, hindi ko kaya
+Dialogue: 0,0:40:11.85,0:40:13.81,pangkalahatang teksto,,0,0,0,,maging layunin
+Dialogue: 0,0:40:14.77,0:40:16.90,pangkalahatang teksto,,0,0,0,,Ang iyong suntok ay nagpabalik sa aking katinuan
+Dialogue: 0,0:40:17.73,0:40:20.95,pangkalahatang teksto,,0,0,0,,Ngayon ay dapat tayong kumilos nang matalino
+Dialogue: 0,0:40:25.12,0:40:27.03,general text,,0,0,0,,Mahinahon mo akong matalo
+Dialogue: 0,0:40:28.37,0:40:29.95,pangkalahatang text,,0,0,0,,bilang kasambahay ni Pak
+Dialogue: 0,0:40:31.87,0:40:33.04,pangkalahatang teksto,,0,0,0,,Mula sa iyo
+Dialogue: 0,0:40:34.04,0:40:35.63,general text,,0,0,0,,Tatanggapin ko
+Dialogue: 0,0:40:51.81,0:40:53.14,general text,,0,0,0,,Bakit ka nandito?
+Dialogue: 0,0:40:53.23,0:40:55.77,general text,,0,0,0,,Sinabi ni Master Ho na alamin kung saan nanggagaling ang kulam
+Dialogue: 0,0:40:55.86,0:40:58.15,pangkalahatang teksto,,0,0,0,,At sa lugar na ito nakita ko ito
+Dialogue: 0,0:40:59.15,0:41:01.28,pangkalahatang teksto,,0,0,0,,Nawala, tila
+Dialogue: 0,0:41:02.70,0:41:04.24,general text,,0,0,0,,Hindi mo na kailangan?
+Dialogue: 0,0:41:05.28,0:41:07.07,pangkalahatang teksto,,0,0,0,,Hindi, hindi na
+Dialogue: 0,0:41:07.78,0:41:10.24,pangkalahatang teksto,,0,0,0,,Muntik nang mawala ang kayamanan ng pamilya Jin
+Dialogue: 0,0:41:11.33,0:41:12.58,pangkalahatang teksto,,0,0,0,,Salamat sa paghahanap nito
+Dialogue: 0,0:41:14.00,0:41:15.71,pangkalahatang teksto,,0,0,0,,Iba ang nawala sa iyo
+Dialogue: 0,0:41:17.00,0:41:18.84,general text,,0,0,0,,Hindi mo ba hahanapin si Mu Dok?
+Dialogue: 0,0:41:20.88,0:41:21.92,general text,,0,0,0,,Nasaan siya?
+Dialogue: 0,0:41:23.67,0:41:25.30,general text,,0,0,0,,Nahanap ko siya noong nagtatago siya sa kagubatan
+Dialogue: 0,0:41:26.76,0:41:29.68,general text,,0,0,0,,Siya ay nasugatan at duguan
+Dialogue: 0,0:41:44.99,0:41:45.91,pangkalahatang teksto,,0,0,0,,Moo Dok
+Dialogue: 0,0:41:47.62,0:41:48.78,pangkalahatang teksto,,0,0,0,,Host,
+Dialogue: 0,0:41:49.33,0:41:51.79,general text,,0,0,0,,paano mo ako iiwan?
+Dialogue: 0,0:41:51.87,0:41:52.87,pangkalahatang teksto,,0,0,0,,Ano?
+Dialogue: 0,0:41:54.62,0:41:58.08,general text,,0,0,0,,Tumakas ka, iniwan ako
+Dialogue: 0,0:41:58.92,0:42:00.42,pangkalahatang text,,0,0,0,,Makipaglaro sa akin
+Dialogue: 0,0:42:04.13,0:42:07.22,general text,,0,0,0,,Oo... Tumakas ako
+Dialogue: 0,0:42:07.80,0:42:08.76,pangkalahatang teksto,,0,0,0,, Eksakto!
+Dialogue: 0,0:42:08.84,0:42:12.14,general text,,0,0,0,,Nakasalubong namin ang isang soul swallower habang nagtatago sa ulan
+Dialogue: 0,0:42:12.22,0:42:13.52,pangkalahatang teksto,,0,0,0,,Salamat sa iyo
+Dialogue: 0,0:42:13.60,0:42:16.89,general text,,0,0,0,,halos lamunin na ako ng lumulunok ng kaluluwang ito
+Dialogue: 0,0:42:19.40,0:42:20.44,pangkalahatang teksto,,0,0,0,,Paumanhin
+Dialogue: 0,0:42:22.02,0:42:25.74,general text,,0,0,0,,Natakot ako kaya wala akong maisip at tumakbo palayo
+Dialogue: 0,0:42:27.32,0:42:30.70,pangkalahatang teksto,,0,0,0,,Napagkamalan ni Yul na lumulunok ng kaluluwa si Moo Deok at muntik na siyang mapatay
+Dialogue: 0,0:42:31.37,0:42:34.41,general text,,0,0,0,,Kung hindi niya ito inalagaan, namatay na si Moo Deok
+Dialogue: 0,0:42:39.96,0:42:41.42,pangkalahatang teksto,,0,0,0,,Yul,
+Dialogue: 0,0:42:41.50,0:42:45.42,general text,,0,0,0,,salamat sa pagligtas at pag-aalaga sa kanya ni Moo Deok
+Dialogue: 0,0:42:51.30,0:42:53.10,general text,,0,0,0,,Talaga bang tumakas ka, iniwan siya?
+Dialogue: 0,0:42:58.89,0:43:00.73,pangkalahatang teksto,,0,0,0,,Kung hindi ay mamamatay ako
+Dialogue: 0,0:43:01.36,0:43:02.82,general text,,0,0,0,,Minsan kailangan mo lang isipin ang sarili mo
+Dialogue: 0,0:43:04.32,0:43:06.40,general text,,0,0,0,,Ano ang pinapanood mo? ayaw sumang-ayon?
+Dialogue: 0,0:43:07.78,0:43:10.03,pangkalahatang teksto,,0,0,0,,Sa anumang kaso, natutuwa ako,
+Dialogue: 0,0:43:10.11,0:43:12.83,general text,,0,0,0,,na okay lang kaming dalawa
+Dialogue: 0,0:43:22.42,0:43:23.25,pangkalahatang teksto,,0,0,0,,Oo
+Dialogue: 0,0:43:29.55,0:43:31.39,general text,,0,0,0,,Balita ko nagtatago ka sa Danhyangok
+Dialogue: 0,0:43:31.97,0:43:33.85,general text,,0,0,0,,Narinig mo ba ang sinabi ng ating pinuno?
+Dialogue: 0,0:43:33.93,0:43:36.06,pangkalahatang teksto,,0,0,0,,Ang pine forest ay magtataglay ng iyong kahihiyan
+Dialogue: 0,0:43:36.14,0:43:37.64,general text,,0,0,0,,Pagod na pagod na ako
+Dialogue: 0,0:43:38.39,0:43:40.81,general text,,0,0,0,,Bakit, kung hindi man lang ako miyembro ng Sosnovy Bor?
+Dialogue: 0,0:43:40.89,0:43:43.02,pangkalahatang teksto,,0,0,0,, Duel kasama ang prinsipe sa loob ng dalawang linggo
+Dialogue: 0,0:43:43.65,0:43:47.23,pangkalahatang teksto,,0,0,0,,Huwag magpakita sa lungsod hanggang doon, huwag magdulot ng mga problema
+Dialogue: 0,0:43:47.32,0:43:48.53,pangkalahatang teksto,,0,0,0,,Ibaba ang iyong ulo
+Dialogue: 0,0:43:54.53,0:43:56.79,general text,,0,0,0,,Salamat sa pag-aalaga sa akin
+Dialogue: 0,0:43:56.87,0:43:58.95,pangkalahatang teksto,,0,0,0,,Malamang, nakaya ng Uk nang walang pulseras
+Dialogue: 0,0:44:00.04,0:44:02.25,pangkalahatang teksto,,0,0,0,,Sa tingin ko kaya na niyang kontrolin ang enerhiya ngayon
+Dialogue: 0,0:44:04.54,0:44:07.42,general text,,0,0,0,,Muling itinaya niya ang kanyang buhay at nakuha ang gusto niya
+Dialogue: 0,0:44:07.50,0:44:09.01,general text,,0,0,0,,At nandyan ka na naman
+Dialogue: 0,0:44:11.80,0:44:15.60,pangkalahatang text,,0,0,0,,Kung masyado kang iniistorbo, iniwan mo akong mamatay
+Dialogue: 0,0:44:16.22,0:44:17.35,pangkalahatang teksto,,0,0,0,,Siguro
+Dialogue: 0,0:44:19.10,0:44:20.48,pangkalahatang teksto,,0,0,0,,sa susunod
+Dialogue: 0,0:44:27.36,0:44:28.57,italics,,0,0,0,,Moo Dok
+Dialogue: 0,0:44:29.65,0:44:30.90,pangkalahatang text,,0,0,0,,Darating ako, master
+Dialogue: 0,0:44:33.66,0:44:34.70,pangkalahatang text,,0,0,0,,Alis na kami
+Dialogue: 0,0:44:40.58,0:44:42.62,pangkalahatang teksto,,0,0,0,,Hindi nasugatan si UK
+Dialogue: 0,0:44:43.54,0:44:44.46,pangkalahatang teksto,,0,0,0,,Mabuti iyan
+Dialogue: 0,0:44:45.38,0:44:47.29,pangkalahatang teksto,,0,0,0,,Nakita niya
+Dialogue: 0,0:44:47.38,0:44:49.88,general text,,0,0,0,,sino ang kasama ni Kil Ju noong nagbago ang kanyang mga kaluluwa?
+Dialogue: 0,0:44:49.96,0:44:52.88,pangkalahatang teksto,,0,0,0,,Marahil ang lalaking naka-asul
+Dialogue: 0,0:44:52.97,0:44:55.39,general text,,0,0,0,,Uk was too busy running to look
+Dialogue: 0,0:44:55.47,0:44:57.18,general text,,0,0,0,,Natanong mo ba sa kasambahay niya?
+Dialogue: 0,0:44:58.60,0:45:00.35,pangkalahatang teksto,,0,0,0,,Nakita niya siguro ang mga spells
+Dialogue: 0,0:45:03.35,0:45:04.60,pangkalahatang teksto,,0,0,0,,Mu Dok...
+Dialogue: 0,0:45:10.61,0:45:12.78,pangkalahatang teksto,,0,0,0,,Kung nakita niya ito, halos hindi niya alam kung ano iyon
+Dialogue: 0,0:45:13.99,0:45:16.74,pangkalahatang teksto,,0,0,0,,Ito ay isang ordinaryong dalaga na kakaunti ang alam tungkol sa mahika
+Dialogue: 0,0:45:19.41,0:45:21.58,pangkalahatang teksto,,0,0,0,,Paano ang kamay?
+Dialogue: 0,0:45:23.33,0:45:24.16,general text,,0,0,0,,Nasaktan?
+Dialogue: 0,0:45:26.71,0:45:29.75,general text,,0,0,0,,May lason mula sa kulam sa reflector na hinawakan ko
+Dialogue: 0,0:45:30.59,0:45:31.67,general text,,0,0,0,,Pero ayos lang ako
+Dialogue: 0,0:45:33.34,0:45:34.72,pangkalahatang text,,0,0,0,,Pupunta ako
+Dialogue: 0,0:46:12.84,0:46:14.67,general text,,0,0,0,,Bakit mo ako gustong makita?
+Dialogue: 0,0:46:16.55,0:46:20.76,general text,,0,0,0,,Balita ko kinuha mo ang mga regalo ko sa kasal
+Dialogue: 0,0:46:21.39,0:46:22.72,pangkalahatang teksto,,0,0,0,,Bakit?
+Dialogue: 0,0:46:22.81,0:46:25.93,general text,,0,0,0,,Takot na sirain ko sila?
+Dialogue: 0,0:46:26.02,0:46:30.02,general text,,0,0,0,,I-save ko sila hanggang sa susunod mong kasal
+Dialogue: 0,0:46:30.56,0:46:31.98,pangkalahatang teksto,,0,0,0,,Itapon sila
+Dialogue: 0,0:46:32.07,0:46:34.40,general text,,0,0,0,,Hindi na priority ko ang kasal
+Dialogue: 0,0:46:35.40,0:46:37.53,pangkalahatang teksto,,0,0,0,,Huwag kang masyadong mapahiya
+Dialogue: 0,0:46:37.61,0:46:42.12,general text,,0,0,0,,Ang kasal ay inihanda nang palihim, kakaunti ang nakakaalam nito
+Dialogue: 0,0:46:44.16,0:46:45.12,general text,,0,0,0,,Talaga?
+Dialogue: 0,0:46:47.37,0:46:49.50,italics,,0,0,0,,Cho Young!
+Dialogue: 0,0:46:53.13,0:46:54.88,general text,,0,0,0,,Ikakasal ka daw
+Dialogue: 0,0:46:55.67,0:46:58.80,pangkalahatang teksto,,0,0,0,,Narinig ko ang tungkol sa mga regalo, at nakakita ako ng isang craftsman para gumawa ng mga singsing
+Dialogue: 0,0:46:59.34,0:47:02.10,general text,,0,0,0,,Kumalat na yata ang tsismis
+Dialogue: 0,0:47:02.18,0:47:03.10,pangkalahatang teksto,,0,0,0,,Binabati kita
+Dialogue: 0,0:47:03.18,0:47:05.43,pangkalahatang teksto,,0,0,0,,Binabati kita, young master Pak
+Dialogue: 0,0:47:06.10,0:47:08.77,general text,,0,0,0,,- Ako?\N- Alam kong ikaw ang ikakasal
+Dialogue: 0,0:47:08.85,0:47:10.69,italics,,0,0,0,,Nakatanggap siya ng mga regalo
+Dialogue: 0,0:47:10.77,0:47:12.61,italics,,0,0,0,,Sumamahan ako sa iyo para subukan ang mga singsing
+Dialogue: 0,0:47:12.69,0:47:13.82,general text,,0,0,0,,Talaga?
+Dialogue: 0,0:47:13.90,0:47:16.74,general text,,0,0,0,,May mga walang katotohanan na tsismis na ikinasal ka kay Chan Wook
+Dialogue: 0,0:47:17.32,0:47:18.28,italics,,0,0,0,,Hindi?
+Dialogue: 0,0:47:18.36,0:47:20.03,italics,,0,0,0,,Ikakasal na kayong dalawa
+Dialogue: 0,0:47:21.70,0:47:22.74,pangkalahatang teksto,,0,0,0,,Oo, tama iyan
+Dialogue: 0,0:47:22.82,0:47:24.74,pangkalahatang teksto,,0,0,0,,Ngunit huwag mo itong pag-usapan
+Dialogue: 0,0:47:24.83,0:47:26.25,general text,,0,0,0,,Secret pa rin
+Dialogue: 0,0:47:26.87,0:47:28.00,pangkalahatang text,,0,0,0,,Okay
+Dialogue: 0,0:47:28.62,0:47:29.79,pangkalahatang text,,0,0,0,,Kita tayo
+Dialogue: 0,0:47:31.04,0:47:33.42,general text,,0,0,0,,Sinabi ko sa iyo na si Dan Gu iyon
+Dialogue: 0,0:47:33.50,0:47:36.59,pangkalahatang teksto,,0,0,0,, Eksakto. Hindi siya baliw na pakasalan ulit si Uka
+Dialogue: 0,0:47:36.67,0:47:38.26,italics,,0,0,0,,Huwag sabihin
+Dialogue: 0,0:47:40.93,0:47:42.01,pangkalahatang teksto,,0,0,0,,Dan Gu
+Dialogue: 0,0:47:42.09,0:47:43.89,pangkalahatang teksto,,0,0,0,,Bakit mo kinumpirma ang kanilang mga salita?
+Dialogue: 0,0:47:44.47,0:47:46.77,pangkalahatang teksto,,0,0,0,,Mas mabuti ito kaysa aminin na dalawang beses kang tinanggihan ni Uk
+Dialogue: 0,0:47:47.39,0:47:50.19,general text,,0,0,0,,Sabihin natin na sa pagkakataong ito ay tumanggi kang pakasalan ako
+Dialogue: 0,0:47:50.27,0:47:52.06,pangkalahatang teksto,,0,0,0,,Gayunpaman, ang mga ito ay magiging alingawngaw lamang
+Dialogue: 0,0:47:53.69,0:47:55.98,pangkalahatang teksto,,0,0,0,,Sumasang-ayon ka ba sa kaayusan na ito?
+Dialogue: 0,0:47:56.94,0:47:58.49,general text,,0,0,0,,Mapapahiya ka
+Dialogue: 0,0:47:59.74,0:48:00.95,pangkalahatang teksto,,0,0,0,,Sumasang-ayon ako
+Dialogue: 0,0:48:28.93,0:48:29.89,general text,,0,0,0,,Stink Mu Deok?
+Dialogue: 0,0:48:31.48,0:48:33.94,general text,,0,0,0,,Balik ka na naman dito? Hindi ka ba nasaktan?
+Dialogue: 0,0:48:34.94,0:48:35.94,pangkalahatang teksto,,0,0,0,,Ano?
+Dialogue: 0,0:48:38.86,0:48:40.40,pangkalahatang teksto,,0,0,0,,Kalimutan. Lumayo ka
+Dialogue: 0,0:48:45.53,0:48:47.70,pangkalahatang text,,0,0,0,,Naghahanap muli kay Moo Deok?
+Dialogue: 0,0:48:47.78,0:48:50.54,pangkalahatang teksto,,0,0,0,,Hindi. Parang pamilyar lang ang damit
+Dialogue: 0,0:48:51.87,0:48:54.33,general text,,0,0,0,,Ibinenta ito sa amin ni Moo Dok
+Dialogue: 0,0:48:55.08,0:48:57.09,pangkalahatang text,,0,0,0,,- Nabenta?\N- Oo
+Dialogue: 0,0:48:57.17,0:49:00.09,general text,,0,0,0,,Regalo daw ito ng isang walang kuwentang lalaki
+Dialogue: 0,0:49:00.17,0:49:01.59,pangkalahatang teksto,,0,0,0,,At din na ito ay ibinigay
+Dialogue: 0,0:49:01.67,0:49:03.63,pangkalahatang teksto,,0,0,0,,at hindi na kakailanganing ibalik ang damit
+Dialogue: 0,0:49:05.26,0:49:07.89,general text,,0,0,0,,Sinabi niya ba talaga iyon?
+Dialogue: 0,0:49:07.97,0:49:11.77,pangkalahatang teksto,,0,0,0,,Oo. Ang baho ng Moo Deok at seda ay hindi maaaring magkasabay
+Dialogue: 0,0:49:12.73,0:49:13.98,pangkalahatang teksto,,0,0,0,,Panoorin ang iyong wika
+Dialogue: 0,0:49:14.73,0:49:15.60,pangkalahatang teksto,,0,0,0,,Ano?
+Dialogue: 0,0:49:15.69,0:49:19.07,general text,,0,0,0,,binigay ko sa kanya ang pangalang ito at ako lang ang makakatawag sa kanya ng ganoon.
+Dialogue: 0,0:49:19.15,0:49:20.28,pangkalahatang teksto,,0,0,0,,Hindi ikaw
+Dialogue: 0,0:49:21.23,0:49:22.28,pangkalahatang teksto,,0,0,0,,Paumanhin
+Dialogue: 0,0:49:23.99,0:49:25.07,pangkalahatang teksto,,0,0,0,,At gayundin
+Dialogue: 0,0:49:27.16,0:49:29.45,general text,,0,0,0,,maganda siya sa damit na iyon
+Dialogue: 0,0:49:30.16,0:49:32.54,pangkalahatang teksto,,0,0,0,,Mas maganda kaysa sa iyo sa asul na kapa
+Dialogue: 0,0:49:33.12,0:49:34.79,pangkalahatang teksto,,0,0,0,,Mukhang hindi mo ito gusto
+Dialogue: 0,0:49:36.38,0:49:37.63,pangkalahatang teksto,,0,0,0,,Ano ito?
+Dialogue: 0,0:49:37.71,0:49:40.34,pangkalahatang teksto,,0,0,0,,Lahat dito ay ganito
+Dialogue: 0,0:49:40.42,0:49:42.46,general text,,0,0,0,,Ito ang robe ni Nak Su
+Dialogue: 0,0:49:42.55,0:49:43.59,pangkalahatang teksto,,0,0,0,,Kanino?
+Dialogue: 0,0:49:43.67,0:49:47.05,pangkalahatang teksto,,0,0,0,,Pinatay ng nomad na si Nak Su ang salamangkero na si Jeonbugwan sa harap ng palasyo
+Dialogue: 0,0:49:47.64,0:49:49.81,general text,,0,0,0,,Siya ay nakasuot ng katulad na robe
+Dialogue: 0,0:49:49.89,0:49:53.52,pangkalahatang teksto,,0,0,0,,Ngayon lahat ng tao sa kabisera ay mayroon nito
+Dialogue: 0,0:49:59.06,0:50:02.32,general text,,0,0,0,,- Halika, bumili ng robe ni Nak Su\N- Meron ako
+Dialogue: 0,0:50:02.40,0:50:04.15,pangkalahatang teksto,,0,0,0,,Poprotektahan nito ang iyong kaluluwa mula sa pagsipsip
+Dialogue: 0,0:50:04.24,0:50:05.65,pangkalahatang teksto,,0,0,0,,- This\N- Take
+Dialogue: 0,0:50:05.74,0:50:08.16,italics,,0,0,0,,Gusto ko ito
+Dialogue: 0,0:50:08.24,0:50:10.45,pangkalahatang teksto,,0,0,0,,- Cape Nak Su\N- Subukan ito
+Dialogue: 0,0:50:15.12,0:50:17.21,pangkalahatang teksto,,0,0,0,,Nomad in Blue
+Dialogue: 0,0:50:18.33,0:50:20.59,pangkalahatang teksto,,0,0,0,,Akala ng lahat ay bumalik si Nak Soo mula sa mga patay
+Dialogue: 0,0:50:22.30,0:50:26.13,general text,,0,0,0,,Pero salamat sa "Nak Su in Blue",
+Dialogue: 0,0:50:26.22,0:50:28.89,general text,,0,0,0,,walang nakakaalala sa away ni Uka at ng prinsipe
+Dialogue: 0,0:50:30.05,0:50:32.01,general text,,0,0,0,,I wonder where Wook and Moo Deok are
+Dialogue: 0,0:50:33.14,0:50:34.52,pangkalahatang teksto,,0,0,0,,Wala sila sa Danhyangok
+Dialogue: 0,0:50:35.39,0:50:36.85,general text,,0,0,0,,Sigurado akong ayos lang sila
+Dialogue: 0,0:50:37.56,0:50:40.19,general text,,0,0,0,,Babalik sila pagkalipas ng dalawang linggo
+Dialogue: 0,0:50:42.65,0:50:44.28,pangkalahatang teksto,,0,0,0,,Nga pala, Yul
+Dialogue: 0,0:50:46.86,0:50:48.57,general text,,0,0,0,,binili ko rin ito para sa sarili ko. Gusto mo bang subukan ito?
+Dialogue: 0,0:50:54.29,0:50:55.25,pangkalahatang teksto,,0,0,0,,Okay
+Dialogue: 0,0:50:59.83,0:51:02.38,pangkalahatang teksto,,0,0,0,,Sino kaya ito?
+Dialogue: 0,0:51:02.46,0:51:05.63,general text,,0,0,0,,Nak Su in blue, pagmamay-ari si Tansu?
+Dialogue: 0,0:51:13.64,0:51:15.77,general text,,0,0,0,,Sabi mo ito ang libingan ng mga lumulunok ng kaluluwa
+Dialogue: 0,0:51:17.35,0:51:18.94,general text,,0,0,0,,Kaya dapat nandito
+Dialogue: 0,0:51:20.81,0:51:21.94,pangkalahatang teksto,,0,0,0,,Ang iyong ama
+Dialogue: 0,0:51:23.90,0:51:25.48,pangkalahatang teksto,,0,0,0,,Baby
+Dialogue: 0,0:51:26.03,0:51:29.78,general text,,0,0,0,,Akala ko pinatay siya ng mga magician ng apat na pamilya.
+Dialogue: 0,0:51:31.49,0:51:34.12,general text,,0,0,0,,Dinala ako ni Jin Mu sa kanya, tinawag ko siyang Dan Zhu
+Dialogue: 0,0:51:34.20,0:51:35.24,pangkalahatang teksto,,0,0,0,,Pero...
+Dialogue: 0,0:51:36.87,0:51:39.37,general text,,0,0,0,, nomad ang tatay ko, ginamit siya
+Dialogue: 0,0:51:41.08,0:51:43.38,general text,,0,0,0,,At ginamit nila ako, pagkatapos ay iniwan ako
+Dialogue: 0,0:51:46.96,0:51:48.51,pangkalahatang teksto,,0,0,0,,Tulad ng sinabi ni Kil Ju,
+Diyalogo: 0,0:51:49.63,0:51:51.38,pangkalahatang teksto,,0,0,0,,Ako ay mapupuri at mamamatay
+Dialogue: 0,0:51:56.22,0:51:57.64,pangkalahatang teksto,,0,0,0,,Kapag naging bato ako,
+Dialogue: 0,0:52:02.06,0:52:03.73,general text,,0,0,0,,ililibing mo ba ako dito?
+Dialogue: 0,0:52:15.24,0:52:19.33,general text,,0,0,0,,Nalaman ko kung nasaan ang totoong Dan Zhu
+Dialogue: 0,0:52:21.00,0:52:24.04,general text,,0,0,0,,Sa palasyo. Nandiyan ang tunay
+Dialogue: 0,0:52:28.51,0:52:31.38,pangkalahatang teksto,,0,0,0,,Sabihin mo sa akin ang tungkol sa batong yelo
+Dialogue: 0,0:52:33.05,0:52:34.34,general text,,0,0,0,,Sigurado ka ba,
+Dialogue: 0,0:52:34.93,0:52:38.18,pangkalahatang teksto,,0,0,0,,na ito ay nawasak
+Dialogue: 0,0:52:39.56,0:52:43.27,general text,,0,0,0,,Master Seo Kyung at ang pinuno ng Jinyeowon 200 taon na ang nakakaraan?
+Dialogue: 0,0:52:46.06,0:52:47.65,pangkalahatang teksto,,0,0,0,,Sigurado kami na siya
+Dialogue: 0,0:52:49.23,0:52:50.69,pangkalahatang teksto,,0,0,0,,wala sa Sosnovy Bor
+Dialogue: 0,0:53:11.88,0:53:13.80,pangkalahatang teksto,,0,0,0,,Kumusta, Dan Zhu
+Dialogue: 0,0:53:30.11,0:53:33.78,general text,,0,0,0,,Gusto ni Kil Ju ng ice stone, kaya pumunta siya sa palasyo para makita ako
+Dialogue: 0,0:53:34.95,0:53:36.11,general text,,0,0,0,,Hindi ko alam,
+Dialogue: 0,0:53:37.07,0:53:39.58,general text,,0,0,0,,na alam ni Kil Ju kung sino ang totoong Dan Ju
+Dialogue: 0,0:53:40.29,0:53:42.20,pangkalahatang teksto,,0,0,0,,Ang araw na nabawi ng pamilya Choi ang kapangyarihan,
+Dialogue: 0,0:53:42.83,0:53:46.75,pangkalahatang teksto,,0,0,0,,at Sosnovy Bor, ang dahilan ng ating pagkahulog, ay nawasak
+Dialogue: 0,0:53:48.75,0:53:51.96,pangkalahatang teksto,,0,0,0,, malapit na malapit na. Pagkatapos ay magsisimula akong maghari sa Daeho
+Dialogue: 0,0:53:53.72,0:53:56.26,pangkalahatang teksto,,0,0,0,,Inaasahan ko ang araw na ito na hindi bababa sa iyo
+Dialogue: 0,0:53:57.68,0:54:01.10,pangkalahatang teksto,,0,0,0,,Kailangan nating hanapin at patayin ang humarap kay Kil Ju
+Dialogue: 0,0:54:02.60,0:54:05.06,general text,,0,0,0,,Malamang naghihintay ang lalaking ito hanggang Kil Ju
+Dialogue: 0,0:54:05.14,0:54:07.90,pangkalahatang teksto,,0,0,0,,pupunta sa palasyo para sa bato
+Dialogue: 0,0:54:07.98,0:54:10.57,general text,,0,0,0,,Kung alam niya kung nasaan ang bato,
+Dialogue: 0,0:54:11.07,0:54:12.44,pangkalahatang teksto,,0,0,0,,dapat mong mahanap
+Dialogue: 0,0:54:13.57,0:54:14.86,pangkalahatang teksto,,0,0,0,,at patayin siya
+Dialogue: 0,0:54:19.45,0:54:20.91,pangkalahatang teksto,,0,0,0,,Hindi ko alam kung sino ito,
+Dialogue: 0,0:54:21.95,0:54:23.91,general text,,0,0,0,,pero ang totoong Dan Zhu ay nasa palasyo at may bato
+Dialogue: 0,0:54:24.00,0:54:26.71,pangkalahatang teksto,,0,0,0,,Sa tulong nito, ang mga nomad ay hindi nagiging kaluluwang lumulunok
+Dialogue: 0,0:54:28.79,0:54:32.05,general text,,0,0,0,,So, kailangan nating pumasok sa palasyo at hanapin si Dan Zhu?
+Dialogue: 0,0:54:32.13,0:54:34.13,pangkalahatang teksto,,0,0,0,,Imposible ito ngayon
+Dialogue: 0,0:54:34.92,0:54:37.38,pangkalahatang teksto,,0,0,0,,Ako ay isang mahinang salamangkero na tinanggihan ni Jeongjingak
+Dialogue: 0,0:54:38.01,0:54:40.60,pangkalahatang teksto,,0,0,0,,Ngunit itutuloy ko
+Dialogue: 0,0:54:41.72,0:54:44.22,general text,,0,0,0,,At tiyak na makakarating ako sa palasyo
+Dialogue: 0,0:54:45.81,0:54:46.85,pangkalahatang teksto,,0,0,0,,Guro,
+Dialogue: 0,0:54:48.10,0:54:49.35,pangkalahatang teksto,,0,0,0,,Hahanapin ko
+Dialogue: 0,0:54:50.40,0:54:51.77,pangkalahatang teksto,,0,0,0,,bato para sa iyo
+Dialogue: 0,0:54:57.28,0:54:58.32,pangkalahatang teksto,,0,0,0,,Chan Wook
+Dialogue: 0,0:54:59.20,0:55:01.53,general text,,0,0,0,,Hindi sapat ang lakas ng teacher mo para hilahin ka pataas
+Dialogue: 0,0:55:02.62,0:55:05.29,pangkalahatang text,,0,0,0,,o cover mula sa likod
+Dialogue: 0,0:55:06.96,0:55:10.13,general text,,0,0,0,,Hindi ka pa naging ganito
+Dialogue: 0,0:55:10.67,0:55:12.25,pangkalahatang teksto,,0,0,0,,Palagi akong itinulak sa kamatayan
+Dialogue: 0,0:55:15.76,0:55:19.68,italics,,0,0,0,,Ngunit sa bawat pagkakataon na naging mas mabuti at mas malakas ako kaysa dati
+Dialogue: 0,0:55:23.47,0:55:25.31,pangkalahatang text,,0,0,0,,Patuloy mo akong ilagay sa panganib
+Dialogue: 0,0:55:25.89,0:55:27.52,pangkalahatang teksto,,0,0,0,,Ang pangunahing bagay ay maging malapit
+Dialogue: 0,0:55:37.49,0:55:38.70,pangkalahatang teksto,,0,0,0,,Okay
+Dialogue: 0,0:55:39.65,0:55:41.78,pangkalahatang teksto,,0,0,0,,Pupunta ako doon at itulak ka hanggang sa kamatayan,
+Dialogue: 0,0:55:41.87,0:55:44.20,pangkalahatang text,,0,0,0,,kung hihinto ka
+Dialogue: 0,0:56:11.73,0:56:14.81,general text,,0,0,0,,Hahanapin ko si Uka at sisiguraduhin kong hindi siya sasama sa laban.
+Dialogue: 0,0:56:16.65,0:56:17.94,pangkalahatang teksto,,0,0,0,,Hindi na kailangan
+Dialogue: 0,0:56:18.49,0:56:20.82,general text,,0,0,0,,Kung gusto niyang sumama,
+Dialogue: 0,0:56:21.70,0:56:22.66,pangkalahatang teksto,,0,0,0,,hayaan
+Dialogue: 0,0:56:22.74,0:56:25.41,pangkalahatang teksto,,0,0,0,,Ito ay isang opisyal na tunggalian sa pagitan ng mga salamangkero
+Dialogue: 0,0:56:26.16,0:56:28.37,pangkalahatang teksto,,0,0,0,,Hindi kami makikialam kahit may mamatay
+Dialogue: 0,0:56:30.50,0:56:32.25,pangkalahatang teksto,,0,0,0,,Kung may namatay,
+Dialogue: 0,0:56:34.21,0:56:35.71,pangkalahatang teksto,,0,0,0,,kaya magiging ganito
+Dialogue: 0,0:56:40.13,0:56:41.67,general text,,0,0,0,,Hindi mo ito titigilan?
+Dialogue: 0,0:56:45.64,0:56:48.31,pangkalahatang teksto,,0,0,0,,Hiningi ng Unified Council kay Uka
+Dialogue: 0,0:56:48.39,0:56:50.48,pangkalahatang teksto,,0,0,0,,lumaban sa ngalan ni Sosnovy Bor
+Dialogue: 0,0:56:51.39,0:56:53.31,general text,,0,0,0,,Tatakbo siya palayo sa duwag
+Dialogue: 0,0:56:54.02,0:56:56.11,pangkalahatang teksto,,0,0,0,,at mamamatay nang may karangalan,
+Dialogue: 0,0:56:56.90,0:57:01.78,general text,,0,0,0,,Manunuod lang ako bilang head ng Sosnovy Bor
+Dialogue: 0,0:58:33.91,0:58:38.21,general text,,0,0,0,,Dumating na ang kanilang Lordships the King and Queen
+Dialogue: 0,0:59:11.28,0:59:14.08,pangkalahatang teksto,,0,0,0,,Isang buwan na ang nakalipas Go Won, tagapagmana ng pamilya ng hari ng Daeho,
+Dialogue: 0,0:59:14.16,0:59:17.71,pangkalahatang teksto,,0,0,0,,hinamon ang panganay na anak ng pamilya Chan sa isang tunggalian
+Dialogue: 0,0:59:17.79,0:59:21.33,pangkalahatang teksto,,0,0,0,,Tinanggap ni Sosnovy Bor ang hamon sa ngalan ni Chan Wook
+Dialogue: 0,0:59:22.13,0:59:24.17,italics,,0,0,0,,Sa pamamagitan ng pagpirma sa papel na ito,
+Dialogue: 0,0:59:24.25,0:59:26.46,pangkalahatang teksto,,0,0,0,, sumasang-ayon kang huwag gumawa ng anumang paghahabol
+Dialogue: 0,0:59:27.42,0:59:30.47,general text,,0,0,0,,kahit may mamatay
+Dialogue: 0,0:59:32.18,0:59:35.97,general text,,0,0,0,,Magsisimula ang duel sa tanghali
+Dialogue: 0,0:59:36.64,0:59:38.73,pangkalahatang text,,0,0,0,,Kung hindi sumipot si Chang Wook noon,
+Dialogue: 0,0:59:39.52,0:59:41.52,pangkalahatang teksto,,0,0,0,,tatanggapin natin ito bilang isang pagkatalo
+Dialogue: 0,0:59:44.23,0:59:49.24,general text,,0,0,0,,Dapat mong banggitin ang parusang matatanggap niya kapag hindi siya sumipot
+Dialogue: 0,0:59:52.53,0:59:57.12,general text,,0,0,0,,Kung hindi dumating si Chang Wook ngayon,
+Dialogue: 0,0:59:57.91,1:00:02.00,general text,,0,0,0,,mawawalan siya ng karapatang maging susunod na Gwangju
+Dialogue: 0,1:00:03.92,1:00:05.34,pangkalahatang teksto,,0,0,0,,Jeonbugwan
+Dialogue: 0,1:00:26.44,1:00:27.36,pangkalahatang teksto,,0,0,0,,Lumapit ka sa akin
+Dialogue: 0,1:00:29.11,1:00:30.95,pangkalahatang teksto,,0,0,0,,Ano ang nasa mga jugs na iyon?
+Dialogue: 0,1:00:32.74,1:00:34.41,pangkalahatang teksto,,0,0,0,,Tubig
+Dialogue: 0,1:00:34.99,1:00:36.53,pangkalahatang teksto,,0,0,0,,Tubig?
+Dialogue: 0,1:01:09.23,1:01:11.19,general text,,0,0,0,,Chapter, tanghali na
+Dialogue: 0,1:01:11.28,1:01:13.24,pangkalahatang text,,0,0,0,,Isara ang pinto ng bulwagan
+Dialogue: 0,1:01:14.45,1:01:15.62,pangkalahatang teksto,,0,0,0,,Dapat kong
+Dialogue: 0,1:01:16.87,1:01:18.37,pangkalahatang teksto,,0,0,0,,ipahayag ang kanyang pagkawala
+Dialogue: 0,1:01:38.43,1:01:39.35,pangkalahatang teksto,,0,0,0,,Isara
+Dialogue: 0,1:01:54.40,1:01:55.66,general text,,0,0,0,,Dumating na si Chan Wook!
+Dialogue: 0,1:02:05.00,1:02:05.92,pangkalahatang teksto,,0,0,0,,Mr...
+Dialogue: 0,1:02:36.61,1:02:37.61,pangkalahatang teksto,,0,0,0,,Mr.
+Dialogue: 0,1:02:39.20,1:02:40.20,pangkalahatang teksto,,0,0,0,,Magiging maayos ang lahat
+Dialogue: 0,1:02:44.75,1:02:47.08,mga inskripsiyon,,0,0,0,,Chan Wook
+Dialogue: 0,1:03:07.39,1:03:09.35,pangkalahatang text,,0,0,0,,Pirmahan mo ang papel
+Dialogue: 0,1:03:09.44,1:03:10.94,pangkalahatang teksto,,0,0,0,,Ngayon walang makikialam,
+Dialogue: 0,1:03:11.69,1:03:13.69,general text,,0,0,0,,kahit mamatay ka sa laban
+Dialogue: 0,1:03:14.90,1:03:16.07,pangkalahatang text,,0,0,0,,Got it
+Dialogue: 0,1:03:19.78,1:03:20.99,pangkalahatang teksto,,0,0,0,,Ina,
+Dialogue: 0,1:03:21.07,1:03:23.70,general text,,0,0,0,,stop this fight
+Dialogue: 0,1:03:24.45,1:03:27.25,general text,,0,0,0,,Mamamatay siya sa kamay ng Crown Prince
+Dialogue: 0,1:03:27.33,1:03:29.33,general text,,0,0,0,,Dumating siya dahil handa na siyang mamatay
+Dialogue: 0,1:03:30.42,1:03:32.13,general text,,0,0,0,,Ang iyong kasal ay dissolved muli
+Dialogue: 0,1:03:32.21,1:03:34.96,pangkalahatang teksto,,0,0,0,,Walang kinalaman sa atin ang kanyang kapalaran
+Dialogue: 0,1:03:48.48,1:03:49.85,pangkalahatang text,,0,0,0,,Maaari kang magsimula
+Dialogue: 0,1:04:19.05,1:04:21.26,memories italics,,0,0,0,,Una: wag kang umatake, ipagtanggol mo lang sarili mo
+Dialogue: 0,1:04:21.34,1:04:23.51,mga alaala,,0,0,0,,Atakihin mo siya gamit ang iyong kakayahan -
+Dialogue: 0,1:04:25.05,1:04:26.22,mga alaala,,0,0,0,,mamamatay ka
+Dialogue: 0,1:04:28.14,1:04:30.06,mga alaala,,0,0,0,,Maaari ka lang umatake kapag siya
+Dialogue: 0,1:04:31.23,1:04:32.81,mga alaala,,0,0,0,,nawalan ng konsentrasyon
+Dialogue: 0,1:05:10.85,1:05:12.81,behind the scenes,,0,0,0,,Sigurado akong nilagay niya sila
+Dialogue: 0,1:05:12.89,1:05:15.61,memories italics,,0,0,0,,Makakapunta ka ba talaga sa Sosnovy Bor kahit kailan mo gusto?
+Dialogue: 0,1:05:16.65,1:05:17.82,mga alaala,,0,0,0,,Oo. At ano?
+Dialogue: 0,1:05:18.86,1:05:20.40,mga alaala,,0,0,0,,may hiling ako
+Dialogue: 0,1:05:20.99,1:05:22.82,mga alaala,,0,0,0,,Maaari kang maglagay ng tubig sa training room,
+Dialogue: 0,1:05:22.90,1:05:24.99,memories,,0,0,0,,para magamit niya si Tansu?
+Dialogue: 0,1:05:39.17,1:05:42.17,mga alaala,,0,0,0,,Nalilito ako nitong mga jug ng tubig
+Dialogue: 0,1:05:43.88,1:05:44.84,mga alaala,,0,0,0,,Basag sila
+Dialogue: 0,1:06:44.65,1:06:45.70,pangkalahatang teksto,,0,0,0,,Host
+Dialogue: 0,1:06:57.37,1:06:58.50,pangkalahatang teksto,,0,0,0,,Tansu
+Dialogue: 0,1:07:16.43,1:07:17.39,pangkalahatang teksto,,0,0,0,,Prinsipe...
+Dialogue: 0,1:07:17.48,1:07:18.56,pangkalahatang teksto,,0,0,0,,Duel
+Dialogue: 0,1:07:19.10,1:07:20.27,pangkalahatang text,,0,0,0,,over
+Dialogue: 0,1:07:25.32,1:07:27.65,pangkalahatang teksto,,0,0,0,,Hindi patas. Hindi binibilang!
+Dialogue: 0,1:07:37.50,1:07:39.04,pangkalahatang teksto,,0,0,0,,Ito ay Tansu
+Dialogue: 0,1:07:39.96,1:07:42.92,pangkalahatang teksto,,0,0,0,, Tanging ang mga nakakabisado sa Chisu ang makakabisado nito
+Dialogue: 0,1:07:43.79,1:07:47.55,pangkalahatang text,,0,0,0,,Paano kaya siyang si Chan Wook, na kamakailan lang ay binuksan ang gate, ay angkinin siya?
+Dialogue: 0,1:07:47.63,1:07:48.97,pangkalahatang text,,0,0,0,,Sigurado ako,
+Dialogue: 0,1:07:49.05,1:07:52.30,general text,,0,0,0,,na tinulungan siya ng isa sa mga master
+Dialogue: 0,1:07:52.39,1:07:55.51,italics,,0,0,0,,Paano nila siya tutulungan,
+Dialogue: 0,1:07:55.60,1:07:57.43,general text,,0,0,0,,kung napanood ng lahat?
+Dialogue: 0,1:07:57.52,1:07:58.98,general text,,0,0,0,,Huwag magsalita ng walang kapararakan!
+Dialogue: 0,1:07:59.60,1:08:01.56,italics,,0,0,0,,Chan Wook, sagot
+Dialogue: 0,1:08:01.65,1:08:04.19,general text,,0,0,0,,Kabisado mo talaga si Chisa, tapos si Tansa
+Dialogue: 0,1:08:04.27,1:08:05.98,pangkalahatang teksto,,0,0,0,,sa maikling panahon?
+Dialogue: 0,1:08:07.53,1:08:08.86,pangkalahatang teksto,,0,0,0,,Hindi talaga
+Dialogue: 0,1:08:09.78,1:08:11.78,pangkalahatang teksto,,0,0,0,,Mahina ang kontrol sa enerhiya
+Dialogue: 0,1:08:11.86,1:08:14.12,general text,,0,0,0,,Tansa ko lang magagamit kung may tubig
+Dialogue: 0,1:08:14.70,1:08:17.41,general text,,0,0,0,,Maghiwa ng tubig lang ang alam ko
+Dialogue: 0,1:08:17.50,1:08:19.79,general text,,0,0,0,,Sino ang nagturo sa iyo nito?
+Dialogue: 0,1:08:21.58,1:08:23.79,pangkalahatang text,,0,0,0,,Dapat may tumulong sa iyo
+Dialogue: 0,1:08:26.96,1:08:28.01,pangkalahatang text,,0,0,0,,Walang tao
+Dialogue: 0,1:08:29.92,1:08:30.97,general text,,0,0,0,,You look
+Dialogue: 0,1:08:31.68,1:08:33.14,general text,,0,0,0,,Nakakatuwa lang
+Dialogue: 0,1:08:33.22,1:08:35.76,pangkalahatang teksto,,0,0,0,,Ipinapahayag na siya mismo ay nakabisado ang kasanayang ito
+Dialogue: 0,1:08:38.85,1:08:41.44,general text,,0,0,0,,Napansin ko ang mga pitsel ng tubig dito
+Dialogue: 0,1:08:43.15,1:08:45.19,pangkalahatang teksto,,0,0,0,,Sino ang naglagay sa kanila?
+Dialogue: 0,1:08:46.86,1:08:48.69,pangkalahatang teksto,,0,0,0,,Ang iyong guro?
+Dialogue: 0,1:08:50.57,1:08:52.03,general text,,0,0,0,,Nag-aral ako sa sarili ko
+Dialogue: 0,1:08:52.11,1:08:53.49,general text,,0,0,0,,Hindi ako mahuhulog dito!
+Dialogue: 0,1:08:53.57,1:08:55.45,pangkalahatang teksto,,0,0,0,,Chan Wook, ipaliwanag ang iyong sarili
+Dialogue: 0,1:08:58.91,1:09:02.04,pangkalahatang text,,0,0,0,,Sino ang tumulong sa iyo sa pagsasanay?
+Dialogue: 0,1:09:12.17,1:09:13.26,italics,,0,0,0,,Inilagay ko ang mga jugs
+Dialogue: 0,1:09:25.90,1:09:27.48,general text,,0,0,0,,At kasama ko siya
+Dialogue: 0,1:09:28.27,1:09:31.44,general text,,0,0,0,,Totoo lahat ng sinabi niya
+Dialogue: 0,1:09:35.11,1:09:36.28,general text,,0,0,0,,At sino ka?
+Dialogue: 0,1:09:37.20,1:09:39.12,general text,,0,0,0,,How dare you interfere?
+Dialogue: 0,1:09:39.20,1:09:40.29,general text,,0,0,0,,Tumahimik ka!
+Dialogue: 0,1:09:41.04,1:09:43.71,pangkalahatang teksto,,0,0,0,,Ito ang Hemp Master Li
+Dialogue: 0,1:09:43.79,1:09:45.50,general text,,0,0,0,,Apprentice ni Master Seo Kyung
+Dialogue: 0,1:09:45.58,1:09:47.42,pangkalahatang teksto,,0,0,0,,Batiin mo siya!
+Dialogue: 0,1:09:50.80,1:09:52.63,pangkalahatang teksto,,0,0,0,,Kumusta, master
+Dialogue: 0,1:09:55.47,1:09:58.89,general text,,0,0,0,,Kasama ko siya sa Danhyangk at nakita ko ang lahat
+Dialogue: 0,1:09:58.97,1:10:01.68,pangkalahatang teksto,,0,0,0,,Gumugol siya ng mga araw sa pag-aaral na tumaga ng mga patak ng tubig
+Dialogue: 0,1:10:04.89,1:10:06.44,pangkalahatang teksto,,0,0,0,,At kasama nito
+Dialogue: 0,1:10:07.94,1:10:10.32,general text,,0,0,0,,nandoon lang ang kasambahay niya
+Dialogue: 0,1:10:12.36,1:10:15.40,pangkalahatang teksto,,0,0,0,,Si Master Li ay nagtitiwala para sa kanya
+Dialogue: 0,1:10:17.45,1:10:21.91,pangkalahatang teksto,,0,0,0,,Mayroon bang iba pang pagtutol?
+Dialogue: 0,1:10:56.86,1:10:58.49,general text,,0,0,0,,Let's go, Your Majesty
+Dialogue: 0,1:11:15.59,1:11:18.34,pangkalahatang text,,0,0,0,,Pasukin ni Chan Wook si Jeonbugwan
+Dialogue: 0,1:11:31.48,1:11:34.90,pangkalahatang teksto,,0,0,0,,Hindi nakakagulat na ang anak ni Gwangju Chang Gan ay napakatalino
+Dialogue: 0,1:11:34.98,1:11:40.03,general text,,0,0,0,,Dahil wala ka pang guro, malugod kang tatanggapin ni Jeonbugwan
+Dialogue: 0,1:11:40.82,1:11:42.70,general text,,0,0,0,,Hindi ko kailangan dito!
+Dialogue: 0,1:11:42.78,1:11:45.12,general text,,0,0,0,,Ako dapat ang maging guro niya
+Dialogue: 0,1:11:45.20,1:11:48.33,general text,,0,0,0,,Binuksan ko ang gate niya, at ako ang nagbigay ng lakas ko sa kanya.
+Dialogue: 0,1:11:48.41,1:11:50.83,general text,,0,0,0,,Uk, sumama ka sa akin sa Sejukwon
+Dialogue: 0,1:11:50.92,1:11:53.21,general text,,0,0,0,,Ituturo ko sa iyo ang lahat ng nalalaman ko
+Dialogue: 0,1:11:53.29,1:11:55.55,general text,,0,0,0,,O baka sa Jinyoewon?
+Dialogue: 0,1:11:57.30,1:11:59.13,pangkalahatang teksto,,0,0,0,,Nasira ang pakikipag-ugnayan kay Cho Young,
+Dialogue: 0,1:11:59.22,1:12:02.47,pangkalahatang teksto,,0,0,0,,ngunit ituturing namin kayong pamilya at ituro sa inyo ang aming mga spells
+Dialogue: 0,1:12:06.93,1:12:08.14,pangkalahatang teksto,,0,0,0,,Chan Wook,
+Dialogue: 0,1:12:09.02,1:12:11.27,general text,,0,0,0,,kung gusto mo, pwede kang sumali sa Jeonjingak
+Dialogue: 0,1:12:12.98,1:12:14.27,general text,,0,0,0,,Tatanggapin ka namin
+Dialogue: 0,1:12:33.46,1:12:34.59,pangkalahatang teksto,,0,0,0,,Mu Dok,
+Dialogue: 0,1:12:34.67,1:12:38.42,general text,,0,0,0,,tawag sa akin ng lahat. Saan pupunta?
+Dialogue: 0,1:12:50.89,1:12:52.69,pangkalahatang teksto,,0,0,0,,Ipasok ang Sosnovy Bor,
+Dialogue: 0,1:12:53.56,1:12:54.69,pangkalahatang teksto,,0,0,0,,host
+Dialogue: 0,1:13:04.70,1:13:06.78,pangkalahatang teksto,,0,0,0,,Ako, si Chan Wook, ang panganay na anak ng pamilya Chan,
+Dialogue: 0,1:13:07.58,1:13:09.66,general text,,0,0,0,,Papasok ako sa Jeonjingak
+Dialogue: 0,1:14:06.79,1:14:09.92,preview,,0,0,0,,Ang master ay naging magician ng Jeonjingak
+Dialogue: 0,1:14:10.01,1:14:13.22,preview,,0,0,0,,Welcome ang aming bagong magician na si Chan Wook
+Dialogue: 0,1:14:13.88,1:14:16.05,preview,,0,0,0,,kinasusuklaman ko ang iyong panginoon hanggang sa gumiling ang aking ngipin
+Dialogue: 0,1:14:16.14,1:14:17.05,preview,,0,0,0,,Siyempre
+Dialogue: 0,1:14:19.81,1:14:22.06,preview,,0,0,0,,Kung ang pag-ibig na ito ay pabagu-bago, kung gayon hindi ko ito kailangan!
+Dialogue: 0,1:14:22.14,1:14:23.10,preview,,0,0,0,,Papasukin mo ako
+Dialogue: 0,1:14:23.19,1:14:24.02,preview,,0,0,0,,Moo Dok
+Dialogue: 0,1:14:24.10,1:14:26.44,preview,,0,0,0,,Dapat kasama ko ang may-ari
+Dialogue: 0,1:14:26.52,1:14:27.65,preview,,0,0,0,,Umuwi ka na, maghintay ka dyan
+Dialogue: 0,1:14:27.73,1:14:30.07,preview,,0,0,0,,Mr. Lumabas si Chan at umuwi
+Dialogue: 0,1:14:30.82,1:14:32.70,preview,,0,0,0,,Master! Maghintay ka dyan
+Dialogue: 0,1:14:32.78,1:14:34.95,preview,,0,0,0,,- Pupunta ako sa iyo\N- Nakita ko ang mga tanong para sa pagsusulit
+Dialogue: 0,1:14:35.61,1:14:36.87,preview,,0,0,0,,Anuman ang mangyari,
+Dialogue: 0,1:14:36.95,1:14:39.37,preview,,0,0,0,,Pupunta ako sa Sosnovy Bor sa may-ari
+Dialogue: 0,1:14:39.45,1:14:40.66,preview,,0,0,0,,Moo Dok
+Dialogue: 0,1:14:40.74,1:14:43.75,preview,,0,0,0,,Kakayanin ko kahit ano makita lang kita
+Dialogue: 0,0:02:57.14,0:02:59.14,preview,,0,0,0,,
+
+Komento: 0,1:13:41.43,1:13:52.74,tapos ang mga credit sa background,,0,0,0,,{\pos(472,518)}/////////////////////////////////
+Komento: 0,0:02:45.14,0:02:47.14,nicks,,0,0,0,,Beta editor: {\c&HFFF4C5&} Sana
