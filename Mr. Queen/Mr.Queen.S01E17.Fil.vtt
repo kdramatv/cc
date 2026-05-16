@@ -1,0 +1,889 @@
+WEBVTT
+
+[Impormasyon ng script]
+; Ang script ay nabuo ng Aegisub 3.2.2
+; http://www.aegisub.org/
+Pamagat: Default na Aegisub file
+Uri ng Iskrip: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: oo
+YCbCr Matrix: TV.601
+PlayResX: 1280
+PlayResY: 720
+[Mga Basura ng Aegisub Project]
+Imbakan ng Huling Estilo: РќР°РґРїРёСЃРё
+Audio File: Как я стал королевой - 17.mp4
+File ng Video: Как я стал королевой - 17.mp4
+Video AR Mode: 4
+Halaga ng AR ng Video: 1.777778
+Porsyento ng Pag-zoom ng Video: 0.500000
+Posisyon ng Pag-scroll: 653
+Aktibong Linya: 662
+Posisyon ng Video: 94779
+
+
+[V4+ Styles]
+Format: Pangalan, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Estilo: Default,Arial,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,5,0,2,10,10,50,1
+Estilo: работали,Arial,30,&H00201D20,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
+Estilo: название,bang whack pow,120,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,1,10,10,10,1
+Estilo: ПРЕДСТ,Segoe UI,60,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,8,10,10,
+
+[Mga Kaganapan]
+Format: Minarkahan, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:58.00,0:01:03.98,ПРЕДСТ,,0,0,0,,ФАНСАБ-ГРУППА АЗАЛИИ ПРЕДДСТА
+Dialogue: 0,0:00:58.00,0:01:03.98,Default,,0,0,0,,{\c&HFFFFFF&\fade(00,0)\p1\a5\bord0\1a&H00&\pos(430,206)\fscx807}\fscy2007 92 38 l 0 38
+Dialogue: 0,0:00:58.00,0:01:03.98,nagtrabaho,,0,0,0,,{\pos(801,256)}Gumawa sa serye:\N Lily, Tiramisu, Biryulka, Host, Zinger, Hazelnut
+Dialogue: 0,0:00:58.00,0:01:03.98,title,,0,0,0,,{\fscx75\fscy75\pos(846,392)}Paano ako naging
+Dialogue: 0,0:00:58.00,0:01:03.98,pangalan,,0,0,0,,{\fscx75\fscy75\pos(848,456)}reyna
+Dialogue: 0,0:01:13.06,2:01:37.06,PRESENT,,0,0,0,,{\fs40\pos(1181,4)}AZALEA
+Dialogue: 0,0:01:04.09,0:01:06.37,Default,li,0,0,0,,Lahat ng character ay kathang-isip lang,
+Dialogue: 0,0:01:06.37,0:01:08.54,Default,li,0,0,0,,at ang mga kaganapang ipinakita ay kathang-isip.
+Dialogue: 0,0:01:09.80,0:01:12.30,Default,li,0,0,0,,Binabati kita, Kamahalan.
+Dialogue: 0,0:01:18.37,0:01:19.82,Default,li,0,0,0,,My queen, salamat.
+Dialogue: 0,0:01:28.75,0:01:31.82,Default,li,0,0,0,,-Binabati kita, Kamahalan!\N-Binabati kita, Kamahalan!
+Dialogue: 0,0:01:34.60,0:01:36.69,Default,li,0,0,0,,Magiging ama na ako!
+Dialogue: 0,0:01:41.46,0:01:42.54,Default,li,0,0,0,,I
+Dialogue: 0,0:01:44.90,0:01:46.50,Default,ay,0,0,0,,buntis?
+Dialogue: 0,0:02:07.83,0:02:09.89,Default,li,0,0,0,,Itigil mo na!
+Dialogue: 0,0:02:23.10,0:02:24.35,Default,li,0,0,0,,-Lord.\N-Umalis ka na dito.
+Dialogue: 0,0:02:24.47,0:02:26.08,Default,li,0,0,0,,-Kamahalan.\N-Panginoon.
+Dialogue: 0,0:02:40.30,0:02:42.72,Default,li,0,0,0,,Bakit galit na galit ang reyna?
+Dialogue: 0,0:02:43.36,0:02:45.66,Default,li,0,0,0,,Hindi siya nagagalit.
+Dialogue: 0,0:02:46.07,0:02:48.21,Default,li,0,0,0,,Ganito niya ipinapahayag ang kanyang kagalakan.
+Dialogue: 0,0:02:48.94,0:02:50.00,Default,li,0,0,0,,Oo.
+Dialogue: 0,0:02:53.94,0:02:57.10,Default,ay,0,0,0,,Epekto ba ito ng pagbubuntis?
+Dialogue: 0,0:03:00.64,0:03:03.08,Default,o,0,0,0,,Ito ay higit pa sa isang pagkabigo sa pagkilala sa sarili.
+Dialogue: 0,0:03:03.08,0:03:05.98,Default,li,0,0,0,,Mawawala ang aking pagkakakilanlan at mawawala ang aking kaluluwa.
+Dialogue: 0,0:03:07.82,0:03:10.22,Default,kung,0,0,0,,Ganito ba magtatapos ang buhay ko?
+Dialogue: 0,0:03:13.82,0:03:16.50,Default,li,0,0,0,,Sinabi ko sa iyo na tutol ako sa kasal.
+Dialogue: 0,0:03:16.57,0:03:18.47,Default,o,0,0,0,,Kahit na ako ay may asawa,
+Dialogue: 0,0:03:18.47,0:03:20.07,Default,li,0,0,0,,Ayokong magkaanak.
+Dialogue: 0,0:03:20.44,0:03:23.10,Default,li,0,0,0,,Mahirap para sa akin na mabuhay\N sa pagalit na mundong ito,
+Dialogue: 0,0:03:23.10,0:03:24.31,Default,kung,0,0,0,,anong uri ng pagbubuntis?
+Dialogue: 0,0:03:24.54,0:03:26.44,Default,li,0,0,0,,Kasing walang ingat sa pagtanggal ng iyong baluti sa katawan
+Dialogue: 0,0:03:26.44,0:03:28.67,Default,li,0,0,0,,at sumayaw ng samba sa ilalim ng apoy.
+Dialogue: 0,0:03:29.85,0:03:30.97,Default,li,0,0,0,,At hindi lang iyon.
+Dialogue: 0,0:03:31.00,0:03:33.94,Default,kung,0,0,0,,Pinaikli ng pagbubuntis at panganganak ang pag-asa sa buhay.
+Dialogue: 0,0:03:34.04,0:03:36.54,Default,li,0,0,0,,Isuko mo ang iyong buhay para mabuhay ang iyong anak.
+Dialogue: 0,0:03:36.88,0:03:38.69,Default,li,0,0,0,,Dapat kong isuko ang aking buhay
+Dialogue: 0,0:03:38.69,0:03:40.62,Default ba,0,0,0,,para sa kapakanan ng isang bata na hindi ko kilala?
+Dialogue: 0,0:03:42.66,0:03:46.85,Default,o,0,0,0,,Damn Inang Kalikasan, bigyan ang ibang tao ng procreation!
+Dialogue: 0,0:03:51.54,0:03:57.20,Default,li,0,0,0,,Hindi ako naniniwalang buntis ako!
+Dialogue: 0,0:04:02.88,0:04:05.72,Default,li,0,0,0,,Kahanga-hanga ang pagbubuntis
+Dialogue: 0,0:04:06.44,0:04:08.98,Default,li,0,0,0,,Maghintay, Kamahalan.
+Dialogue: 0,0:04:09.91,0:04:12.66,Default,li,0,0,0,,17 episode
+Dialogue: 0,0:04:17.53,0:04:19.32,Default,li,0,0,0,,Nagtanim ka ng ibang katawan.
+Dialogue: 0,0:04:19.42,0:04:22.40,Default,li,0,0,0,,Akala mo hindi ko makikilala si Ovol?
+Dialogue: 0,0:04:23.72,0:04:27.13,Default,li,0,0,0,,Ginawa ko ito para malaman mo
+Dialogue: 0,0:04:27.63,0:04:30.07,Default,o,0,0,0,,ang tunay kong pagkatao, na hindi ko man lang pinaghinalaan.
+Dialogue: 0,0:04:30.66,0:04:34.20,Default,li,0,0,0,,Tumalikod ang Reyna sa Andonian Kims.
+Dialogue: 0,0:04:34.63,0:04:38.17,Default,li,0,0,0,,Nakaisa sa amin ang Andonian Kims.
+Dialogue: 0,0:04:38.97,0:04:42.72,Default,li,0,0,0,,Ito na ang pagkakataon mong maging reyna.
+Dialogue: 0,0:04:43.75,0:04:47.66,Default,li,0,0,0,,Huwag mo na akong subukang kontrolin.
+Dialogue: 0,0:04:53.19,0:04:55.90,Default,li,0,0,0,,Gaano katagal mabubuhay ang ibong pinaamo ng tao,
+Dialogue: 0,0:04:56.87,0:04:59.90,Default,kung,0,0,0,,kung umalis siya sa selda?
+Dialogue: 0,0:05:02.94,0:05:07.44,Default,li,0,0,0,,May balitang gustong iparating sa buong mundo ang hari.
+Dialogue: 0,0:05:07.91,0:05:09.60,Default,o,0,0,0,,Alin?
+Dialogue: 0,0:05:09.97,0:05:11.62,Default,li,0,0,0,,Queen
+Dialogue: 0,0:05:13.28,0:05:15.29,Default,ay,0,0,0,,buntis.
+Dialogue: 0,0:05:37.73,0:05:41.58,Default,li,0,0,0,,Ito ay isang drum na nagpapahayag ng isang masayang kaganapan.
+Dialogue: 0,0:06:16.15,0:06:18.31,Default,li,0,0,0,,Ngayong walang laman ang pantry ko,
+Dialogue: 0,0:06:18.81,0:06:21.48,Default,o,0,0,0,,walang dapat punan ang pusong walang laman.
+Dialogue: 0,0:06:22.68,0:06:26.11,Default,li,0,0,0,,Walang delicacy ang pupuno sa tiyan ko...
+Dialogue: 0,0:06:27.39,0:06:31.05,Default,li,0,0,0,,Hindi, aking kaluluwa. Paano ito punan?
+Dialogue: 0,0:06:31.85,0:06:34.20,Default,li,0,0,0,,Tinalikuran ko ang pamilya ko.
+Dialogue: 0,0:06:35.03,0:06:37.77,Default,li,0,0,0,,Loner ako.
+Dialogue: 0,0:06:40.97,0:06:42.14,Default,li,0,0,0,,Mr!
+Dialogue: 0,0:06:42.66,0:06:43.80,Default,li,0,0,0,,Mr!
+Dialogue: 0,0:06:45.28,0:06:47.51,Default,li,0,0,0,,-Mr!\N-Ano?
+Dialogue: 0,0:06:47.51,0:06:49.37,Default,li,0,0,0,,Apurahang balita mula sa palasyo.
+Dialogue: 0,0:06:52.65,0:06:56.29,Default,li,0,0,0,,May nangyari sa reyna?
+Dialogue: 0,0:06:56.48,0:06:59.85,Default,li,0,0,0,,Buntis ang Reyna!
+Dialogue: 0,0:07:05.70,0:07:07.79,Default,o,0,0,0,,Ano ang dahilan?
+Dialogue: 0,0:07:11.47,0:07:14.49,Default,li,0,0,0,,Kamahalan, sa halip na maghanap ng dahilan,
+Dialogue: 0,0:07:14.49,0:07:18.87,Default,o,0,0,0,,baka maaari mong subukang paginhawahin siya?
+Dialogue: 0,0:07:19.01,0:07:22.01,Default,li,0,0,0,,Magandang ideya. Paano ito gawin?
+Dialogue: 0,0:07:22.01,0:07:24.21,Default,li,0,0,0,,Paano pasayahin ang isang babae?
+Dialogue: 0,0:07:28.35,0:07:30.61,Default,li,0,0,0,,Paano mo malalaman iyon.
+Dialogue: 0,0:07:32.05,0:07:34.89,Default,li,0,0,0,,At sino ang dapat kong itanong tungkol dito?
+Dialogue: 0,0:07:40.03,0:07:41.22,Default,li,0,0,0,,So I
+Dialogue: 0,0:07:41.79,0:07:45.34,Default,li,0,0,0,,nag-imbita ng isang eksperto upang tumulong sa paglutas ng iyong mga problema.
+Dialogue: 0,0:08:05.46,0:08:09.29,Default,li,0,0,0,,Kamakailan, ito lang ang tanong na iniisip niya.
+Dialogue: 0,0:08:16.70,0:08:18.27,Default,li,0,0,0,,Ano ang ginagawa mo?
+Dialogue: 0,0:08:18.27,0:08:20.34,Default,li,0,0,0,,Malamang magagalit din siya.
+Dialogue: 0,0:08:21.64,0:08:23.97,Default,li,0,0,0,,At pagkatapos ay sasabihin mo.
+Dialogue: 0,0:08:26.64,0:08:28.71,Default,li,0,0,0,,"Nagdilig ako ng bulaklak ko."
+Dialogue: 0,0:08:30.41,0:08:33.35,Default,li,0,0,0,,Kung gagawin ko ito, duda ako na mabubuhay ako.
+Dialogue: 0,0:08:33.37,0:08:35.11,Default,li,0,0,0,,Kaya siya ay isang batang babae na may karakter.
+Dialogue: 0,0:08:35.52,0:08:37.29,Default,o,0,0,0,,Kung ganoon
+Dialogue: 0,0:08:37.85,0:08:39.52,Default,may epektibo bang paraan?
+Dialogue: 0,0:08:39.72,0:08:40.98,Default,o,0,0,0,,Alin?
+Dialogue: 0,0:08:45.66,0:08:47.90,Default,li,0,0,0,,Gumawa ka ng tanga.
+Dialogue: 0,0:08:50.06,0:08:53.47,Default,li,0,0,0,,Naiinis ako sa sarili ko dahil kapareho niya ang pag-iisip.
+Dialogue: 0,0:08:54.06,0:08:55.47,Default,li,0,0,0,,Paumanhin.
+Dialogue: 0,0:08:56.10,0:08:57.91,Default,kung,0,0,0,,May kahit kaunting benepisyo.
+Dialogue: 0,0:08:58.16,0:08:59.21,Default,o,0,0,0,,Hindi maaaring.
+Dialogue: 0,0:08:59.21,0:09:02.91,Default,li,0,0,0,,Napagtanto ko kung gaano katanga ang maghanap ng sagot mula sa iba.
+Dialogue: 0,0:09:04.08,0:09:06.97,Default,li,0,0,0,,Ako lang ang nakakakilala sa kanya ng higit sa lahat.
+Dialogue: 0,0:09:24.33,0:09:27.04,Default,li,0,0,0,,Bakit ka umiiyak? Ako ang gustong umiyak.
+Dialogue: 0,0:09:27.10,0:09:28.77,Default,li,0,0,0,,Ito ay mga luha ng kaligayahan.
+Dialogue: 0,0:09:30.20,0:09:32.57,Default,li,0,0,0,,Maaari kang umiyak hangga't gusto mo ngayon.
+Dialogue: 0,0:09:37.84,0:09:39.34,Default,li,0,0,0,,Okay. Umiyak.
+Dialogue: 0,0:09:40.48,0:09:43.25,Default,li,0,0,0,,Pwede mo akong iyakan.
+Dialogue: 0,0:09:44.79,0:09:47.21,Default,li,0,0,0,,Luha para sa buhay ko,
+Dialogue: 0,0:09:48.66,0:09:50.45,Default,o,0,0,0,,kung saan wala akong choice.
+Dialogue: 0,0:09:55.03,0:09:56.13,Default,li,0,0,0,,Kamahalan.
+Dialogue: 0,0:09:57.42,0:10:01.04,Default,li,0,0,0,,Itigil ang pagpatak ng luha sa kaligayahan.
+Dialogue: 0,0:10:02.61,0:10:04.01,Default,li,0,0,0,,Ano pa ang dapat kong gawin?
+Dialogue: 0,0:10:04.01,0:10:08.14,Default,o,0,0,0,,Dapat mong personal na ipaalam sa courtyard
+Dialogue: 0,0:10:08.14,0:10:10.07,Default,li,0,0,0,,at tumanggap ng pagbati.
+Dialogue: 0,0:10:11.20,0:10:14.15,Default,o,0,0,0,,Ayoko. Nakipag-away ako sa mga kamag-anak ko.
+Dialogue: 0,0:10:14.84,0:10:16.34,Default,kung,0,0,0,,Nakipagtalo o hindi,
+Dialogue: 0,0:10:16.89,0:10:20.55,Default,o,0,0,0,,kung lalabag ka sa itinatag na utos, kailangan mong sagutin.
+Dialogue: 0,0:10:21.73,0:10:23.68,Default,li,0,0,0,,Kaya lalo akong kinasusuklaman ang pagbubuntis.
+Dialogue: 0,0:10:25.29,0:10:28.05,Default,li,0,0,0,,Dumating na ang Queen Dowager.
+Dialogue: 0,0:10:28.32,0:10:30.40,Default,li,0,0,0,,Nandito rin ang Inang Reyna.
+Dialogue: 0,0:10:30.66,0:10:32.87,Default,li,0,0,0,,Nauna sila sa iyo.
+Dialogue: 0,0:10:33.24,0:10:34.90,Default,o,0,0,0,,Ano ang dapat nating gawin?
+Dialogue: 0,0:10:52.02,0:10:53.29,Default,o,0,0,0,,Welcome.
+Dialogue: 0,0:10:58.26,0:11:01.79,Default,li,0,0,0,,Dapat ay naabisuhan kita ng personal,
+Dialogue: 0,0:11:02.53,0:11:06.46,Default,li,0,0,0,,pero, tulad ng nakikita mo, hindi ako makabangon.
+Dialogue: 0,0:11:08.51,0:11:10.04,Default,li,0,0,0,,Ano ang aking mga sintomas?
+Dialogue: 0,0:11:13.30,0:11:16.07,Default,li,0,0,0,,Nahihilo siya dahil sa morning sickness
+Dialogue: 0,0:11:16.07,0:11:18.15,Default,li,0,0,0,,at sakit dahil sa pagbubuntis.
+Dialogue: 0,0:11:18.15,0:11:20.15,Default,li,0,0,0,,Oo, ito nga.
+Dialogue: 0,0:11:21.48,0:11:23.84,Default,li,0,0,0,,Kaya ako mismo ang dumating.
+Dialogue: 0,0:11:27.21,0:11:28.41,Default,li,0,0,0,,Pakiusap
+Dialogue: 0,0:11:29.86,0:11:31.32,Default,o,0,0,0,,umupo.
+Dialogue: 0,0:11:31.32,0:11:32.63,Default,li,0,0,0,, Maayos ang lahat.
+Dialogue: 0,0:11:32.86,0:11:35.87,Default,li,0,0,0,,Mahirap para sa iyo. Umupo nang kumportable.
+Dialogue: 0,0:11:36.09,0:11:37.73,Default,li,0,0,0,,Okay, siyempre.
+Dialogue: 0,0:11:46.70,0:11:49.51,Default,li,0,0,0,,Nang marinig ko ang balita, natuwa ako.
+Dialogue: 0,0:11:49.88,0:11:52.28,Default,li,0,0,0,,Nagdala pa ng anting-anting, bagama't tinanggihan niya ang mga ito.
+Dialogue: 0,0:11:53.12,0:11:55.07,Default,li,0,0,0,,Nais makatiyak
+Dialogue: 0,0:11:55.07,0:11:58.18,Default,kung,0,0,0,,na magdadala ka ng malusog na bata.
+Dialogue: 0,0:11:59.52,0:12:02.45,Default,li,0,0,0,,At mukhang sumpa.
+Dialogue: 0,0:12:04.82,0:12:08.00,Default,li,0,0,0,,Ako ay isang ateista. Hindi ako naniniwala sa anting-anting.
+Dialogue: 0,0:12:08.00,0:12:10.23,Default,li,0,0,0,,Malalaman mo kapag nanganak ka.
+Dialogue: 0,0:12:11.09,0:12:13.90,Default,li,0,0,0,,Gusto kong maniwala sa isang bagay na hindi ko pinaniwalaan.
+Dialogue: 0,0:12:14.66,0:12:16.77,Default,li,0,0,0,,Mawawala ka sa kawalan ng pag-asa
+Dialogue: 0,0:12:16.77,0:12:21.17,Default,o,0,0,0,,at gusto mong mag-wish sa batong sinisipa ng lahat.
+Dialogue: 0,0:12:23.84,0:12:26.52,Default,li,0,0,0,,Hindi mo kailangang matakot sa anumang bagay.
+Dialogue: 0,0:12:26.78,0:12:30.91,Default,li,0,0,0,,Ngunit ngayon matatakot ka sa lahat.
+Dialogue: 0,0:12:32.26,0:12:34.62,Default,li,0,0,0,,Ang pagkawala ng anak ay may masamang epekto sa ina.
+Dialogue: 0,0:12:36.68,0:12:38.63,Default,li,0,0,0,,Hiniling ko sa doktor na ihanda ang gamot,
+Dialogue: 0,0:12:38.63,0:12:40.36,Default,o,0,0,0,,na magpoprotekta sa iyo mula sa pagkalaglag.
+Dialogue: 0,0:12:40.36,0:12:42.53,Default,li,0,0,0,,Gawin ito nang mahigpit araw-araw.
+Dialogue: 0,0:12:43.06,0:12:45.09,Default,o,0,0,0,,Kung may mangyari sa bata,
+Dialogue: 0,0:12:45.09,0:12:47.33,Default,o,0,0,0,, ikaw ang mananagot para dito.
+Dialogue: 0,0:12:47.77,0:12:49.87,Default,li,0,0,0,,Mula ngayon, huwag kang padalus-dalos.
+Dialogue: 0,0:12:50.11,0:12:52.80,Default,li,0,0,0,,Mag-ingat para sa kapakanan ng bata.
+Dialogue: 0,0:12:53.67,0:12:56.04,Default,li,0,0,0,,Parehong dumating para takutin ako.
+Dialogue: 0,0:12:57.20,0:12:58.71,Default,li,0,0,0,,Magkakasakit na talaga ako ngayon.
+Dialogue: 0,0:13:21.33,0:13:24.14,Default,li,0,0,0,,Salamat sa iyong karunungan.
+Dialogue: 0,0:13:40.16,0:13:41.31,Default,lee,0,0,0,,Ito si Prince Yeonpyeong.
+Dialogue: 0,0:13:44.99,0:13:46.09,Default,o,0,0,0,,Enter.
+Dialogue: 0,0:13:56.01,0:13:57.91,Default,li,0,0,0,,Pumunta ka dahil nag-aalala ka.
+Dialogue: 0,0:13:59.91,0:14:01.07,Default,li,0,0,0,,Okay lang ako,
+Dialogue: 0,0:14:02.30,0:14:04.61,Default,li,0,0,0,,ngunit hindi ko madala ang aking sarili sa
+Dialogue: 0,0:14:04.61,0:14:06.88,Default,o,0,0,0,,batiin ang hari at reyna.
+Dialogue: 0,0:14:09.02,0:14:10.89,Default,li,0,0,0,,May sarili akong landas.
+Dialogue: 0,0:14:12.91,0:14:15.92,Default,li,0,0,0,,Pumunta ako sa palasyo upang tulungan ang Kanyang Kamahalan.
+Dialogue: 0,0:14:16.68,0:14:18.29,Default,li,0,0,0,,Akala ko ito lang ang paraan
+Dialogue: 0,0:14:19.32,0:14:21.82,Default,kung,0,0,0,,ang tulungan siya ay ang pagbibigay sa kanya ng mental na aliw.
+Dialogue: 0,0:14:23.27,0:14:25.56,Default,li,0,0,0,,Ngunit nang makita ko ang reyna, napagtanto kong mali ako.
+Dialogue: 0,0:14:28.74,0:14:32.54,Default,li,0,0,0,,Ito na ang pagkakataon mong maging reyna.
+Dialogue: 0,0:14:44.81,0:14:45.95,Default,li,0,0,0,,Inang Reyna.
+Dialogue: 0,0:14:46.81,0:14:50.32,Default,li,0,0,0,,Sa ano ko utang ang kasiyahang ito?
+Dialogue: 0,0:14:58.23,0:15:01.59,Default,li,0,0,0,,Ano ang nagdadala sa iyo dito, punong babae?
+Dialogue: 0,0:15:06.33,0:15:08.33,Default,li,0,0,0,,Nakipagtulungan ka sa Andonian Kims.
+Dialogue: 0,0:15:10.80,0:15:13.07,Default,li,0,0,0,,-Ito ang hangarin ng angkan.\N-Huwag ipagpalit ang pangalan ng angkan
+Dialogue: 0,0:15:13.07,0:15:14.67,Default,o,0,0,0,,para sa kapakanan ng menor de edad na away.
+Dialogue: 0,0:15:16.25,0:15:18.25,Default,o,0,0,0,,Gusto mo bang manatiling tamang tagapayo?
+Dialogue: 0,0:15:20.41,0:15:22.13,Default,o,0,0,0,,Gumawa ng tamang desisyon.
+Dialogue: 0,0:15:22.13,0:15:25.45,Default,o,0,0,0,,Kung hindi, titipunin ko ang mga miyembro ng aming angkan,
+Dialogue: 0,0:15:25.45,0:15:27.69,Default,kung,0,0,0,,nababahala tungkol sa kinabukasan ni Joseon,
+Dialogue: 0,0:15:28.19,0:15:30.32,Default,li,0,0,0,,pinamumunuan ng aking ama.
+Dialogue: 0,0:15:38.70,0:15:40.67,Default,o,0,0,0,,Ipinadala ng tatay ko ang lahat ng ito?
+Dialogue: 0,0:15:41.14,0:15:42.17,Default,o,0,0,0,,Oo.
+Dialogue: 0,0:15:42.61,0:15:46.07,Default,li,0,0,0,,Mga regalo para sa sanggol na dinadala mo.
+Dialogue: 0,0:15:46.54,0:15:48.02,Default,li,0,0,0,,At marami pa.
+Dialogue: 0,0:15:48.34,0:15:49.91,Default,li,0,0,0,,May mga regalo din sa corridor.
+Dialogue: 0,0:15:53.52,0:15:55.73,Default,li,0,0,0,,Lalo akong pinag-isipan nito.
+Dialogue: 0,0:15:56.36,0:15:59.69,Default,li,0,0,0,,Madilim na, sisindihan ko ang mga kandila.
+Dialogue: 0,0:16:04.16,0:16:06.43,Default,ay,0,0,0,,Ano ang silbi ng mga kandilang ito?
+Dialogue: 0,0:16:06.87,0:16:08.56,Default,li,0,0,0,,Mula sa sandaling ito, buhay ko
+Dialogue: 0,0:16:10.46,0:16:11.74,Default,o,0,0,0,,ay magiging itim.
+Dialogue: 0,0:16:37.13,0:16:38.93,Default,zi,0,0,0,,Left Advisor Kim Seok-keun
+Dialogue: 0,0:16:40.93,0:16:43.04,Default,zi,0,0,0,,Muli nilang inatake ang opisyal.
+Dialogue: 0,0:16:43.24,0:16:45.24,Default,zi,0,0,0,,Hindi nila pinugutan ng ulo ang pinuno.
+Dialogue: 0,0:16:45.70,0:16:47.17,Default,zi,0,0,0,,Hindi kami nangahas na hawakan siya,
+Dialogue: 0,0:16:47.17,0:16:50.04,Default,zi,0,0,0,,dahil natatakot sila na ito ay ituring bilang pagtataksil.
+Dialogue: 0,0:16:50.25,0:16:52.41,Default,zi,0,0,0,,Napakatapang ba ng mga magsasaka na ito?
+Dialogue: 0,0:16:53.17,0:16:56.08,Default,zi,0,0,0,,Walang dahilan para ibuhos ang lahat ng iyong pagsisikap sa paghuli sa kanila.
+Dialogue: 0,0:16:56.08,0:16:57.29,Default,zi,0,0,0,,Nag-aalala ako dito.
+Dialogue: 0,0:16:59.05,0:17:02.99,Default,zi,0,0,0,,Nga pala, nakita ba nila sa palasyo ang code ng mga tagasunod ni Tonhak?
+Dialogue: 0,0:17:11.46,0:17:13.50,Default,zi,0,0,0,,Kim Soyeon
+Dialogue: 0,0:17:14.77,0:17:17.00,Default,zi,0,0,0,,Nakapasok sa palasyo ang mga tagasunod ni Tonghak,
+Dialogue: 0,0:17:17.00,0:17:18.83,Default,zi,0,0,0,,grabe ito, kailangan mong magmadali.
+Dialogue: 0,0:17:18.83,0:17:22.48,Default,zi,0,0,0,,Paano kung dahil wala tayong ginawa, mas marami sila?
+Dialogue: 0,0:17:25.15,0:17:27.65,Default,zi,0,0,0,,Tutok lang sa iyong mga gawain.
+Dialogue: 0,0:17:35.45,0:17:38.58,Default,zi,0,0,0,,Kamahalan, mula sa araw na ito
+Dialogue: 0,0:17:39.42,0:17:40.59,Default,zi,0,0,0,,"Edukasyon sa prenatal"
+Dialogue: 0,0:17:40.59,0:17:42.23,Default,zi,0,0,0,,magsisimula ka sa prenatal training.
+Dialogue: 0,0:17:48.64,0:17:50.56,Default,zi,0,0,0,,Hindi ka maaaring magsinungaling sa iyong tabi.
+Dialogue: 0,0:17:50.77,0:17:52.70,Default,zi,0,0,0,,Hindi ka maaaring sumandal sa iyong mga kamay.
+Dialogue: 0,0:17:53.11,0:17:56.30,Default,zi,0,0,0,,Hindi mo maiangat ang iyong ulo kapag nakahiga ka.
+Dialogue: 0,0:17:56.30,0:17:57.30,Default,zi,0,0,0,,Damn!
+Dialogue: 0,0:18:11.19,0:18:14.46,Default,zi,0,0,0,,Hindi ka maaaring tumawa, mabigla, o matakot.
+Dialogue: 0,0:18:14.73,0:18:16.70,Default,zi,0,0,0,,luksa, umiyak
+Dialogue: 0,0:18:16.70,0:18:19.79,Default,zi,0,0,0,,at hindi ka rin makapagsalita ng marami.
+Dialogue: 0,0:18:25.80,0:18:29.51,Default,zi,0,0,0,,Kailangan mong talikuran ang gayong hindi pangkaraniwang pagkain.
+Dialogue: 0,0:18:31.78,0:18:34.18,Default,zi,0,0,0,,Para bang hindi sa akin ang katawan ko!
+Dialogue: 0,0:18:35.07,0:18:36.54,Default,zi,0,0,0,,Well, totoo, siyempre.
+Dialogue: 0,0:18:36.54,0:18:38.02,Default,zi,0,0,0,,Pero nasanay lang ako!
+Dialogue: 0,0:18:38.81,0:18:41.26,Default,zi,0,0,0,,Bakit bumalik ang lahat sa orihinal dahil sa pagbubuntis na ito\N?
+Dialogue: 0,0:18:42.49,0:18:43.62,Default,zi,0,0,0,,Lalo na ikaw.
+Dialogue: 0,0:18:44.38,0:18:46.43,Default,zi,0,0,0,,Akala ko tumigil ka na sa panggugulo sa akin.
+Dialogue: 0,0:18:46.62,0:18:50.89,Default,zi,0,0,0,,Lahat ito para sa kapakanan ng iyong sanggol.
+Dialogue: 0,0:18:50.89,0:18:52.86,Default,zi,0,0,0,,Para mabuhay ang bata,\NI ay kailangan munang makaligtas sa aking sarili.
+Dialogue: 0,0:18:52.86,0:18:54.20,Default,zi,0,0,0,,Makinarya ba ako para sa pagtatatak ng mga bata?
+Dialogue: 0,0:18:54.20,0:18:55.44,Default,zi,0,0,0,,Isang buhay na incubator, o ano?
+Dialogue: 0,0:18:55.94,0:18:57.77,Default,zi,0,0,0,,Nga pala, hindi lang ako ang kailangang magdusa.
+Dialogue: 0,0:18:57.83,0:18:58.90,Default,zi,0,0,0,,Ano ang ginagawa ni daddy?
+Dialogue: 0,0:18:58.90,0:19:00.60,Default,zi,0,0,0,,Pumunta sa Cheoljong, sabihin sa kanya ang tungkol sa pagsasanay.
+Dialogue: 0,0:19:01.18,0:19:04.64,Default,zi,0,0,0,,Sa pangkalahatan, sinasabi ng linya 3 ng kabanata 1 na
+Dialogue: 0,0:19:04.64,0:19:08.07,Default,zi,0,0,0,,dapat ding sumailalim ang ama sa prenatal education.
+Dialogue: 0,0:19:08.07,0:19:10.29,Default,zi,0,0,0,,Sa sandaling matapos ang Kanyang Kamahalan sa kanyang negosyo,
+Dialogue: 0,0:19:10.29,0:19:11.95,Default,zi,0,0,0,,mag-aaral kayong magkasama...
+Dialogue: 0,0:19:11.95,0:19:13.52,Default,zi,0,0,0,,Nagsimula ang araw ko sa pagbubuntis
+Dialogue: 0,0:19:13.52,0:19:15.08,Default,zi,0,0,0,,at magtatapos din ito?
+Dialogue: 0,0:19:18.85,0:19:20.93,Default,zi,0,0,0,,Nawala na ang buhay ko.
+Dialogue: 0,0:19:25.70,0:19:26.79,Default,zi,0,0,0,,Hindi, Kamahalan.
+Dialogue: 0,0:19:28.06,0:19:30.60,Default,zi,0,0,0,,Imposible, Kamahalan. Kunin mo.
+Dialogue: 0,0:19:30.60,0:19:31.63,Default,zi,0,0,0,,Hon Young.
+Dialogue: 0,0:19:33.90,0:19:35.28,Default,zi,0,0,0,,Pagkatapos ng insidenteng iyon
+Dialogue: 0,0:19:35.98,0:19:38.45,Default,zi,0,0,0,,Kim Byunin at ang reyna ay hindi na muling nagkita.
+Dialogue: 0,0:19:38.75,0:19:41.75,Default,zi,0,0,0,,Pagkatapos ng pagtanggi, dapat niyang malaman na buntis siya.
+Dialogue: 0,0:19:42.54,0:19:44.58,Default,zi,0,0,0,,Sigurado akong wala siyang maaasahan.
+Dialogue: 0,0:19:46.88,0:19:48.42,Default,zi,0,0,0,,Kawawang tao.
+Dialogue: 0,0:19:57.00,0:19:58.47,Default,zi,0,0,0,,Sana kumain ka ng maayos.
+Dialogue: 0,0:19:59.00,0:20:00.09,Default,zi,0,0,0,,Paalam.
+Dialogue: 0,0:20:03.97,0:20:05.60,Default,zi,0,0,0,,Kailangan mong matulog sa bahay.
+Dialogue: 0,0:20:07.90,0:20:09.64,Default,zi,0,0,0,,Mukhang pagod na pagod ka.
+Dialogue: 0,0:20:24.29,0:20:25.96,Default,zi,0,0,0,,Stress ang sanhi ng lahat ng sakit.
+Dialogue: 0,0:20:25.96,0:20:27.73,Default,zi,0,0,0,,Magiging mapanganib din ito para sa sanggol.
+Dialogue: 0,0:20:29.89,0:20:31.00,Default,zee,0,0,0,,Stand by.
+Dialogue: 0,0:20:32.39,0:20:33.63,Default,zi,0,0,0,,Isang kutsara lang.
+Dialogue: 0,0:20:38.54,0:20:39.74,Default,zi,0,0,0,,My pear wine.
+Dialogue: 0,0:20:43.07,0:20:45.34,Default,zi,0,0,0,,Royal Chef!
+Dialogue: 0,0:20:51.45,0:20:52.46,Default,zi,0,0,0,,Nasaan ang pear wine?
+Dialogue: 0,0:20:53.29,0:20:55.76,Default,zi,0,0,0,,Nasira, itinapon ko.
+Dialogue: 0,0:21:16.10,0:21:17.40,Default,zi,0,0,0,,May isang tao na maganda ang mood.
+Dialogue: 0,0:21:17.78,0:21:20.14,Default,zi,0,0,0,,Ganun pa rin ako gaya ng dati.
+Dialogue: 0,0:21:26.38,0:21:28.11,Default,zi,0,0,0,,Matagal na raw silang tumigil sa pagngiti.
+Dialogue: 0,0:21:28.29,0:21:29.69,Default,zi,0,0,0,,At nakita kong muli ang ngiti.
+Dialogue: 0,0:21:32.39,0:21:35.39,Default,zi,0,0,0,,Nawalan ako ng alak,\Nand mo nahanap ang ngiti ko.
+Dialogue: 0,0:21:38.32,0:21:39.97,Default,zi,0,0,0,,Nagkataon lang.
+Dialogue: 0,0:21:44.71,0:21:46.07,Default,zi,0,0,0,,Sabihin ang totoo.
+Dialogue: 0,0:21:46.51,0:21:47.78,Default,zi,0,0,0,,Nagsasaya ka, di ba?
+Dialogue: 0,0:21:48.13,0:21:51.87,Default,zi,0,0,0,,Ipaghiganti mo ang iyong pagdurusa,\Na sa sandaling dumating ang pagkakataon.
+Dialogue: 0,0:21:52.54,0:21:55.68,Default,zi,0,0,0,,Hindi mo ako matitinag, Kamahalan.
+Dialogue: 0,0:21:55.81,0:22:00.22,Default,zi,0,0,0,,Hayaan siyang sumuka. Iluwa mo ang alak ko!
+Dialogue: 0,0:22:00.22,0:22:01.58,Default,zi,0,0,0,,Kamahalan, tumahimik ka!
+Dialogue: 0,0:22:01.92,0:22:03.53,Default,zi,0,0,0,,Mas mabuting pag-usapan ang lahat, Kamahalan.
+Dialogue: 0,0:22:03.62,0:22:05.12,Default,zi,0,0,0,,Pag-usapan, oo ngayon!
+Dialogue: 0,0:22:07.96,0:22:09.82,Default,zi,0,0,0,,My pear wine.
+Dialogue: 0,0:22:10.77,0:22:14.04,Default,zi,0,0,0,,Ininom nila ang lahat ng alak.
+Dialogue: 0,0:22:14.29,0:22:17.24,Default,zi,0,0,0,,-My Vintso!\N-Kamahalan!
+Dialogue: 0,0:22:20.74,0:22:22.98,Default,zi,0,0,0,,Bigyan mo ako ng alak!
+Dialogue: 0,0:22:25.04,0:22:28.04,Default,zi,0,0,0,,-Kamahalan.\N-Alak ko!
+Dialogue: 0,0:22:28.04,0:22:31.04,Default,zi,0,0,0,,Bakit ka umiiyak, Kamahalan?
+Dialogue: 0,0:22:41.76,0:22:43.27,Default,zi,0,0,0,,Hinihintay kita.
+Dialogue: 0,0:22:43.27,0:22:46.44,Default,zi,0,0,0,,At ikaw ay cool, tulad ng isang prinsipe sa isang puting kabayo.
+Dialogue: 0,0:22:46.59,0:22:49.71,Default,zi,0,0,0,,Lahat ay ipinagbabawal sa akin, at ikaw ay nakasakay sa kabayo at nagsasaya.
+Dialogue: 0,0:22:49.71,0:22:51.90,Default,zi,0,0,0,,Sobrang sama ng loob mo ngayon, gaya ng dati.
+Dialogue: 0,0:22:52.48,0:22:53.60,Default,zi,0,0,0,,Nakakaluwag.
+Dialogue: 0,0:22:59.54,0:23:00.81,Default,zi,0,0,0,,Sabay tayong sumakay.
+Dialogue: 0,0:23:02.18,0:23:04.11,Default,zi,0,0,0,,Hindi ito posible, Kamahalan.
+Dialogue: 0,0:23:04.95,0:23:06.96,Default,zi,0,0,0,,Ang kanyang kamahalan ay may kargang maharlikang anak.
+Dialogue: 0,0:23:07.29,0:23:10.58,Default,zi,0,0,0,,Hindi ka makakasakay sa kanya, Kamahalan.
+Dialogue: 0,0:23:16.70,0:23:17.97,Default,zi,0,0,0,,Kamahalan!
+Dialogue: 0,0:23:20.04,0:23:23.06,Default,zi,0,0,0,,Kamahalan, ito ay mapanganib!
+Dialogue: 0,0:23:23.21,0:23:25.87,Default,zi,0,0,0,,-Kamahalan!\N-Hindi mo kaya!
+Dialogue: 0,0:23:26.87,0:23:27.94,Default,zi,0,0,0,,Naku, hindi!
+Dialogue: 0,0:23:46.15,0:23:47.35,Default,zi,0,0,0,,Nasaan tayo?
+Dialogue: 0,0:23:48.50,0:23:50.29,Default,zi,0,0,0,,Palagi akong may gustong ibigay sa iyo
+Dialogue: 0,0:23:50.29,0:23:52.47,Default,zi,0,0,0,,ano ang pinaka gusto at gusto mo.
+Dialogue: 0,0:23:53.00,0:23:55.54,Default,zi,0,0,0,,Ano ang hindi makikita sa palasyo, sa labas lang.
+Dialogue: 0,0:23:55.54,0:23:58.24,Default,zi,0,0,0,,-Entertainment?\N-Kalayaan ang tinutukoy ko.
+Dialogue: 0,0:24:02.28,0:24:03.37,Default,zi,0,0,0,,Hindi mo gusto, o ano?
+Dialogue: 0,0:24:06.54,0:24:09.75,Default,zi,0,0,0,,Kaya sasabihin ko, lakad lang. \NBakit napakarangal?
+Dialogue: 0,0:24:10.29,0:24:13.22,Default,zi,0,0,0,,Pumunta kami sa royal estate para makalanghap ng sariwang hangin.
+Dialogue: 0,0:24:14.08,0:24:15.58,Default,zi,0,0,0,,Bumalik tayo kung hindi mo gusto.
+Dialogue: 0,0:24:18.19,0:24:20.53,Default,zi,0,0,0,,Ang royal estate ay parang summer house, tama ba?
+Dialogue: 0,0:24:22.12,0:24:24.56,Default,zi,0,0,0,,Maganda. Para akong nililigawan ng mayaman.
+Dialogue: 0,0:24:25.23,0:24:27.17,Default,zi,0,0,0,,Dahil nandito na tayo, tingnan natin ang paligid.
+Dialogue: 0,0:24:27.83,0:24:30.56,Default,zi,0,0,0,,Alam kong magugustuhan mo ito, aking reyna.
+Dialogue: 0,0:24:30.56,0:24:32.44,Default,zi,0,0,0,,Dito.
+Dialogue: 0,0:24:34.18,0:24:36.01,Default,zi,0,0,0,,Masarap maging hari.
+Dialogue: 0,0:24:36.07,0:24:39.64,Default,zi,0,0,0,,At isang marangyang estate at isang hardin.
+Dialogue: 0,0:24:39.92,0:24:43.45,Default,zi,0,0,0,,Buong gabi kong iniisip kung bakit galit na galit ka.
+Dialogue: 0,0:24:43.84,0:24:46.72,Default,zi,0,0,0,,Karaniwan para sa mga babae sa palasyo\N ang pagbubuntis ay isang pagpapala.
+Dialogue: 0,0:24:46.72,0:24:50.08,Default,zi,0,0,0,,Pero bakit nagalit ang reyna?
+Dialogue: 0,0:24:50.76,0:24:53.50,Default,zi,0,0,0,,At? Alam mo ba kung bakit?
+Dialogue: 0,0:24:53.89,0:24:57.50,Default,zi,0,0,0,,Hindi. Kahit anong isipin ko, hindi ko pa rin maintindihan.
+Dialogue: 0,0:24:58.47,0:25:02.06,Default,zi,0,0,0,,Hindi ko maintindihan, kaya nagpasya akong tanggapin.
+Dialogue: 0,0:25:03.36,0:25:07.60,Default,zi,0,0,0,,Ang biyaya para sa iba ay maaaring hindi para sa iyo.
+Dialogue: 0,0:25:07.98,0:25:11.87,Default,zi,0,0,0,,Ganyan kang tao.
+Dialogue: 0,0:25:14.31,0:25:16.61,Default,zi,0,0,0,,Mukhang kapaki-pakinabang talaga ang diksyunaryo ng reyna.
+Dialogue: 0,0:25:36.13,0:25:38.56,Default,zi,0,0,0,,Bakit mo ginagawa ito? Ang awkward naman.
+Dialogue: 0,0:25:42.90,0:25:44.07,Default,zi,0,0,0,,My queen.
+Dialogue: 0,0:25:53.49,0:25:54.96,Default,zi,0,0,0,, "rrr" ba iyon?
+Dialogue: 0,0:25:57.53,0:25:58.73,Default,zi,0,0,0,,Rrrrr!
+Dialogue: 0,0:26:05.32,0:26:08.63,Default,zi,0,0,0,,Dahil nagsusulat ako ng diksyunaryo ng reyna,\NII'm interested in something.
+Dialogue: 0,0:26:09.83,0:26:11.60,Default,zi,0,0,0,,Ano ang ibig sabihin ng “all in”?
+Dialogue: 0,0:26:12.33,0:26:13.78,Default,zi,0,0,0,,Nasabi ko na ba?
+Dialogue: 0,0:26:13.78,0:26:16.40,Default,zi,0,0,0,,Ito ang salitang sinisigaw mo habang nagsusugal sa palengke.
+Dialogue: 0,0:26:19.72,0:26:20.95,Default,zi,0,0,0,,All-in -
+Dialogue: 0,0:26:21.04,0:26:24.45,Default,zi,0,0,0,,isang napakatangang gawa kapag ikaw ay lahat
+Dialogue: 0,0:26:24.88,0:26:27.11,Default,zi,0,0,0,,naglalagay ka ng mga marupok na itlog sa isang basket.
+Dialogue: 0,0:26:27.81,0:26:31.43,Default,zi,0,0,0,,-Eggs?\N-Ginawa ko ang katangahang ito.
+Dialogue: 0,0:26:33.00,0:26:35.50,Default,zi,0,0,0,,Damn, sa oras na kailangan mong tumakbo,
+Dialogue: 0,0:26:35.65,0:26:37.77,Default,zi,0,0,0,,Natapilok ako sa isang pregnancy stone at nahulog.
+Dialogue: 0,0:26:38.89,0:26:40.50,Default,zi,0,0,0,,Huwag kang mag-alala, aking reyna.
+Dialogue: 0,0:26:41.54,0:26:46.07,Default,zi,0,0,0,,Talagang tatanggalin ko lahat ng kabulukan ni Joseon.
+Dialogue: 0,0:26:47.48,0:26:49.18,Default,zi,0,0,0,,Para sa aming sanggol,
+Dialogue: 0,0:26:50.37,0:26:52.54,Default,zi,0,0,0,,sino ang magmamana ng bansa.
+Dialogue: 0,0:26:54.95,0:26:56.08,Default,zi,0,0,0,,Okay.
+Dialogue: 0,0:26:57.72,0:27:00.85,Default,zi,0,0,0,,Kung ang batang ito ay magiging hari\N at magmamana ng bansa...
+Dialogue: 0,0:27:02.08,0:27:05.38,Default,zi,0,0,0,,Maaari ba akong makakuha ng ganap na kapangyarihan?
+Dialogue: 0,0:27:07.96,0:27:09.67,Default,zi,0,0,0,,Sungwon World
+Dialogue: 0,0:27:09.67,0:27:13.00,Default,zi,0,0,0,,Soyeon's World
+Dialogue: 0,0:27:13.63,0:27:15.63,Default,zi,0,0,0,,Bakit hindi ko naisip ito noon?
+Dialogue: 0,0:27:17.17,0:27:18.44,Default,zi,0,0,0,,-Anong pinagsasabi mo?\N-Baby ko!
+Dialogue: 0,0:27:18.44,0:27:19.63,Default,zi,0,0,0,,Tingnan!
+Dialogue: 0,0:27:19.87,0:27:23.95,Default,zi,0,0,0,,Lahat sa ilalim ng kalangitan na ito -
+Dialogue: 0,0:27:25.64,0:27:26.87,Default,zi,0,0,0,,sa iyo lahat.
+Dialogue: 0,0:27:28.98,0:27:29.99,Default,zi,0,0,0,,Bumalik tayo.
+Dialogue: 0,0:27:29.99,0:27:32.34,Default,zi,0,0,0,,Ngayon sisimulan ko na ang totoong prenatal training.
+Dialogue: 0,0:27:32.79,0:27:33.99,Default,zi,0,0,0,,Present?
+Dialogue: 0,0:27:33.99,0:27:35.99,Default,zi,0,0,0,,Kailangan ko siyang turuan kung paano manalo sa labanan.
+Dialogue: 0,0:27:36.79,0:27:39.76,Default,zi,0,0,0,,Kailangang tumira ang sanggol na ito sa isang masungit na palasyo.
+Dialogue: 0,0:27:40.53,0:27:41.65,Default,zi,0,0,0,,Tara na, magsimula na tayo.
+Dialogue: 0,0:27:41.65,0:27:43.73,Default,zi,0,0,0,,Karating lang namin.
+Dialogue: 0,0:27:45.56,0:27:47.77,Default,zi,0,0,0,,Kahit na sumulat ako ng 100 volume ng diksyunaryo,
+Dialogue: 0,0:27:49.13,0:27:51.56,Default,zi,0,0,0,,darating ba ang araw na maiintindihan ko siya?
+Dialogue: 0,0:27:51.56,0:27:54.78,Default,zi,0,0,0,,-Teka! Hintayin mo ako.\N-Bilisan mo!
+Dialogue: 0,0:27:59.02,0:28:00.52,Default,tier 3,0,0,0,,Pregnancy Diary
+Dialogue: 0,0:28:16.31,0:28:17.37,Default,tier 3,0,0,0,,Baby,
+Dialogue: 0,0:28:18.67,0:28:20.48,Default,tier 3,0,0,0,,upang mabuhay sa palasyo,
+Dialogue: 0,0:28:20.48,0:28:23.18,Default,tier 3,0,0,0,,dapat kang mangalap ng mga mapagkakatiwalaang tao sa paligid mo.
+Dialogue: 0,0:28:28.78,0:28:30.12,Default,tier 3,0,0,0,,Kamahalan!
+Dialogue: 0,0:28:31.52,0:28:34.02,Default,tier 3,0,0,0,,Sila talaga ang pinakamahuhusay na mandirigma sa Joseon.
+Dialogue: 0,0:28:34.39,0:28:35.42,Default,tier 3,0,0,0,,Baby,
+Dialogue: 0,0:28:35.52,0:28:38.63,Default,tier 3,0,0,0,,dapat mong panatilihing malapit ang iyong mga kaaway.
+Dialogue: 0,0:28:39.19,0:28:40.76,Default,tier 3,0,0,0,,Say, isang libong mandirigma.
+Dialogue: 0,0:28:41.96,0:28:43.43,Default,tier 3,0,0,0,,Na may ganitong kapangyarihang militar
+Dialogue: 0,0:28:44.07,0:28:46.67,Default,shooting range 3,0,0,0,,kukunan mo ba ang Seongjongjong Hall o ano?
+Dialogue: 0,0:28:47.00,0:28:48.47,Default,tier 3,0,0,0,,Natatakot ka ba?
+Dialogue: 0,0:28:50.74,0:28:52.98,Default,tier 3,0,0,0,,Sa tingin ko ikaw lang ang natatakot dito,
+Dialogue: 0,0:28:52.98,0:28:55.08,Default,tier 3,0,0,0,,beses na naghanda sila ng isang libong mandirigma para sa akin.
+Dialogue: 0,0:28:55.58,0:28:57.41,Default,tier 3,0,0,0,,Hatiin ang bilang ng mga mandirigma.
+Dialogue: 0,0:28:57.41,0:28:59.41,Default,tier 3,0,0,0,,Ang iba ay nasa royal guard.
+Dialogue: 0,0:29:00.05,0:29:03.69,Default,tier 3,0,0,0,,Baby, dapat may sarili kang secret treasury.
+Dialogue: 0,0:29:05.39,0:29:07.52,Default,tier 3,0,0,0,,Kakagawa lang ng mga baryang ito.
+Dialogue: 0,0:29:07.52,0:29:09.89,Default,tier 3,0,0,0,,-Ilan ang meron?\N-Million.
+Dialogue: 0,0:29:12.23,0:29:14.73,Default,tier 3,0,0,0,,Ito ba ang puhunan mo sa pulitika?
+Dialogue: 0,0:29:15.56,0:29:17.37,Default,tier 3,0,0,0,,Siya na may pera ay may kapangyarihan.
+Dialogue: 0,0:29:18.70,0:29:22.04,Default,tier 3,0,0,0,,At sa wakas, baby, ang pinakamahalagang aral.
+Dialogue: 0,0:29:22.70,0:29:25.81,Default,tier 3,0,0,0,,Alisin ang lahat ng wala sa iyong panig.
+Dialogue: 0,0:29:26.21,0:29:28.41,Default,tier 3,0,0,0,,Ang buhay ay isang laro, at ang mundo ay isang gubat.
+Dialogue: 0,0:29:28.41,0:29:31.68,Default,tier 3,0,0,0,,Kakainin ka kung hindi mo muna kakainin ang iba. Isa itong killer party!
+Dialogue: 0,0:29:32.31,0:29:34.25,Default,tier 3,0,0,0,,Siyempre, susubukan mong magtatag ng kapayapaan.
+Dialogue: 0,0:29:34.78,0:29:36.69,Default,tier 3,0,0,0,,Pero kung walang pag-asa,
+Dialogue: 0,0:29:36.69,0:29:39.62,Default,tier 3,0,0,0,,dapat kang manalo sa lahat ng bagay, baby ko.
+Dialogue: 0,0:29:43.03,0:29:45.73,Default,tier 3,0,0,0,,I'm so glad that Her Majesty
+Dialogue: 0,0:29:45.86,0:29:47.76,Default,tier 3,0,0,0,,nakayanan ang excitement ko.
+Dialogue: 0,0:29:47.96,0:29:50.97,Default,tier 3,0,0,0,,Hindi pa siya ipinapanganak, at marami ka nang gustong sabihin sa kanya?
+Dialogue: 0,0:29:51.77,0:29:53.67,Default,tier 3,0,0,0,,Makikinig siya habang nakaupo sa tiyan.
+Dialogue: 0,0:29:53.94,0:29:56.27,Default,tier 3,0,0,0,,At ito ay titigil sa sandaling ito ay ipinanganak.
+Dialogue: 0,0:29:57.81,0:30:01.11,Default,tier 3,0,0,0,,Oras na para matulog ka.
+Dialogue: 0,0:30:01.61,0:30:04.85,Default,tier 3,0,0,0,,Wala akong oras para matulog: napakaraming dapat gawin.
+Dialogue: 0,0:30:05.71,0:30:07.42,Default,tier 3,0,0,0,,Ang buhay ay parang treadmill,
+Dialogue: 0,0:30:07.42,0:30:10.49,Default,tier 3,0,0,0,,kailangan mo lang huminto saglit at babagsak ka na agad.
+Dialogue: 0,0:30:11.92,0:30:13.82,Default,tier 3,0,0,0,, Kahit ang pagbubuntis ay hindi ako titigil.
+Dialogue: 0,0:30:15.82,0:30:17.39,Default,tier 3,0,0,0,,O titigil ito.
+Dialogue: 0,0:30:19.60,0:30:23.17,Default,tier 3,0,0,0,,Sa aking kaluluwa mayroon akong motor, ngunit sa katotohanan ay mayroon akong mga pedal.
+Dialogue: 0,0:30:38.01,0:30:39.05,Default,tier 3,0,0,0,,Matagal nang hindi nagkita.
+Dialogue: 0,0:30:39.48,0:30:40.72,Default,tier 3,0,0,0,,Siguro nahirapan ka.
+Dialogue: 0,0:30:41.68,0:30:42.68,Default,tier 3,0,0,0,,Lahat ay maayos.
+Dialogue: 0,0:30:51.56,0:30:52.90,Default,tier 3,0,0,0,,Nakumpleto mo na ang tutorial sa taktika.
+Dialogue: 0,0:30:53.00,0:30:55.23,Default,tier 3,0,0,0,,Ang mga taong ito ay hindi kailanman humawak ng armas,
+Dialogue: 0,0:30:55.50,0:30:57.47,Default,tier 3,0,0,0,,kaya mahihirapan silang sanayin.
+Dialogue: 0,0:30:58.20,0:30:59.33,Default,tier 3,0,0,0,,Ngunit makakatulong ang tutorial.
+Dialogue: 0,0:31:03.17,0:31:04.21,Default,tier 3,0,0,0,,Mag-ingat.
+Dialogue: 0,0:31:15.65,0:31:17.42,Default,tier 3,0,0,0,,Hindi ko alam
+Dialogue: 0,0:31:18.39,0:31:19.89,Default,tier 3,0,0,0,,na ang bilang ng mga tagasubaybay ay lumaki nang husto.
+Dialogue: 0,0:31:20.66,0:31:23.03,Default,tier 3,0,0,0,,Sa madaling salita, maraming tao
+Dialogue: 0,0:31:23.03,0:31:24.96,Default,tier 3,0,0,0,,natagpuan namin ang aming sarili sa isang mahirap na sitwasyon.
+Dialogue: 0,0:31:25.49,0:31:28.80,Default,tier 3,0,0,0,,Kamakailan lamang ay nakakuha sila ng iba't ibang klase:
+Dialogue: 0,0:31:29.23,0:31:31.07,Default,tier 3,0,0,0,,mula sa mga wasak na maharlika hanggang sa mga araro.
+Dialogue: 0,0:31:31.40,0:31:33.20,Default,tier 3,0,0,0,,Marahil, gaya ng sinabi ng reyna,
+Dialogue: 0,0:31:34.84,0:31:36.81,Default,tier 3,0,0,0,,solusyon ba natin na i-abolish ang class division?
+Dialogue: 0,0:31:37.37,0:31:39.37,Default,tier 3,0,0,0,,Dapat tayong mag-ingat
+Dialogue: 0,0:31:40.21,0:31:41.64,Default,tier 3,0,0,0,,mga pangunahing pagbabago.
+Dialogue: 0,0:31:42.95,0:31:44.71,Default,tier 3,0,0,0,,Siyempre, malayo pa ito.
+Dialogue: 0,0:31:45.65,0:31:47.62,Default,tier 3,0,0,0,,Marahil hindi ko ito magagawa, ngunit,
+Dialogue: 0,0:31:49.32,0:31:51.65,Default,tier 3,0,0,0,,baka kaya ng anak ko.
+Dialogue: 0,0:31:59.96,0:32:02.56,Default,tier 3,0,0,0,,Your Majesty, His Majesty...
+Dialogue: 0,0:32:03.87,0:32:05.10,Default,tier 3,0,0,0,,Huwag mo siyang gisingin.
+Dialogue: 0,0:32:14.44,0:32:16.35,Default,tier 3,0,0,0,,Para siyang bata.
+Dialogue: 0,0:32:25.15,0:32:28.26,Default,tier 3,0,0,0,,Log ng pagbubuntis
+Dialogue: 0,0:32:28.29,0:32:30.43,Default,tier 3,0,0,0,,Dapat mong panatilihing malapit ang iyong mga kaaway.
+Dialogue: 0,0:32:33.86,0:32:36.30,Default,tier 3,0,0,0,,Baby, dapat may sarili kang secret treasury.
+Dialogue: 0,0:32:41.04,0:32:42.54,Default,tier 3,0,0,0,,Ang buhay ay isang laro, at ang mundo ay isang gubat.
+Dialogue: 0,0:32:42.54,0:32:44.57,Default,tier 3,0,0,0,,Kakainin ka kung hindi mo muna kainin ang iba. Isa itong killer party!
+Dialogue: 0,0:32:45.24,0:32:46.27,Default,tier 3,0,0,0,,"Party"?
+Dialogue: 0,0:32:47.68,0:32:48.68,Default,tier 3,0,0,0,,Gabi...
+Dialogue: 0,0:32:51.35,0:32:53.45,Default,tier 3,0,0,0,,Hindi ko maintindihan kung ano ang ibig sabihin ng "Inka".
+Dialogue: 0,0:32:54.05,0:32:55.35,Default,tier 3,0,0,0,,Party.
+Dialogue: 0,0:33:00.26,0:33:03.13,Default,tier 3,0,0,0,,Dahil ayos na ang lahat sa reyna, hindi ka nasaktan.
+Dialogue: 0,0:33:03.53,0:33:07.13,Default,tier 3,0,0,0,,Alam ko: ang talisman na ibinigay ko ay gumana ayon sa nararapat.
+Dialogue: 0,0:33:07.50,0:33:09.70,Default,tier 3,0,0,0,,Salamat, Kamahalan.
+Dialogue: 0,0:33:09.70,0:33:10.73,Default,tier 3,0,0,0,,I guess
+Dialogue: 0,0:33:11.40,0:33:14.40,Default,tier 3,0,0,0,,nagkakalat ka ba ng tsismis gaya ng sinabi ko sa iyo?
+Dialogue: 0,0:33:15.44,0:33:16.51,Default,tier 3,0,0,0,,Hindi maaaring.
+Dialogue: 0,0:33:17.44,0:33:19.37,Default,tier 3,0,0,0,,Nagtsitsismis ka mula pa kaninang umaga.
+Dialogue: 0,0:33:20.08,0:33:21.91,Default,tier 3,0,0,0,,Naghugas ka na ba ng mukha?
+Dialogue: 0,0:33:21.91,0:33:25.08,Default,tier 3,0,0,0,,Dapat mong marinig ito. Siguradong matutulog ka na agad.
+Dialogue: 0,0:33:27.02,0:33:28.78,Default,shooting 3,0,0,0,,Alam mo, ang reyna...
+Dialogue: 0,0:33:33.12,0:33:34.19,Default,tier 3,0,0,0,,Ganito.
+Dialogue: 0,0:33:34.19,0:33:37.93,Default,tier 3,0,0,0,,Ano? Nagpanggap ba ang Kanyang Kamahalan at ang Reyna na magkasamang natutulog?
+Dialogue: 0,0:33:38.16,0:33:42.46,Default,tier 3,0,0,0,,Nagkunwaring magkasamang natutulog ang Kanyang Kamahalan at ang Reyna.
+Dialogue: 0,0:33:49.97,0:33:52.34,Default,tier 3,0,0,0,,Balita ko hindi talaga sila natutulog na magkasama.
+Dialogue: 0,0:33:52.34,0:33:54.31,Default,tier 3,0,0,0,,Gabi lang sila sa iisang kwarto.
+Dialogue: 0,0:33:56.58,0:34:00.32,Default,tier 3,0,0,0,,Ano? Saka sino ang anak niya?
+Dialogue: 0,0:34:01.18,0:34:03.22,Default,tier 3,0,0,0,,Sino ang kanyang anak mula noon?
+Dialogue: 0,0:34:03.22,0:34:05.45,Default,tier 3,0,0,0,,-Hindi pwede.\N-Narinig kong nagpapanggap sila.
+Dialogue: 0,0:34:20.30,0:34:23.64,Default,tier 3,0,0,0,,Narinig mo na siguro ang mga tsismis na kumakalat sa paligid ng palasyo.
+Dialogue: 0,0:34:23.64,0:34:26.01,Default,tier 3,0,0,0,,Ang mga tsismis ay palaging isang hakbang sa likod ng katotohanan.
+Dialogue: 0,0:34:26.31,0:34:28.11,Default,tier 3,0,0,0,,Ito ay isang lumang kuwento.
+Dialogue: 0,0:34:28.11,0:34:31.51,Default,tier 3,0,0,0,,Hindi dapat basta-basta ang mga tsismis sa palasyo\N.
+Dialogue: 0,0:34:31.51,0:34:34.72,Default,tier 3,0,0,0,,Maaari nilang gamitin ang mga ito para mapatalsik ka.
+Dialogue: 0,0:34:34.72,0:34:36.62,Default,tier 3,0,0,0,,Eksakto, ang kanilang layunin ay ang aking deposisyon.
+Dialogue: 0,0:34:36.95,0:34:38.72,Default,tier 3,0,0,0,,Naglalaro sila ng madumi at maliit.
+Dialogue: 0,0:34:38.72,0:34:40.46,Default,tier 3,0,0,0,,Hindi ko hahayaang itapon nila ako.
+Dialogue: 0,0:34:40.99,0:34:42.32,Default,tier 3,0,0,0,,-Oo.\N- Hong Young.
+Dialogue: 0,0:34:47.26,0:34:48.46,Default,tier 3,0,0,0,,Bakit kailangan mo ng hairpin?
+Dialogue: 0,0:35:12.75,0:35:15.39,Default,tier 3,0,0,0,,Anong klaseng defiant pose ito?
+Dialogue: 0,0:35:15.39,0:35:16.99,Default,tier 3,0,0,0,,Kailangan nating pabulaanan ang mga tsismis.
+Dialogue: 0,0:35:17.49,0:35:19.69,Default,shooting 3,0,0,0,,-Tingnan mo lang.\N-Sa harap mismo ng mga tao.
+Dialogue: 0,0:35:19.69,0:35:21.23,Default,shooting 3,0,0,0,,-Ang awkward.\N-Hindi ako makapanood.
+Dialogue: 0,0:35:24.43,0:35:25.53,Default,tier 3,0,0,0,,Kung ganoon.
+Dialogue: 0,0:35:28.67,0:35:30.67,Default,tier 3,0,0,0,,Hindi ito sapat para sugpuin ang mga tsismis.
+Dialogue: 0,0:35:31.81,0:35:33.18,Default,tier 3,0,0,0,,Subukan natin.
+Dialogue: 0,0:35:33.18,0:35:35.08,Default,tier 3,0,0,0,,Hindi ba sobra?
+Dialogue: 0,0:35:35.94,0:35:37.45,Default,tier 3,0,0,0,,Pero hindi ko pa naipapakita ang lahat.
+Dialogue: 0,0:35:46.45,0:35:47.52,Default,tier 3,0,0,0,,Hindi sapat.
+Dialogue: 0,0:35:51.13,0:35:52.99,Default,tier 3,0,0,0,,Sige, magpatuloy.
+Dialogue: 0,0:35:52.99,0:35:56.90,Default,shooting range 3,0,0,0,,Kung magpapatuloy ako, kakailanganin na natin ng tent.
+Dialogue: 0,0:35:57.83,0:35:59.37,Default,tier 3,0,0,0,,Ito ba ang gusto mo?
+Dialogue: 0,0:36:00.00,0:36:01.34,Default,tier 3,0,0,0,,Hindi ko sinabi iyon.
+Dialogue: 0,0:36:01.34,0:36:03.14,Default,tier 3,0,0,0,,Kailangan nating pukawin ang kanilang imahinasyon.
+Dialogue: 0,0:36:03.47,0:36:06.17,Default,tier 3,0,0,0,,Pagkatapos para sa parehong layunin
+Dialogue: 0,0:36:07.38,0:36:09.21,Default,tier 3,0,0,0,,Bibisitahin ko ang Daejojeon ngayon.
+Dialogue: 0,0:36:18.39,0:36:20.72,Default,tier 3,0,0,0,,Wala akong pagpipilian, dahil maaari akong mapatalsik.
+Dialogue: 0,0:36:20.72,0:36:21.72,Default,tier 3,0,0,0,,Pagkatapos
+Dialogue: 0,0:36:23.02,0:36:24.73,Default,tier 3,0,0,0,,see you later.
+Dialogue: 0,0:36:36.37,0:36:38.91,Default,tier 3,0,0,0,,-Nawala?\N-Napakabagal nila.
+Dialogue: 0,0:36:38.91,0:36:40.71,Default,tier 3,0,0,0,,Nakatingin pa rin sa amin.
+Dialogue: 0,0:36:40.71,0:36:42.98,Default,tier 3,0,0,0,,Kung gayon wala kang pagpipilian.
+Dialogue: 0,0:37:04.23,0:37:07.04,Default,tier 3,0,0,0,,Kamahalan, dumating na ang pangunahing babae.
+Dialogue: 0,0:37:14.68,0:37:16.28,Default,tier 3,0,0,0,,Inayos mo ba ito?
+Dialogue: 0,0:37:21.52,0:37:23.89,Default,tier 3,0,0,0,,-Ano ang sinasabi mo?\N-Tungkol sa mga tsismis ang tinutukoy ko.
+Dialogue: 0,0:37:25.52,0:37:27.79,Default,tier 3,0,0,0,,Ito ay salamat sa iyo.
+Dialogue: 0,0:37:28.76,0:37:31.99,Default,tier 3,0,0,0,,Naalala ko ang sinabi mo sa akin noon.
+Dialogue: 0,0:37:32.76,0:37:36.36,Default,tier 3,0,0,0,,Sabi mo, itinanghal lang ang mga gabi nilang magkasama.
+Dialogue: 0,0:37:37.27,0:37:41.47,Default,tier 3,0,0,0,,Samakatuwid, hindi ipagdiriwang ang pagbubuntis ng reyna.
+Dialogue: 0,0:37:41.94,0:37:43.77,Default,tier 3,0,0,0,,Ang iyong mga salita
+Dialogue: 0,0:37:44.07,0:37:46.74,Default,tier 3,0,0,0,,naging isang arrow at tumama sa reyna.
+Dialogue: 0,0:37:46.94,0:37:48.61,Default,tier 3,0,0,0,,Pakitigil ito.
+Dialogue: 0,0:37:48.61,0:37:50.88,Default,tier 3,0,0,0,,Hindi ko ito kontrol.
+Dialogue: 0,0:37:51.11,0:37:53.85,Default,tier 3,0,0,0,,Sa sandaling magsimulang magtsismisan ang mga tao,
+Dialogue: 0,0:37:53.85,0:37:55.95,Default,tier 3,0,0,0,,at hindi sila maaaring huminto.
+Dialogue: 0,0:37:57.19,0:38:01.42,Default,tier 3,0,0,0,,At huli na para alisin mo ang iyong sarili sa responsibilidad.
+Dialogue: 0,0:38:03.26,0:38:08.03,Default,tier 3,0,0,0,,Habang narito ka, hindi ka maaaring malaya.
+Dialogue: 0,0:38:09.73,0:38:13.87,Default,tier 3,0,0,0,,Ang iyong pag-iral ay magsisilbing suporta para sa reputasyon ng aming pamilya.
+Dialogue: 0,0:38:14.57,0:38:17.84,Default,tier 3,0,0,0,,Mas mainam na maging pasimuno kaysa gamitin.
+Dialogue: 0,0:38:21.61,0:38:22.88,Default,tier 3,0,0,0,,Nakakatakot ito.
+Dialogue: 0,0:38:23.91,0:38:25.08,Default,tier 3,0,0,0,,Naiintindihan ko.
+Dialogue: 0,0:38:27.62,0:38:31.62,Default,tier 3,0,0,0,,Ngunit hindi ka nag-iisa, kaya huwag mag-alala.
+Dialogue: 0,0:38:40.93,0:38:44.07,Default,tier 3,0,0,0,,Ako ay nagiging isang katulad mo -
+Dialogue: 0,0:38:44.83,0:38:46.03,Default,tier 3,0,0,0,,yun ang nakakatakot.
+Dialogue: 0,0:38:47.77,0:38:50.87,Default,tier 3,0,0,0,,Alam mo ba kung bakit sinusunod ng pamilya ang iyong mga tagubilin?
+Dialogue: 0,0:38:51.51,0:38:54.11,Default,tier 3,0,0,0,,Dahil isa kang inosenteng biktima,
+Dialogue: 0,0:38:54.11,0:38:55.94,Default,tier 3,0,0,0,,pagdurusa sa pagkawala ng anak.
+Dialogue: 0,0:38:56.64,0:38:58.68,Default,tier 3,0,0,0,,Pero paano kung isa kang walang kaluluwang ina,
+Dialogue: 0,0:38:58.68,0:39:00.92,Default,tier 3,0,0,0,,isinakripisyo ang kanyang anak para mabuhay?
+Dialogue: 0,0:39:01.45,0:39:03.92,Default,tier 3,0,0,0,,At saka, paano kung isa kang hangal na babae,
+Dialogue: 0,0:39:03.92,0:39:05.22,Default,tier 3,0,0,0,,umaasa sa shaman
+Dialogue: 0,0:39:05.22,0:39:07.46,Default,tier 3,0,0,0,,tungkol sa kinabukasan ng ating uri?
+Dialogue: 0,0:39:08.16,0:39:10.13,Default,tier 3,0,0,0,,Mananatili ka ba sa pamamahala?
+Dialogue: 0,0:39:11.76,0:39:14.66,Default,tier 3,0,0,0,,Isusulat ko lahat ng narinig at nakita ko dito,
+Dialogue: 0,0:39:14.66,0:39:16.66,Default,tier 3,0,0,0,,para malaman ng lahat sa Joseon kung sino ka.
+Dialogue: 0,0:39:19.80,0:39:22.37,Default,tier 3,0,0,0,,Walang ganoong kapangyarihan ang mga salita.
+Dialogue: 0,0:39:22.37,0:39:25.41,Default,tier 3,0,0,0,,Malalaman mo pa rin ang kanilang lakas.
+Dialogue: 0,0:39:26.88,0:39:30.15,Default,tier 3,0,0,0,,Minsan mong sinabi sa akin\N na ayaw mo nang mag-sorry.
+Dialogue: 0,0:39:30.65,0:39:32.05,Default,tier 3,0,0,0,,Hindi ka karapat-dapat
+Dialogue: 0,0:39:32.05,0:39:34.42,Default,tier 3,0,0,0,,nagsisisi sa pagkamatay ng yumaong hari.
+Dialogue: 0,0:39:34.78,0:39:37.02,Default,tier 3,0,0,0,,Dapat pagsisihan mo na tinapakan mo ang panaginip niya.
+Dialogue: 0,0:39:38.22,0:39:40.92,Default,tier 3,0,0,0,,Ikaw, bilang kanyang ina, dapat mag-sorry,
+Dialogue: 0,0:39:41.42,0:39:42.72,Default,tier 3,0,0,0,,na sumira sa panaginip ng anak ko.
+Dialogue: 0,0:39:43.32,0:39:45.63,Default,tier 3,0,0,0,,Malamang gusto talaga ng yumaong hari
+Dialogue: 0,0:39:46.39,0:39:48.33,Default,tier 3,0,0,0,,lumabas sa iyong anino.
+Dialogue: 0,0:39:48.33,0:39:49.33,Default,tier 3,0,0,0,,Ano?
+Dialogue: 0,0:39:51.47,0:39:53.17,Default,tier 3,0,0,0,,Wala kang alam.
+Dialogue: 0,0:39:53.97,0:39:57.01,Default,tier 3,0,0,0,,How dare you say that?
+Dialogue: 0,0:39:57.01,0:39:58.51,Default,tier 3,0,0,0,,Ito ang katotohanan, alam ng lahat.
+Dialogue: 0,0:39:59.67,0:40:01.78,Default,tier 3,0,0,0,,At sigurado akong alam mo rin ito.
+Dialogue: 0,0:40:03.48,0:40:06.45,Default,tier 3,0,0,0,,Hindi ako papayag na sirain mo ang pangarap ng Kanyang Kamahalan.
+Dialogue: 0,0:40:10.29,0:40:11.42,Default,tier 3,0,0,0,,Itong babaeng ito...
+Dialogue: 0,0:40:24.17,0:40:25.63,Default,Spillik4,0,0,0,,Pupunta ako sa Daejojon hall.
+Dialogue: 0,0:40:25.93,0:40:27.00,Default,Spilyk4,0,0,0,,Oo.
+Dialogue: 0,0:40:39.31,0:40:42.65,Default,Spikyulka4,0,0,0,,Sinasabi nila na ang mga panaginip ay sumasalungat sa mga tsismis.
+Dialogue: 0,0:40:43.95,0:40:45.15,Default,Spilyk4,0,0,0,,Mga alingawngaw?
+Dialogue: 0,0:40:45.45,0:40:47.02,Default,Spikyulka4,0,0,0,,Hindi ko sinabi kahit kanino,
+Dialogue: 0,0:40:47.02,0:40:49.99,Default,Spikyulka4,0,0,0,,pagkatapos ng lahat, ang isang gabing kasama ang hari ay isang matalik na bagay,
+Dialogue: 0,0:40:51.49,0:40:54.80,Default,Spikyulka4,0,0,0,,pero kung nalaman mo, magugulat ka.
+Dialogue: 0,0:40:56.90,0:40:58.13,Default,Spillie4,0,0,0,,Sa kama...
+Dialogue: 0,0:41:23.86,0:41:25.13,Default,Spilyk4,0,0,0,,Isang bagay na ganyan.
+Dialogue: 0,0:41:26.03,0:41:27.80,Default,Spikyulka4,0,0,0,,Hindi mo masasabi sa akin ang tungkol sa maiinit na gabi.
+Dialogue: 0,0:41:27.80,0:41:29.60,Default,Spilyk4,0,0,0,,Sayang naman.
+Dialogue: 0,0:41:29.80,0:41:33.80,Default,Spillik4,0,0,0,,Ang hari ay hindi sa lahat kung ano ang kanyang tila.
+Dialogue: 0,0:41:34.34,0:41:37.54,Default,Spilyk4,0,0,0,,Ang kanyang pagtitiis ay bababa sa kasaysayan.
+Dialogue: 0,0:41:42.61,0:41:44.31,Default,Spikyulka4,0,0,0,,So dahil sa akin napunta ito sa mga textbook?
+Dialogue: 0,0:41:44.91,0:41:48.78,Default,Spikyulka4,0,0,0,,Sino ang nagkakalat ng maling tsismis?
+Dialogue: 0,0:41:48.78,0:41:52.65,Default,Spillik4,0,0,0,,Tanging ang royal concubine na si Cho ang may kakayahan nito.
+Dialogue: 0,0:42:01.66,0:42:02.96,Default,Spillik4,0,0,0,,Lahat ay maayos.
+Dialogue: 0,0:42:07.00,0:42:09.87,Default,Spilyk4,0,0,0,,Ano? Ngayon bakit ka naparito para lumaban?
+Dialogue: 0,0:42:17.35,0:42:18.81,Default,Spillik4,0,0,0,,Sigurado ka ba?
+Dialogue: 0,0:42:23.69,0:42:25.45,Default,Spikyulka4,0,0,0,,Sigurado kaming kasama ka ng hari
+Dialogue: 0,0:42:25.95,0:42:28.52,Default,Silk4,0,0,0,,kaya mo ba silang labanan at manalo?
+Dialogue: 0,0:42:30.89,0:42:32.39,Default,Spilyk4,0,0,0,,Ito rin ang laban ko.
+Dialogue: 0,0:42:32.89,0:42:34.93,Default,Spilyk4,0,0,0,,At kailangan ko rin ng tagumpay.
+Dialogue: 0,0:42:44.20,0:42:46.65,Default,Spilyk4,0,0,0,,Kung gayon kailangan mong magsanay ng archery.
+Dialogue: 0,0:42:47.21,0:42:50.75,Default,Spikyulka4,0,0,0,,Sa kasalukuyan mong mga kakayahan, magiging pabigat ka lang.
+Dialogue: 0,0:42:53.15,0:42:56.85,Default,Spillik4,0,0,0,,Kung gayon maaari mo ba akong turuan?
+Dialogue: 0,0:42:59.45,0:43:00.52,Default,Spilyk4,0,0,0,,Meron akong
+Dialogue: 0,0:43:03.29,0:43:05.16,Default,Spilyk4,0,0,0,,walang oras para dito.
+Dialogue: 0,0:43:08.90,0:43:11.43,Default,Spillik4,0,0,0,, Your Majesty, concubine Cho is here.
+Dialogue: 0,0:43:12.70,0:43:13.87,Default,Spillik4,0,0,0,,Papasukin siya.
+Dialogue: 0,0:43:27.05,0:43:29.05,Default,Spilyk4,0,0,0,,May hihilingin akong pabor sa iyo.
+Dialogue: 0,0:43:29.35,0:43:30.35,Default,Spillik4,0,0,0,,Magsalita.
+Dialogue: 0,0:43:30.35,0:43:32.02,Default,Spillik4,0,0,0,,Dapat mo itong tuparin.
+Dialogue: 0,0:43:33.62,0:43:35.49,Default,Spikyulka4,0,0,0,,At anong uri ng kahilingan?
+Dialogue: 0,0:43:37.43,0:43:40.76,Default,Spillik4,0,0,0,,Hayaan mo akong umalis sa palasyo.
+Dialogue: 0,0:43:45.07,0:43:46.43,Default,Spillik4,0,0,0,,Ano ang ibig sabihin nito?
+Dialogue: 0,0:43:46.87,0:43:50.41,Default,Spillik4,0,0,0,,Hindi ko mahanap ang sarili ko sa palasyo.
+Dialogue: 0,0:43:51.04,0:43:53.04,Default,Spikyulka4,0,0,0,,Paalisin mo ako sa palasyo,
+Dialogue: 0,0:43:53.61,0:43:55.64,Default,Spillik4,0,0,0,,upang mabuhay ako ng sarili kong buhay.
+Dialogue: 0,0:43:57.71,0:43:58.91,Default,Spikyulka4,0,0,0,,Hindi ko ito papayagan.
+Dialogue: 0,0:43:59.35,0:44:02.28,Default,Spikyulka4,0,0,0,,Alam mo kung ano ang pakiramdam ng mamuhay bilang isang ipinatapong royal concubine.
+Dialogue: 0,0:44:02.28,0:44:04.52,Default,Spilyk4,0,0,0,,Wala akong pakialam kung ano ang sasabihin nila tungkol sa akin.
+Dialogue: 0,0:44:04.52,0:44:08.46,Default,Spilyk4,0,0,0,,Hindi na ako magpapatali dito.
+Dialogue: 0,0:44:10.39,0:44:14.13,Default,Spikyulka4,0,0,0,,Ito na ang huli kong kahilingan,\Nmangyaring masiyahan ito.
+Dialogue: 0,0:44:20.70,0:44:23.07,Default,Spilyk4,0,0,0,,Hindi ko ibinibigay ang aking pahintulot. Hindi ko maibigay.
+Dialogue: 0,0:44:23.97,0:44:26.21,Default,Spikyulka4,0,0,0,,Pahalagahan namin ang isa't isa,
+Dialogue: 0,0:44:27.24,0:44:29.48,Default,Spillik4,0,0,0,,pero wala nang pagmamahal sa atin.
+Dialogue: 0,0:44:30.14,0:44:31.55,Default,Spillik4,0,0,0,,Sa palasyo
+Dialogue: 0,0:44:32.41,0:44:34.08,Default,Spilyk4,0,0,0,,Nasa bihag ako
+Dialogue: 0,0:44:35.15,0:44:37.75,Default,Spilyk4,0,0,0,,sa ilalim ng pangalan ng royal concubine.
+Dialogue: 0,0:45:19.43,0:45:23.06,Default,Spillik4,0,0,0,,Kamahalan. Ang lahat ng mga opisyal ay nagtitipon.
+Dialogue: 0,0:45:26.43,0:45:31.04,Default,Spillik4,0,0,0,,Ang dahilan kung bakit kailangan kitang tipunin,
+Dialogue: 0,0:45:33.71,0:45:36.31,Default,Spikyulka4,0,0,0,,na mayroon akong mahalagang pahayag.
+Dialogue: 0,0:45:44.05,0:45:46.15,Default,Spillik4,0,0,0,,Mula ngayon
+Dialogue: 0,0:45:46.89,0:45:49.89,Default,Spillik4,0,0,0,,Cho Hwajin, royal consort,
+Dialogue: 0,0:45:54.56,0:45:56.23,Default,Silk4,0,0,0,,nawala ang katayuan ng isang royal concubine.
+Dialogue: 0,0:46:04.71,0:46:06.24,Default,Spikyulka4,0,0,0,,Dapat nating itigil ito.
+Dialogue: 0,0:46:07.38,0:46:11.78,Default,Silk4,0,0,0,,Ang royal concubine ay wala na sa atin.
+Dialogue: 0,0:46:17.29,0:46:20.79,Default,Spillik4,0,0,0,,Kamahalan, maging malusog.
+Dialogue: 0,0:46:22.06,0:46:25.93,Default,Spillik4,0,0,0,,Ipagdadasal kita.
+Dialogue: 0,0:46:45.21,0:46:46.38,Default,Spillik4,0,0,0,,Your Highness.
+Dialogue: 0,0:46:53.42,0:46:56.49,Default,Spilyk4,0,0,0,,Pakiusap huwag mo na akong tawaging ganyan.
+Dialogue: 0,0:46:56.49,0:46:57.89,Default,Spikyulka4,0,0,0,,Ito ay isang error.
+Dialogue: 0,0:46:59.06,0:47:00.46,Default,Spillik4,0,0,0,,Hindi dapat gawin ito ng hari sa iyo.
+Dialogue: 0,0:47:00.46,0:47:02.23,Default,Spillik4,0,0,0,,tanong ko sa kanya mismo.
+Dialogue: 0,0:47:04.13,0:47:06.93,Default,Spikyulka4,0,0,0,,-Bakit?\N-Mas maganda ito para sa lahat.
+Dialogue: 0,0:47:07.84,0:47:11.24,Default,Spillik4,0,0,0,,Habang nasa palasyo ako, iistorbohin ko ang hari,
+Dialogue: 0,0:47:11.71,0:47:13.84,Default,Spillik4,0,0,0,,nang hindi ito gusto.
+Dialogue: 0,0:47:13.84,0:47:15.78,Default,Spikyulka4,0,0,0,,Sisiguraduhin kong hindi ito mangyayari.
+Dialogue: 0,0:47:16.51,0:47:18.15,Default,Silk4,0,0,0,,Hindi pa huli para bumalik.
+Dialogue: 0,0:47:18.15,0:47:19.88,Default,Spillik4,0,0,0,,Pupunta ako sa hari...
+Dialogue: 0,0:47:21.85,0:47:23.99,Default,Spillik4,0,0,0,,Hindi na ako naniniwala sa sarili ko.
+Dialogue: 0,0:47:25.09,0:47:29.29,Default,Spikyulka4,0,0,0,,Kung mananatili pa ako rito, tuluyan na akong mawawala sa sarili ko.
+Dialogue: 0,0:47:30.99,0:47:34.53,Default,Spillik4,0,0,0,,Nagkunwari akong hindi ko alam
+Dialogue: 0,0:47:35.76,0:47:38.00,Default,Spillik4,0,0,0,,tungkol sa nararamdaman mo para sa akin.
+Dialogue: 0,0:47:41.67,0:47:44.37,Default,Spillik4,0,0,0,,-Your Highness.\N-Ginamit kita para sa sarili kong layunin.
+Dialogue: 0,0:47:45.87,0:47:48.28,Default,Spillie4,0,0,0,,Noong nanabik ako sa isang hari,
+Dialogue: 0,0:47:49.11,0:47:51.98,Default,Spillik4,0,0,0,,emptiness dahil hindi niya ako na-miss,
+Dialogue: 0,0:47:53.08,0:47:55.08,Default,Spikyulka4,0,0,0,,Pinaunan ko ito sa iyo.
+Dialogue: 0,0:47:55.45,0:47:56.62,Default,Spillik4,0,0,0,,I
+Dialogue: 0,0:47:59.52,0:48:01.96,Default,Spikyulka4,0,0,0,,kusang-loob na pinahintulutan kang gamitin ako.
+Dialogue: 0,0:48:03.39,0:48:05.19,Default,Spikyulka4,0,0,0,,Ito lang ang magagawa ko
+Dialogue: 0,0:48:07.33,0:48:08.60,Default,Spilyk4,0,0,0,,para sa iyo.
+Dialogue: 0,0:48:09.63,0:48:11.17,Default,Spillik4,0,0,0,,Salamat.
+Dialogue: 0,0:48:12.57,0:48:13.70,Default,Spikyulka4,0,0,0,,At
+Dialogue: 0,0:48:14.97,0:48:16.50,Default,Spillik4,0,0,0,,sorry.
+Dialogue: 0,0:48:17.51,0:48:19.31,Default,Spikyulka4,0,0,0,,Panahon na para huminto ka
+Dialogue: 0,0:48:19.67,0:48:23.01,Default,Silk4,0,0,0,,saktan ang sarili ng pagmamahal sa maling tao.
+Dialogue: 0,0:48:43.26,0:48:45.67,Default,Spillik4,0,0,0,,So iyon ang ibig niyang sabihin.
+Dialogue: 0,0:48:52.17,0:48:53.94,Default,Spilyk4,0,0,0,,Cool na babae.
+Dialogue: 0,0:48:57.31,0:48:58.91,Default,Spillik4,0,0,0,,Okay lang ba si Cheoljong?
+Dialogue: 0,0:49:00.78,0:49:02.58,Default,Spillik4,0,0,0,,Sigurado akong hindi.
+Dialogue: 0,0:49:25.67,0:49:27.21,Default,Spilyk4,0,0,0,,Ipaglaban mo ako.
+Dialogue: 0,0:49:27.48,0:49:28.78,Default,Spillik4,0,0,0,,Wala ako sa mood.
+Dialogue: 0,0:49:28.94,0:49:29.98,Default,Spillik4,0,0,0,,Sa pagkabata
+Dialogue: 0,0:49:31.21,0:49:33.41,Default,Silk4,0,0,0,,sa Ganghwado madalas kaming naglalaro ng parehong laro.
+Dialogue: 0,0:49:35.88,0:49:38.59,Default,Spillkins4,0,0,0,,Kung saan mananalo ang unang tumuntong sa anino ng iba.
+Dialogue: 0,0:49:39.35,0:49:40.79,Default,Spilyk4,0,0,0,,Yung ayaw maglaro,
+Dialogue: 0,0:49:42.79,0:49:44.33,Default,Spillik4,0,0,0,,matalo kaagad.
+Dialogue: 0,0:50:09.12,0:50:10.52,Default,Spillik4,0,0,0,,Remember?
+Dialogue: 0,0:50:11.22,0:50:14.66,Default,Silk4,0,0,0,,Bilang bata, lagi akong nananalo.
+Dialogue: 0,0:50:17.93,0:50:20.86,Default,Spikyulka4,0,0,0,,Naalala ko, tapos lagi akong nanalo.
+Dialogue: 0,0:50:24.23,0:50:28.34,Default,Spikyulka4,0,0,0,,Dapat naging mas mahigpit ako sa hierarchy natin kanina.
+Dialogue: 0,0:50:28.64,0:50:31.64,Default,Spillik4,0,0,0,,Walang kinalaman ang Hierarchy dito, hindi ka lang manalo.
+Dialogue: 0,0:50:40.61,0:50:44.69,Default,Spillik4,0,0,0,,Nag-alala si Concubine Cho sa iyo hanggang sa huli.
+Dialogue: 0,0:50:44.85,0:50:47.22,Default,Spikyulka4,0,0,0,,Ni hindi mo naiintindihan kung gaano ito kahalaga.
+Dialogue: 0,0:50:47.22,0:50:48.36,Default,Spilyk4,0,0,0,,Sa pagkakaintindi ko.
+Dialogue: 0,0:50:49.16,0:50:50.59,Default,Spilyk4,0,0,0,,Kaya ako nagdurusa nang husto.
+Dialogue: 0,0:51:02.20,0:51:03.57,Default,Spillik4,0,0,0,,Dapat kang magdusa nang higit pa.
+Dialogue: 0,0:51:04.44,0:51:05.51,Default,Spilyk4,0,0,0,,Ito ang pinakamahusay,
+Dialogue: 0,0:51:07.41,0:51:09.48,Default,Spillik4,0,0,0,,ano ang magagawa mo para sa kanya.
+Dialogue: 0,0:51:17.45,0:51:20.09,Default,Spikyulka4,0,0,0,,Gaano katagal ko kailangang magdusa\N mula sa kalungkutan at pag-aalala?
+Dialogue: 0,0:51:20.59,0:51:21.92,Default,Spillik4,0,0,0,,Ilan pa?
+Dialogue: 0,0:51:35.96,0:51:39.30,Default,Spillik4,0,0,0,,May iniinom bang Cheoljung ko?
+Dialogue: 0,0:51:39.83,0:51:42.07,Default,Silk4,0,0,0,,Mas maganda kung kasama ko siyang uminom, kung hindi dahil sa pagbubuntis.
+Dialogue: 0,0:51:47.11,0:51:51.18,Default,Spikyulka4,0,0,0,,Ang pagbubuntis ay hindi lamang tungkol sa panganganak, kundi tungkol din sa pagiging isa?
+Dialogue: 0,0:51:52.35,0:51:54.32,Default,Spilyk4,0,0,0,,Bakit parang inaantok palagi?
+Dialogue: 0,0:52:10.03,0:52:11.47,Default,Spillik4,0,0,0,,Pupunta ako sa Dongmyeongjong hall.
+Dialogue: 0,0:52:13.03,0:52:14.20,Default,Spillik4,0,0,0,,Mag-ingat, Kamahalan.
+Dialogue: 0,0:52:14.77,0:52:16.40,Default,Spilyk4,0,0,0,,Mapanganib na tsismis,
+Dialogue: 0,0:52:16.40,0:52:19.07,Default,Spikyulka4,0,0,0,,kung nalaman nilang sa iyo siya nanggaling...
+Dialogue: 0,0:52:19.94,0:52:22.91,Default,Spillik4,0,0,0,,Hanggang sa nalaman ng Dowager Queen,
+Dialogue: 0,0:52:23.41,0:52:25.31,Default,Spillik4,0,0,0,,Ako mismo ang magsasabi sa kanya.
+Dialogue: 0,0:52:26.21,0:52:28.35,Default,Silk4,0,0,0,,-Pero..\N-Huwag kang mag-alala.
+Dialogue: 0,0:52:29.08,0:52:32.09,Default,Spilyk4,0,0,0,,Hindi nila maisip,
+Dialogue: 0,0:52:32.09,0:52:33.89,Default,Spikyulka4,0,0,0,,na magbabahagi ako ng tsismis na ako mismo ang nagsimula.
+Dialogue: 0,0:52:37.86,0:52:40.33,Default,Spillik4,0,0,0,,Lumataw nang walang imbitasyon.
+Dialogue: 0,0:52:40.69,0:52:42.70,Default,Spikyulka4,0,0,0,,Palagay ko hihingi ulit ako ng pabor.
+Dialogue: 0,0:52:42.70,0:52:45.00,Default,Spikyulka4,0,0,0,,Nakarinig ako ng mga kamangha-manghang tsismis.
+Dialogue: 0,0:52:45.00,0:52:48.14,Default,Spikyulka4,0,0,0,,Natatakot ako na baka magkasakit ka sa ganyang balita.
+Dialogue: 0,0:52:48.54,0:52:50.84,Default,Spillik4,0,0,0,,Kaya dumating ako kaagad.
+Dialogue: 0,0:52:50.84,0:52:52.21,Default,Spillik4,0,0,0,,Mga alingawngaw?
+Dialogue: 0,0:52:54.48,0:52:58.45,Default,Spilyk4,0,0,0,,Bakit sobrang effort?
+Dialogue: 0,0:52:58.45,0:53:02.38,Default,Spikyulka4,0,0,0,,Kung alam mo ang pinag-uusapan namin, hindi ka magsasalita ng ganyan.
+Dialogue: 0,0:53:03.32,0:53:04.75,Default,Spilyk4,0,0,0,, Kahit na curious.
+Dialogue: 0,0:53:05.09,0:53:08.49,Default,Spikyulka4,0,0,0,,Anong klaseng tsismis ang pagmamadali mo na parang baliw.
+Dialogue: 0,0:53:09.39,0:53:12.26,Default,Spillik4,0,0,0,,Masyado siyang makaligtaan,
+Dialogue: 0,0:53:12.56,0:53:16.03,Default,Spill4,0,0,0,,kung paano magbabago ang iyong mukha kapag narinig mo ito.
+Dialogue: 0,0:53:18.30,0:53:20.40,Default,Spilyk4,0,0,0,,Malamang na dahil sa tsismis magbago ang mukha ko ng ganito,
+Dialogue: 0,0:53:20.40,0:53:22.87,Default,Spillik4,0,0,0,,gaano mo katagal makita.
+Dialogue: 0,0:53:25.14,0:53:29.81,Default,Spill4,0,0,0,,Ang anak ng reyna ay hindi sa hari.
+Dialogue: 0,0:53:31.18,0:53:34.78,Default,Spikyulka4,0,0,0,,Ito ay mula kay Kim Byungin.
+Dialogue: 0,0:53:36.92,0:53:40.19,Default,Spillik4,0,0,0,,Masyado kang nagmamalasakit sa iyong kauri.
+Dialogue: 0,0:53:40.45,0:53:44.86,Default,Spikyulka4,0,0,0,,Ngayon ay lalabas sa kasaysayan na ang Andonian Kim clan
+Dialogue: 0,0:53:44.86,0:53:47.29,Default,Spillik4,0,0,0,,namantsa ang royal blood.
+Dialogue: 0,0:54:00.64,0:54:01.78,Default,Spilyk4,0,0,0,,Kawili-wili.
+Dialogue: 0,0:54:02.88,0:54:05.05,Default,Spillik4,0,0,0,,Ngayon ang lahat ay naging mas kawili-wili.
+Dialogue: 0,0:54:14.99,0:54:16.79,Default,Spikyulka4,0,0,0,,Narinig mo na ba ang pinag-uusapan nila?
+Dialogue: 0,0:54:17.16,0:54:19.29,Default,Spikyulka4,0,0,0,,Oo, narinig ko. Walang basehan.
+Dialogue: 0,0:54:19.66,0:54:22.50,Default,Spill4,0,0,0,,Ang hari at reyna ay magkasamang natulog
+Dialogue: 0,0:54:23.20,0:54:26.97,Default,Spilyk4,0,0,0,,gaya ng inaasahan. \NBakit huli mong sinimulan itong pag-usapan?
+Dialogue: 0,0:54:26.97,0:54:28.34,Default,Spilyk4,0,0,0,,Hindi iyon ang pinag-uusapan ko.
+Dialogue: 0,0:54:28.60,0:54:30.90,Default,Spillik4,0,0,0,,Sabi nila hindi raw sa hari ang bata.
+Dialogue: 0,0:54:31.24,0:54:32.67,Default,Spikyulka4,0,0,0,,Hush, magdadala ka ng problema sa iyong sarili.
+Dialogue: 0,0:54:43.28,0:54:45.92,Default,Silk4,0,0,0,,Nagtatawanan ang buong bakuran sa aming angkan.
+Dialogue: 0,0:54:46.69,0:54:50.32,Default,Spilyk4,0,0,0,,Koneksyon sa pagitan ng reyna at ng ministro ng digmaan, malapit na kamag-anak?
+Dialogue: 0,0:54:51.09,0:54:53.33,Default,Spikyulka4,0,0,0,,Mataas ang pag-asa ko sa kanya.
+Dialogue: 0,0:54:54.19,0:54:55.63,Default,Spillik4,0,0,0,,Nakakahiya.
+Dialogue: 0,0:54:57.13,0:54:58.70,Default,Spiky4,0,0,0,,Pagkatapos ng deposition ng Concubine Cho,
+Dialogue: 0,0:54:58.70,0:55:00.93,Default,Spikyulka4,0,0,0,,akala ko tapos na ako.
+Dialogue: 0,0:55:00.93,0:55:04.40,Default,Spikyulka4,0,0,0,,Pero pagkatapos ng tsismis tungkol sa reyna,\NI feeling ko nanalo ako.
+Dialogue: 0,0:55:07.27,0:55:10.91,Default,Spikyulka4,0,0,0,,Ang bata ay hindi dugong maharlika, ngunit isang pinakakain.
+Dialogue: 0,0:55:31.53,0:55:34.57,Default,Spillik4,0,0,0,,Mas mahalaga ang pamilya ko kaysa sa buhay ko.
+Dialogue: 0,0:55:35.74,0:55:38.11,Default,Spilyk4,0,0,0,,Kaya ako nabubuhay para sa aking pamilya.
+Dialogue: 0,0:55:39.44,0:55:41.44,Default,Spillik4,0,0,0,,Para saan ka nabubuhay?
+Dialogue: 0,0:55:41.81,0:55:44.24,Default,Spillik4,0,0,0,,For the same reason as you, Your Majesty.
+Dialogue: 0,0:55:46.05,0:55:47.08,Default,Spillik4,0,0,0,,Ganun ba?
+Dialogue: 0,0:55:48.48,0:55:51.39,Default,Spilyk4,0,0,0,,Kung gayon, handa ka bang gawin ang anumang bagay para sa kapakanan ng iyong pamilya?
+Dialogue: 0,0:55:52.35,0:55:53.39,Default,Spilyk4,0,0,0,,Oo.
+Dialogue: 0,0:55:54.35,0:55:57.49,Default,Spillik4,0,0,0,,Tapos dalhin mo muna sa akin ang ulo ng reyna.
+Dialogue: 0,0:55:58.39,0:55:59.89,Default,,0,0,0,,Ito ay isang order.
+Dialogue: 0,0:56:01.40,0:56:02.90,Default,,0,0,0,,Ano ang dahilan?
+Dialogue: 0,0:56:02.90,0:56:07.60,Default,,0,0,0,, Sinira ng Reyna ang reputasyon ng aming pamilya, na naipon namin sa loob ng maraming taon.
+Dialogue: 0,0:56:10.80,0:56:11.97,Default,,0,0,0,,Kamahalan.
+Dialogue: 0,0:56:12.41,0:56:14.74,Default,,0,0,0,,Hindi ko alam kung ano ang ikinagalit mo,
+Dialogue: 0,0:56:14.74,0:56:16.21,Default,,0,0,0,,ngunit maawa ka.
+Dialogue: 0,0:56:16.21,0:56:18.11,Default,,0,0,0,,Lahat ng tao sa palasyo ay nagtsitsismisan
+Dialogue: 0,0:56:18.11,0:56:20.85,Default,,0,0,0,,na hindi natulog na magkasama ang hari at reyna.
+Dialogue: 0,0:56:20.85,0:56:23.75,Default,,0,0,0,,Ngayon sabi nila sayo na ang bata.
+Dialogue: 0,0:56:24.45,0:56:25.49,Default,,0,0,0,,Ano?
+Dialogue: 0,0:56:26.49,0:56:28.02,Default,,0,0,0,,Hindi ito totoo.
+Dialogue: 0,0:56:28.02,0:56:30.32,Default,,0,0,0,,Nagiging totoo ang pinaniniwalaan ng lahat.
+Dialogue: 0,0:56:30.89,0:56:34.29,Default,,0,0,0,,Pagdating ng umaga, ikakalat ng mga tao ang tsismis na ito
+Dialogue: 0,0:56:34.80,0:56:37.13,Default,,0,0,0,,at ang reyna ay magiging makasalanan,
+Dialogue: 0,0:56:37.13,0:56:38.77,Default,,0,0,0,,na nabuntis ng iba
+Dialogue: 0,0:56:38.77,0:56:41.94,Default,,0,0,0,,at nagsinungaling na ang bata ay mula sa hari, sa gayon ay kahihiyan siya.
+Dialogue: 0,0:56:42.97,0:56:44.54,Default,,0,0,0,,Ang mga tsismis ay lumitaw dahil sa aking kasalanan.
+Dialogue: 0,0:56:45.01,0:56:46.47,Default,,0,0,0,,Tatanggapin ko ang aking parusa.
+Dialogue: 0,0:56:46.91,0:56:48.31,Default,,0,0,0,,Ang isang tsismis ay maaaring makapinsala sa isang tao,
+Dialogue: 0,0:56:48.31,0:56:50.64,Default,,0,0,0,,pero papatay siya ng babae.
+Dialogue: 0,0:56:51.31,0:56:53.08,Default,,0,0,0,,Upang iligtas ang karangalan ng ating pamilya,
+Dialogue: 0,0:56:53.08,0:56:54.65,Default,,0,0,0,,kailangan ng ulo ng reyna.
+Dialogue: 0,0:56:55.02,0:56:57.72,Default,,0,0,0,,Kung ikaw mismo ang magdadala sa akin ng ulo niya,
+Dialogue: 0,0:56:58.29,0:57:00.19,Default,,0,0,0,,Hindi kita parurusahan.
+Dialogue: 0,0:57:01.42,0:57:02.92,Default,,0,0,0,,Hindi ko kaya.
+Dialogue: 0,0:57:03.72,0:57:05.89,Default,,0,0,0,,Mas mabuting parusahan ako.
+Dialogue: 0,0:57:05.89,0:57:07.26,Default,,0,0,0,,Sabi niya nabubuhay ka para sa pamilya mo,
+Dialogue: 0,0:57:07.26,0:57:09.50,Default,,0,0,0,,ngunit lahat para lang sa kapakanan ng reyna!
+Dialogue: 0,0:57:10.93,0:57:13.03,Default,,0,0,0,,Pagkatapos ay ipagkakatiwala ko ito sa iba.
+Dialogue: 0,0:57:13.50,0:57:15.30,Default,,0,0,0,,-May tao ba sa labas?\N-Agad akong
+Dialogue: 0,0:57:17.37,0:57:19.71,Default,,0,0,0,,Ibabalik ko ang iyong regency.
+Dialogue: 0,0:57:54.61,0:57:56.64,Default,,0,0,0,,Delikado ang iyong ideya.
+Dialogue: 0,0:57:57.88,0:58:00.61,Default,,0,0,0,,Sa isang aklat na may pangalan ng reyna
+Dialogue: 0,0:58:01.85,0:58:05.05,Default,,0,0,0,,Nakita ko ang code ng Tonhak followers na isinulat mo.
+Dialogue: 0,0:58:10.19,0:58:13.46,Default,,0,0,0,,Ang mapanganib na ideyang ito ay nadungisan ka at ang reyna.
+Dialogue: 0,0:58:14.73,0:58:16.80,Default,,0,0,0,,Nais nilang muling itayo ang bansa.
+Dialogue: 0,0:58:18.07,0:58:21.10,Default,,0,0,0,,Ano ang mangyayari kung makaramdam ng panganib ang mga aristokrata?
+Dialogue: 0,0:58:21.57,0:58:23.47,Default,,0,0,0,,Susubukan nilang panatilihin ang lahat ng ito,
+Dialogue: 0,0:58:23.94,0:58:26.11,Default,,0,0,0,,kahit na nangangahulugan ito ng pagkitil sa buhay ng mga tao.
+Dialogue: 0,0:58:28.48,0:58:31.45,Default,,0,0,0,,Magsisimula na ang masaker sa mga followers ni Tonhak.
+Dialogue: 0,0:58:34.31,0:58:37.72,Default,,0,0,0,,Kung gayon bakit ka pumunta sa akin at hindi ka sumunod sa kanila?
+Dialogue: 0,0:58:38.62,0:58:41.19,Default,,0,0,0,,Dahil masasaktan nito ang reyna.
+Dialogue: 0,0:58:46.66,0:58:48.50,Default,,0,0,0,,Kim Clan
+Dialogue: 0,0:58:51.30,0:58:53.60,Default,,0,0,0,,na naglalayon sa Kanyang Kamahalan.
+Dialogue: 0,0:58:55.97,0:58:59.14,Default,,0,0,0,,Pagkakalat ng tsismis na galing sa akin ang anak niya,
+Dialogue: 0,0:58:59.64,0:59:01.88,Default,,0,0,0,,gusto nilang patayin siya para mapanatili ang kanilang dangal.
+Dialogue: 0,0:59:03.24,0:59:05.31,Default,,0,0,0,,With this gusto nila akong atakihin.
+Dialogue: 0,0:59:05.75,0:59:08.25,Default,,0,0,0,,-Pipigilan ko sila.\N-Hindi mo kaya.
+Dialogue: 0,0:59:10.08,0:59:12.42,Default,,0,0,0,,Kahit na iligtas mo siya ngayon,
+Dialogue: 0,0:59:12.79,0:59:15.62,Default,,0,0,0,,sarili niyang pamilya ang nagsimula ng tsismis,
+Dialogue: 0,0:59:16.86,0:59:19.49,Default,,0,0,0,,mapipilitan siyang mamuhay nang may masamang reputasyon.
+Dialogue: 0,0:59:21.03,0:59:24.16,Default,,0,0,0,,Hindi lamang siya, ang bata ay nahaharap sa parehong kapalaran.
+Dialogue: 0,0:59:26.37,0:59:33.34,Default,,0,0,0,,Hindi mo ba naiintindihan na hindi siya pababayaan ng mga opisyal na nagbabanta sa iyong posisyon?
+Dialogue: 0,0:59:38.95,0:59:41.25,Default,,0,0,0,,Ikaw lang ang makakapagligtas sa Her Majesty.
+Dialogue: 0,0:59:42.68,0:59:43.82,Default,,0,0,0,,Paano?
+Dialogue: 0,0:59:45.05,0:59:46.92,Default,,0,0,0,,Paano ko siya ililigtas?
+Dialogue: 0,0:59:47.45,0:59:49.46,Default,,0,0,0,,Duralin ang pag-aalsa.
+Dialogue: 0,0:59:51.26,0:59:53.06,Default,,0,0,0,,Sari
+Dialogue: 0,0:59:53.86,0:59:56.03,Default,,0,0,0,,parusahan ang mga tagasunod ni Tonhak.
+Dialogue: 0,0:59:57.40,1:00:00.90,Default,,0,0,0,, Paninirang-puri laban sa babae ng hari na pumunta sa digmaan,
+Dialogue: 0,1:00:00.90,1:00:04.07,Default,,0,0,0,,upang maprotektahan ang bansa, ito ay hindi nararapat, ito ay magpapawalang-bisa sa mga tsismis.
+Dialogue: 0,1:00:04.67,1:00:08.48,Default,,0,0,0,,Kung patunayan mo ang iyong inosente sa pamamagitan ng pagpatay sa mga tagasunod ni Tonhak,
+Dialogue: 0,1:00:09.41,1:00:12.48,Default,,0,0,0,,hindi na magiging banta sa iyo ang cipher na makikita sa aklat\N.
+Dialogue: 0,1:00:14.08,1:00:15.25,Default,,0,0,0,,Ito
+Dialogue: 0,1:00:17.18,1:00:20.22,Default,,0,0,0,,ang tanging paraan para makatipid
+Dialogue: 0,1:00:22.12,1:00:23.79,Default,,0,0,0,,ang reyna at ang iyong anak.
+Dialogue: 0,1:00:28.53,1:00:30.30,Default,,0,0,0,,Walang oras para mag-isip.
+Dialogue: 0,1:00:31.30,1:00:33.83,Default,,0,0,0,,Sa umaga, sisirain ng tsismis ang reyna.
+Dialogue: 0,1:00:36.10,1:00:37.47,Default,,0,0,0,,Hindi pwede
+Dialogue: 0,1:00:39.77,1:00:42.21,Default,,0,0,0,,Hindi ko siya hahayaang magdusa mag-isa.
+Dialogue: 0,1:01:14.14,1:01:15.68,Default,,0,0,0,,Hindi ako natutulog.
+Dialogue: 0,1:01:16.48,1:01:18.18,Default,,0,0,0,,Nag-iisip lang.
+Dialogue: 0,1:01:18.38,1:01:21.18,Default,,0,0,0,,Kaya hindi komportable, bakit hindi ka matulog?
+Dialogue: 0,1:01:21.38,1:01:23.62,Default,,0,0,0,,Dumating ako para aliwin ka.
+Dialogue: 0,1:01:24.75,1:01:28.02,Default,,0,0,0,,Pero malalim ang iniisip ko.
+Dialogue: 0,1:01:30.12,1:01:31.99,Default,,0,0,0,,Kaya gusto kong matulog.
+Dialogue: 0,1:01:32.36,1:01:34.33,Default,,0,0,0,,Aaliwin kita bukas.
+Dialogue: 0,1:01:44.20,1:01:46.51,Default,,0,0,0,,Ikaw ang aking aliw.
+Dialogue: 0,1:02:44.10,1:02:47.10,Default,,0,0,0,,Ang pag-aalsa ng Sangnam ay naglagay sa bansa sa panganib,
+Dialogue: 0,1:02:48.13,1:02:50.50,Default,,0,0,0,,Kailangan ko ng umalis.
+Dialogue: 0,1:02:51.91,1:02:55.81,Default,,0,0,0,,Pagkaalis ko, hinihiling ko sa iyo na makisali sa pulitika.
+Dialogue: 0,1:02:55.81,1:02:56.94,Default,,0,0,0,,AT
+Dialogue: 0,1:03:01.01,1:03:03.35,Default,,0,0,0,,alagaan mo ang reyna at ang anak natin.
+Dialogue: 0,1:03:04.28,1:03:06.95,Default,,0,0,0,,Sigurado akong gagawa ka ng magandang trabaho dito.
+Dialogue: 0,1:03:07.52,1:03:10.19,Default,,0,0,0,,Masarap ang pakiramdam ko nang walang pulitika.
+Dialogue: 0,1:03:11.76,1:03:13.46,Default,,0,0,0,,Ngunit ano ang magagawa mo?
+Dialogue: 0,1:03:14.26,1:03:16.63,Default,,0,0,0,,Huwag mag-alala tungkol sa reyna.
+Dialogue: 0,1:03:16.96,1:03:19.73,Default,,0,0,0,,Alagaan mo yung pinuntahan ng asawa
+Dialogue: 0,1:03:20.00,1:03:24.44,Default,,0,0,0,,sa digmaan, itinaya ang aking buhay, ay tungkulin ko.
+Dialogue: 0,1:03:25.24,1:03:26.91,Default,,0,0,0,,Nagbibilang sa iyo
+Dialogue: 0,1:03:28.14,1:03:29.78,Default,,0,0,0,,at pupunta ako.
+Dialogue: 0,1:03:31.04,1:03:32.71,Default,,0,0,0,,Alagaan ang iyong sarili.
+Dialogue: 0,1:03:35.28,1:03:37.55,Default,,0,0,0,,Sumisikat na ang araw.
+Dialogue: 0,1:04:05.91,1:04:06.95,Default,,0,0,0,,Kamahalan.
+Dialogue: 0,1:04:09.55,1:04:11.18,Default,,0,0,0,,At ako ito.
+Dialogue: 0,1:04:11.99,1:04:13.15,Default,,0,0,0,,Kamahalan.
+Dialogue: 0,1:04:23.46,1:04:27.07,Default,,0,0,0,,Totoo bang ikaw mismo ang magsusupil sa pag-aalsa?
+Dialogue: 0,1:04:27.37,1:04:28.50,Default,,0,0,0,,Oo.
+Dialogue: 0,1:04:28.50,1:04:30.00,Default,,0,0,0,,Ano ang nangyayari?
+Dialogue: 0,1:04:30.00,1:04:32.71,Default,,0,0,0,,Sinuportahan mo sila, ngayon papatayin mo ba sila?
+Dialogue: 0,1:04:32.71,1:04:35.58,Default,,0,0,0,,Nakakita si Kim Byonin ng code na nakatago sa aklat ng reyna.
+Dialogue: 0,1:04:37.88,1:04:41.45,Default,,0,0,0,,Kung hindi ko ito gagawin, milyon-milyon ang magdurusa.
+Dialogue: 0,1:04:41.45,1:04:42.78,Default,,0,0,0,,Sasamahan kita.
+Dialogue: 0,1:04:44.75,1:04:47.09,Default,,0,0,0,,Kailangan kong pumunta mag-isa.
+Dialogue: 0,1:04:47.85,1:04:49.82,Default,,0,0,0,,Hindi pa ba sapat na i-hostage ako?
+Dialogue: 0,1:04:51.32,1:04:52.73,Default,,0,0,0,,Ito ay isang bitag.
+Dialogue: 0,1:04:52.76,1:04:54.99,Default,,0,0,0,,Hindi mo ba iniisip na ang reyna mismo
+Dialogue: 0,1:04:55.30,1:04:57.40,Default,,0,0,0,,binigay ang libro kay Kim Byungin?
+Dialogue: 0,1:04:57.80,1:04:59.83,Default,,0,0,0,,Nangako ka.
+Dialogue: 0,1:05:00.27,1:05:03.14,Default,,0,0,0,,Kung may ebidensya na siya ay isang kaaway,
+Dialogue: 0,1:05:03.14,1:05:04.54,Default,,0,0,0,,ikaw ang personal na pupugutan ng ulo.
+Dialogue: 0,1:05:05.00,1:05:08.34,Default,,0,0,0,,Siya ang dapat pugutan ng ulo, hindi ibang tao.
+Dialogue: 0,1:05:08.34,1:05:10.91,Default,,0,0,0,,Siguradong hindi natin kaaway ang Reyna.
+Dialogue: 0,1:05:11.78,1:05:14.95,Default,,0,0,0,,Tumalikod siya sa lahat para lang sa tabi ko.
+Dialogue: 0,1:05:14.95,1:05:17.02,Default,,0,0,0,,Kung hindi ako aalis ngayon,
+Dialogue: 0,1:05:18.35,1:05:19.95,Default,,0,0,0,,mamamatay ang reyna.
+Dialogue: 0,1:05:19.99,1:05:22.59,Default,,0,0,0,,Kalmado. Hindi ito ang oras para makipag-away sa isa't isa.
+Dialogue: 0,1:05:25.19,1:05:27.43,Default,,0,0,0,,Sabi mo kailangan ko pang maghirap.
+Dialogue: 0,1:05:29.06,1:05:30.20,Default,,0,0,0,,Tama.
+Dialogue: 0,1:05:32.83,1:05:34.70,Default,,0,0,0,,Kukunin ko lahat.
+Dialogue: 0,1:05:37.24,1:05:38.44,Default,,0,0,0,,Ang iyong buhay
+Dialogue: 0,1:05:40.51,1:05:41.71,Default,,0,0,0,,nasa panganib.
+Dialogue: 0,1:05:44.71,1:05:46.15,Default,,0,0,0,,Kung susubukan kong mabuhay,
+Dialogue: 0,1:05:47.65,1:05:49.25,Default,,0,0,0,,mamamatay lahat ng tao sa paligid ko.
+Dialogue: 0,1:06:10.97,1:06:12.64,Default,,0,0,0,,Sigurado akong nakita ko siya.
+Dialogue: 0,1:06:14.61,1:06:15.78,Default,,0,0,0,,Panaginip ba ito?
+Dialogue: 0,1:06:21.51,1:06:24.15,Default,,0,0,0,,Court lady Choi, Hong Young.
+Dialogue: 0,1:06:30.09,1:06:32.46,Default,,0,0,0,,Punta tayo sa Daejojon. Namiss ko ang hari.
+Dialogue: 0,1:06:32.56,1:06:33.93,Default,,0,0,0,,-Oo, Kamahalan.\N-Oo, Kamahalan.
+Dialogue: 0,1:06:35.36,1:06:36.86,Default,,0,0,0,,Aalis na ang kanyang kamahalan.
+Dialogue: 0,1:06:37.83,1:06:39.53,Default,,0,0,0,,Aalis? saan?
+Dialogue: 0,1:06:49.38,1:06:50.84,Default,,0,0,0,,Umalis na tayo.
+Dialogue: 0,1:07:14.33,1:07:15.74,Default,,0,0,0,,Teka!
+Dialogue: 0,1:07:25.58,1:07:28.88,Default,,0,0,0,,Stop! Teka!
+Dialogue: 0,1:07:35.82,1:07:36.96,Default,,0,0,0,,Bakit?
+Dialogue: 0,1:07:39.59,1:07:40.59,Default,,0,0,0,,Bakit?
+Dialogue: 0,1:07:47.37,1:07:48.64,Default,,0,0,0,,Ito ba ang tamang daan?
+Dialogue: 0,1:07:49.74,1:07:52.21,Default,,0,0,0,,Sa palagay ko ay hindi para sa mga tao ang kalsadang ito.
+Dialogue: 0,1:07:52.51,1:07:54.44,Default,,0,0,0,,Ito ang pinakamaikling landas.
+Dialogue: 0,1:08:20.10,1:08:21.27,Default,,0,0,0,,Stop.
+Dialogue: 0,1:08:27.67,1:08:28.84,Default,,0,0,0,,Huli ka.
+Dialogue: 0,1:08:30.21,1:08:34.11,Default,,0,0,0,,Kung gagawin mo pa rin ito, huwag mag-atubiling.
+Dialogue: 0,1:08:34.45,1:08:38.18,Default,,0,0,0,,Ikaw ba mismo ang bababa sa kabayo o tutulong?
+Dialogue: 0,1:08:50.10,1:08:52.07,Default,,0,0,0,,Wala nang maaatrasan.
+Dialogue: 0,1:08:53.97,1:08:56.00,Default,,0,0,0,,Kailangan nating subukan.
+Dialogue: 0,1:08:56.00,1:08:57.40,Default,,0,0,0,,Huwag mag-alala.
+Dialogue: 0,1:09:00.24,1:09:02.14,Default,,0,0,0,,Kaya ko itong mag-isa.
+Dialogue: 0,1:09:05.24,1:09:07.48,Default,,0,0,0,,Magiging maayos ang lahat kung aalisin kita.
+Dialogue: 0,1:09:57.16,1:09:58.33,Default,,0,0,0,,Paano ako naging reyna
+Dialogue: 0,1:09:58.33,1:09:59.60,Default,,0,0,0,,
+Dialogue: 0,1:09:59.60,1:10:00.77,Default,,0,0,0,,
+Dialogue: 0,1:10:21.35,1:10:23.89,Default,,0,0,0,,{\i1}Napakarami ng batang ito.{\i}
+Dialogue: 0,1:10:23.89,1:10:25.49,Default,,0,0,0,,{\i1}Sabihin: "Tatay, bumalik ka kaagad."{\i}
+Dialogue: 0,1:10:25.49,1:10:26.79,Default,,0,0,0,,{\i1}Sipa yata niya.{\i}
+Dialogue: 0,1:10:27.33,1:10:29.86,Default,,0,0,0,,{\i1}Kamahalan, Hari...{\i}
+Dialogue: 0,1:10:29.86,1:10:31.93,Default,,0,0,0,,{\i1}Ngayon ay magbabago na ang may-ari ng lugar na ito.{\i}
+Dialogue: 0,1:10:31.93,1:10:34.13,Default,,0,0,0,,{\i1}Ano ang punto,{\i}
+Dialogue: 0,1:10:34.80,1:10:36.07,Default,,0,0,0,,{\i1}kung wala ka?{\i}
+Dialogue: 0,1:10:36.07,1:10:37.34,Default,,0,0,0,,{\i1}Sabi mo inosente ka.{\i}
+Dialogue: 0,1:10:37.34,1:10:38.97,Default,,0,0,0,,{\i1}Ang pagiging nasa panig ng mahihina ay isa ring krimen.{\i}
+Dialogue: 0,1:10:38.97,1:10:41.24,Default,,0,0,0,,{\i1}Benin. Gaano kalayo ang iyong pupuntahan?{\i}
+Dialogue: 0,1:10:41.24,1:10:44.48,Default,,0,0,0,,{\i1}Ang pinakamahalagang bagay ay ang ipanganak na malusog.{\i}
+Dialogue: 0,1:10:44.48,1:10:46.41,Default,,0,0,0,,{\i1}Papatayin ko ang reyna,{\i}
+Dialogue: 0,1:10:46.41,1:10:49.48,Default,,0,0,0,,{\i1}na nakipagtulungan sa iyo para patayin ang hari.{\i}
+Dialogue: 0,0:16:11.74,0:16:13.74,Default,,0,0,0,,
+
+

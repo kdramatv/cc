@@ -1,0 +1,889 @@
+WEBVTT
+
+﻿[Info Skrip]
+; Skrip dihasilkan oleh Aegisub 3.2.2
+; http://www.aegisub.org/
+Judul: File Aegisub default
+Tipe Skrip: v4.00+
+Gaya Bungkus: 0
+ScaledBorderAndShadow: ya
+Matriks YCbCr: TV.601
+PutarResX: 1280
+PutarResY: 720
+[Sampah Proyek Aegisub]
+Penyimpanan Gaya Terakhir: РќР°Р֑РїРёСЃРё
+File Audio: Как я стал королевой - 17.mp4
+File Video: Как я стал королевой - 17.mp4
+Modus AR Video: 4
+Nilai AR Video: 1,777778
+Persen Zoom Video: 0,500000
+Posisi Gulir: 653
+Jalur Aktif: 662
+Posisi Video: 94779
+
+
+[Gaya V4+]
+Format: Nama, Nama Font, Ukuran Font, Warna Utama, Warna Sekunder, Warna Garis Besar, Warna Belakang, Tebal, Miring, Garis Bawah, Coret, ScaleX, ScaleY, Spasi, Sudut, Gaya Batas, Garis Besar, Bayangan, Perataan, MarginL, MarginR, MarginV, Pengkodean
+Gaya: Default,Arial,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,5,0,2,10,10,50,1
+Gaya: работали,Arial,30,&H00201D20,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
+Gaya: название,bang whack pow,120,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,1,10,10,10,1
+Gaya: ПРЕДСТ,Segoe UI,60,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,8,10,10,10,1
+
+[Acara]
+Format: Ditandai, Mulai, Akhir, Gaya, Nama, MarginL, MarginR, MarginV, Efek, Teks
+Dialog: 0,0:00:58.00,0:01:03.98,ПРЕДСТ,,0,0,0,,ФАНСАБ-ГРУППА АЗАЛИИ ПРЕДСТАВЛЯЕТ
+Dialog: 0,0:00:58.00,0:01:03.98,Default,,0,0,0,,{\c&HFFFFFF&\fade(00,0)\p1\a5\bord0\1a&H00&\pos(430,206)\fscx807\fscy277}m 0 0 l 0 0 l 92 0 aku 92 38 aku 0 38
+Dialog: 0,0:00:58.00,0:01:03.98,berhasil,,0,0,0,,{\pos(801,256)}Mengerjakan serial:\N Lily, Tiramisu, Biryulka, Host, Zinger, Hazelnut
+Dialogue: 0,0:00:58.00,0:01:03.98,title,,0,0,0,,{\fscx75\fscy75\pos(846,392)}Bagaimana jadinya aku
+Dialog: 0,0:00:58.00,0:01:03.98,nama,,0,0,0,,{\fscx75\fscy75\pos(848,456)}ratu
+Dialog: 0,0:01:13.06,2:01:37.06,PRESENT,,0,0,0,,{\fs40\pos(1181,4)}AZALEA
+Dialog: 0,0:01:04.09,0:01:06.37,Default,li,0,0,0,,Semua karakter fiktif,
+Dialog: 0,0:01:06.37,0:01:08.54,Default,li,0,0,0,,dan peristiwa yang ditampilkan adalah fiksi.
+Dialog: 0,0:01:09.80,0:01:12.30,Default,li,0,0,0,,Selamat, Yang Mulia.
+Dialogue: 0,0:01:18.37,0:01:19.82,Default,li,0,0,0,,Ratuku, terima kasih.
+Dialog: 0,0:01:28.75,0:01:31.82,Default,li,0,0,0,,-Selamat, Yang Mulia!\N-Selamat, Yang Mulia!
+Dialogue: 0,0:01:34.60,0:01:36.69,Default,li,0,0,0,,Aku akan menjadi seorang ayah!
+Dialog: 0,0:01:41.46,0:01:42.54,Default,li,0,0,0,,I
+Dialogue: 0,0:01:44.90,0:01:46.50,Default,apakah,0,0,0,,hamil?
+Dialog: 0,0:02:07.83,0:02:09.89,Default,li,0,0,0,,Hentikan!
+Dialog: 0,0:02:23.10,0:02:24.35,Default,li,0,0,0,,-Tuhan.\N-Keluar dari sini.
+Dialog: 0,0:02:24.47,0:02:26.08,Default,li,0,0,0,,-Yang Mulia.\N-Tuhan.
+Dialogue: 0,0:02:40.30,0:02:42.72,Default,li,0,0,0,,Mengapa ratu begitu kesal?
+Dialog: 0,0:02:43.36,0:02:45.66,Default,li,0,0,0,,Dia tidak kesal.
+Dialog: 0,0:02:46.07,0:02:48.21,Default,li,0,0,0,,Beginilah cara dia mengekspresikan kegembiraannya.
+Dialog: 0,0:02:48.94,0:02:50.00,Default,li,0,0,0,,Ya.
+Dialogue: 0,0:02:53.94,0:02:57.10,Default,adalah,0,0,0,,Apakah ini efek samping kehamilan?
+Dialog: 0,0:03:00.64,0:03:03.08,Default,atau,0,0,0,,Ini lebih dari kegagalan identifikasi diri.
+Dialog: 0,0:03:03.08,0:03:05.98,Default,li,0,0,0,,Identitasku akan hilang dan jiwaku akan hilang.
+Dialogue: 0,0:03:07.82,0:03:10.22,Default,apakah,0,0,0,,Beginikah akhir hidupku?
+Dialogue: 0,0:03:13.82,0:03:16.50,Default,li,0,0,0,,Sudah kubilang aku menentang pernikahan.
+Dialog: 0,0:03:16.57,0:03:18.47,Default,atau,0,0,0,,Bahkan jika saya sudah menikah,
+Dialog: 0,0:03:18.47,0:03:20.07,Default,li,0,0,0,,Saya tidak ingin punya anak.
+Dialog: 0,0:03:20.44,0:03:23.10,Default,li,0,0,0,,Sulit bagiku untuk bertahan\N di dunia yang tidak bersahabat ini,
+Dialog: 0,0:03:23.10,0:03:24.31,Default,apakah,0,0,0,,kehamilan seperti apa?
+Dialog: 0,0:03:24.54,0:03:26.44,Default,li,0,0,0,,Sembrono seperti melepas pelindung tubuhmu
+Dialog: 0,0:03:26.44,0:03:28.67,Default,li,0,0,0,,dan menari samba di bawah tembakan.
+Dialog: 0,0:03:29.85,0:03:30.97,Default,li,0,0,0,,Dan bukan itu saja.
+Dialog: 0,0:03:31.00,0:03:33.94,Default,apakah,0,0,0,,Kehamilan dan persalinan memperpendek harapan hidup.
+Dialog: 0,0:03:34.04,0:03:36.54,Default,li,0,0,0,,Kamu menyerahkan hidupmu agar anakmu bisa hidup.
+Dialog: 0,0:03:36.88,0:03:38.69,Default,li,0,0,0,,Aku harus menyerahkan hidupku
+Dialog: 0,0:03:38.69,0:03:40.62,Default,apakah,0,0,0,,demi anak yang bahkan aku tidak kenal?
+Dialog: 0,0:03:42.66,0:03:46.85,Default,atau,0,0,0,,Ibu Pertiwi sialan, beri orang lain prokreasi!
+Dialogue: 0,0:03:51.54,0:03:57.20,Default,li,0,0,0,,Saya tidak percaya saya hamil!
+Dialogue: 0,0:04:02.88,0:04:05.72,Default,li,0,0,0,,Kehamilan itu luar biasa
+Dialog: 0,0:04:06.44,0:04:08.98,Default,li,0,0,0,,Tunggu, Yang Mulia.
+Dialog: 0,0:04:09.91,0:04:12.66,Default,li,0,0,0,,17 episode
+Dialog: 0,0:04:17.53,0:04:19.32,Default,li,0,0,0,,Anda menanam tubuh lain.
+Dialogue: 0,0:04:19.42,0:04:22.40,Default,li,0,0,0,,Kamu pikir aku tidak bisa mengenali Ovol?
+Dialog: 0,0:04:23.72,0:04:27.13,Default,li,0,0,0,,Saya melakukan ini agar Anda tahu
+Dialog: 0,0:04:27.63,0:04:30.07,Default,atau,0,0,0,,diriku yang sebenarnya, yang bahkan tidak kuduga.
+Dialogue: 0,0:04:30.66,0:04:34.20,Default,li,0,0,0,,Sang Ratu berpaling dari Andonian Kim.
+Dialog: 0,0:04:34.63,0:04:38.17,Default,li,0,0,0,,Keluarga Andonian Kim telah bersatu dengan kita.
+Dialog: 0,0:04:38.97,0:04:42.72,Default,li,0,0,0,,Ini kesempatanmu untuk menjadi ratu.
+Dialog: 0,0:04:43.75,0:04:47.66,Default,li,0,0,0,,Jangan coba-coba mengendalikanku lagi.
+Dialog: 0,0:04:53.19,0:04:55.90,Default,li,0,0,0,,Berapa lama burung yang dijinakkan manusia bisa hidup,
+Dialog: 0,0:04:56.87,0:04:59.90,Default,jika,0,0,0,,jika dia meninggalkan sel?
+Dialog: 0,0:05:02.94,0:05:07.44,Default,li,0,0,0,,Ada kabar yang ingin raja sampaikan ke seluruh dunia.
+Dialog: 0,0:05:07.91,0:05:09.60,Default,atau,0,0,0,,Yang mana?
+Dialog: 0,0:05:09.97,0:05:11.62,Default,li,0,0,0,,Ratu
+Dialog: 0,0:05:13.28,0:05:15.29,Default,adalah,0,0,0,,hamil.
+Dialogue: 0,0:05:37.73,0:05:41.58,Default,li,0,0,0,,Ini adalah drum yang mengumumkan peristiwa yang menggembirakan.
+Dialog: 0,0:06:16.15,0:06:18.31,Default,li,0,0,0,,Sekarang dapurku kosong,
+Dialog: 0,0:06:18.81,0:06:21.48,Default,atau,0,0,0,,tidak ada yang bisa mengisi hati yang kosong.
+Dialog: 0,0:06:22.68,0:06:26.11,Default,li,0,0,0,,Tak ada kelezatan yang akan mengisi perutku...
+Dialog: 0,0:06:27.39,0:06:31.05,Default,li,0,0,0,,Tidak, jiwaku. Bagaimana cara mengisinya?
+Dialogue: 0,0:06:31.85,0:06:34.20,Default,li,0,0,0,,Aku meninggalkan keluargaku.
+Dialog: 0,0:06:35.03,0:06:37.77,Default,li,0,0,0,,Saya penyendiri.
+Dialog: 0,0:06:40.97,0:06:42.14,Default,li,0,0,0,,Tuan!
+Dialog: 0,0:06:42.66,0:06:43.80,Default,li,0,0,0,,Tuan!
+Dialog: 0,0:06:45.28,0:06:47.51,Default,li,0,0,0,,-Tuan!\N-Apa?
+Dialog: 0,0:06:47.51,0:06:49.37,Default,li,0,0,0,,Berita penting dari istana.
+Dialog: 0,0:06:52.65,0:06:56.29,Default,li,0,0,0,,Ada yang terjadi pada ratu?
+Dialogue: 0,0:06:56.48,0:06:59.85,Default,li,0,0,0,,Sang Ratu sedang hamil!
+Dialog: 0,0:07:05.70,0:07:07.79,Default,atau,0,0,0,,Apa alasannya?
+Dialogue: 0,0:07:11.47,0:07:14.49,Default,li,0,0,0,,Yang Mulia, daripada mencari alasan,
+Dialogue: 0,0:07:14.49,0:07:18.87,Default,atau,0,0,0,,mungkin kamu bisa mencoba membuatnya merasa lebih baik?
+Dialog: 0,0:07:19.01,0:07:22.01,Default,li,0,0,0,,Ide bagus. Bagaimana cara melakukan ini?
+Dialogue: 0,0:07:22.01,0:07:24.21,Default,li,0,0,0,,Bagaimana cara membuat wanita bahagia?
+Dialog: 0,0:07:28.35,0:07:30.61,Default,li,0,0,0,,Bagaimana kamu mengetahuinya.
+Dialog: 0,0:07:32.05,0:07:34.89,Default,li,0,0,0,,Dan siapa yang harus saya tanyakan tentang ini?
+Dialog: 0,0:07:40.03,0:07:41.22,Default,li,0,0,0,,Jadi saya
+Dialog: 0,0:07:41.79,0:07:45.34,Default,li,0,0,0,,mengundang seorang ahli untuk membantu memecahkan masalah Anda.
+Dialogue: 0,0:08:05.46,0:08:09.29,Default,li,0,0,0,,Akhir-akhir ini, inilah satu-satunya pertanyaan yang dia pikirkan.
+Dialog: 0,0:08:16.70,0:08:18.27,Default,li,0,0,0,,Apa yang kamu lakukan?
+Dialogue: 0,0:08:18.27,0:08:20.34,Default,li,0,0,0,,Dia mungkin akan sama marahnya.
+Dialog: 0,0:08:21.64,0:08:23.97,Default,li,0,0,0,,Dan kemudian Anda akan berkata.
+Dialog: 0,0:08:26.64,0:08:28.71,Default,li,0,0,0,,"Aku menyirami bungaku."
+Dialogue: 0,0:08:30.41,0:08:33.35,Default,li,0,0,0,,Jika aku melakukan ini, aku ragu aku bisa bertahan.
+Dialogue: 0,0:08:33.37,0:08:35.11,Default,li,0,0,0,,Jadi dia adalah gadis yang berkarakter.
+Dialog: 0,0:08:35.52,0:08:37.29,Default,atau,0,0,0,,Dalam hal ini
+Dialog: 0,0:08:37.85,0:08:39.52,Default,apakah ada cara yang efektif?
+Dialog: 0,0:08:39.72,0:08:40.98,Default,atau,0,0,0,,Yang mana?
+Dialogue: 0,0:08:45.66,0:08:47.90,Default,li,0,0,0,,Wajahmu sungguh bodoh.
+Dialogue: 0,0:08:50.06,0:08:53.47,Default,li,0,0,0,,Aku benci diriku sendiri karena berpikiran sama dengannya.
+Dialog: 0,0:08:54.06,0:08:55.47,Default,li,0,0,0,,Maaf.
+Dialog: 0,0:08:56.10,0:08:57.91,Default,apakah,0,0,0,,Setidaknya ada beberapa manfaat.
+Dialog: 0,0:08:58.16,0:08:59.21,Default,atau,0,0,0,,Tidak bisa.
+Dialog: 0,0:08:59.21,0:09:02.91,Default,li,0,0,0,,Saya menyadari betapa bodohnya mencari jawaban dari orang lain.
+Dialog: 0,0:09:04.08,0:09:06.97,Default,li,0,0,0,,Hanya aku yang mengenalnya lebih baik dari orang lain.
+Dialogue: 0,0:09:24.33,0:09:27.04,Default,li,0,0,0,,Kenapa kamu menangis? Akulah yang ingin menangis.
+Dialogue: 0,0:09:27.10,0:09:28.77,Default,li,0,0,0,,Ini adalah air mata kebahagiaan.
+Dialogue: 0,0:09:30.20,0:09:32.57,Default,li,0,0,0,,Kamu boleh menangis sepuasnya hari ini.
+Dialog: 0,0:09:37.84,0:09:39.34,Default,li,0,0,0,,Oke. Menangis.
+Dialogue: 0,0:09:40.48,0:09:43.25,Default,li,0,0,0,,Kamu boleh menangis untukku.
+Dialog: 0,0:09:44.79,0:09:47.21,Default,li,0,0,0,,Meneteskan air mata untuk hidupku,
+Dialog: 0,0:09:48.66,0:09:50.45,Default,atau,0,0,0,,di mana saya tidak punya pilihan.
+Dialog: 0,0:09:55.03,0:09:56.13,Default,li,0,0,0,,Yang Mulia.
+Dialog: 0,0:09:57.42,0:10:01.04,Default,li,0,0,0,,Berhentilah menitikkan air mata kebahagiaan.
+Dialog: 0,0:10:02.61,0:10:04.01,Default,li,0,0,0,,Apa lagi yang harus saya lakukan?
+Dialog: 0,0:10:04.01,0:10:08.14,Default,atau,0,0,0,,Anda harus memberi tahu halaman secara pribadi
+Dialog: 0,0:10:08.14,0:10:10.07,Default,li,0,0,0,,dan menerima ucapan selamat.
+Dialog: 0,0:10:11.20,0:10:14.15,Default,atau,0,0,0,,Saya tidak mau. Saya bertengkar dengan kerabat saya.
+Dialog: 0,0:10:14.84,0:10:16.34,Default,apakah,0,0,0,,Berdebat atau tidak,
+Dialog: 0,0:10:16.89,0:10:20.55,Default,atau,0,0,0,,jika Anda melanggar perintah yang telah ditetapkan, Anda harus menjawab.
+Dialogue: 0,0:10:21.73,0:10:23.68,Default,li,0,0,0,,Jadi aku semakin benci kehamilan.
+Dialog: 0,0:10:25.29,0:10:28.05,Default,li,0,0,0,,Janda Ratu telah tiba.
+Dialog: 0,0:10:28.32,0:10:30.40,Default,li,0,0,0,,Ibu Suri juga ada di sini.
+Dialogue: 0,0:10:30.66,0:10:32.87,Default,li,0,0,0,,Mereka mendahuluimu.
+Dialog: 0,0:10:33.24,0:10:34.90,Default,atau,0,0,0,,Apa yang harus kita lakukan?
+Dialog: 0,0:10:52.02,0:10:53.29,Default,atau,0,0,0,,Selamat datang.
+Dialog: 0,0:10:58.26,0:11:01.79,Default,li,0,0,0,,Saya seharusnya memberi tahu Anda secara pribadi,
+Dialog: 0,0:11:02.53,0:11:06.46,Default,li,0,0,0,,tapi, seperti yang Anda lihat, saya tidak bisa bangun.
+Dialogue: 0,0:11:08.51,0:11:10.04,Default,li,0,0,0,,Apa gejalaku?
+Dialog: 0,0:11:13.30,0:11:16.07,Default,li,0,0,0,,Dia pusing karena mual di pagi hari
+Dialogue: 0,0:11:16.07,0:11:18.15,Default,li,0,0,0,,dan nyeri akibat kehamilan.
+Dialog: 0,0:11:18.15,0:11:20.15,Default,li,0,0,0,,Ya, benar.
+Dialog: 0,0:11:21.48,0:11:23.84,Default,li,0,0,0,,Jadi saya datang sendiri.
+Dialog: 0,0:11:27.21,0:11:28.41,Default,li,0,0,0,,Tolong
+Dialog: 0,0:11:29.86,0:11:31.32,Default,atau,0,0,0,,duduk.
+Dialog: 0,0:11:31.32,0:11:32.63,Default,li,0,0,0,,Semuanya baik-baik saja.
+Dialogue: 0,0:11:32.86,0:11:35.87,Default,li,0,0,0,,Pasti sulit bagimu. Duduklah dengan nyaman.
+Dialog: 0,0:11:36.09,0:11:37.73,Default,li,0,0,0,,Oke, tentu saja.
+Dialog: 0,0:11:46.70,0:11:49.51,Default,li,0,0,0,,Saat mendengar beritanya, aku sangat senang.
+Dialog: 0,0:11:49.88,0:11:52.28,Default,li,0,0,0,,Bahkan membawa jimat, meski dia menolaknya.
+Dialog: 0,0:11:53.12,0:11:55.07,Default,li,0,0,0,,Ingin memastikan
+Dialog: 0,0:11:55.07,0:11:58.18,Default,apakah,0,0,0,,bahwa Anda akan mengandung anak yang sehat.
+Dialog: 0,0:11:59.52,0:12:02.45,Default,li,0,0,0,,Dan sepertinya kutukan.
+Dialog: 0,0:12:04.82,0:12:08.00,Default,li,0,0,0,,Saya seorang ateis. Saya tidak percaya pada jimat.
+Dialog: 0,0:12:08.00,0:12:10.23,Default,li,0,0,0,,Kamu akan sadar saat kamu melahirkan.
+Dialog: 0,0:12:11.09,0:12:13.90,Default,li,0,0,0,,Saya ingin percaya pada sesuatu yang tidak saya percayai.
+Dialog: 0,0:12:14.66,0:12:16.77,Default,li,0,0,0,,Kamu akan putus asa
+Dialog: 0,0:12:16.77,0:12:21.17,Default,atau,0,0,0,,dan Anda ingin membuat permintaan di atas batu yang ditendang semua orang.
+Dialog: 0,0:12:23.84,0:12:26.52,Default,li,0,0,0,,Kamu tidak perlu takut pada apa pun.
+Dialog: 0,0:12:26.78,0:12:30.91,Default,li,0,0,0,,Tapi sekarang kamu akan takut pada segalanya.
+Dialogue: 0,0:12:32.26,0:12:34.62,Default,li,0,0,0,,Hilangnya seorang anak berdampak buruk bagi sang ibu.
+Dialog: 0,0:12:36.68,0:12:38.63,Default,li,0,0,0,,Saya minta dokter menyiapkan obatnya,
+Dialog: 0,0:12:38.63,0:12:40.36,Default,atau,0,0,0,,yang akan melindungi Anda dari keguguran.
+Dialog: 0,0:12:40.36,0:12:42.53,Default,li,0,0,0,,Ambillah dengan ketat setiap hari.
+Dialog: 0,0:12:43.06,0:12:45.09,Default,atau,0,0,0,,Jika sesuatu terjadi pada anak,
+Dialog: 0,0:12:45.09,0:12:47.33,Default,atau,0,0,0,,Anda akan bertanggung jawab untuk ini.
+Dialog: 0,0:12:47.77,0:12:49.87,Default,li,0,0,0,,Mulai sekarang, jangan bertindak gegabah.
+Dialog: 0,0:12:50.11,0:12:52.80,Default,li,0,0,0,,Hati-hati demi anak.
+Dialogue: 0,0:12:53.67,0:12:56.04,Default,li,0,0,0,,Keduanya datang untuk mengintimidasiku.
+Dialogue: 0,0:12:57.20,0:12:58.71,Default,li,0,0,0,,Aku benar-benar akan sakit sekarang.
+Dialog: 0,0:13:21.33,0:13:24.14,Default,li,0,0,0,,Terima kasih atas kebijaksanaan Anda.
+Dialogue: 0,0:13:40.16,0:13:41.31,Default,lee,0,0,0,,Ini Pangeran Yeonpyeong.
+Dialog: 0,0:13:44.99,0:13:46.09,Default,atau,0,0,0,,Enter.
+Dialogue: 0,0:13:56.01,0:13:57.91,Default,li,0,0,0,,Kamu datang karena khawatir.
+Dialog: 0,0:13:59.91,0:14:01.07,Default,li,0,0,0,,Saya baik-baik saja,
+Dialogue: 0,0:14:02.30,0:14:04.61,Default,li,0,0,0,,tapi aku tidak sanggup melakukannya
+Dialog: 0,0:14:04.61,0:14:06.88,Default,atau,0,0,0,,mengucapkan selamat kepada raja dan ratu.
+Dialogue: 0,0:14:09.02,0:14:10.89,Default,li,0,0,0,,Aku punya jalanku sendiri.
+Dialog: 0,0:14:12.91,0:14:15.92,Default,li,0,0,0,,Saya datang ke istana untuk membantu Yang Mulia.
+Dialog: 0,0:14:16.68,0:14:18.29,Default,li,0,0,0,,Saya pikir itu satu-satunya cara
+Dialog: 0,0:14:19.32,0:14:21.82,Default,jika,0,0,0,,membantunya berarti memberinya kenyamanan mental.
+Dialog: 0,0:14:23.27,0:14:25.56,Default,li,0,0,0,,Tetapi ketika saya melihat ratu, saya menyadari bahwa saya salah.
+Dialog: 0,0:14:28.74,0:14:32.54,Default,li,0,0,0,,Ini kesempatanmu untuk menjadi ratu.
+Dialog: 0,0:14:44.81,0:14:45.95,Default,li,0,0,0,,Ibu Suri.
+Dialogue: 0,0:14:46.81,0:14:50.32,Default,li,0,0,0,,Untuk apa aku berhutang kesenangan ini?
+Dialog: 0,0:14:58.23,0:15:01.59,Default,li,0,0,0,,Apa yang membawamu ke sini, selir kepala?
+Dialogue: 0,0:15:06.33,0:15:08.33,Default,li,0,0,0,,Anda telah bekerja sama dengan Andonian Kim.
+Dialog: 0,0:15:10.80,0:15:13.07,Default,li,0,0,0,,-Ini adalah keinginan klan.\N-Jangan berdagang atas nama klan
+Dialog: 0,0:15:13.07,0:15:14.67,Default,atau,0,0,0,,demi pertarungan kecil.
+Dialog: 0,0:15:16.25,0:15:18.25,Default,atau,0,0,0,,Apakah Anda ingin tetap menjadi penasihat yang tepat?
+Dialog: 0,0:15:20.41,0:15:22.13,Default,atau,0,0,0,,Buat keputusan yang tepat.
+Dialog: 0,0:15:22.13,0:15:25.45,Default,atau,0,0,0,,Jika tidak, saya akan mengumpulkan anggota klan kita,
+Dialogue: 0,0:15:25.45,0:15:27.69,Default,apakah,0,0,0,,prihatin dengan masa depan Joseon,
+Dialog: 0,0:15:28.19,0:15:30.32,Default,li,0,0,0,,dipimpin oleh ayahku.
+Dialogue: 0,0:15:38.70,0:15:40.67,Default,atau,0,0,0,,Ayahku mengirimkan semua ini?
+Dialog: 0,0:15:41.14,0:15:42.17,Default,atau,0,0,0,,Ya.
+Dialogue: 0,0:15:42.61,0:15:46.07,Default,li,0,0,0,,Hadiah untuk bayi yang sedang anda kandung.
+Dialog: 0,0:15:46.54,0:15:48.02,Default,li,0,0,0,,Dan masih ada lagi.
+Dialog: 0,0:15:48.34,0:15:49.91,Default,li,0,0,0,,Ada juga hadiah di koridor.
+Dialog: 0,0:15:53.52,0:15:55.73,Default,li,0,0,0,,Ini membuatku semakin bingung.
+Dialogue: 0,0:15:56.36,0:15:59.69,Default,li,0,0,0,,Hari sudah gelap, aku akan menyalakan lilinnya.
+Dialogue: 0,0:16:04.16,0:16:06.43,Default,adalah,0,0,0,,Apa gunanya lilin-lilin ini?
+Dialog: 0,0:16:06.87,0:16:08.56,Default,li,0,0,0,,Mulai saat ini, hidupku
+Dialog: 0,0:16:10.46,0:16:11.74,Default,atau,0,0,0,,akan menjadi gelap gulita.
+Dialogue: 0,0:16:37.13,0:16:38.93,Default,zi,0,0,0,,Penasihat Kiri Kim Seok-keun
+Dialog: 0,0:16:40.93,0:16:43.04,Default,zi,0,0,0,,Mereka menyerang pejabat itu lagi.
+Dialog: 0,0:16:43.24,0:16:45.24,Default,zi,0,0,0,,Mereka tidak memenggal kepala pemimpinnya.
+Dialog: 0,0:16:45.70,0:16:47.17,Default,zi,0,0,0,,Kami tidak berani menyentuhnya,
+Dialog: 0,0:16:47.17,0:16:50.04,Default,zi,0,0,0,,karena takut dianggap makar.
+Dialogue: 0,0:16:50.25,0:16:52.41,Default,zi,0,0,0,,Apakah para petani ini begitu berani?
+Dialogue: 0,0:16:53.17,0:16:56.08,Default,zi,0,0,0,,Tidak ada alasan untuk mengerahkan seluruh upayamu untuk menangkap mereka.
+Dialog: 0,0:16:56.08,0:16:57.29,Default,zi,0,0,0,,Ini membuatku khawatir.
+Dialog: 0,0:16:59.05,0:17:02.99,Default,zi,0,0,0,,Ngomong-ngomong, apakah mereka menemukan kode pengikut Tonhak di istana?
+Dialog: 0,0:17:11.46,0:17:13.50,Default,zi,0,0,0,,Kim Soyeon
+Dialog: 0,0:17:14.77,0:17:17.00,Default,zi,0,0,0,,Pengikut Tonghak bisa memasuki istana,
+Dialog: 0,0:17:17.00,0:17:18.83,Default,zi,0,0,0,,ini serius, kamu harus cepat.
+Dialogue: 0,0:17:18.83,0:17:22.48,Default,zi,0,0,0,,Bagaimana jika karena kita\N tidak melakukan apa pun, akan ada lebih banyak lagi?
+Dialog: 0,0:17:25.15,0:17:27.65,Default,zi,0,0,0,,Fokus saja pada tugasmu.
+Dialog: 0,0:17:35.45,0:17:38.58,Default,zi,0,0,0,,Yang Mulia, mulai hari ini
+Dialogue: 0,0:17:39.42,0:17:40.59,Default,zi,0,0,0,,"Pendidikan prenatal"
+Dialog: 0,0:17:40.59,0:17:42.23,Default,zi,0,0,0,,Anda akan memulai pelatihan prenatal.
+Dialog: 0,0:17:48.64,0:17:50.56,Default,zi,0,0,0,,Kamu tidak bisa berbaring miring.
+Dialog: 0,0:17:50.77,0:17:52.70,Default,zi,0,0,0,,Kamu tidak bisa bersandar pada tanganmu.
+Dialog: 0,0:17:53.11,0:17:56.30,Default,zi,0,0,0,,Kamu tidak bisa mengangkat kepala saat berbaring.
+Dialog: 0,0:17:56.30,0:17:57.30,Default,zi,0,0,0,,Sial!
+Dialog: 0,0:18:11.19,0:18:14.46,Default,zi,0,0,0,,Kamu tidak boleh tertawa, terkejut, atau takut.
+Dialog: 0,0:18:14.73,0:18:16.70,Default,zi,0,0,0,,berkabung, menangis
+Dialog: 0,0:18:16.70,0:18:19.79,Default,zi,0,0,0,,dan kamu juga tidak bisa banyak bicara.
+Dialog: 0,0:18:25.80,0:18:29.51,Default,zi,0,0,0,,Kamu harus berhenti makan makanan yang tidak biasa itu.
+Dialog: 0,0:18:31.78,0:18:34.18,Default,zi,0,0,0,,Seolah-olah tubuhku bukan milikku!
+Dialog: 0,0:18:35.07,0:18:36.54,Default,zi,0,0,0,,Yah, itu benar, tentu saja.
+Dialogue: 0,0:18:36.54,0:18:38.02,Default,zi,0,0,0,,Tapi aku sudah terbiasa!
+Dialogue: 0,0:18:38.81,0:18:41.26,Default,zi,0,0,0,,Kenapa semuanya kembali seperti semula karena kehamilan ini\N?
+Dialog: 0,0:18:42.49,0:18:43.62,Default,zi,0,0,0,,Terutama kamu.
+Dialog: 0,0:18:44.38,0:18:46.43,Default,zi,0,0,0,,Kupikir kamu berhenti menggangguku.
+Dialog: 0,0:18:46.62,0:18:50.89,Default,zi,0,0,0,,Ini semua demi bayimu.
+Dialogue: 0,0:18:50.89,0:18:52.86,Default,zi,0,0,0,,Agar anak tersebut dapat bertahan hidup,\NI saya harus bertahan hidup terlebih dahulu.
+Dialogue: 0,0:18:52.86,0:18:54.20,Default,zi,0,0,0,,Apakah saya mesin untuk menginjak anak-anak?
+Dialog: 0,0:18:54.20,0:18:55.44,Default,zi,0,0,0,,Inkubator hidup, atau apa?
+Dialogue: 0,0:18:55.94,0:18:57.77,Default,zi,0,0,0,,Ngomong-ngomong, bukan hanya aku yang harus menderita.
+Dialogue: 0,0:18:57.83,0:18:58.90,Default,zi,0,0,0,,Apa yang ayah lakukan?
+Dialog: 0,0:18:58.90,0:19:00.60,Default,zi,0,0,0,,Pergi ke Cheoljong, beritahu dia tentang pelatihannya.
+Dialog: 0,0:19:01.18,0:19:04.64,Default,zi,0,0,0,,Secara umum, baris 3 bab 1 mengatakan bahwa
+Dialog: 0,0:19:04.64,0:19:08.07,Default,zi,0,0,0,,ayah juga harus menjalani pendidikan pralahir.
+Dialogue: 0,0:19:08.07,0:19:10.29,Default,zi,0,0,0,,Segera setelah Yang Mulia menyelesaikan urusannya,
+Dialog: 0,0:19:10.29,0:19:11.95,Default,zi,0,0,0,,kalian akan belajar bersama...
+Dialog: 0,0:19:11.95,0:19:13.52,Default,zi,0,0,0,,Hariku dimulai dengan kehamilan
+Dialog: 0,0:19:13.52,0:19:15.08,Default,zi,0,0,0,,dan ini akan berakhir sama?
+Dialog: 0,0:19:18.85,0:19:20.93,Default,zi,0,0,0,,Hidupku sudah hilang.
+Dialog: 0,0:19:25.70,0:19:26.79,Default,zi,0,0,0,,Tidak, Yang Mulia.
+Dialog: 0,0:19:28.06,0:19:30.60,Default,zi,0,0,0,,Mustahil, Yang Mulia. Ambillah.
+Dialog: 0,0:19:30.60,0:19:31.63,Default,zi,0,0,0,,Hon Young.
+Dialog: 0,0:19:33.90,0:19:35.28,Default,zi,0,0,0,,Setelah kejadian itu
+Dialog: 0,0:19:35.98,0:19:38.45,Default,zi,0,0,0,,Kim Byunin dan ratu tidak bertemu lagi.
+Dialog: 0,0:19:38.75,0:19:41.75,Default,zi,0,0,0,,Setelah penolakan, dia seharusnya mengetahui bahwa dia hamil.
+Dialog: 0,0:19:42.54,0:19:44.58,Default,zi,0,0,0,,Saya yakin dia tidak punya siapa pun untuk diandalkan.
+Dialog: 0,0:19:46.88,0:19:48.42,Default,zi,0,0,0,,Kasihan.
+Dialog: 0,0:19:57.00,0:19:58.47,Default,zi,0,0,0,,Saya harap kamu makan enak.
+Dialog: 0,0:19:59.00,0:20:00.09,Default,zi,0,0,0,,Selamat tinggal.
+Dialogue: 0,0:20:03.97,0:20:05.60,Default,zi,0,0,0,,Kamu harus tidur di rumah.
+Dialog: 0,0:20:07.90,0:20:09.64,Default,zi,0,0,0,,Kamu terlihat kelelahan.
+Dialog: 0,0:20:24.29,0:20:25.96,Default,zi,0,0,0,,Stres adalah penyebab segala penyakit.
+Dialog: 0,0:20:25.96,0:20:27.73,Default,zi,0,0,0,,Ini juga akan berbahaya bagi bayi.
+Dialog: 0,0:20:29.89,0:20:31.00,Default,zee,0,0,0,,Siaga.
+Dialogue: 0,0:20:32.39,0:20:33.63,Default,zi,0,0,0,,Hanya satu sendok.
+Dialogue: 0,0:20:38.54,0:20:39.74,Default,zi,0,0,0,,Anggur pirku.
+Dialog: 0,0:20:43.07,0:20:45.34,Default,zi,0,0,0,,Koki Kerajaan!
+Dialog: 0,0:20:51.45,0:20:52.46,Default,zi,0,0,0,,Di mana anggur pirnya?
+Dialog: 0,0:20:53.29,0:20:55.76,Default,zi,0,0,0,,Rusak, aku membuangnya.
+Dialog: 0,0:21:16.10,0:21:17.40,Default,zi,0,0,0,,Seseorang sedang dalam suasana hati yang baik.
+Dialog: 0,0:21:17.78,0:21:20.14,Default,zi,0,0,0,,Aku masih sama seperti biasanya.
+Dialogue: 0,0:21:26.38,0:21:28.11,Default,zi,0,0,0,,Mereka bilang sudah lama berhenti tersenyum.
+Dialog: 0,0:21:28.29,0:21:29.69,Default,zi,0,0,0,,Dan aku menemukan senyuman itu lagi.
+Dialogue: 0,0:21:32.39,0:21:35.39,Default,zi,0,0,0,,Aku kehilangan anggurku,\Ndan kamu menemukan senyumanku.
+Dialogue: 0,0:21:38.32,0:21:39.97,Default,zi,0,0,0,,Kebetulan sekali.
+Dialogue: 0,0:21:44.71,0:21:46.07,Default,zi,0,0,0,,Katakan sejujurnya.
+Dialogue: 0,0:21:46.51,0:21:47.78,Default,zi,0,0,0,,Kamu bersenang-senang kan?
+Dialog: 0,0:21:48.13,0:21:51.87,Default,zi,0,0,0,,Balas penderitaanmu,\Nas segera setelah ada kesempatan.
+Dialog: 0,0:21:52.54,0:21:55.68,Default,zi,0,0,0,,Anda tidak dapat menggoyahkan saya, Yang Mulia.
+Dialogue: 0,0:21:55.81,0:22:00.22,Default,zi,0,0,0,,Biarkan dia muntah. Keluarkan anggurku!
+Dialog: 0,0:22:00.22,0:22:01.58,Default,zi,0,0,0,,Yang Mulia, diamlah!
+Dialog: 0,0:22:01.92,0:22:03.53,Default,zi,0,0,0,,Lebih baik membicarakan semuanya, Yang Mulia.
+Dialogue: 0,0:22:03.62,0:22:05.12,Default,zi,0,0,0,,Diskusikan, ya sekarang!
+Dialogue: 0,0:22:07.96,0:22:09.82,Default,zi,0,0,0,,Anggur pirku.
+Dialog: 0,0:22:10.77,0:22:14.04,Default,zi,0,0,0,,Mereka meminum semua anggurnya.
+Dialog: 0,0:22:14.29,0:22:17.24,Default,zi,0,0,0,,-Vintso saya!\N-Yang Mulia!
+Dialog: 0,0:22:20.74,0:22:22.98,Default,zi,0,0,0,,Beri aku anggurnya!
+Dialogue: 0,0:22:25.04,0:22:28.04,Default,zi,0,0,0,,-Yang Mulia.\N-Anggurku!
+Dialogue: 0,0:22:28.04,0:22:31.04,Default,zi,0,0,0,,Mengapa anda menangis, Yang Mulia?
+Dialog: 0,0:22:41.76,0:22:43.27,Default,zi,0,0,0,,Aku menunggumu.
+Dialog: 0,0:22:43.27,0:22:46.44,Default,zi,0,0,0,,Dan kamu keren, seperti pangeran di atas kuda putih.
+Dialog: 0,0:22:46.59,0:22:49.71,Default,zi,0,0,0,,Semuanya dilarang bagiku, dan kamu sedang menunggang kuda dan bersenang-senang.
+Dialog: 0,0:22:49.71,0:22:51.90,Default,zi,0,0,0,,Kamu sangat kesal hari ini, seperti biasa.
+Dialog: 0,0:22:52.48,0:22:53.60,Default,zi,0,0,0,,Lega sekali.
+Dialog: 0,0:22:59.54,0:23:00.81,Default,zi,0,0,0,,Ayo jalan-jalan bersama.
+Dialog: 0,0:23:02.18,0:23:04.11,Default,zi,0,0,0,,Ini tidak mungkin, Yang Mulia.
+Dialog: 0,0:23:04.95,0:23:06.96,Default,zi,0,0,0,,Yang Mulia sedang mengandung seorang anak kerajaan.
+Dialog: 0,0:23:07.29,0:23:10.58,Default,zi,0,0,0,,Anda tidak bisa berkendara bersamanya, Yang Mulia.
+Dialog: 0,0:23:16.70,0:23:17.97,Default,zi,0,0,0,,Yang Mulia!
+Dialog: 0,0:23:20.04,0:23:23.06,Default,zi,0,0,0,,Yang Mulia, ini berbahaya!
+Dialog: 0,0:23:23.21,0:23:25.87,Default,zi,0,0,0,,-Yang Mulia!\N-Anda tidak bisa!
+Dialog: 0,0:23:26.87,0:23:27.94,Default,zi,0,0,0,,Oh, tidak!
+Dialog: 0,0:23:46.15,0:23:47.35,Default,zi,0,0,0,,Di mana kita?
+Dialogue: 0,0:23:48.50,0:23:50.29,Default,zi,0,0,0,,Aku selalu ingin memberimu sesuatu
+Dialog: 0,0:23:50.29,0:23:52.47,Default,zi,0,0,0,,apa yang paling kamu sukai dan inginkan.
+Dialog: 0,0:23:53.00,0:23:55.54,Default,zi,0,0,0,,Apa yang tidak dapat ditemukan di istana, hanya di luar.
+Dialog: 0,0:23:55.54,0:23:58.24,Default,zi,0,0,0,,-Hiburan?\N-Saya sedang berbicara tentang kebebasan.
+Dialog: 0,0:24:02.28,0:24:03.37,Default,zi,0,0,0,,Tidak suka, atau apa?
+Dialog: 0,0:24:06.54,0:24:09.75,Default,zi,0,0,0,,Jadi menurutku, jalan-jalan saja. \NMengapa begitu megah?
+Dialog: 0,0:24:10.29,0:24:13.22,Default,zi,0,0,0,,Kami datang ke istana kerajaan untuk menghirup udara segar.
+Dialogue: 0,0:24:14.08,0:24:15.58,Default,zi,0,0,0,,Ayo kembali jika kamu tidak menyukainya.
+Dialogue: 0,0:24:18.19,0:24:20.53,Default,zi,0,0,0,,Rumah kerajaan itu seperti rumah musim panas, bukan?
+Dialog: 0,0:24:22.12,0:24:24.56,Default,zi,0,0,0,,Bagus. Sepertinya orang kaya itu sedang menggodaku.
+Dialogue: 0,0:24:25.23,0:24:27.17,Default,zi,0,0,0,,Karena kita sudah sampai, ayo kita lihat-lihat.
+Dialogue: 0,0:24:27.83,0:24:30.56,Default,zi,0,0,0,,Aku tahu kamu akan menyukainya, ratuku.
+Dialog: 0,0:24:30.56,0:24:32.44,Default,zi,0,0,0,,Di Sini.
+Dialogue: 0,0:24:34.18,0:24:36.01,Default,zi,0,0,0,,Senang rasanya menjadi raja.
+Dialog: 0,0:24:36.07,0:24:39.64,Default,zi,0,0,0,,Dan perkebunan mewah serta taman.
+Dialogue: 0,0:24:39.92,0:24:43.45,Default,zi,0,0,0,,Aku bertanya-tanya sepanjang malam kenapa kamu begitu marah.
+Dialogue: 0,0:24:43.84,0:24:46.72,Default,zi,0,0,0,,Biasanya bagi para wanita istana\N kehamilan adalah sebuah berkah.
+Dialogue: 0,0:24:46.72,0:24:50.08,Default,zi,0,0,0,,Tapi kenapa ratu begitu kesal?
+Dialog: 0,0:24:50.76,0:24:53.50,Default,zi,0,0,0,,Dan? Tahukah kamu alasannya?
+Dialog: 0,0:24:53.89,0:24:57.50,Default,zi,0,0,0,,Tidak. Tidak peduli seberapa banyak aku berpikir, aku tetap tidak mengerti.
+Dialog: 0,0:24:58.47,0:25:02.06,Default,zi,0,0,0,,Saya tidak mengerti, jadi saya memutuskan untuk menerimanya.
+Dialogue: 0,0:25:03.36,0:25:07.60,Default,zi,0,0,0,, Anugerah yang diberikan kepada orang lain belum tentu bermanfaat bagi Anda.
+Dialog: 0,0:25:07.98,0:25:11.87,Default,zi,0,0,0,,Kamu adalah orang seperti itu.
+Dialog: 0,0:25:14.31,0:25:16.61,Default,zi,0,0,0,,Sepertinya kamus ratu sangat berguna.
+Dialog: 0,0:25:36.13,0:25:38.56,Default,zi,0,0,0,,Mengapa kamu melakukan ini? Ini aneh.
+Dialogue: 0,0:25:42.90,0:25:44.07,Default,zi,0,0,0,,Ratuku.
+Dialogue: 0,0:25:53.49,0:25:54.96,Default,zi,0,0,0,,Apakah itu “rrr”?
+Dialog: 0,0:25:57.53,0:25:58.73,Default,zi,0,0,0,,Rrrrr!
+Dialogue: 0,0:26:05.32,0:26:08.63,Default,zi,0,0,0,,Karena aku sedang menulis kamus ratu,\NI aku tertarik pada sesuatu.
+Dialogue: 0,0:26:09.83,0:26:11.60,Default,zi,0,0,0,,Apa artinya “all in”?
+Dialog: 0,0:26:12.33,0:26:13.78,Default,zi,0,0,0,,Apakah saya mengatakan itu?
+Dialog: 0,0:26:13.78,0:26:16.40,Default,zi,0,0,0,,Ini adalah kata yang kamu teriakkan saat berjudi di pasar.
+Dialog: 0,0:26:19.72,0:26:20.95,Default,zi,0,0,0,,All-in -
+Dialog: 0,0:26:21.04,0:26:24.45,Default,zi,0,0,0,,tindakan yang sangat bodoh padahal kalian semua
+Dialog: 0,0:26:24.88,0:26:27.11,Default,zi,0,0,0,,kamu menaruh telur rapuh dalam satu keranjang.
+Dialog: 0,0:26:27.81,0:26:31.43,Default,zi,0,0,0,,-Telur?\N-Aku melakukan hal bodoh ini.
+Dialog: 0,0:26:33.00,0:26:35.50,Default,zi,0,0,0,,Sial, pada saat kamu harus lari,
+Dialogue: 0,0:26:35.65,0:26:37.77,Default,zi,0,0,0,,Aku tersandung batu kehamilan dan terjatuh.
+Dialog: 0,0:26:38.89,0:26:40.50,Default,zi,0,0,0,,Jangan khawatir, ratuku.
+Dialog: 0,0:26:41.54,0:26:46.07,Default,zi,0,0,0,,Aku pasti akan menyingkirkan semua kebusukan Joseon.
+Dialog: 0,0:26:47.48,0:26:49.18,Default,zi,0,0,0,,Untuk bayi kita,
+Dialog: 0,0:26:50.37,0:26:52.54,Default,zi,0,0,0,,siapa yang akan mewarisi negara.
+Dialog: 0,0:26:54.95,0:26:56.08,Default,zi,0,0,0,,Oke.
+Dialog: 0,0:26:57.72,0:27:00.85,Default,zi,0,0,0,,Jika anak ini menjadi raja\N dan mewarisi negara...
+Dialog: 0,0:27:02.08,0:27:05.38,Default,zi,0,0,0,,Dapatkah saya memperoleh kekuatan absolut?
+Dialog: 0,0:27:07.96,0:27:09.67,Default,zi,0,0,0,,Sungwon World
+Dialogue: 0,0:27:09.67,0:27:13.00,Default,zi,0,0,0,,Dunia Soyeon
+Dialogue: 0,0:27:13.63,0:27:15.63,Default,zi,0,0,0,,Kenapa aku tidak memikirkan hal ini sebelumnya?
+Dialog: 0,0:27:17.17,0:27:18.44,Default,zi,0,0,0,,-Apa yang kamu bicarakan?\N-Sayangku!
+Dialog: 0,0:27:18.44,0:27:19.63,Default,zi,0,0,0,,Lihat!
+Dialog: 0,0:27:19.87,0:27:23.95,Default,zi,0,0,0,,Segala sesuatu di bawah langit ini -
+Dialog: 0,0:27:25.64,0:27:26.87,Default,zi,0,0,0,,semua milikmu.
+Dialog: 0,0:27:28.98,0:27:29.99,Default,zi,0,0,0,,Ayo kembali.
+Dialog: 0,0:27:29.99,0:27:32.34,Default,zi,0,0,0,,Sekarang saya akan memulai pelatihan prenatal yang sebenarnya.
+Dialogue: 0,0:27:32.79,0:27:33.99,Default,zi,0,0,0,,Hadir?
+Dialog: 0,0:27:33.99,0:27:35.99,Default,zi,0,0,0,,Saya perlu mengajarinya cara menang dalam pertempuran.
+Dialog: 0,0:27:36.79,0:27:39.76,Default,zi,0,0,0,,Bayi ini harus tinggal di istana yang tidak bersahabat.
+Dialogue: 0,0:27:40.53,0:27:41.65,Default,zi,0,0,0,,Ayo, ayo mulai.
+Dialog: 0,0:27:41.65,0:27:43.73,Default,zi,0,0,0,,Kami baru saja tiba.
+Dialog: 0,0:27:45.56,0:27:47.77,Default,zi,0,0,0,,Bahkan jika saya menulis 100 jilid kamus,
+Dialogue: 0,0:27:49.13,0:27:51.56,Default,zi,0,0,0,,akankah tiba saatnya aku bisa memahaminya?
+Dialog: 0,0:27:51.56,0:27:54.78,Default,zi,0,0,0,,-Tunggu! Tunggu aku.\N-Cepat!
+Dialog: 0,0:27:59.02,0:28:00.52,Default,tingkat 3,0,0,0,,Buku Harian Kehamilan
+Dialog: 0,0:28:16.31,0:28:17.37,Default,tingkat 3,0,0,0,,Sayang,
+Dialog: 0,0:28:18.67,0:28:20.48,Default,tingkat 3,0,0,0,,untuk bertahan hidup di istana,
+Dialog: 0,0:28:20.48,0:28:23.18,Default,tingkat 3,0,0,0,,Anda harus mengumpulkan orang-orang yang dapat diandalkan di sekitar Anda.
+Dialog: 0,0:28:28.78,0:28:30.12,Default,tingkat 3,0,0,0,,Yang Mulia!
+Dialog: 0,0:28:31.52,0:28:34.02,Default,tingkat 3,0,0,0,,Mereka benar-benar pejuang terbaik di Joseon.
+Dialog: 0,0:28:34.39,0:28:35.42,Default,tingkat 3,0,0,0,,Sayang,
+Dialog: 0,0:28:35.52,0:28:38.63,Default,tingkat 3,0,0,0,,kamu harus menjaga musuhmu tetap dekat.
+Dialog: 0,0:28:39.19,0:28:40.76,Default,tingkat 3,0,0,0,,Katakanlah, seribu prajurit.
+Dialog: 0,0:28:41.96,0:28:43.43,Default,tingkat 3,0,0,0,,Dengan kekuatan militer seperti itu
+Dialog: 0,0:28:44.07,0:28:46.67,Default,jarak tembak 3,0,0,0,,apakah kamu akan merebut Seongjongjong Hall atau bagaimana?
+Dialog: 0,0:28:47.00,0:28:48.47,Default,tingkat 3,0,0,0,,Apakah kamu takut?
+Dialog: 0,0:28:50.74,0:28:52.98,Default,tingkat 3,0,0,0,,Saya pikir hanya Anda yang takut di sini,
+Dialog: 0,0:28:52.98,0:28:55.08,Default,tingkat 3,0,0,0,,kali mereka menyiapkan seribu prajurit untukku.
+Dialog: 0,0:28:55.58,0:28:57.41,Default,tingkat 3,0,0,0,,Membagi dua jumlah prajurit.
+Dialog: 0,0:28:57.41,0:28:59.41,Default,tingkat 3,0,0,0,,Sisanya berada di pengawal kerajaan.
+Dialog: 0,0:29:00.05,0:29:03.69,Default,tingkat 3,0,0,0,,Sayang, kamu harus mempunyai perbendaharaan rahasiamu sendiri.
+Dialog: 0,0:29:05.39,0:29:07.52,Default,tingkat 3,0,0,0,,Koin-koin ini baru saja dicetak.
+Dialog: 0,0:29:07.52,0:29:09.89,Default,tingkat 3,0,0,0,,-Ada berapa?\N-Juta.
+Dialogue: 0,0:29:12.23,0:29:14.73,Default,tier 3,0,0,0,,Apakah ini investasimu dalam politik?
+Dialog: 0,0:29:15.56,0:29:17.37,Default,tingkat 3,0,0,0,,Dia yang punya uang, dialah yang berkuasa.
+Dialog: 0,0:29:18.70,0:29:22.04,Default,tingkat 3,0,0,0,,Dan terakhir, sayang, pelajaran yang paling penting.
+Dialog: 0,0:29:22.70,0:29:25.81,Default,tingkat 3,0,0,0,,Singkirkan semua orang yang tidak berada di pihakmu.
+Dialog: 0,0:29:26.21,0:29:28.41,Default,tingkat 3,0,0,0,,Hidup adalah permainan, dan dunia adalah hutan.
+Dialog: 0,0:29:28.41,0:29:31.68,Default,tingkat 3,0,0,0,,Kamu akan dimakan jika kamu tidak memakan yang lain terlebih dahulu. Ini pesta yang mematikan!
+Dialog: 0,0:29:32.31,0:29:34.25,Default,tingkat 3,0,0,0,,Tentu saja, Anda akan mencoba membangun perdamaian.
+Dialog: 0,0:29:34.78,0:29:36.69,Default,tingkat 3,0,0,0,,Tetapi jika tidak ada harapan,
+Dialog: 0,0:29:36.69,0:29:39.62,Default,tingkat 3,0,0,0,,kamu harus menang bagaimanapun caranya, sayangku.
+Dialog: 0,0:29:43.03,0:29:45.73,Default,tingkat 3,0,0,0,,Saya sangat senang Yang Mulia
+Dialog: 0,0:29:45.86,0:29:47.76,Default,tingkat 3,0,0,0,, mengatasi kegembiraan saya.
+Dialog: 0,0:29:47.96,0:29:50.97,Default,tingkat 3,0,0,0,,Dia belum lahir, dan kamu sudah ingin memberitahunya banyak hal?
+Dialog: 0,0:29:51.77,0:29:53.67,Default,tingkat 3,0,0,0,,Dia akan mendengarkan sambil duduk di perutnya.
+Dialog: 0,0:29:53.94,0:29:56.27,Default,tingkat 3,0,0,0,,Dan itu akan berhenti segera setelah lahir.
+Dialog: 0,0:29:57.81,0:30:01.11,Default,tingkat 3,0,0,0,,Sudah waktunya kamu tidur.
+Dialog: 0,0:30:01.61,0:30:04.85,Default,tingkat 3,0,0,0,,Saya tidak punya waktu untuk tidur: ada banyak hal yang harus dilakukan.
+Dialog: 0,0:30:05.71,0:30:07.42,Default,tingkat 3,0,0,0,,Hidup itu seperti treadmill,
+Dialog: 0,0:30:07.42,0:30:10.49,Default,tingkat 3,0,0,0,,kamu hanya perlu berhenti sebentar dan kamu akan langsung terjatuh.
+Dialog: 0,0:30:11.92,0:30:13.82,Default,tingkat 3,0,0,0,,Bahkan kehamilan tidak akan menghentikanku.
+Dialog: 0,0:30:15.82,0:30:17.39,Default,tingkat 3,0,0,0,,Atau akan berhenti.
+Dialog: 0,0:30:19.60,0:30:23.17,Default,tier 3,0,0,0,,Dalam jiwaku aku punya motor, tapi kenyataannya aku punya pedal.
+Dialog: 0,0:30:38.01,0:30:39.05,Default,tingkat 3,0,0,0,,Lama tidak bertemu.
+Dialog: 0,0:30:39.48,0:30:40.72,Default,tingkat 3,0,0,0,,Pasti sulit bagimu.
+Dialog: 0,0:30:41.68,0:30:42.68,Default,tingkat 3,0,0,0,,Semuanya baik-baik saja.
+Dialog: 0,0:30:51.56,0:30:52.90,Default,tingkat 3,0,0,0,,Anda telah menyelesaikan tutorial taktik.
+Dialog: 0,0:30:53.00,0:30:55.23,Default,tingkat 3,0,0,0,,Orang-orang ini tidak pernah memegang senjata,
+Dialog: 0,0:30:55.50,0:30:57.47,Default,tingkat 3,0,0,0,,jadi mereka akan sulit untuk dilatih.
+Dialogue: 0,0:30:58.20,0:30:59.33,Default,tier 3,0,0,0,,Tetapi tutorialnya akan membantu.
+Dialog: 0,0:31:03.17,0:31:04.21,Default,tingkat 3,0,0,0,,Hati-hati.
+Dialog: 0,0:31:15.65,0:31:17.42,Default,tingkat 3,0,0,0,,Saya tidak tahu
+Dialogue: 0,0:31:18.39,0:31:19.89,Default,tier 3,0,0,0,,jumlah pengikutnya bertambah banyak.
+Dialog: 0,0:31:20.66,0:31:23.03,Default,tingkat 3,0,0,0,,Dengan kata lain, banyak orang
+Dialog: 0,0:31:23.03,0:31:24.96,Default,tingkat 3,0,0,0,,menemukan diri kita dalam situasi yang sulit.
+Dialogue: 0,0:31:25.49,0:31:28.80,Default,tier 3,0,0,0,,Akhir-akhir ini mereka menarik berbagai kelas:
+Dialog: 0,0:31:29.23,0:31:31.07,Default,tingkat 3,0,0,0,,dari bangsawan yang hancur menjadi pembajak.
+Dialog: 0,0:31:31.40,0:31:33.20,Default,tingkat 3,0,0,0,,Mungkin, seperti kata ratu,
+Dialogue: 0,0:31:34.84,0:31:36.81,Default,tier 3,0,0,0,,apakah solusi kita menghapus pembagian kelas?
+Dialog: 0,0:31:37.37,0:31:39.37,Default,tingkat 3,0,0,0,,Kita harus berhati-hati
+Dialog: 0,0:31:40.21,0:31:41.64,Default,tingkat 3,0,0,0,,perubahan mendasar.
+Dialog: 0,0:31:42.95,0:31:44.71,Default,tingkat 3,0,0,0,,Tentu saja, ini masih jauh.
+Dialog: 0,0:31:45.65,0:31:47.62,Default,tingkat 3,0,0,0,,Saya mungkin tidak akan bisa melakukan ini, tapi,
+Dialogue: 0,0:31:49.32,0:31:51.65,Default,tier 3,0,0,0,,mungkin anak saya bisa.
+Dialog: 0,0:31:59.96,0:32:02.56,Default,tingkat 3,0,0,0,,Yang Mulia, Yang Mulia...
+Dialog: 0,0:32:03.87,0:32:05.10,Default,tingkat 3,0,0,0,,Jangan bangunkan dia.
+Dialog: 0,0:32:14.44,0:32:16.35,Default,tingkat 3,0,0,0,,Dia seperti anak kecil.
+Dialogue: 0,0:32:25.15,0:32:28.26,Default,tingkat 3,0,0,0,,Log kehamilan
+Dialog: 0,0:32:28.29,0:32:30.43,Default,tingkat 3,0,0,0,,Kamu harus menjaga musuhmu tetap dekat.
+Dialog: 0,0:32:33.86,0:32:36.30,Default,tingkat 3,0,0,0,,Sayang, kamu harus punya perbendaharaan rahasiamu sendiri.
+Dialog: 0,0:32:41.04,0:32:42.54,Default,tingkat 3,0,0,0,,Hidup adalah permainan, dan dunia adalah hutan.
+Dialog: 0,0:32:42.54,0:32:44.57,Default,tingkat 3,0,0,0,,Kamu akan dimakan jika kamu tidak memakan yang lain terlebih dahulu. Ini pesta yang mematikan!
+Dialog: 0,0:32:45.24,0:32:46.27,Default,tingkat 3,0,0,0,,"Pesta"?
+Dialog: 0,0:32:47.68,0:32:48.68,Default,tingkat 3,0,0,0,,Malam...
+Dialog: 0,0:32:51.35,0:32:53.45,Default,tingkat 3,0,0,0,,Saya tidak mengerti apa maksud "Inka".
+Dialog: 0,0:32:54.05,0:32:55.35,Default,tingkat 3,0,0,0,,Pesta.
+Dialog: 0,0:33:00.26,0:33:03.13,Default,tingkat 3,0,0,0,,Karena ratu baik-baik saja, kamu tidak terluka.
+Dialog: 0,0:33:03.53,0:33:07.13,Default,tingkat 3,0,0,0,,Saya tahu: jimat yang saya berikan berfungsi sebagaimana mestinya.
+Dialog: 0,0:33:07.50,0:33:09.70,Default,tingkat 3,0,0,0,,Terima kasih, Yang Mulia.
+Dialogue: 0,0:33:09.70,0:33:10.73,Default,tingkat 3,0,0,0,,saya rasa
+Dialog: 0,0:33:11.40,0:33:14.40,Default,tingkat 3,0,0,0,,apakah kamu menyebarkan rumor seperti yang aku katakan?
+Dialog: 0,0:33:15.44,0:33:16.51,Default,tingkat 3,0,0,0,,Tidak bisa.
+Dialog: 0,0:33:17.44,0:33:19.37,Default,tingkat 3,0,0,0,,Kamu sudah bergosip sejak pagi.
+Dialog: 0,0:33:20.08,0:33:21.91,Default,tingkat 3,0,0,0,,Sudahkah kamu setidaknya mencuci muka?
+Dialog: 0,0:33:21.91,0:33:25.08,Default,tingkat 3,0,0,0,,Anda harus mendengar ini. Saya yakin Anda akan segera tertidur.
+Dialog: 0,0:33:27.02,0:33:28.78,Default,menembak 3,0,0,0,,Kau tahu, ratu...
+Dialog: 0,0:33:33.12,0:33:34.19,Default,tingkat 3,0,0,0,,Seperti ini.
+Dialog: 0,0:33:34.19,0:33:37.93,Default,tingkat 3,0,0,0,,Apa? Apakah Yang Mulia dan Ratu berpura-pura tidur bersama?
+Dialog: 0,0:33:38.16,0:33:42.46,Default,tingkat 3,0,0,0,,Yang Mulia dan Ratu berpura-pura tidur bersama.
+Dialog: 0,0:33:49.97,0:33:52.34,Default,tingkat 3,0,0,0,,Kudengar mereka sebenarnya tidak tidur bersama.
+Dialog: 0,0:33:52.34,0:33:54.31,Default,tingkat 3,0,0,0,,Mereka hanya bermalam di kamar yang sama.
+Dialog: 0,0:33:56.58,0:34:00.32,Default,tingkat 3,0,0,0,,Apa? Lalu siapa anaknya?
+Dialog: 0,0:34:01.18,0:34:03.22,Default,tingkat 3,0,0,0,,Siapa anaknya saat itu?
+Dialogue: 0,0:34:03.22,0:34:05.45,Default,tier 3,0,0,0,,-Tidak mungkin.\N-Kudengar mereka berpura-pura.
+Dialog: 0,0:34:20.30,0:34:23.64,Default,tier 3,0,0,0,,Kamu pasti pernah mendengar rumor yang beredar di sekitar istana.
+Dialogue: 0,0:34:23.64,0:34:26.01,Default,tier 3,0,0,0,,Rumor selalu selangkah di belakang kebenaran.
+Dialog: 0,0:34:26.31,0:34:28.11,Default,tingkat 3,0,0,0,,Ini adalah cerita lama.
+Dialog: 0,0:34:28.11,0:34:31.51,Default,tingkat 3,0,0,0,,Rumor di istana\N tidak boleh dianggap enteng.
+Dialog: 0,0:34:31.51,0:34:34.72,Default,tingkat 3,0,0,0,,Mereka dapat menggunakannya untuk menggulingkanmu.
+Dialog: 0,0:34:34.72,0:34:36.62,Default,tingkat 3,0,0,0,,Tepat sekali, tujuan mereka adalah pernyataan saya.
+Dialog: 0,0:34:36.95,0:34:38.72,Default,tingkat 3,0,0,0,,Mereka bermain kotor dan picik.
+Dialog: 0,0:34:38.72,0:34:40.46,Default,tingkat 3,0,0,0,,Saya tidak akan membiarkan mereka mengusir saya.
+Dialog: 0,0:34:40.99,0:34:42.32,Default,tingkat 3,0,0,0,,-Ya.\N- Hong Young.
+Dialog: 0,0:34:47.26,0:34:48.46,Default,tingkat 3,0,0,0,,Mengapa Anda memerlukan jepit rambut?
+Dialogue: 0,0:35:12.75,0:35:15.39,Default,tier 3,0,0,0,,Pose menantang macam apa ini?
+Dialog: 0,0:35:15.39,0:35:16.99,Default,tingkat 3,0,0,0,,Kita perlu membantah rumor tersebut.
+Dialog: 0,0:35:17.49,0:35:19.69,Default,menembak 3,0,0,0,,-Lihat saja.\N-Tepat di depan orang.
+Dialog: 0,0:35:19.69,0:35:21.23,Default,memotret 3,0,0,0,,-Canggung sekali.\N-Aku tidak bisa menonton.
+Dialog: 0,0:35:24.43,0:35:25.53,Default,tingkat 3,0,0,0,,Kalau begitu.
+Dialogue: 0,0:35:28.67,0:35:30.67,Default,tier 3,0,0,0,,Ini tidak cukup untuk meredam rumor tersebut.
+Dialog: 0,0:35:31.81,0:35:33.18,Default,tingkat 3,0,0,0,,Ayo coba.
+Dialogue: 0,0:35:33.18,0:35:35.08,Default,tier 3,0,0,0,,Bukankah terlalu berlebihan?
+Dialog: 0,0:35:35.94,0:35:37.45,Default,tingkat 3,0,0,0,,Tapi saya belum menunjukkan semuanya.
+Dialog: 0,0:35:46.45,0:35:47.52,Default,tingkat 3,0,0,0,,Tidak Cukup.
+Dialog: 0,0:35:51.13,0:35:52.99,Default,tingkat 3,0,0,0,,Silakan, lanjutkan.
+Dialog: 0,0:35:52.99,0:35:56.90,Default,jarak tembak 3,0,0,0,,Jika saya lanjutkan, kita sudah membutuhkan tenda.
+Dialog: 0,0:35:57.83,0:35:59.37,Default,tingkat 3,0,0,0,,Apakah ini yang kamu inginkan?
+Dialog: 0,0:36:00.00,0:36:01.34,Default,tingkat 3,0,0,0,,Saya tidak mengatakan itu.
+Dialogue: 0,0:36:01.34,0:36:03.14,Default,tier 3,0,0,0,,Kita perlu memacu imajinasi mereka.
+Dialogue: 0,0:36:03.47,0:36:06.17,Default,tier 3,0,0,0,,Lalu untuk tujuan yang sama
+Dialog: 0,0:36:07.38,0:36:09.21,Default,tingkat 3,0,0,0,,Saya akan mengunjungi Daejojeon hari ini.
+Dialog: 0,0:36:18.39,0:36:20.72,Default,tingkat 3,0,0,0,,Saya tidak punya pilihan, karena saya bisa digulingkan.
+Dialog: 0,0:36:20.72,0:36:21.72,Default,tingkat 3,0,0,0,,Lalu
+Dialog: 0,0:36:23.02,0:36:24.73,Default,tingkat 3,0,0,0,,sampai jumpa lagi.
+Dialog: 0,0:36:36.37,0:36:38.91,Default,tingkat 3,0,0,0,,-Hilang?\N-Mereka sangat lambat.
+Dialog: 0,0:36:38.91,0:36:40.71,Default,tingkat 3,0,0,0,,Masih melihat kami.
+Dialog: 0,0:36:40.71,0:36:42.98,Default,tingkat 3,0,0,0,,Kalau begitu, aku tidak punya pilihan.
+Dialog: 0,0:37:04.23,0:37:07.04,Default,tingkat 3,0,0,0,,Yang Mulia, selir utama telah tiba.
+Dialog: 0,0:37:14.68,0:37:16.28,Default,tingkat 3,0,0,0,,Apakah Anda yang mengaturnya?
+Dialog: 0,0:37:21.52,0:37:23.89,Default,tingkat 3,0,0,0,,-Apa yang kamu bicarakan?\N-Aku sedang membicarakan rumor.
+Dialog: 0,0:37:25.52,0:37:27.79,Default,tingkat 3,0,0,0,,Semuanya berkat kamu.
+Dialog: 0,0:37:28.76,0:37:31.99,Default,tingkat 3,0,0,0,,Saya ingat apa yang Anda katakan sebelumnya.
+Dialog: 0,0:37:32.76,0:37:36.36,Default,tingkat 3,0,0,0,,Kamu bilang malam mereka bersama hanya dipentaskan.
+Dialog: 0,0:37:37.27,0:37:41.47,Default,tingkat 3,0,0,0,,Oleh karena itu, kehamilan ratu tidak akan dirayakan.
+Dialog: 0,0:37:41.94,0:37:43.77,Default,tingkat 3,0,0,0,,Kata-katamu
+Dialog: 0,0:37:44.07,0:37:46.74,Default,tingkat 3,0,0,0,,menjadi anak panah dan mengenai ratu.
+Dialog: 0,0:37:46.94,0:37:48.61,Default,tingkat 3,0,0,0,,Tolong hentikan ini.
+Dialog: 0,0:37:48.61,0:37:50.88,Default,tingkat 3,0,0,0,,Saya tidak mengontrol ini.
+Dialog: 0,0:37:51.11,0:37:53.85,Default,tingkat 3,0,0,0,,Saat orang mulai bergosip,
+Dialog: 0,0:37:53.85,0:37:55.95,Default,tingkat 3,0,0,0,,dan mereka tidak bisa berhenti.
+Dialog: 0,0:37:57.19,0:38:01.42,Default,tingkat 3,0,0,0,,Dan sudah terlambat bagimu untuk melepaskan diri dari tanggung jawab.
+Dialog: 0,0:38:03.26,0:38:08.03,Default,tingkat 3,0,0,0,,Saat Anda di sini, Anda tidak bisa bebas.
+Dialog: 0,0:38:09.73,0:38:13.87,Default,tingkat 3,0,0,0,,Keberadaan Anda akan menjadi penopang reputasi keluarga kami.
+Dialogue: 0,0:38:14.57,0:38:17.84,Default,tier 3,0,0,0,,Lebih baik menjadi inisiator daripada dimanfaatkan.
+Dialog: 0,0:38:21.61,0:38:22.88,Default,tingkat 3,0,0,0,,Ini menakutkan.
+Dialog: 0,0:38:23.91,0:38:25.08,Default,tingkat 3,0,0,0,,Saya mengerti.
+Dialog: 0,0:38:27.62,0:38:31.62,Default,tingkat 3,0,0,0,,Tetapi Anda tidak sendirian, jadi jangan khawatir.
+Dialog: 0,0:38:40.93,0:38:44.07,Default,tingkat 3,0,0,0,,Aku berubah menjadi orang sepertimu -
+Dialog: 0,0:38:44.83,0:38:46.03,Default,tingkat 3,0,0,0,,itulah yang menakutkan.
+Dialog: 0,0:38:47.77,0:38:50.87,Default,tingkat 3,0,0,0,,Tahukah Anda mengapa keluarga mengikuti instruksi Anda?
+Dialog: 0,0:38:51.51,0:38:54.11,Default,tingkat 3,0,0,0,,Karena Anda adalah korban yang tidak bersalah,
+Dialog: 0,0:38:54.11,0:38:55.94,Default,tingkat 3,0,0,0,,menderita kehilangan anak.
+Dialog: 0,0:38:56.64,0:38:58.68,Default,tingkat 3,0,0,0,,Tetapi bagaimana jika Anda adalah seorang ibu yang tidak berjiwa,
+Dialog: 0,0:38:58.68,0:39:00.92,Default,tingkat 3,0,0,0,,mengorbankan putranya untuk bertahan hidup?
+Dialog: 0,0:39:01.45,0:39:03.92,Default,tingkat 3,0,0,0,,Dan terlebih lagi, bagaimana jika kamu adalah wanita bodoh,
+Dialog: 0,0:39:03.92,0:39:05.22,Default,tingkat 3,0,0,0,,mengandalkan dukun
+Dialog: 0,0:39:05.22,0:39:07.46,Default,tingkat 3,0,0,0,,tentang masa depan jenis kita?
+Dialog: 0,0:39:08.16,0:39:10.13,Default,tingkat 3,0,0,0,,Apakah Anda akan tetap memegang kendali?
+Dialog: 0,0:39:11.76,0:39:14.66,Default,tingkat 3,0,0,0,,Saya akan menuliskan semua yang saya dengar dan lihat di sini,
+Dialogue: 0,0:39:14.66,0:39:16.66,Default,tier 3,0,0,0,,jadi semua orang di Joseon akan tahu siapa kamu.
+Dialog: 0,0:39:19.80,0:39:22.37,Default,tingkat 3,0,0,0,,Kata-kata tidak memiliki kekuatan seperti itu.
+Dialog: 0,0:39:22.37,0:39:25.41,Default,tingkat 3,0,0,0,,Kamu masih akan mengetahui kekuatan mereka.
+Dialog: 0,0:39:26.88,0:39:30.15,Default,tingkat 3,0,0,0,,Kamu pernah bilang padaku\N bahwa kamu tidak ingin menyesal lagi.
+Dialog: 0,0:39:30.65,0:39:32.05,Default,tingkat 3,0,0,0,,Kamu tidak layak
+Dialog: 0,0:39:32.05,0:39:34.42,Default,tingkat 3,0,0,0,,menyesal atas kematian mendiang raja.
+Dialog: 0,0:39:34.78,0:39:37.02,Default,tingkat 3,0,0,0,,Kamu seharusnya menyesal telah menginjak-injak mimpinya.
+Dialog: 0,0:39:38.22,0:39:40.92,Default,tingkat 3,0,0,0,,Kamu sebagai ibunya harusnya minta maaf,
+Dialog: 0,0:39:41.42,0:39:42.72,Default,tingkat 3,0,0,0,,itu menghancurkan impian anakku.
+Dialog: 0,0:39:43.32,0:39:45.63,Default,tingkat 3,0,0,0,,Mendiang raja mungkin sangat menginginkannya
+Dialog: 0,0:39:46.39,0:39:48.33,Default,tingkat 3,0,0,0,,keluarlah dari bayanganmu.
+Dialog: 0,0:39:48.33,0:39:49.33,Default,tingkat 3,0,0,0,,Apa?
+Dialog: 0,0:39:51.47,0:39:53.17,Default,tingkat 3,0,0,0,,Kamu tidak tahu apa-apa.
+Dialog: 0,0:39:53.97,0:39:57.01,Default,tingkat 3,0,0,0,,Beraninya kamu mengatakan itu?
+Dialog: 0,0:39:57.01,0:39:58.51,Default,tingkat 3,0,0,0,,Ini adalah kebenaran, diketahui semua orang.
+Dialog: 0,0:39:59.67,0:40:01.78,Default,tingkat 3,0,0,0,,Dan saya yakin Anda juga mengetahuinya.
+Dialog: 0,0:40:03.48,0:40:06.45,Default,tingkat 3,0,0,0,,Saya tidak akan membiarkan Anda menghancurkan impian Yang Mulia.
+Dialog: 0,0:40:10.29,0:40:11.42,Default,tingkat 3,0,0,0,,Gadis ini...
+Dialog: 0,0:40:24.17,0:40:25.63,Default,Spillik4,0,0,0,,Saya akan pergi ke aula Daejojon.
+Dialog: 0,0:40:25.93,0:40:27.00,Default,Spilyk4,0,0,0,,Ya.
+Dialogue: 0,0:40:39.31,0:40:42.65,Default,Spikyulka4,0,0,0,,Mereka bilang mimpi menangkal rumor.
+Dialog: 0,0:40:43.95,0:40:45.15,Default,Spilyk4,0,0,0,,Rumor?
+Dialog: 0,0:40:45.45,0:40:47.02,Default,Spikyulka4,0,0,0,,Saya tidak memberi tahu siapa pun,
+Dialog: 0,0:40:47.02,0:40:49.99,Default,Spikyulka4,0,0,0,,bagaimanapun, malam bersama raja adalah masalah intim,
+Dialog: 0,0:40:51.49,0:40:54.80,Default,Spikyulka4,0,0,0,,tetapi jika Anda mengetahuinya, Anda akan sangat terkejut.
+Dialog: 0,0:40:56.90,0:40:58.13,Default,Spillie4,0,0,0,,Di tempat tidur...
+Dialog: 0,0:41:23.86,0:41:25.13,Default,Spilyk4,0,0,0,,Semacam itu.
+Dialog: 0,0:41:26.03,0:41:27.80,Default,Spikyulka4,0,0,0,,Kamu tidak bisa memberitahuku tentang malam yang panas.
+Dialog: 0,0:41:27.80,0:41:29.60,Default,Spilyk4,0,0,0,,Sayang sekali.
+Dialog: 0,0:41:29.80,0:41:33.80,Default,Spillik4,0,0,0,,Raja sama sekali tidak seperti kelihatannya.
+Dialog: 0,0:41:34.34,0:41:37.54,Default,Spilyk4,0,0,0,,Daya tahannya akan turun dalam sejarah.
+Dialogue: 0,0:41:42.61,0:41:44.31,Default,Spikyulka4,0,0,0,,Jadi karena aku, buku itu masuk ke dalam buku teks?
+Dialogue: 0,0:41:44.91,0:41:48.78,Default,Spikyulka4,0,0,0,,Siapa yang menyebarkan gosip palsu seperti itu?
+Dialog: 0,0:41:48.78,0:41:52.65,Default,Spillik4,0,0,0,,Hanya selir kerajaan Cho yang mampu melakukan ini.
+Dialog: 0,0:42:01.66,0:42:02.96,Default,Spillik4,0,0,0,,Semuanya baik-baik saja.
+Dialog: 0,0:42:07.00,0:42:09.87,Default,Spilyk4,0,0,0,,Apa? Sekarang mengapa kamu datang untuk bertarung?
+Dialog: 0,0:42:17.35,0:42:18.81,Default,Spillik4,0,0,0,,Apakah kamu yakin?
+Dialog: 0,0:42:23.69,0:42:25.45,Default,Spikyulka4,0,0,0,,Kami yakin kamu bersama raja
+Dialog: 0,0:42:25.95,0:42:28.52,Default,Silk4,0,0,0,,bisakah kamu melawan mereka dan menang?
+Dialogue: 0,0:42:30.89,0:42:32.39,Default,Spilyk4,0,0,0,,Ini pertarunganku juga.
+Dialog: 0,0:42:32.89,0:42:34.93,Default,Spilyk4,0,0,0,,Dan saya juga butuh kemenangan.
+Dialog: 0,0:42:44.20,0:42:46.65,Default,Spilyk4,0,0,0,,Maka kamu perlu berlatih memanah.
+Dialog: 0,0:42:47.21,0:42:50.75,Default,Spikyulka4,0,0,0,,Dengan skillmu saat ini kamu hanya akan menjadi beban.
+Dialog: 0,0:42:53.15,0:42:56.85,Default,Spillik4,0,0,0,,Kalau begitu bisakah kamu mengajariku?
+Dialog: 0,0:42:59.45,0:43:00.52,Default,Spilyk4,0,0,0,,Saya punya
+Dialog: 0,0:43:03.29,0:43:05.16,Default,Spilyk4,0,0,0,,tidak ada waktu untuk ini.
+Dialog: 0,0:43:08.90,0:43:11.43,Default,Spillik4,0,0,0,,Yang Mulia, selir Cho ada di sini.
+Dialog: 0,0:43:12.70,0:43:13.87,Default,Spillik4,0,0,0,,Biarkan dia masuk.
+Dialog: 0,0:43:27.05,0:43:29.05,Default,Spilyk4,0,0,0,,Saya ingin meminta sesuatu dari Anda.
+Dialog: 0,0:43:29.35,0:43:30.35,Default,Spillik4,0,0,0,,Bicara.
+Dialog: 0,0:43:30.35,0:43:32.02,Default,Spillik4,0,0,0,,Anda harus memenuhinya.
+Dialog: 0,0:43:33.62,0:43:35.49,Default,Spikyulka4,0,0,0,,Dan permintaan seperti apa?
+Dialog: 0,0:43:37.43,0:43:40.76,Default,Spillik4,0,0,0,,Biarkan aku meninggalkan istana.
+Dialogue: 0,0:43:45.07,0:43:46.43,Default,Spillik4,0,0,0,,Apa maksudnya ini?
+Dialog: 0,0:43:46.87,0:43:50.41,Default,Spillik4,0,0,0,,Saya tidak dapat menemukan diri saya di istana.
+Dialogue: 0,0:43:51.04,0:43:53.04,Default,Spikyulka4,0,0,0,,Tolong usir aku keluar istana,
+Dialogue: 0,0:43:53.61,0:43:55.64,Default,Spillik4,0,0,0,,supaya aku bisa menjalani hidupku sendiri.
+Dialog: 0,0:43:57.71,0:43:58.91,Default,Spikyulka4,0,0,0,,Saya tidak bisa mengizinkan ini.
+Dialog: 0,0:43:59.35,0:44:02.28,Default,Spikyulka4,0,0,0,,Kau tahu bagaimana rasanya hidup sebagai selir kerajaan yang diasingkan.
+Dialog: 0,0:44:02.28,0:44:04.52,Default,Spilyk4,0,0,0,,Saya tidak peduli apa yang mereka katakan tentang saya.
+Dialog: 0,0:44:04.52,0:44:08.46,Default,Spilyk4,0,0,0,,Saya tidak akan terikat dengan ini lagi.
+Dialogue: 0,0:44:10.39,0:44:14.13,Default,Spikyulka4,0,0,0,,Ini permintaan terakhirku,\Ntolong penuhi.
+Dialog: 0,0:44:20.70,0:44:23.07,Default,Spilyk4,0,0,0,,Saya tidak memberikan izin. Saya tidak bisa memberikannya.
+Dialog: 0,0:44:23.97,0:44:26.21,Default,Spikyulka4,0,0,0,,Kami menghargai satu sama lain,
+Dialog: 0,0:44:27.24,0:44:29.48,Default,Spillik4,0,0,0,,tapi tak ada lagi cinta untuk kita.
+Dialog: 0,0:44:30.14,0:44:31.55,Default,Spillik4,0,0,0,,Di istana
+Dialog: 0,0:44:32.41,0:44:34.08,Default,Spilyk4,0,0,0,,Saya di penangkaran
+Dialog: 0,0:44:35.15,0:44:37.75,Default,Spilyk4,0,0,0,,atas nama selir kerajaan.
+Dialog: 0,0:45:19.43,0:45:23.06,Default,Spillik4,0,0,0,,Yang Mulia. Semua pejabat berkumpul.
+Dialog: 0,0:45:26.43,0:45:31.04,Default,Spillik4,0,0,0,,Alasan aku harus mengumpulkanmu,
+Dialog: 0,0:45:33.71,0:45:36.31,Default,Spikyulka4,0,0,0,,bahwa saya ingin menyampaikan pernyataan penting.
+Dialog: 0,0:45:44.05,0:45:46.15,Default,Spillik4,0,0,0,,Mulai sekarang
+Dialog: 0,0:45:46.89,0:45:49.89,Default,Spillik4,0,0,0,,Cho Hwajin, permaisuri,
+Dialog: 0,0:45:54.56,0:45:56.23,Default,Silk4,0,0,0,,kehilangan status selir kerajaan.
+Dialog: 0,0:46:04.71,0:46:06.24,Default,Spikyulka4,0,0,0,,Kita harus menghentikan ini.
+Dialog: 0,0:46:07.38,0:46:11.78,Default,Silk4,0,0,0,,Selir kerajaan bukan lagi salah satu dari kita.
+Dialog: 0,0:46:17.29,0:46:20.79,Default,Spillik4,0,0,0,,Yang Mulia, sehatlah.
+Dialog: 0,0:46:22.06,0:46:25.93,Default,Spillik4,0,0,0,,Aku akan mendoakanmu.
+Dialog: 0,0:46:45.21,0:46:46.38,Default,Spillik4,0,0,0,,Yang Mulia.
+Dialog: 0,0:46:53.42,0:46:56.49,Default,Spilyk4,0,0,0,,Tolong jangan panggil aku seperti itu lagi.
+Dialog: 0,0:46:56.49,0:46:57.89,Default,Spikyulka4,0,0,0,,Ini adalah kesalahan.
+Dialog: 0,0:46:59.06,0:47:00.46,Default,Spillik4,0,0,0,,Raja seharusnya tidak melakukan ini padamu.
+Dialog: 0,0:47:00.46,0:47:02.23,Default,Spillik4,0,0,0,,Aku sendiri yang bertanya padanya.
+Dialog: 0,0:47:04.13,0:47:06.93,Default,Spikyulka4,0,0,0,,-Mengapa?\N-Ini lebih baik untuk semua orang.
+Dialog: 0,0:47:07.84,0:47:11.24,Default,Spillik4,0,0,0,,Saat aku di istana, aku akan mengganggu raja,
+Dialog: 0,0:47:11.71,0:47:13.84,Default,Spillik4,0,0,0,,tanpa menginginkannya.
+Dialog: 0,0:47:13.84,0:47:15.78,Default,Spikyulka4,0,0,0,,Saya akan pastikan ini tidak terjadi.
+Dialog: 0,0:47:16.51,0:47:18.15,Default,Silk4,0,0,0,,Belum terlambat untuk kembali.
+Dialog: 0,0:47:18.15,0:47:19.88,Default,Spillik4,0,0,0,,Aku akan beritahu raja...
+Dialog: 0,0:47:21.85,0:47:23.99,Default,Spillik4,0,0,0,,Aku tidak percaya diri lagi.
+Dialog: 0,0:47:25.09,0:47:29.29,Default,Spikyulka4,0,0,0,,Jika aku tinggal di sini lebih lama lagi, aku akan benar-benar kehilangan diriku sendiri.
+Dialogue: 0,0:47:30.99,0:47:34.53,Default,Spillik4,0,0,0,,Aku pura-pura tidak tahu
+Dialog: 0,0:47:35.76,0:47:38.00,Default,Spillik4,0,0,0,,tentang perasaanmu padaku.
+Dialog: 0,0:47:41.67,0:47:44.37,Default,Spillik4,0,0,0,,-Yang Mulia.\N-Saya menggunakan Anda untuk tujuan saya sendiri.
+Dialog: 0,0:47:45.87,0:47:48.28,Default,Spillie4,0,0,0,,Saat aku merindukan seorang raja,
+Dialog: 0,0:47:49.11,0:47:51.98,Default,Spillik4,0,0,0,,kekosongan karena dia tidak merindukanku,
+Dialog: 0,0:47:53.08,0:47:55.08,Default,Spikyulka4,0,0,0,,Saya mengisinya dengan Anda.
+Dialog: 0,0:47:55.45,0:47:56.62,Default,Spillik4,0,0,0,,I
+Dialogue: 0,0:47:59.52,0:48:01.96,Default,Spikyulka4,0,0,0,,dengan rela mengizinkanmu menggunakanku.
+Dialogue: 0,0:48:03.39,0:48:05.19,Default,Spikyulka4,0,0,0,,Hanya ini yang bisa kulakukan
+Dialog: 0,0:48:07.33,0:48:08.60,Default,Spilyk4,0,0,0,,untuk Anda.
+Dialog: 0,0:48:09.63,0:48:11.17,Default,Spillik4,0,0,0,,Terima kasih.
+Dialog: 0,0:48:12.57,0:48:13.70,Default,Spikyulka4,0,0,0,,Dan
+Dialog: 0,0:48:14.97,0:48:16.50,Default,Spillik4,0,0,0,,maaf.
+Dialog: 0,0:48:17.51,0:48:19.31,Default,Spikyulka4,0,0,0,,Sudah waktunya kamu berhenti
+Dialog: 0,0:48:19.67,0:48:23.01,Default,Silk4,0,0,0,,sakitlah dirimu dengan cinta pada orang yang salah.
+Dialog: 0,0:48:43.26,0:48:45.67,Default,Spillik4,0,0,0,,Jadi itu maksudnya.
+Dialog: 0,0:48:52.17,0:48:53.94,Default,Spilyk4,0,0,0,,Wanita keren.
+Dialog: 0,0:48:57.31,0:48:58.91,Default,Spillik4,0,0,0,,Apakah Cheoljong baik-baik saja?
+Dialog: 0,0:49:00.78,0:49:02.58,Default,Spillik4,0,0,0,,Saya yakin tidak.
+Dialog: 0,0:49:25.67,0:49:27.21,Default,Spilyk4,0,0,0,,Lawan aku.
+Dialog: 0,0:49:27.48,0:49:28.78,Default,Spillik4,0,0,0,,Aku sedang tidak mood.
+Dialog: 0,0:49:28.94,0:49:29.98,Default,Spillik4,0,0,0,,Di masa kanak-kanak
+Dialog: 0,0:49:31.21,0:49:33.41,Default,Silk4,0,0,0,,di Ganghwado kami sering memainkan game yang sama.
+Dialog: 0,0:49:35.88,0:49:38.59,Default,Spillikins4,0,0,0,,Yang pertama menginjak bayangan orang lain akan menang.
+Dialog: 0,0:49:39.35,0:49:40.79,Default,Spilyk4,0,0,0,,Yang tidak mau main,
+Dialog: 0,0:49:42.79,0:49:44.33,Default,Spillik4,0,0,0,,langsung kalah.
+Dialog: 0,0:50:09.12,0:50:10.52,Default,Spillik4,0,0,0,,Ingat?
+Dialog: 0,0:50:11.22,0:50:14.66,Default,Silk4,0,0,0,,Sebagai seorang anak, saya selalu menang.
+Dialog: 0,0:50:17.93,0:50:20.86,Default,Spikyulka4,0,0,0,,Saya ingat, lalu saya selalu menang.
+Dialog: 0,0:50:24.23,0:50:28.34,Default,Spikyulka4,0,0,0,,Saya seharusnya lebih ketat dengan hierarki kami sebelumnya.
+Dialog: 0,0:50:28.64,0:50:31.64,Default,Spillik4,0,0,0,,Hierarki tidak ada hubungannya dengan itu, kamu tidak bisa menang.
+Dialog: 0,0:50:40.61,0:50:44.69,Default,Spillik4,0,0,0,,Selir Cho mengkhawatirkanmu sampai akhir.
+Dialog: 0,0:50:44.85,0:50:47.22,Default,Spikyulka4,0,0,0,,Kamu bahkan tidak mengerti betapa berharganya ini.
+Dialog: 0,0:50:47.22,0:50:48.36,Default,Spilyk4,0,0,0,,Seperti yang saya pahami.
+Dialogue: 0,0:50:49.16,0:50:50.59,Default,Spilyk4,0,0,0,,Itulah sebabnya aku sangat menderita.
+Dialog: 0,0:51:02.20,0:51:03.57,Default,Spillik4,0,0,0,,Kamu seharusnya lebih menderita.
+Dialog: 0,0:51:04.44,0:51:05.51,Default,Spilyk4,0,0,0,,Ini yang terbaik,
+Dialog: 0,0:51:07.41,0:51:09.48,Default,Spillik4,0,0,0,,apa yang dapat kamu lakukan untuknya.
+Dialogue: 0,0:51:17.45,0:51:20.09,Default,Spikyulka4,0,0,0,,Berapa lama lagi aku harus menderita\N karena kesepian dan kekhawatiran?
+Dialog: 0,0:51:20.59,0:51:21.92,Default,Spillik4,0,0,0,,Berapa banyak lagi?
+Dialogue: 0,0:51:35.96,0:51:39.30,Default,Spillik4,0,0,0,,Apakah Cheoljung-ku sedang minum di suatu tempat?
+Dialog: 0,0:51:39.83,0:51:42.07,Default,Silk4,0,0,0,,Akan lebih baik jika aku minum bersamanya, jika bukan untuk kehamilan.
+Dialogue: 0,0:51:47.11,0:51:51.18,Default,Spikyulka4,0,0,0,,Kehamilan bukan hanya tentang melahirkan anak, tapi juga tentang menjadi anak?
+Dialogue: 0,0:51:52.35,0:51:54.32,Default,Spilyk4,0,0,0,,Kenapa selalu mengantuk?
+Dialog: 0,0:52:10.03,0:52:11.47,Default,Spillik4,0,0,0,,Saya akan pergi ke aula Dongmyeongjong.
+Dialog: 0,0:52:13.03,0:52:14.20,Default,Spillik4,0,0,0,,Hati-hati, Yang Mulia.
+Dialog: 0,0:52:14.77,0:52:16.40,Default,Spilyk4,0,0,0,,Rumor berbahaya,
+Dialog: 0,0:52:16.40,0:52:19.07,Default,Spikyulka4,0,0,0,,jika mereka mengetahui bahwa dia berasal darimu...
+Dialog: 0,0:52:19.94,0:52:22.91,Default,Spillik4,0,0,0,,Sampai Janda Ratu mengetahui,
+Dialog: 0,0:52:23.41,0:52:25.31,Default,Spillik4,0,0,0,,Aku harus memberitahunya sendiri.
+Dialog: 0,0:52:26.21,0:52:28.35,Default,Silk4,0,0,0,,-Tapi..\N-Jangan khawatir.
+Dialog: 0,0:52:29.08,0:52:32.09,Default,Spilyk4,0,0,0,,Mereka bahkan tidak bisa membayangkan,
+Dialog: 0,0:52:32.09,0:52:33.89,Default,Spikyulka4,0,0,0,,bahwa saya akan membagikan rumor yang saya sendiri yang memulainya.
+Dialogue: 0,0:52:37.86,0:52:40.33,Default,Spillik4,0,0,0,,Muncul tanpa undangan.
+Dialog: 0,0:52:40.69,0:52:42.70,Default,Spikyulka4,0,0,0,,Saya kira saya akan meminta bantuan lagi.
+Dialog: 0,0:52:42.70,0:52:45.00,Default,Spikyulka4,0,0,0,,Saya telah mendengar rumor yang luar biasa.
+Dialog: 0,0:52:45.00,0:52:48.14,Default,Spikyulka4,0,0,0,,Aku takut kamu akan jatuh sakit karena berita seperti itu.
+Dialog: 0,0:52:48.54,0:52:50.84,Default,Spillik4,0,0,0,,Jadi saya langsung datang.
+Dialog: 0,0:52:50.84,0:52:52.21,Default,Spillik4,0,0,0,,Rumor?
+Dialogue: 0,0:52:54.48,0:52:58.45,Default,Spilyk4,0,0,0,,Kenapa harus susah payah?
+Dialog: 0,0:52:58.45,0:53:02.38,Default,Spikyulka4,0,0,0,,Jika Anda tahu apa yang kita bicarakan, Anda tidak akan berbicara seperti itu.
+Dialog: 0,0:53:03.32,0:53:04.75,Default,Spilyk4,0,0,0,,Bahkan penasaran.
+Dialogue: 0,0:53:05.09,0:53:08.49,Default,Spikyulka4,0,0,0,,Rumor macam apa yang membuatmu terburu-buru.
+Dialog: 0,0:53:09.39,0:53:12.26,Default,Spillik4,0,0,0,,Dia terlalu sayang untuk dilewatkan,
+Dialog: 0,0:53:12.56,0:53:16.03,Default,Spill4,0,0,0,,bagaimana wajahmu akan berubah saat mendengarnya.
+Dialog: 0,0:53:18.30,0:53:20.40,Default,Spilyk4,0,0,0,,Tidak mungkin karena rumor wajahku akan berubah seperti ini,
+Dialog: 0,0:53:20.40,0:53:22.87,Default,Spillik4,0,0,0,,berapa lama kamu ingin melihatnya.
+Dialogue: 0,0:53:25.14,0:53:29.81,Default,Spill4,0,0,0,,Anak ratu bukanlah anak raja.
+Dialog: 0,0:53:31.18,0:53:34.78,Default,Spikyulka4,0,0,0,,Ini dari Kim Byungin.
+Dialogue: 0,0:53:36.92,0:53:40.19,Default,Spillik4,0,0,0,,Kamu sangat peduli pada jenismu.
+Dialog: 0,0:53:40.45,0:53:44.86,Default,Spikyulka4,0,0,0,,Sekarang akan tercatat dalam sejarah bahwa klan Andonian Kim
+Dialog: 0,0:53:44.86,0:53:47.29,Default,Spillik4,0,0,0,,menodai darah bangsawan.
+Dialog: 0,0:54:00.64,0:54:01.78,Default,Spilyk4,0,0,0,,Menarik.
+Dialog: 0,0:54:02.88,0:54:05.05,Default,Spillik4,0,0,0,,Sekarang semuanya menjadi lebih menarik.
+Dialog: 0,0:54:14.99,0:54:16.79,Default,Spikyulka4,0,0,0,,Pernahkah Anda mendengar apa yang mereka bicarakan?
+Dialog: 0,0:54:17.16,0:54:19.29,Default,Spikyulka4,0,0,0,,Ya, saya dengar. Tidak berdasar.
+Dialogue: 0,0:54:19.66,0:54:22.50,Default,Spill4,0,0,0,,Raja dan ratu tidur bersama
+Dialog: 0,0:54:23.20,0:54:26.97,Default,Spilyk4,0,0,0,,seperti yang diharapkan. \NMengapa Anda terlambat membicarakan hal ini?
+Dialogue: 0,0:54:26.97,0:54:28.34,Default,Spilyk4,0,0,0,,Bukan itu yang saya bicarakan sama sekali.
+Dialog: 0,0:54:28.60,0:54:30.90,Default,Spillik4,0,0,0,,Mereka bilang anak itu bukan milik raja.
+Dialog: 0,0:54:31.24,0:54:32.67,Default,Spikyulka4,0,0,0,,Ssst, kamu akan mendatangkan masalah pada dirimu sendiri.
+Dialogue: 0,0:54:43.28,0:54:45.92,Default,Silk4,0,0,0,,Seluruh halaman menertawakan klan kita.
+Dialog: 0,0:54:46.69,0:54:50.32,Default,Spilyk4,0,0,0,,Hubungan antara ratu dan menteri perang, kerabat dekat?
+Dialogue: 0,0:54:51.09,0:54:53.33,Default,Spikyulka4,0,0,0,,Aku menaruh harapan besar padanya.
+Dialogue: 0,0:54:54.19,0:54:55.63,Default,Spillik4,0,0,0,,Sayang sekali.
+Dialog: 0,0:54:57.13,0:54:58.70,Default,Spiky4,0,0,0,,Setelah deposisi Selir Cho,
+Dialog: 0,0:54:58.70,0:55:00.93,Default,Spikyulka4,0,0,0,,kukira aku sudah selesai.
+Dialogue: 0,0:55:00.93,0:55:04.40,Default,Spikyulka4,0,0,0,,Tetapi setelah rumor tentang ratu,\NI merasa seperti aku menang.
+Dialog: 0,0:55:07.27,0:55:10.91,Default,Spikyulka4,0,0,0,,Anak itu bukan keturunan bangsawan, melainkan anak yang cukup makan.
+Dialogue: 0,0:55:31.53,0:55:34.57,Default,Spillik4,0,0,0,,Keluargaku lebih penting dari hidupku.
+Dialogue: 0,0:55:35.74,0:55:38.11,Default,Spilyk4,0,0,0,,Itulah sebabnya aku hidup untuk keluargaku.
+Dialog: 0,0:55:39.44,0:55:41.44,Default,Spillik4,0,0,0,,Untuk apa kamu hidup?
+Dialog: 0,0:55:41.81,0:55:44.24,Default,Spillik4,0,0,0,,Untuk alasan yang sama seperti Anda, Yang Mulia.
+Dialog: 0,0:55:46.05,0:55:47.08,Default,Spillik4,0,0,0,,Benarkah?
+Dialog: 0,0:55:48.48,0:55:51.39,Default,Spilyk4,0,0,0,,Jika iya, apakah kamu siap melakukan apa pun demi keluargamu?
+Dialog: 0,0:55:52.35,0:55:53.39,Default,Spilyk4,0,0,0,,Ya.
+Dialog: 0,0:55:54.35,0:55:57.49,Default,Spillik4,0,0,0,,Kalau begitu bawakan aku kepala ratu dulu.
+Dialog: 0,0:55:58.39,0:55:59.89,Default,,0,0,0,,Ini adalah perintah.
+Dialogue: 0,0:56:01.40,0:56:02.90,Default,,0,0,0,,Apa alasannya?
+Dialog: 0,0:56:02.90,0:56:07.60,Default,,0,0,0,,Ratu menghancurkan reputasi keluarga kami, yang telah kami kumpulkan selama bertahun-tahun.
+Dialog: 0,0:56:10.80,0:56:11.97,Default,,0,0,0,,Yang Mulia.
+Dialogue: 0,0:56:12.41,0:56:14.74,Default,,0,0,0,,Entah apa yang membuatmu marah,
+Dialog: 0,0:56:14.74,0:56:16.21,Default,,0,0,0,,tapi mohon ampun.
+Dialog: 0,0:56:16.21,0:56:18.11,Default,,0,0,0,,Semua orang di istana sedang bergosip
+Dialogue: 0,0:56:18.11,0:56:20.85,Default,,0,0,0,,bahwa raja dan ratu tidak tidur bersama.
+Dialog: 0,0:56:20.85,0:56:23.75,Default,,0,0,0,,Sekarang mereka bilang anak itu milikmu.
+Dialog: 0,0:56:24.45,0:56:25.49,Default,,0,0,0,,Apa?
+Dialogue: 0,0:56:26.49,0:56:28.02,Default,,0,0,0,,Ini tidak benar.
+Dialog: 0,0:56:28.02,0:56:30.32,Default,,0,0,0,,Apa yang diyakini semua orang menjadi kenyataan.
+Dialog: 0,0:56:30.89,0:56:34.29,Default,,0,0,0,,Begitu pagi tiba, orang-orang akan menyebarkan rumor ini
+Dialog: 0,0:56:34.80,0:56:37.13,Default,,0,0,0,,dan ratu akan menjadi orang berdosa,
+Dialog: 0,0:56:37.13,0:56:38.77,Default,,0,0,0,,yang hamil oleh orang lain
+Dialog: 0,0:56:38.77,0:56:41.94,Default,,0,0,0,,dan berbohong bahwa anak itu berasal dari raja, sehingga mempermalukannya.
+Dialog: 0,0:56:42.97,0:56:44.54,Default,,0,0,0,,Rumor tersebut muncul karena kesalahanku.
+Dialog: 0,0:56:45.01,0:56:46.47,Default,,0,0,0,,Saya akan menerima hukuman saya.
+Dialogue: 0,0:56:46.91,0:56:48.31,Default,,0,0,0,,Sebuah rumor dapat merugikan seorang pria,
+Dialog: 0,0:56:48.31,0:56:50.64,Default,,0,0,0,,tapi dia akan membunuh seorang wanita.
+Dialogue: 0,0:56:51.31,0:56:53.08,Default,,0,0,0,,Untuk menjaga kehormatan keluarga kita,
+Dialogue: 0,0:56:53.08,0:56:54.65,Default,,0,0,0,,membutuhkan kepala ratu.
+Dialog: 0,0:56:55.02,0:56:57.72,Default,,0,0,0,,Jika kamu sendiri yang membawakan kepalanya untukku,
+Dialogue: 0,0:56:58.29,0:57:00.19,Default,,0,0,0,,Aku tidak akan menghukummu.
+Dialog: 0,0:57:01.42,0:57:02.92,Default,,0,0,0,,Saya tidak bisa.
+Dialogue: 0,0:57:03.72,0:57:05.89,Default,,0,0,0,,Lebih baik hukum aku.
+Dialog: 0,0:57:05.89,0:57:07.26,Default,,0,0,0,,Dia bilang kamu hidup untuk keluargamu,
+Dialog: 0,0:57:07.26,0:57:09.50,Default,,0,0,0,,tapi semua hanya demi ratu!
+Dialogue: 0,0:57:10.93,0:57:13.03,Default,,0,0,0,,Kalau begitu aku akan mempercayakan ini pada orang lain.
+Dialog: 0,0:57:13.50,0:57:15.30,Default,,0,0,0,,-Apakah ada orang di luar?\N-Saya akan segera melakukannya
+Dialog: 0,0:57:17.37,0:57:19.71,Default,,0,0,0,,Saya akan mengembalikan perwalian Anda.
+Dialogue: 0,0:57:54.61,0:57:56.64,Default,,0,0,0,,Idemu berbahaya.
+Dialog: 0,0:57:57.88,0:58:00.61,Default,,0,0,0,,Dalam buku dengan nama ratu
+Dialog: 0,0:58:01.85,0:58:05.05,Default,,0,0,0,,Saya melihat kode pengikut Tonhak yang Anda tulis.
+Dialogue: 0,0:58:10.19,0:58:13.46,Default,,0,0,0,,Ide berbahaya ini telah mencemarimu dan ratu.
+Dialog: 0,0:58:14.73,0:58:16.80,Default,,0,0,0,,Mereka ingin membangun kembali negara.
+Dialogue: 0,0:58:18.07,0:58:21.10,Default,,0,0,0,,Apa yang akan terjadi jika bangsawan merasakan bahaya?
+Dialog: 0,0:58:21.57,0:58:23.47,Default,,0,0,0,,Mereka akan berusaha menjaga segalanya sebagaimana adanya,
+Dialog: 0,0:58:23.94,0:58:26.11,Default,,0,0,0,,walaupun itu berarti menghilangkan nyawa orang.
+Dialog: 0,0:58:28.48,0:58:31.45,Default,,0,0,0,,Pembantaian pengikut Tonhak akan dimulai.
+Dialogue: 0,0:58:34.31,0:58:37.72,Default,,0,0,0,,Lalu kenapa kamu datang kepadaku dan tidak mengikuti mereka?
+Dialog: 0,0:58:38.62,0:58:41.19,Default,,0,0,0,,Karena akan merugikan ratu.
+Dialog: 0,0:58:46.66,0:58:48.50,Default,,0,0,0,,Klan Kim
+Dialog: 0,0:58:51.30,0:58:53.60,Default,,0,0,0,,ditujukan pada Yang Mulia.
+Dialog: 0,0:58:55.97,0:58:59.14,Default,,0,0,0,,Menyebarkan rumor kalau anaknya dari saya,
+Dialog: 0,0:58:59.64,0:59:01.88,Default,,0,0,0,,mereka ingin membunuhnya demi menjaga kehormatan mereka.
+Dialog: 0,0:59:03.24,0:59:05.31,Default,,0,0,0,,Dengan ini mereka ingin menyerangku.
+Dialog: 0,0:59:05.75,0:59:08.25,Default,,0,0,0,,-Saya akan menghentikan mereka.\N-Anda tidak bisa.
+Dialog: 0,0:59:10.08,0:59:12.42,Default,,0,0,0,,Bahkan jika kamu menyelamatkannya sekarang,
+Dialog: 0,0:59:12.79,0:59:15.62,Default,,0,0,0,,keluarganya sendiri yang memulai rumor tersebut,
+Dialog: 0,0:59:16.86,0:59:19.49,Default,,0,0,0,,dia akan terpaksa hidup dengan reputasi buruk.
+Dialog: 0,0:59:21.03,0:59:24.16,Default,,0,0,0,,Bukan hanya dia, sang anak juga mengalami nasib yang sama.
+Dialog: 0,0:59:26.37,0:59:33.34,Default,,0,0,0,,Tidakkah kamu mengerti bahwa pejabat yang mengancam posisimu tidak akan membiarkan dia sendirian?
+Dialog: 0,0:59:38.95,0:59:41.25,Default,,0,0,0,,Hanya Anda yang bisa menyelamatkan Yang Mulia.
+Dialog: 0,0:59:42.68,0:59:43.82,Default,,0,0,0,,Bagaimana?
+Dialogue: 0,0:59:45.05,0:59:46.92,Default,,0,0,0,,Bagaimana cara menyelamatkannya?
+Dialogue: 0,0:59:47.45,0:59:49.46,Default,,0,0,0,,Hancurkan pemberontakan.
+Dialog: 0,0:59:51.26,0:59:53.06,Default,,0,0,0,,Milik
+Dialog: 0,0:59:53.86,0:59:56.03,Default,,0,0,0,,menghukum pengikut Tonhak.
+Dialog: 0,0:59:57.40,1:00:00.90,Default,,0,0,0,,Fitnah terhadap wanita raja yang pergi berperang,
+Dialog: 0,1:00:00.90,1:00:04.07,Default,,0,0,0,,untuk melindungi negara, tidak pantas, ini akan menghilangkan rumor.
+Dialog: 0,1:00:04.67,1:00:08.48,Default,,0,0,0,,Jika Anda membuktikan tidak bersalah dengan membunuh pengikut Tonhak,
+Dialog: 0,1:00:09.41,1:00:12.48,Default,,0,0,0,,sandi yang ditemukan di buku\N tidak lagi menjadi ancaman bagi Anda.
+Dialog: 0,1:00:14.08,1:00:15.25,Default,,0,0,0,,Ini
+Dialog: 0,1:00:17.18,1:00:20.22,Default,,0,0,0,,satu-satunya cara untuk menyimpan
+Dialog: 0,1:00:22.12,1:00:23.79,Default,,0,0,0,,ratu dan anakmu.
+Dialog: 0,1:00:28.53,1:00:30.30,Default,,0,0,0,,Tidak ada waktu untuk berpikir.
+Dialog: 0,1:00:31.30,1:00:33.83,Default,,0,0,0,,Di pagi hari, rumor akan menghancurkan ratu.
+Dialog: 0,1:00:36.10,1:00:37.47,Default,,0,0,0,,Tidak mungkin
+Dialog: 0,1:00:39.77,1:00:42.21,Default,,0,0,0,,Aku tidak akan membiarkan dia menderita sendirian.
+Dialogue: 0,1:01:14.14,1:01:15.68,Default,,0,0,0,,Aku tidak tidur.
+Dialog: 0,1:01:16.48,1:01:18.18,Default,,0,0,0,,Hanya berpikir.
+Dialog: 0,1:01:18.38,1:01:21.18,Default,,0,0,0,,Jadi merepotkan, kenapa kamu tidak tidur saja?
+Dialog: 0,1:01:21.38,1:01:23.62,Default,,0,0,0,,Saya datang untuk menghibur Anda.
+Dialogue: 0,1:01:24.75,1:01:28.02,Default,,0,0,0,,Tapi aku sedang berpikir keras.
+Dialog: 0,1:01:30.12,1:01:31.99,Default,,0,0,0,,Jadi aku ingin tidur.
+Dialogue: 0,1:01:32.36,1:01:34.33,Default,,0,0,0,,Saya akan menghiburmu besok.
+Dialog: 0,1:01:44.20,1:01:46.51,Default,,0,0,0,,Kamu adalah penghiburku.
+Dialog: 0,1:02:44.10,1:02:47.10,Default,,0,0,0,,Pemberontakan Sangnam membahayakan negara,
+Dialog: 0,1:02:48.13,1:02:50.50,Default,,0,0,0,,Saya harus pergi.
+Dialog: 0,1:02:51.91,1:02:55.81,Default,,0,0,0,,Segera setelah saya pergi, saya meminta Anda untuk terlibat dalam politik.
+Dialog: 0,1:02:55.81,1:02:56.94,Default,,0,0,0,,DAN
+Dialog: 0,1:03:01.01,1:03:03.35,Default,,0,0,0,,jaga ratu dan anak kita.
+Dialog: 0,1:03:04.28,1:03:06.95,Default,,0,0,0,,Saya yakin Anda akan melakukan pekerjaan ini dengan baik.
+Dialog: 0,1:03:07.52,1:03:10.19,Default,,0,0,0,,Saya merasa nyaman tanpa politik.
+Dialog: 0,1:03:11.76,1:03:13.46,Default,,0,0,0,,Tapi apa yang bisa kamu lakukan?
+Dialog: 0,1:03:14.26,1:03:16.63,Default,,0,0,0,,Jangan khawatirkan ratu.
+Dialog: 0,1:03:16.96,1:03:19.73,Default,,0,0,0,,Jaga yang suaminya pergi
+Dialog: 0,1:03:20.00,1:03:24.44,Default,,0,0,0,,berperang, mempertaruhkan nyawaku, adalah tugasku.
+Dialogue: 0,1:03:25.24,1:03:26.91,Default,,0,0,0,,Mengandalkanmu
+Dialogue: 0,1:03:28.14,1:03:29.78,Default,,0,0,0,,dan aku berangkat.
+Dialog: 0,1:03:31.04,1:03:32.71,Default,,0,0,0,,Jaga dirimu.
+Dialog: 0,1:03:35.28,1:03:37.55,Default,,0,0,0,,Matahari telah terbit.
+Dialog: 0,1:04:05.91,1:04:06.95,Default,,0,0,0,,Yang Mulia.
+Dialog: 0,1:04:09.55,1:04:11.18,Default,,0,0,0,,Kalau begitu, ini aku.
+Dialog: 0,1:04:11.99,1:04:13.15,Default,,0,0,0,,Yang Mulia.
+Dialog: 0,1:04:23.46,1:04:27.07,Default,,0,0,0,,Benarkah Anda sendiri yang akan menumpas pemberontakan?
+Dialog: 0,1:04:27.37,1:04:28.50,Default,,0,0,0,,Ya.
+Dialog: 0,1:04:28.50,1:04:30.00,Default,,0,0,0,,Apa yang terjadi?
+Dialog: 0,1:04:30.00,1:04:32.71,Default,,0,0,0,,Anda mendukung mereka, sekarang apakah Anda akan membunuh mereka?
+Dialog: 0,1:04:32.71,1:04:35.58,Default,,0,0,0,,Kim Byonin menemukan kode tersembunyi di buku ratu.
+Dialogue: 0,1:04:37.88,1:04:41.45,Default,,0,0,0,,Jika aku tidak melakukan ini, jutaan orang akan menderita.
+Dialog: 0,1:04:41.45,1:04:42.78,Default,,0,0,0,,Aku ikut denganmu.
+Dialog: 0,1:04:44.75,1:04:47.09,Default,,0,0,0,,Aku harus pergi sendiri.
+Dialog: 0,1:04:47.85,1:04:49.82,Default,,0,0,0,,Tidakkah cukup jika aku disandera?
+Dialog: 0,1:04:51.32,1:04:52.73,Default,,0,0,0,,Ini jebakan.
+Dialog: 0,1:04:52.76,1:04:54.99,Default,,0,0,0,,Tidakkah menurutmu ratu itu sendiri
+Dialog: 0,1:04:55.30,1:04:57.40,Default,,0,0,0,,memberikan buku itu kepada Kim Byungin?
+Dialog: 0,1:04:57.80,1:04:59.83,Default,,0,0,0,,Anda berjanji.
+Dialog: 0,1:05:00.27,1:05:03.14,Default,,0,0,0,,Jika ada bukti bahwa dia adalah musuh,
+Dialog: 0,1:05:03.14,1:05:04.54,Default,,0,0,0,,Anda akan memenggal kepalanya secara pribadi.
+Dialog: 0,1:05:05.00,1:05:08.34,Default,,0,0,0,,Dia yang harus dipenggal, bukan orang lain.
+Dialog: 0,1:05:08.34,1:05:10.91,Default,,0,0,0,,Ratu jelas bukan musuh kita.
+Dialog: 0,1:05:11.78,1:05:14.95,Default,,0,0,0,,Dia mengabaikan semua orang hanya untuk berada di sisiku.
+Dialog: 0,1:05:14.95,1:05:17.02,Default,,0,0,0,,Jika aku tidak pergi sekarang,
+Dialogue: 0,1:05:18.35,1:05:19.95,Default,,0,0,0,,ratu akan mati.
+Dialog: 0,1:05:19.99,1:05:22.59,Default,,0,0,0,,Tenang. Ini bukan waktunya untuk bertengkar satu sama lain.
+Dialog: 0,1:05:25.19,1:05:27.43,Default,,0,0,0,,Kamu bilang aku harus lebih menderita.
+Dialog: 0,1:05:29.06,1:05:30.20,Default,,0,0,0,,Benar.
+Dialog: 0,1:05:32.83,1:05:34.70,Default,,0,0,0,,Saya ambil semuanya.
+Dialog: 0,1:05:37.24,1:05:38.44,Default,,0,0,0,,Hidupmu
+Dialog: 0,1:05:40.51,1:05:41.71,Default,,0,0,0,,dalam bahaya.
+Dialog: 0,1:05:44.71,1:05:46.15,Default,,0,0,0,,Jika aku mencoba bertahan,
+Dialog: 0,1:05:47.65,1:05:49.25,Default,,0,0,0,,semua orang di sekitarku akan mati.
+Dialog: 0,1:06:10.97,1:06:12.64,Default,,0,0,0,,Saya yakin saya melihatnya.
+Dialog: 0,1:06:14.61,1:06:15.78,Default,,0,0,0,,Apakah ini mimpi?
+Dialog: 0,1:06:21.51,1:06:24.15,Default,,0,0,0,,Nyonya Choi, Hong Young.
+Dialog: 0,1:06:30.09,1:06:32.46,Default,,0,0,0,,Ayo pergi ke Daejojon. Aku merindukan raja.
+Dialog: 0,1:06:32.56,1:06:33.93,Default,,0,0,0,,-Ya, Yang Mulia.\N-Ya, Yang Mulia.
+Dialogue: 0,1:06:35.36,1:06:36.86,Default,,0,0,0,,Yang Mulia berangkat.
+Dialog: 0,1:06:37.83,1:06:39.53,Default,,0,0,0,,Meninggalkan? Di mana?
+Dialog: 0,1:06:49.38,1:06:50.84,Default,,0,0,0,,Ayo pergi.
+Dialog: 0,1:07:14.33,1:07:15.74,Default,,0,0,0,,Tunggu!
+Dialog: 0,1:07:25.58,1:07:28.88,Default,,0,0,0,,Berhenti! Tunggu!
+Dialog: 0,1:07:35.82,1:07:36.96,Default,,0,0,0,,Mengapa?
+Dialog: 0,1:07:39.59,1:07:40.59,Default,,0,0,0,,Mengapa?
+Dialog: 0,1:07:47.37,1:07:48.64,Default,,0,0,0,,Apakah ini jalan yang benar?
+Dialogue: 0,1:07:49.74,1:07:52.21,Default,,0,0,0,,Menurutku jalan ini bukan untuk manusia.
+Dialog: 0,1:07:52.51,1:07:54.44,Default,,0,0,0,,Ini adalah jalur terpendek.
+Dialog: 0,1:08:20.10,1:08:21.27,Default,,0,0,0,,Berhenti.
+Dialog: 0,1:08:27.67,1:08:28.84,Default,,0,0,0,,Kamu terlambat.
+Dialog: 0,1:08:30.21,1:08:34.11,Default,,0,0,0,,Jika Anda tetap akan melakukannya, jangan ragu.
+Dialog: 0,1:08:34.45,1:08:38.18,Default,,0,0,0,,Maukah kamu turun dari kudanya sendiri atau membantu?
+Dialog: 0,1:08:50.10,1:08:52.07,Default,,0,0,0,,Tidak ada tempat untuk mundur.
+Dialogue: 0,1:08:53.97,1:08:56.00,Default,,0,0,0,,Kita harus mencobanya.
+Dialog: 0,1:08:56.00,1:08:57.40,Default,,0,0,0,,Jangan khawatir.
+Dialog: 0,1:09:00.24,1:09:02.14,Default,,0,0,0,,Saya bisa mengatasinya sendiri.
+Dialog: 0,1:09:05.24,1:09:07.48,Default,,0,0,0,,Semuanya akan baik-baik saja jika aku menyingkirkanmu.
+Dialogue: 0,1:09:57.16,1:09:58.33,Default,,0,0,0,,Bagaimana aku menjadi seorang ratu
+Dialog: 0,1:09:58.33,1:09:59.60,Default,,0,0,0,,
+Dialog: 0,1:09:59.60,1:10:00.77,Default,,0,0,0,,
+Dialogue: 0,1:10:21.35,1:10:23.89,Default,,0,0,0,,{\i1}Anak ini makan banyak sekali.{\i}
+Dialogue: 0,1:10:23.89,1:10:25.49,Default,,0,0,0,,{\i1}Ucapkan: "Ayah, segera kembali."{\i}
+Dialog: 0,1:10:25.49,1:10:26.79,Default,,0,0,0,,{\i1}Saya pikir dia menendang.{\i}
+Dialog: 0,1:10:27.33,1:10:29.86,Default,,0,0,0,,{\i1}Yang Mulia, Raja...{\i}
+Dialog: 0,1:10:29.86,1:10:31.93,Default,,0,0,0,,{\i1}Sekarang pemilik tempat ini akan berubah.{\i}
+Dialog: 0,1:10:31.93,1:10:34.13,Default,,0,0,0,,{\i1}Apa gunanya,{\i}
+Dialog: 0,1:10:34.80,1:10:36.07,Default,,0,0,0,,{\i1}jika Anda tidak ada di sana?{\i}
+Dialog: 0,1:10:36.07,1:10:37.34,Default,,0,0,0,,{\i1}Kamu bilang kamu tidak bersalah.{\i}
+Dialogue: 0,1:10:37.34,1:10:38.97,Default,,0,0,0,,{\i1}Berada di pihak yang lemah juga merupakan kejahatan.{\i}
+Dialog: 0,1:10:38.97,1:10:41.24,Default,,0,0,0,,{\i1}Benin. Seberapa jauh kamu akan melangkah?{\i}
+Dialogue: 0,1:10:41.24,1:10:44.48,Default,,0,0,0,,{\i1}Yang terpenting adalah terlahir sehat.{\i}
+Dialog: 0,1:10:44.48,1:10:46.41,Default,,0,0,0,,{\i1}Aku akan membunuh ratu,{\i}
+Dialog: 0,1:10:46.41,1:10:49.48,Default,,0,0,0,,{\i1}siapa yang bekerja sama denganmu untuk membunuh raja.{\i}
+Dialog: 0,0:16:11.74,0:16:13.74,Default,,0,0,0,,
+
+

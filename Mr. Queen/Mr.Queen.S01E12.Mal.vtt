@@ -1,0 +1,841 @@
+WEBVTT
+
+[Maklumat Skrip]
+; Skrip yang dihasilkan oleh Aegisub 3.2.2
+; http://www.aegisub.org/
+Tajuk: Fail Aegisub lalai
+Jenis Skrip: v4.00+
+Gaya Bungkus: 0
+ScaledBorderAndShadow: ya
+Matriks YCbCr: TV.601
+PlayResX: 1280
+PlayResY: 720
+[Sampah Projek Aegisub]
+Storan Gaya Terakhir: РќР°РґРїРёСЃРё
+Fail Audio: Mr.Queen.S01E12.210117.720p-NEXT.mp4
+Fail Video: Mr.Queen.S01E12.210117.720p-NEXT.mp4
+Mod AR Video: 4
+Nilai AR Video: 1.777778
+Peratusan Zum Video: 0.500000
+Kedudukan Tatal: 442
+Talian Aktif: 451
+Kedudukan Video: 66285
+
+
+[Gaya V4+]
+Format: Nama, Nama Fon, Saiz Fon, Warna Utama, Warna Sekunder, Warna Outline, Warna Belakang, Tebal, Italic, Garis bawah, StrikeOut, ScaleX, ScaleY, Jarak, Sudut, Gaya Sempadan, Garis Besar, Bayang, Penjajaran, MarginL, MarginR, MarginV, Pengekodan
+Gaya: Lalai,Arial,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,5,0,2,10,10,50,1
+Gaya: работали,Arial,30,&H00201D20,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
+Gaya: название,bang whack pow,120,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,1,10,10,10,1
+Gaya: ПРЕДСТ,Segoe UI,60,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,8,10,10,
+
+[Acara]
+Format: Ditanda, Mula, Tamat, Gaya, Nama, MarginL, MarginR, MarginV, Kesan, Teks
+Dialog: 0,0:00:58.00,0:01:03.98,ПРЕДСТ,,0,0,0,,ФАНСАБ-ГРУППА АЗАЛИИ ПРЕДДСТЕ
+Dialog: 0,0:00:58.00,0:01:03.98, Lalai,,0,0,0,,{\c&HFFFFFF&\fade(00,0)\p1\a5\bord0\1a&H00&\pos(430,206)\fscx807}\fscy2007 92 38 l 0 38
+Dialog: 0,0:00:58.00,0:01:03.98,berfungsi,,0,0,0,,{\pos(801,256)}Mengusahakan siri:\N Lily, Tiramisu, Biryulka, Hos, Nanas
+Dialog: 0,0:00:58.00,0:01:03.98,tajuk,,0,0,0,,{\fscx75\fscy75\pos(846,392)}Bagaimana saya menjadi
+Dialog: 0,0:00:58.00,0:01:03.98,nama,,0,0,0,,{\fscx75\fscy75\pos(848,456)}ratu
+Dialog: 0,0:01:13.06,2:01:37.06,PRESENT,,0,0,0,,{\fs40\pos(1181,4)}AZALEA
+Dialog: 0,0:01:04.16,0:01:06.43,Lalai,Spillik1,0,0,0,,Semua watak adalah rekaan,
+Dialog: 0,0:01:06.43,0:01:08.53, Lalai, Spilyk1,0,0,0, dan acara yang ditunjukkan adalah fiksyen.
+Dialog: 0,0:02:10.66,0:02:11.76,Lalai,Spillik1,0,0,0,,Jadi andalah.
+Dialog: 0,0:02:12.66,0:02:14.33, Lalai,Spillik1,0,0,0,,Anda adalah orang itu.
+Dialog: 0,0:02:22.94,0:02:24.51,Lalai,Spillik1,0,0,0,,Saya tidak akan memaafkan kamu.
+Dialog: 0,0:02:44.66,0:02:47.40,Lalai,Spillik1,0,0,0,,Saya akan bunuh awak.
+Dialog: 0,0:03:42.72,0:03:45.69,Lalai,Spillik1,0,0,0,,12 episod: Tarian di hujung pedang
+Dialog: 0,0:03:49.90,0:03:52.84,Lalai,Spillik1,0,0,0,,
+Dialog: 0,0:03:53.31,0:03:56.71,Lalai,Spillik1,0,0,0,,Sekarang saya faham siapa bos di istana?
+Dialog: 0,0:04:04.55,0:04:07.02,Lalai,Spillik1,0,0,0,,Saya hampir menembak awak. \NTersilap sebagai mangsa.
+Dialog: 0,0:04:07.19,0:04:09.29,Lalai,Spikyulka1,0,0,0,,Atau mungkin dia terlepas secara tidak sengaja?
+Dialog: 0,0:04:10.29,0:04:11.46,Lalai,Spillik1,0,0,0,,Ini hanya salah faham.
+Dialog: 0,0:04:19.64,0:04:21.47,Lalai,Spillik1,0,0,0,,Ingat tempat anda.
+Dialog: 0,0:04:28.58,0:04:30.68,Lalai,Spillik1,0,0,0,,Saya perlu menukar pakaian.
+Dialog: 0,0:04:30.68,0:04:31.75,Lalai,Spillik1,0,0,0,,Ya, Tuanku.
+Dialog: 0,0:04:54.37,0:04:56.37,Lalai,Spilyk1,0,0,0,,Ada kes untuk Jabatan Detektif.
+Dialog: 0,0:05:07.32,0:05:09.29, Lalai, Spikyulka1,0,0,0,,Adakah perlu melakukan ini dengan Ovol?
+Dialog: 0,0:05:13.46,0:05:14.82,Lalai,Spillik1,0,0,0,,Apa yang saya buat?
+Dialog: 0,0:05:15.22,0:05:17.36,Lalai,Spillie1,0,0,0,,Adakah perlu membunuhnya?
+Dialog: 0,0:05:17.66,0:05:20.26,Lalai,Spiky1,0,0,0,,Dan kemudian buang yang mati ke dalam perigi?
+Dialog: 0,0:05:20.63,0:05:25.43,Lalai,Spikyulka1,0,0,0,,Adakah anda perlu melakukan ini kepada seorang gadis yang tidak bersalah hanya untuk menakut-nakutkan saya?
+Dialog: 0,0:05:25.64,0:05:26.77,Lalai,Spillie1,0,0,0,,Adakah saya membunuhnya?
+Dialog: 0,0:05:26.97,0:05:28.91, Lalai, Spilyk1,0,0,0,,Dari mana datangnya salah tanggapan ini?
+Dialog: 0,0:05:29.04,0:05:30.51,Lalai,Spillik1,0,0,0,,Saya secara amnya menentang membunuh semua hidupan,
+Dialog: 0,0:05:30.51,0:05:32.48, Lalai,Spillik1,0,0,0,,kecuali untuk memasak.
+Dialog: 0,0:05:35.21,0:05:37.91,Lalai,Spiky1,0,0,0,,Fakta bahawa mayatnya ditemui di dalam perigi itu sama ada satu kebetulan yang mengerikan,
+Dialog: 0,0:05:38.38,0:05:40.52, Lalai, Spikyulka1,0,0,0,, atau seseorang mahu menolak kami.
+Dialog: 0,0:05:41.75,0:05:45.62,Lalai,Spillik1,0,0,0,,Nafikan lagi sehingga kemarahan saya mencapai hadnya.
+Dialog: 0,0:05:45.92,0:05:49.13,Lalai,Spillik1,0,0,0,,Awak buat saya gila. \NI pasti tidak melakukan ini.
+Dialog: 0,0:05:49.13,0:05:51.46,Lalai,Spillik1,0,0,0,,Dari mana datangnya pendapat buruk tentang saya ini?
+Dialog: 0,0:05:51.66,0:05:52.93, Lalai, Spillik1,0,0,0,, Kerana itulah diri anda.
+Dialog: 0,0:05:53.23,0:05:56.83,Lalai,Spillik1,0,0,0,,Kim Soyeon, yang saya kenali, hanya mampu melakukan ini.
+Dialog: 0,0:05:57.37,0:05:59.20,Lalai,Spikyulka1,0,0,0,,Bagaimana anda mengenali saya jika saya belum mengenali diri saya?
+Dialog: 0,0:05:59.34,0:06:03.44,Lalai,Spillik1,0,0,0,,Pembohong terbaik terletak pada dirinya sendiri.
+Dialog: 0,0:06:03.77,0:06:06.51,Lalai,Sutera1,0,0,0,,Anda menipu diri sendiri dengan mengatakan bahawa anda tidak tahu siapa diri anda.
+Dialog: 0,0:06:12.01,0:06:15.42,Lalai,Spikyulka1,0,0,0,,Saya rasa kita kini telah melepasi titik tiada kembali.
+Dialog: 0,0:06:16.42,0:06:19.16,Lalai,Sutera1,0,0,0,,Saya tidak akan memberi perhatian\N kepada tanggapan salah anda tentang saya.
+Dialog: 0,0:06:20.12,0:06:21.46,Lalai,Spillik1,0,0,0,,Lakukan apa yang anda mahu.
+Dialog: 0,0:06:29.73,0:06:30.77,Lalai,Spillit1,0,0,0,,Arnab
+Dialog: 0,0:06:43.95,0:06:45.15,Lalai,Spillik1,0,0,0,,Siapa yang menembaknya?
+Dialog: 0,0:06:45.15,0:06:47.38,Lalai,Spikyulka1,0,0,0,,Kami mengejarnya begitu banyak, jadi siapa yang berani...
+Dialog: 0,0:06:55.42,0:06:58.39,Lalai,Spillik1,0,0,0,,Nampaknya kita ada pemenang. Masa nak balik.
+Dialog: 0,0:06:58.83,0:07:00.13, Lalai, Spillik1,0,0,0,,-Ya, ratu.\N-Ya, ratu.
+Dialog: 0,0:07:15.41,0:07:16.68,Lalai,Spillie1,0,0,0,,Ini adalah darah.
+Dialog: 0,0:07:19.15,0:07:20.52,Lalai,Spillik1,0,0,0,,Itu sampah.
+Dialog: 0,0:07:21.68,0:07:23.75,Lalai,Spillie1,0,0,0,,Adakah anda benar-benar gila? Ia amat menyakitkan.
+Dialog: 0,0:07:24.32,0:07:27.12,Lalai,Spikyulka1,0,0,0,,Maaf, tangan saya tergelincir.
+Dialog: 0,0:07:27.66,0:07:29.96,Lalai,Spillik1,0,0,0,,-Si kecil itu...\N-Adakah Tuanku tidak apa-apa?
+Dialog: 0,0:07:29.96,0:07:32.33,Lalai,Spillik1,0,0,0,,Walaupun dengan hujung yang lembut, ia masih menyakitkan.
+Dialog: 0,0:07:32.70,0:07:34.83,Lalai,Spillik1,0,0,0,,Yang Mulia, apa awak...
+Dialog: 0,0:07:41.44,0:07:43.14,Lalai,Spilyk1,0,0,0,,Saya akan membayar balik kepada anda.
+Dialog: 0,0:07:44.27,0:07:46.01,Lalai,Spillik1,0,0,0,,Anda sudah mati.
+Dialog: 0,0:07:51.71,0:07:52.75,Lalai,Spillik1,0,0,0,,Serius?
+Dialog: 0,0:07:54.08,0:07:57.62,Lalai,Spiky1,0,0,0,,Demi suami tersayang, saya akan lepaskan dia hari ini.
+Dialog: 0,0:07:58.59,0:08:00.56,Lalai,Spillik1,0,0,0,,-Kerana saya bertanggungjawab di sini.\N-Sudah tentu, Yang Mulia.
+Dialog: 0,0:08:08.40,0:08:09.97,Lalai,Spillik1,0,0,0,,Pergi ke dewan Hidzhonjon.
+Dialog: 0,0:08:10.43,0:08:12.07,Lalai,Spilyk1,0,0,0,,Saya akan tolong awak tukar baju...
+Dialog: 0,0:08:12.07,0:08:14.17,Lalai,Spillik1,0,0,0,,Seseorang cuba mengganggu jamuan,
+Dialog: 0,0:08:15.14,0:08:16.81,Lalai,Spillik1,0,0,0,,jadi saya akan pergi sendiri.
+Dialog: 0,0:08:51.57,0:08:54.11,Lalai,Spikyulka1,0,0,0,,Semua orang yang dijemput ke sini hari ini,
+Dialog: 0,0:08:54.11,0:08:56.58,Lalai,Spikyulka1,0,0,0,,akan menganggap raja \Nas diberi kuasa.
+Dialog: 0,0:08:57.01,0:08:58.91, Lalai, Spikyulka1,0,0,0,,Dan semua yang dikatakan tentang dia,
+Dialog: 0,0:08:58.91,0:09:00.68,Lalai,Spillik1,0,0,0,,malah nama samaran putera penebang kayu dari Ganghwado,
+Dialog: 0,0:09:00.78,0:09:03.09,Lalai,Spikyulka1,0,0,0,,akan bertukar menjadi khabar angin palsu.
+Dialog: 0,0:09:04.45,0:09:07.09,Lalai,Spillik1,0,0,0,,Raja berkeras untuk mengadakan jamuan.
+Dialog: 0,0:09:07.09,0:09:08.46,Lalai,Spikyulka1,0,0,0,,Mesti telah memilih hari ini,
+Dialog: 0,0:09:08.46,0:09:10.79,Lalai,Spikyulka1,0,0,0,,untuk hadir di hadapan mahkamah dalam samaran baharu.
+Dialog: 0,0:09:12.16,0:09:13.83,Lalai,Spillik1,0,0,0,,Bagaimana anda berjaya berkelip
+Dialog: 0,0:09:15.40,0:09:17.93,Lalai,Spilyk1,0,0,0,,persediaannya?
+Dialog: 0,0:09:20.20,0:09:21.54,Lalai,Spillik1,0,0,0,,Saya mohon maaf.
+Dialog: 0,0:09:22.27,0:09:23.27,Lalai,Spilyk1,0,0,0,,Walau bagaimanapun
+Dialog: 0,0:09:23.91,0:09:27.21,Lalai,Spillik1,0,0,0,,Saya juga mempunyai sesuatu yang disediakan untuk raja,
+Dialog: 0,0:09:28.64,0:09:30.08,Lalai,Spillik1,0,0,0,,jadi tonton dengan teliti.
+Dialog: 0,0:09:32.55,0:09:35.28,Lalai,Spikyulka1,0,0,0,,Saya harap anda bersedia seperti yang sepatutnya.
+Dialog: 0,0:09:43.69,0:09:45.33, Lalai, Spilyk1,0,0,0,, Gundik Hon.
+Dialog: 0,0:09:46.06,0:09:47.20,Lalai,Spillik1,0,0,0,,Satu mata.
+Dialog: 0,0:09:48.76,0:09:51.53, Lalai,Spillik1,0,0,0,,Selir Diraja Cho. 2 mata.
+Dialog: 0,0:09:53.17,0:09:54.77,Lalai,Spillie1,0,0,0,,Min.
+Dialog: 0,0:09:56.37,0:09:57.67, Lalai, Spilyk1,0,0,0,,4 mata.
+Dialog: 0,0:09:58.57,0:10:02.11, Lalai, Spilyk1,0,0,0,, Gundik Yun. Dia juga mempunyai 4 mata.
+Dialog: 0,0:10:04.61,0:10:06.18,Lalai,Spillit1,0,0,0,,Ratu.
+Dialog: 0,0:10:09.25,0:10:10.32, Lalai, Spilyk1,0,0,0,,10 mata.
+Dialog: 0,0:10:11.19,0:10:12.22,Lalai,Spillik1,0,0,0,,Wah!
+Dialog: 0,0:10:16.03,0:10:19.20,Lalai,Spillik1,0,0,0,,Akhirnya, ratu menang.
+Dialog: 0,0:10:19.46,0:10:22.26,Lalai,Spillik1,0,0,0,,Ibu Permaisuri akan menyampaikan anugerah.
+Dialog: 0,0:10:33.98,0:10:36.71,Lalai,Spillik1,0,0,0,,Dia berkata bahawa anda hanya akan menikmati percutian itu.
+Dialog: 0,0:10:36.85,0:10:38.75,Lalai,Sutera1,0,0,0,,Diamalkan secara rahsia?
+Dialog: 0,0:10:38.91,0:10:41.22,Lalai,Spilyk1,0,0,0,,Seperti pelakon yang dilahirkan,
+Dialog: 0,0:10:42.75,0:10:44.99,Lalai,Spilyk1,0,0,0,,Saya lebih mahir dalam permainan sebenar.
+Dialog: 0,0:10:48.49,0:10:51.03,Lalai,Spillik1,0,0,0,,Tahniah, Tuanku.
+Dialog: 0,0:10:51.03,0:10:53.66,Lalai,Sutera1,0,0,0,,-Tahniah, Tuanku.\N-Tahniah, Tuanku.
+Dialog: 0,0:10:58.90,0:11:00.20, Lalai, Spillik1,0,0,0,, Sungguh khianat.
+Dialog: 0,0:11:01.10,0:11:04.07,Lalai,Sutera1,0,0,0,,Kita mesti pergi ke istana untuk kenduri.
+Dialog: 0,0:11:04.41,0:11:06.58,Lalai,Spikyulka1,0,0,0,,Tetapi kami mempunyai sedikit masa sebelum permulaan,
+Dialog: 0,0:11:06.58,0:11:09.08, Lalai, Spikyulka1,0,0,0,, jadi anda boleh berehat buat masa ini.
+Dialog: 0,0:11:09.08,0:11:11.11,Lalai,Spillik1,0,0,0,,Saya pasti anda letih selepas memburu.
+Dialog: 0,0:11:11.48,0:11:13.72,Lalai,Sutera1,0,0,0,,-Ya, ibu permaisuri.\N-Ya, ibu permaisuri.
+Dialog: 0,0:11:21.46,0:11:22.76,Lalai,Spillik1,0,0,0,,Sangat menyakitkan?
+Dialog: 0,0:11:23.06,0:11:25.13, Lalai,Spillik1,0,0,0,,Apakah ini?
+Dialog: 0,0:11:26.13,0:11:28.60,Lalai,Sutera1,0,0,0,,Sekarang saya faham kenapa sida Kim begitu takut.
+Dialog: 0,0:11:29.16,0:11:31.17,Lalai,Spillik1,0,0,0,,Yang Mulia, Tuanku perlu kembali ke Dewan Daejojeon
+Dialog: 0,0:11:31.17,0:11:33.17,Lalai,Sutera1,0,0,0,,dan berpakaian sesuai untuk kenduri.
+Dialog: 0,0:11:33.17,0:11:35.24,Lalai,Spilyk1,0,0,0,,Tepat sekali. Dan saya akan berehat sementara saya di sana.
+Dialog: 0,0:11:35.24,0:11:38.27,Lalai,Spikyulka1,0,0,0,,-Sudah tentu.\N-Bahagian belakang kepala saya masih sakit.
+Dialog: 0,0:11:38.27,0:11:39.38,Lalai,Spillik1,0,0,0,,Itu nasib malang.
+Dialog: 0,0:11:46.98,0:11:49.22,Lalai,Spilyk1,0,0,0,,Jom cepat. Ada sedikit masa sebelum raya.
+Dialog: 0,0:11:58.89,0:12:00.76,Lalai,Spillik1,0,0,0,,Mengapa dia berbuat demikian?
+Dialog: 0,0:12:01.90,0:12:04.60,Lalai,Spikyulka1,0,0,0,,Saya pasti seseorang cuba menolak kami.
+Dialog: 0,0:12:05.33,0:12:06.40,Lalai,Spillik1,0,0,0,,Siapa?
+Dialog: 0,0:12:07.55,0:12:09.84,Lalai,Spikyulka1,0,0,0,,Siapa tahu bahawa keadaan dengan perigi akan merosakkan hubungan.
+Dialog: 0,0:12:10.77,0:12:14.68,Lalai,Spillik1,0,0,0,,Selalu ada tiga masalah di istana.
+Dialog: 0,0:12:15.41,0:12:16.91,Lalai,Spillik1,0,0,0,,Permusuhan tersembunyi wanita,
+Dialog: 0,0:12:17.41,0:12:20.22,Lalai,Spilyk1,0,0,0,,perebutan kuasa di kalangan mahkamah dan
+Dialog: 0,0:12:21.95,0:12:22.99,Lalai,Spillik1,0,0,0,,kematian akibat racun.
+Dialog: 0,0:12:26.29,0:12:28.79, Lalai, Spikyulka1,0,0,0,,Jadi itulah sebabnya anda terus menyebut racun?
+Dialog: 0,0:12:28.89,0:12:30.96,Lalai,Spillik1,0,0,0,,Saya tinggal di istana selama beberapa dekad
+Dialog: 0,0:12:31.26,0:12:34.23, Lalai, Spikyulka1,0,0,0,, dan melihat ramai yang mati akibat pelbagai racun.
+Dialog: 0,0:12:35.86,0:12:38.40, Lalai, Tumpahan1,0,0,0,,Racun maut membunuh dengan satu titisan.
+Dialog: 0,0:12:38.83,0:12:40.10,Lalai,Spilyk1,0,0,0,,Racun tersembunyi
+Dialog: 0,0:12:40.10,0:12:42.14,Lalai,Spillik1,0,0,0,,bunuh perlahan-lahan dengan berselindung di sebalik penyakit.
+Dialog: 0,0:12:42.67,0:12:44.57,Lalai,Spikyulka1,0,0,0,,Dan walaupun mereka tidak ditemui,
+Dialog: 0,0:12:45.04,0:12:47.74,Lalai,Spikyulka1,0,0,0,,tetapi saya pasti banyak kematian
+Dialog: 0,0:12:47.74,0:12:49.48,Lalai,Spilyk1,0,0,0,,disebabkan oleh racun.
+Dialog: 0,0:12:50.21,0:12:53.55,Lalai,Biryulka1,0,0,0,,Ya, istana adalah tempat yang sangat berbahaya.
+Dialog: 0,0:12:56.15,0:12:58.82,Lalai,Sutera1,0,0,0,,Jika anda fikirkan, orang yang kelihatan seperti Khan...
+Dialog: 0,0:13:03.06,0:13:04.26,Lalai,Spillik1,0,0,0,,Ini dia. Lelaki itu.
+Dialog: 0,0:13:04.39,0:13:05.43,Lalai,Spilyk1,0,0,0,,Sembunyikan.
+Dialog: 0,0:13:07.00,0:13:09.90,Lalai,Spillik1,0,0,0,,Dan kemudian dia berpaling...
+Dialog: 0,0:13:10.07,0:13:12.90,Lalai,Spillik1,0,0,0,,Adakah dia melihat wajah saya? jangan fikir.
+Dialog: 0,0:13:12.90,0:13:14.34,Lalai,Spillik1,0,0,0,,Sebab itu saya melarikan diri.
+Dialog: 0,0:13:14.67,0:13:16.27,Lalai,Spikyulka1,0,0,0,,-Adakah anda pasti?\N-Ya.
+Dialog: 0,0:13:16.27,0:13:18.67,Lalai,Spilyk1,0,0,0,,Gotcha.
+Dialog: 0,0:13:24.81,0:13:25.81,Lalai,Spillit1,0,0,0,,Puan Mahkamah Choi.
+Dialog: 0,0:13:26.02,0:13:27.95,Lalai,Spikyulka1,0,0,0,,Pergi dan ketahui siapa orang yang
+Dialog: 0,0:13:27.95,0:13:28.98,Lalai,Spikyulka1,0,0,0,,baru bercakap di sini.
+Dialog: 0,0:13:30.29,0:13:32.25,Lalai,Spillik1,0,0,0,,Saya bertaruh bola naga saya yang hilang,
+Dialog: 0,0:13:32.25,0:13:34.56, Lalai, Spikyulka1,0,0,0,, bahawa nama belakangnya ialah Khan.
+Dialog: 0,0:13:35.32,0:13:37.79,Lalai,Spillik1,0,0,0,,Hari raya akan bermula tidak lama lagi.
+Dialog: 0,0:13:37.83,0:13:39.13,Lalai,Spikyulka1,0,0,0,,Tidak akan bermula,
+Dialog: 0,0:13:39.13,0:13:40.80,Lalai,Spilyk1,0,0,0,,semasa lelaki ini mengintai di sini.
+Dialog: 0,0:13:41.16,0:13:42.23,Lalai,Spillik1,0,0,0,,Apa?
+Dialog: 0,0:13:43.53,0:13:45.03,Lalai,Sutera1,0,0,0,,Lalu bagaimana pula dengan tukang masak diraja?
+Dialog: 0,0:13:45.73,0:13:46.77,Lalai,Spillik1,0,0,0,,Sungguh bajingan.
+Dialog: 0,0:13:49.94,0:13:53.41,Lalai,Spillik1,0,0,0,,Mengapa semuanya kelihatan seperti apa yang saya lalui?
+Dialog: 0,0:13:54.88,0:13:57.28,Lalai,Spillik1,0,0,0,,Dan Cheoljong tidak tahu apa yang berlaku di sini.
+Dialog: 0,0:14:00.65,0:14:03.29,Lalai,Spillik1,0,0,0,,Untuk tidak menyesali apa-apa, orang mesti hidup mengikut status mereka.
+Dialog: 0,0:14:03.59,0:14:05.85,Lalai,Spillik1,0,0,0,,Tetapi saya akan menjadi diri saya sendiri dan tidak akan mengganggu.
+Dialog: 0,0:14:09.16,0:14:11.73,Lalai,Spilligu1,0,0,0,,Saya pasti dia mencampurkan sesuatu di dalam air.
+Dialog: 0,0:14:13.60,0:14:14.90,Lalai,Spillie1,0,0,0,,Racun?
+Dialog: 0,0:14:17.20,0:14:18.97,Lalai,Spillik1,0,0,0,,Ayuh!
+Dialog: 0,0:14:19.20,0:14:20.97,Lalai,Spikyulka1,0,0,0,,Walaupun istana adalah tempat yang kejam,
+Dialog: 0,0:14:20.97,0:14:23.61,Lalai,Spikyulka1,0,0,0,,kenapa dia merosakkan jamuan dengan keracunan besar-besaran?
+Dialog: 0,0:14:24.21,0:14:25.27,Lalai,Spillik1,0,0,0,,Sudah tentu tidak.
+Dialog: 0,0:14:28.11,0:14:30.78,Lalai,Spillik1,0,0,0,,Kebimbangan dan ketakutan menular.
+Dialog: 0,0:14:30.78,0:14:32.28,Lalai,Spillik1,0,0,0,,Sial.
+Dialog: 0,0:14:32.55,0:14:33.68,Lalai,Spillik1,0,0,0,,Nak ke mana?
+Dialog: 0,0:14:34.15,0:14:36.49,Lalai,Spilyk1,0,0,0,,Ke tempat kejadian untuk mendapatkan bukti.
+Dialog: 0,0:14:36.59,0:14:38.12,Lalai,Spillik1,0,0,0,,Nah, anda akan datang ke Daejojon.
+Dialog: 0,0:14:38.15,0:14:40.92,Lalai,Spikyulka1,0,0,0,,Fikiran saya berlumba-lumba ke sana ke mari, dan deria arah saya hilang.
+Dialog: 0,0:14:42.02,0:14:43.59,Lalai,Spillik1,0,0,0,,Tunggu saya, Yang Mulia!
+Dialog: 0,0:15:07.55,0:15:09.55,Lalai,ia adalah 2,0,0,0 daripada anda,,Nampaknya berbau seperti sejenis rumput.
+Dialog: 0,0:15:10.65,0:15:12.25, Lalai, 2,0,0,0,, Apa yang dia tambah?
+Dialog: 0,0:15:12.96,0:15:14.12, Lalai, 2,0,0,0 daripada anda,, Dan lupa untuk berfikir!
+Dialog: 0,0:15:14.79,0:15:15.89, Lalai, 2,0,0,0 daripada anda,, Adakah anda fikir?
+Dialog: 0,0:15:17.29,0:15:18.73, Lalai, 2,0,0,0 daripada kamu,, Kami semua kacau.
+Dialog: 0,0:15:19.80,0:15:20.93, Lalai, 2,0,0,0,, Tuan!
+Dialog: 0,0:15:23.33,0:15:26.07,Lalai,anda adalah 2,0,0,0,,Saya melakukan semua yang saya mampu,
+Dialog: 0,0:15:26.07,0:15:28.40, Lalai, terdapat 2,0,0,0 daripada anda,, tetapi jamuan akan bermula tidak lama lagi,\Nad masih tiada makanan.
+Dialog: 0,0:15:29.04,0:15:30.97, Lalai, anda 2,0,0,0,, Lambat atau lambat, mereka akan dibawa.
+Dialog: 0,0:15:34.08,0:15:35.78, Lalai, terdapat 2 daripada anda,0,0,0,, Percayalah dan jangan berputus asa.
+Dialog: 0,0:15:37.51,0:15:40.15,Lalai,ia adalah 2,0,0,0 daripada anda,,Saya akan cuba membuat sesuatu.
+Dialog: 0,0:15:54.16,0:15:55.50, Lalai, ada 2 orang daripada anda,0,0,0,, Sudah menyerah.
+Dialog: 0,0:15:57.17,0:15:58.87, Lalai, 2,0,0,0 daripada anda,, Berputus asa dan anda akan berasa lebih baik.
+Dialog: 0,0:15:59.60,0:16:00.60, Lalai, anda adalah 2,0,0,0,, Ratu.
+Dialog: 0,0:16:01.07,0:16:03.71, Lalai, 2,0,0,0 daripada anda,, Anda faham bahawa segala-galanya akan ditakdirkan.
+Dialog: 0,0:16:03.71,0:16:05.81,Lalai,ia adalah 2,0,0,0 daripada anda,,Tidak kira seberapa keras anda mencuba,
+Dialog: 0,0:16:05.81,0:16:08.14,Lalai,ia adalah 2,0,0,0 daripada anda,,semuanya akan berakhir dengan kesakitan.\Yang anda dan orang tersayang anda.
+Dialog: 0,0:16:10.51,0:16:13.52, Lalai, 2,0,0,0 daripada anda,, Jadi bagaimana? Patutkah saya tidak mengambil berat tentang segala-galanya\Nand menjadi anak patung yang patuh?
+Dialog: 0,0:16:16.99,0:16:18.55, Lalai, ada 2 daripada kamu,0,0,0,,Saya tidak boleh hidup seperti ini.
+Dialog: 0,0:16:19.79,0:16:22.93,Lalai,anda 2,0,0,0,,Saya akan cuba yang terbaik sehingga saat terakhir.
+Dialog: 0,0:16:23.86,0:16:26.06, Lalai, 2,0,0,0 daripada anda,, Jika anda menentangnya,
+Dialog: 0,0:16:27.66,0:16:28.96, Lalai, ada 2 daripada kamu,0,0,0,,lupakan saya.
+Dialog: 0,0:16:31.43,0:16:34.24, Lalai, 2,0,0,0 daripada anda,, Betul! Kami menjaga jarak.
+Dialog: 0,0:16:34.70,0:16:36.00, Lalai, 2,0,0,0 anda,, Okay, semuanya jelas.
+Dialog: 0,0:16:43.28,0:16:46.45,Lalai,anda 2,0,0,0,,Yang Mulia,\Nkenapa kata-kata dan tindakan anda berbeza?
+Dialog: 0,0:16:47.12,0:16:48.28,Lalai,ia 2,0,0,0,,Apa yang awak cakapkan?
+Dialog: 0,0:16:48.65,0:16:51.65,Lalai,ia adalah 2,0,0,0 daripada anda,,Walaupun saya bercakap mengarut,\Niat dari lubuk hati saya.
+Dialog: 0,0:16:51.75,0:16:53.62,Lalai,ia adalah 2,0,0,0 daripada anda,,Saya tidak pernah berbohong kepada sesiapa pun dalam hidup saya.
+Dialog: 0,0:16:53.99,0:16:55.82, Lalai, ada 2 orang daripada kamu,0,0,0,, Kamu bimbang tentang raja.
+Dialog: 0,0:16:55.89,0:16:58.26, Lalai, anda 2,0,0,0,, Takut dia akan cedera jika dia tidak berhenti.
+Dialog: 0,0:16:59.16,0:17:00.40,Lalai,ia 2,0,0,0,,Kenapa?
+Dialog: 0,0:17:00.80,0:17:03.60, Lalai, 2,0,0,0 daripada anda,, Bimbang tentang raja dan selebriti -
+Dialog: 0,0:17:03.60,0:17:04.77,Lalai,ia adalah 2,0,0,0 daripada anda,,anda tidak boleh bayangkan yang lebih teruk!
+Dialog: 0,0:17:06.87,0:17:09.44,Lalai,ia adalah 2,0,0,0 daripada anda,,Sebelum ini, setiap kali\Nyou berkata sesuatu yang tidak masuk akal,
+Dialog: 0,0:17:09.44,0:17:11.27,Lalai,ia adalah 2,0,0,0,,ia bukan seperti yang anda fikirkan.
+Dialog: 0,0:17:37.60,0:17:39.33, Lalai, 2,0,0,0 daripada kamu,, saya tahu, ada racun dalam air.
+Dialog: 0,0:17:41.17,0:17:43.17, Lalai, ialah 2,0,0,0,, Awak! Di manakah chef diraja?
+Dialog: 0,0:17:44.37,0:17:47.08,Lalai,ia 2,0,0,0,,Saya baru di sini.
+Dialog: 0,0:17:48.18,0:17:49.24, Lalai, 2,0,0,0 daripada anda,, Tidak!
+Dialog: 0,0:17:52.68,0:17:54.08, Lalai, kamu 2,0,0,0,, Melarikan diri, keparat?
+Dialog: 0,0:17:54.38,0:17:56.08, Lalai, 2,0,0,0 daripada anda,, Berkelakuan seperti seorang profesional sebenar,
+Dialog: 0,0:17:56.08,0:17:57.35, Lalai, 2,0,0,0 daripada anda, dan sekarang ia telah dilarikan?
+Dialog: 0,0:17:57.49,0:17:59.22,Lalai,ada 2 orang daripada kamu,0,0,0,,Tetapi apa yang akan berlaku pada hari raya itu?
+Dialog: 0,0:17:59.99,0:18:02.06, Lalai, ia adalah 2,0,0,0,, Raja telah berusaha keras ke dalamnya.
+Dialog: 0,0:18:02.12,0:18:04.43, Lalai, terdapat 2 daripada anda,0,0,0,,Tiada makanan, tiada tukang masak juga.
+Dialog: 0,0:18:05.69,0:18:06.90, Lalai, sudah 2,0,0,0,,Sudah tamat.
+Dialog: 0,0:18:08.70,0:18:11.77, Lalai, 2,0,0,0 daripada anda,, Jadi bagaimana? Patutkah saya tidak mengambil berat tentang segala-galanya\Nand menjadi anak patung yang patuh?
+Dialog: 0,0:18:12.13,0:18:13.60, Lalai, ada 2 daripada kamu,0,0,0,,Saya tidak boleh hidup seperti ini.
+Dialog: 0,0:18:14.90,0:18:18.14,Lalai,anda 2,0,0,0,,Saya akan cuba yang terbaik sehingga saat terakhir.
+Dialog: 0,0:18:19.71,0:18:21.41, Lalai, terdapat 2 daripada anda,0,0,0,, Wah!
+Dialog: 0,0:18:23.05,0:18:25.38,Lalai,ada 2 orang daripada kamu,0,0,0,,Hong Young, lakukan sesuatu untuk saya.
+Dialog: 0,0:18:28.62,0:18:30.09,Lalai,ia 2,0,0,0,,Terima kasih atas perkhidmatan anda.
+Dialog: 0,0:18:31.49,0:18:32.92,Lalai,anda ialah 2,0,0,0,,Khan Simon
+Dialog: 0,0:18:35.69,0:18:37.33, Lalai, 2,0,0,0,, Terima kasih sekali lagi.
+Dialog: 0,0:18:42.73,0:18:44.80, Lalai, awak 2,0,0,0,,Siapa nama lelaki yang baru keluar?
+Dialog: 0,0:18:45.13,0:18:46.44, Lalai, terdapat 2 daripada anda,0,0,0,,Mengapa anda memerlukan ini?
+Dialog: 0,0:18:47.14,0:18:48.64, Lalai, ada 2 daripada kamu,0,0,0,,Saya ada sebab sendiri.
+Dialog: 0,0:18:48.74,0:18:50.21, Lalai, terdapat 2 daripada anda,0,0,0,,Saya tidak boleh memberitahu anda.
+Dialog: 0,0:18:54.24,0:18:55.54, Lalai, 2,0,0,0,, Seram.
+Dialog: 0,0:18:55.78,0:18:59.08,Lalai,ada 2 orang daripada kamu,0,0,0,,Jika kamu meninggalkan ratu sendirian di hari raya,
+Dialog: 0,0:18:59.65,0:19:01.92, Lalai, 2,0,0,0 daripada anda,, siapa tahu dia akan buat?
+Dialog: 0,0:19:03.55,0:19:05.85,Lalai,ia 2,0,0,0,,Hello!\NLama tidak berjumpa!
+Dialog: 0,0:19:05.85,0:19:07.62,Lalai, ada 2 orang daripada kamu,0,0,0,,Saya diserang selsema di sini,
+Dialog: 0,0:19:08.49,0:19:10.76,Lalai,ia 2,0,0,0,,pinjamkan anda! terima kasih.
+Dialog: 0,0:19:31.35,0:19:33.82, Lalai, ia ialah 2,0,0,0,, Rajah! nasi! Ini nasi!
+Dialog: 0,0:19:33.82,0:19:37.42, Lalai, kamu 2,0,0,0,,-Nasi!\N-Nasi! Lihat, nasi!
+Dialog: 0,0:19:37.42,0:19:38.62, Lalai, 2,0,0,0,,-Lebih Cepat!\N-Nasi!
+Dialog: 0,0:19:39.35,0:19:40.62, Lalai, kamulah 2,0,0,0,,-Nasi!\N-Tangkap kamu!
+Dialog: 0,0:19:41.96,0:19:44.09, Lalai, anda 2,0,0,0,,-Kumpul!\N-Lebih pantas!
+Dialog: 0,0:19:44.29,0:19:45.93, Lalai, 2,0,0,0,,-Cepat!\N-Kumpul!
+Dialog: 0,0:19:47.06,0:19:48.26, Lalai, 2,0,0,0,,-Apa itu?\N-Apa?
+Dialog: 0,0:19:50.00,0:19:51.27, Lalai, ia ialah 2,0,0,0,, Rajah!
+Dialog: 0,0:20:13.96,0:20:17.16, Lalai, anda 2,0,0,0,,Ini pelanggan saya dari istana!
+Dialog: 0,0:20:19.36,0:20:22.90,Lalai,ia 2,0,0,0,,Kebetulan banyak perkara menarik tiba hari ini.
+Dialog: 0,0:20:30.21,0:20:31.64, Lalai, terdapat 2 orang daripada anda,0,0,0,,Saya tidak mempunyai masa.
+Dialog: 0,0:20:32.31,0:20:33.78,Lalai,ia 2,0,0,0,,Anda telah membuat kesilapan.
+Dialog: 0,0:20:34.98,0:20:36.01, Lalai, ada 2 daripada anda,0,0,0,, Apa?
+Dialog: 0,0:20:36.91,0:20:37.98, Lalai, terdapat 2 daripada anda,0,0,0,,Saya tidak tersilap.
+Dialog: 0,0:20:58.30,0:21:00.67, Lalai, 2,0,0,0 daripada anda,, Mengapa terdapat banyak godaan hari ini?
+Dialog: 0,0:21:02.50,0:21:05.24,Lalai,anda adalah 2,0,0,0,,Lupakan tentangnya,\Anda adalah wanita mahkamah, kawal diri anda.
+Dialog: 0,0:21:21.72,0:21:25.29,Lalai, ada 2 orang daripada kamu,0,0,0,,Puan mahkamah,\Ndakah kamu mahu beritahu saya sesuatu?
+Dialog: 0,0:21:54.32,0:21:55.92,Lalai,ialah awak 2,0,0,0,,Anda bersembunyi selama ini
+Dialog: 0,0:21:55.92,0:21:58.13, Lalai, ia memberi anda 2,0,0,0,, kebolehannya sendiri dan tidak melakukan apa-apa yang berguna.
+Dialog: 0,0:21:58.53,0:22:01.16,Lalai,ia 2,0,0,0,,Mesti sukar untuk duduk diam.
+Dialog: 0,0:22:01.70,0:22:03.97,Lalai,ia 2,0,0,0,,Saya sudah biasa dengannya. Ia tidak sukar bagi saya.
+Dialog: 0,0:22:05.80,0:22:06.87,Lalai,ia 2,0,0,0,,Begitulah keadaannya.
+Dialog: 0,0:22:40.30,0:22:42.10, Lalai, 2,0,0,0,, Tahan awak. Sekarang semuanya seperti yang sepatutnya.
+Dialog: 0,0:22:44.34,0:22:48.68, Lalai, 2,0,0,0 daripada anda,, Adakah anda pasti bukan anda dalam gambar?
+Dialog: 0,0:22:48.68,0:22:51.25,Lalai,ada 2 daripada kamu,0,0,0,,Saya sudah beritahu kamu! Ia bukan saya!
+Dialog: 0,0:22:51.51,0:22:54.18,Lalai,ia adalah 2,0,0,0 daripada anda,,Saya tidak akan berbohong, ia jelas pada pandangan pertama,
+Dialog: 0,0:22:54.18,0:22:58.45,Lalai,ia 2,0,0,0,,badan lelaki ini betul-betul milik saya.
+Dialog: 0,0:22:58.89,0:23:00.66,Lalai,ia adalah 2,0,0,0 daripada kamu,,Tetapi, saya minta maaf, itu bukan saya.
+Dialog: 0,0:23:01.79,0:23:04.33, Lalai, 2,0,0,0 daripada kamu,, Adalah satu penghormatan bagi saya bahawa nama lelaki yang serupa,
+Dialog: 0,0:23:04.33,0:23:05.53, Lalai, ia adalah 2,0,0,0,, terukir pada kaleidoskop.
+Dialog: 0,0:23:05.69,0:23:08.33, Lalai, 2,0,0,0 daripada anda,, Katakan perkara yang sama! By the way,
+Dialog: 0,0:23:09.16,0:23:13.40, Lalai, adakah anda 2,0,0,0,, pada masa kini perkara sedemikian\Tiada permintaan di kalangan hamba?
+Dialog: 0,0:23:14.40,0:23:17.01, Lalai, ia menyakitkan anda 2,0,0,0,,Perkataan tidak dapat menggambarkan berapa banyak
+Dialog: 0,0:23:17.01,0:23:19.84, Lalai, anda 2,0,0,0,, wanita mahkamah suka perkara seperti ini.
+Dialog: 0,0:23:20.34,0:23:23.91, Lalai, kamu 2,0,0,0,, Kelirukan saya. Saya tidak sangka saya begitu kacak.
+Dialog: 0,0:23:25.41,0:23:26.55, Lalai, terdapat 2 daripada anda,0,0,0,, Wah.
+Dialog: 0,0:23:27.22,0:23:29.05, Lalai, terdapat 2 daripada anda,0,0,0,,Jadi anda ialah Encik Simon
+Dialog: 0,0:23:29.99,0:23:33.89, Lalai, anda adalah 2,0,0,0,, daripada klan Khan, dan nama penuh anda
+Dialog: 0,0:23:33.89,0:23:36.86, Lalai, ia adalah 2,0,0,0,,bunyi seperti Khan Simon.
+Dialog: 0,0:23:41.08,0:23:42.16, Lalai, ia ialah 2,0,0,0,,
+Dialog: 0,0:23:42.92,0:23:44.12,Lalai,ia adalah 2,0,0,0 daripada anda,,Jangan lupa,
+Dialog: 0,0:23:44.96,0:23:47.29, Lalai, 2,0,0,0 daripada anda,, di tengah-tengah perayaan,
+Dialog: 0,0:23:47.62,0:23:50.39, Lalai, ia akan 2,0,0,0 daripada kamu,, apabila raja paling kuat,
+Dialog: 0,0:23:51.17,0:23:53.86, Lalai, sudah tiba 2,0,0,0,, tiba masanya untuk mendedahkan perkara ini kepada umum.
+Dialog: 0,0:23:54.13,0:23:57.53, Lalai, ia adalah 2,0,0,0,,
+Dialog: 0,0:24:16.08,0:24:17.38, Lalai, itu 2,0,0,0,, Gadis, dengar.
+Dialog: 0,0:24:21.00,0:24:22.66, Lalai, 2,0,0,0 daripada kamu,, Bantu saya.
+Dialog: 0,0:24:23.56,0:24:26.20,Lalai,ia 2,0,0,0,,Bolehkah anda menyampaikan nota kepada seseorang?
+Dialog: 0,0:24:28.67,0:24:29.67, Lalai, 2,0,0,0,, Kepada siapa?
+Dialog: 0,0:24:35.01,0:24:36.13, Lalai, kamu 2,0,0,0,, Orang itu.
+Dialog: 0,0:24:39.87,0:24:41.25,Lalai,ia 2,0,0,0,,Baik! Difahamkan.
+Dialog: 0,0:24:47.58,0:24:48.66, Lalai, 2,0,0,0 daripada anda,, En.
+Dialog: 0,0:24:49.76,0:24:53.76, Lalai, 2,0,0,0,, lelaki muda ini meminta\Nuntuk memberikan ini kepada anda.
+Dialog: 0,0:25:02.67,0:25:05.06,Lalai,anda adalah 2,0,0,0,,Saya perlu mengatakan sesuatu,\N mempertaruhkan maruah klan.
+Dialog: 0,0:25:05.36,0:25:06.78,Lalai,ia 2,0,0,0 untuk awak,,Saya akan tunggu di astaka.
+Dialog: 0,0:25:12.91,0:25:14.04, Lalai, 2,0,0,0 daripada anda,, Saya tidak percaya.
+Dialog: 0,0:25:15.48,0:25:17.02, Lalai, kamu 2,0,0,0,, Adakah dia perasan sesuatu?
+Dialog: 0,0:25:32.23,0:25:33.32,Lalai,ia 2,0,0,0,,Anda telah datang.
+Dialog: 0,0:25:35.29,0:25:36.63,Lalai,ia adalah 2,0,0,0 daripada kamu,,Saya perlu mengaku kepada kamu.
+Dialog: 0,0:25:37.30,0:25:39.27,Lalai,ia adalah 2,0,0,0,,Saya tahu adalah tidak sopan untuk memanggil awak seperti itu,
+Dialog: 0,0:25:42.33,0:25:46.14, Lalai, ada 2 orang daripada kamu,0,0,0,,tetapi keluarga saya amat saya sayangi seperti nyawa.
+Dialog: 0,0:25:46.98,0:25:47.98, Lalai, terdapat 2 daripada anda,0,0,0,,Walau bagaimanapun,
+Dialog: 0,0:25:50.38,0:25:54.19, Lalai, 2,0,0,0 daripada kamu, selepas menghabiskan banyak malam untuk berfikir,\NI membuat keputusan.
+Dialog: 0,0:25:55.58,0:25:57.96,Lalai,terdapat 2 daripada kamu,0,0,0,,Saya memutuskan untuk memilih yang lebih penting daripada keluarga saya.
+Dialog: 0,0:25:59.28,0:26:00.82,Lalai,anda adalah 2,0,0,0,,Jika keluarga menentangnya,
+Dialog: 0,0:26:02.29,0:26:03.47,Lalai,ada 2 daripada kamu,0,0,0,,kemudian saya
+Dialog: 0,0:26:05.09,0:26:06.36, Lalai, anda adalah 2,0,0,0,, Saya akan menolaknya.
+Dialog: 0,0:26:07.24,0:26:10.33,Lalai,ada 2 daripada kamu,0,0,0,,Saya mahu hanya saya berada di mata kamu mulai sekarang.
+Dialog: 0,0:26:17.21,0:26:21.78,Lalai,ada 2 daripada kamu,0,0,0,,Adakah kamu bergurau atau apa?\NI sudah cukup untuk melakukannya tanpa kamu!
+Dialog: 0,0:26:27.49,0:26:28.72,Lalai,ia 2,0,0,0,,Gadis itu mengelirukan anda!
+Dialog: 0,0:26:40.86,0:26:42.39, Lalai, 2,0,0,0 daripada anda,, Apa yang saya dah buat?
+Dialog: 0,0:26:48.18,0:26:50.91, Lalai, 2,0,0,0 daripada awak,,-Perut saya, perut saya.\N-Sakit sangat!
+Dialog: 0,0:26:54.18,0:26:57.34, Lalai, kamu 2,0,0,0,,-Jelirkan lidah kamu.\N-Saya akan mati sekarang.
+Dialog: 0,0:26:58.38,0:27:00.11,Lalai,ia adalah 2,0,0,0 daripada anda,,Lebih kuat.
+Dialog: 0,0:27:01.85,0:27:02.92, Lalai, 2,0,0,0 anda,, Perut saya, perut saya.
+Dialog: 0,0:27:02.92,0:27:05.35, Lalai, anda adalah 2,0,0,0,, Anda semua telah diracuni dengan beberapa herba.
+Dialog: 0,0:27:10.09,0:27:11.36, Lalai, 2,0,0,0 daripada anda,,-Sangat menyakitkan!\N-Bagaimana boleh?
+Dialog: 0,0:27:13.36,0:27:17.44, Lalai, ia adalah 2,0,0,0,,Saya rasa seseorang telah menambahkan\Nground birdweed.
+Dialog: 0,0:27:17.44,0:27:18.51, Lalai, 2,0,0,0,, Kawan-kawan!
+Dialog: 0,0:27:19.24,0:27:21.21, Lalai, 2,0,0,0 daripada kamu,,-Apa?\N-Saya hampir mati!
+Dialog: 0,0:27:21.21,0:27:22.21,Lalai,ia 2,0,0,0,,Apakah itu?
+Dialog: 0,0:27:24.34,0:27:25.75, Lalai, ada 2 daripada kamu,0,0,0,,Kenapa kamu di sini?
+Dialog: 0,0:27:25.75,0:27:28.04, Lalai, awak 2,0,0,0,, Ratu menghantar saya.
+Dialog: 0,0:27:28.64,0:27:31.19,Lalai,ia 2,0,0,0,,Dia mengarahkan saya untuk menguji air.
+Dialog: 0,0:27:31.34,0:27:34.05, Lalai, anda 2,0,0,0,,Seseorang menambah herba ke dalam air,\Mengakibatkan sakit perut.
+Dialog: 0,0:27:35.92,0:27:38.78, Lalai, 2,0,0,0,, Sial! Dan terdapat masalah dengan air.
+Dialog: 0,0:27:40.35,0:27:42.43, Lalai, 2,0,0,0 daripada anda,, Mengapa anda tidak menunggang dengan perut anda?
+Dialog: 0,0:27:42.43,0:27:44.59, Lalai, terdapat 2 daripada anda,0,0,0,,Seperti yang anda lihat,\NI saya seorang yang sangat gugup.
+Dialog: 0,0:27:44.59,0:27:46.67,Lalai,ia adalah 2,0,0,0 daripada anda,,Dan apabila saya bimbang, saya tidak mengambil setitik pun dalam mulut saya.
+Dialog: 0,0:27:46.67,0:27:48.86, Lalai, 2,0,0,0 daripada anda,, Jelas daripada anda bahawa anda adalah salah seorang daripada mereka yang, walaupun di atas padang,
+Dialog: 0,0:27:48.86,0:27:51.27, Lalai, terdapat 2,0,0,0 daripada anda,, di mana pertempuran sedang berlaku, tidur seperti orang mati.
+Dialog: 0,0:27:51.27,0:27:53.80,Lalai,ada 2 orang daripada kamu,0,0,0,,Lihat dia, dia menggelarkan dirinya sebagai doktor,\Dan dia sendiri bukanlah orang yang hebat.
+Dialog: 0,0:27:53.80,0:27:55.80,Lalai,ia adalah 2,0,0,0 daripada kamu,,Saya seorang penyembuh, bukan ahli fisionomi.
+Dialog: 0,0:27:56.87,0:28:00.14,Lalai,ada 2 orang daripada kamu,0,0,0,,Saya, sudah tentu, seorang penyembuh yang berpengalaman,
+Dialog: 0,0:28:00.61,0:28:04.22, Lalai, terdapat 2 daripada kamu,0,0,0,, tetapi saya tidak akan memulihkan mereka sehingga esok.
+Dialog: 0,0:28:04.34,0:28:08.35,Lalai,ada 2 orang daripada kamu,0,0,0,,Walaupun mereka membawa makanan,\Nmaka dengan persaudaraan anak yatim dan celaka ini...
+Dialog: 0,0:28:09.22,0:28:10.88, Lalai, 2,0,0,0,,Siapa yang melakukan ini?
+Dialog: 0,0:28:17.89,0:28:19.29,Lalai,Kus3,0,0,0,,Tidak pernah melihatnya sebelum ini.
+Dialog: 0,0:28:22.83,0:28:24.51,Lalai,Kus3,0,0,0,,Adakah anda menambah racun?
+Dialog: 0,0:28:34.28,0:28:37.28,Lalai,Kus3,0,0,0,,Baginda menghantar saya, seorang chef jemputan,
+Dialog: 0,0:28:37.28,0:28:38.61,Lalai,Kus3,0,0,0,,untuk menyediakan jamuan.
+Dialog: 0,0:28:40.81,0:28:42.35,Lalai,Kus3,0,0,0,,Nama saya Lee Senman.
+Dialog: 0,0:28:43.05,0:28:45.46,Lalai,Kus3,0,0,0,,Saya datang untuk membantu anda.
+Dialog: 0,0:28:45.78,0:28:46.82,Lalai,Kus3,0,0,0,,Tangkap.
+Dialog: 0,0:28:50.53,0:28:52.23,Lalai,Kus3,0,0,0,,Tidak mengapa, ini adalah permaisuri.
+Dialog: 0,0:28:52.97,0:28:54.06,Lalai,Kus3,0,0,0,,Setuju?
+Dialog: 0,0:28:54.36,0:28:56.50,Lalai,Kus3,0,0,0,,Karut! Kenapa awak panggil dia ratu?
+Dialog: 0,0:28:56.56,0:28:59.41,Lalai,Kus3,0,0,0,,Sial, apa yang salah dengan mata awak?
+Dialog: 0,0:28:59.41,0:29:03.03,Default,Kus3,0,0,0,,Permaisuri sibuk menari. Mengapa dia berada di sini?
+Dialog: 0,0:29:03.18,0:29:04.87,Lalai,Kus3,0,0,0,,Secara rasmi,
+Dialog: 0,0:29:04.87,0:29:07.52,Lalai,Kus3,0,0,0,,dia berada di kenduri sekarang, anda tahu?
+Dialog: 0,0:29:07.84,0:29:10.34, Lalai, Kus3,0,0,0,, Sekarang sudah jelas.
+Dialog: 0,0:29:11.75,0:29:12.78,Lalai,Kus3,0,0,0,,Tomato?
+Dialog: 0,0:29:13.04,0:29:15.26,Lalai,Kus3,0,0,0,,Apa yang kamu cakapkan?
+Dialog: 0,0:29:15.38,0:29:18.88,Lalai,Kus3,0,0,0,,Ini adalah kesemak yang hidup hanya setahun.
+Dialog: 0,0:29:18.88,0:29:20.66,Lalai,Kus3,0,0,0,,Kamu berasal dari pedalaman mana, kak?
+Dialog: 0,0:29:20.66,0:29:22.62,Lalai,Kus3,0,0,0,,Bagaimana tukang masak tidak tahu perkara ini?
+Dialog: 0,0:29:23.00,0:29:25.73,Lalai,Kus3,0,0,0,,Beraninya awak panggil saya budak nakal?
+Dialog: 0,0:29:25.73,0:29:28.03,Lalai,Kus3,0,0,0,,Kami berdua tukang masak. Saya memanggilnya apa sahaja yang saya mahu.
+Dialog: 0,0:29:28.20,0:29:30.03,Lalai,Kus3,0,0,0,,-Betulkah?\N-Sudah tentu, anak nakal!
+Dialog: 0,0:29:30.03,0:29:32.13,Lalai,Kus3,0,0,0,,Hei, ini tidak pada tempatnya.
+Dialog: 0,0:29:32.13,0:29:34.03,Lalai,Kus3,0,0,0,,Anda meninggalkan dapur dan melarikan diri.
+Dialog: 0,0:29:34.03,0:29:35.10,Lalai,Kus3,0,0,0,,Kamu jenis tukang masak apa?
+Dialog: 0,0:29:35.10,0:29:36.28,Lalai,Kus3,0,0,0,,Apa yang kamu cakapkan?
+Dialog: 0,0:29:36.28,0:29:38.30,Lalai,Kus3,0,0,0,,Saya pergi ke Nanonpo untuk mencari makanan
+Dialog: 0,0:29:38.30,0:29:39.71,Lalai,Kus3,0,0,0,,untuk melegakan sakit perut.
+Dialog: 0,0:29:40.61,0:29:41.64,Lalai,Kus3,0,0,0,,Nenonpho?
+Dialog: 0,0:29:41.64,0:29:43.78,Lalai,Kus3,0,0,0,,Ya, ke ladang diraja.
+Dialog: 0,0:29:43.78,0:29:44.95,Lalai,Kus3,0,0,0,,Anda tidak tahu apa-apa.
+Dialog: 0,0:29:48.46,0:29:49.92,Lalai,Kus3,0,0,0,,Tunjukkan apa yang anda bawa.
+Dialog: 0,0:29:55.09,0:29:58.70,Lalai,Kus3,0,0,0,,Menyediakan hidangan bermula dengan pemilihan\N produk berkualiti tinggi.
+Dialog: 0,0:30:00.59,0:30:02.74,Lalai,Kus3,0,0,0,,Dan di ladang diraja
+Dialog: 0,0:30:02.74,0:30:04.74,Lalai,Kus3,0,0,0,,adakah mereka menternak ayam juga?
+Dialog: 0,0:30:05.91,0:30:08.48,Lalai,Kus3,0,0,0,,Kalau awak bawa telur, saya boleh masak sesuatu.
+Dialog: 0,0:30:23.02,0:30:25.05,Default,Kus3,0,0,0,,Perut awak dah berbunyi.
+Dialog: 0,0:30:25.05,0:30:27.32,Lalai,Kus3,0,0,0,,Anda belum makan sejak semalam untuk berpisah hari ini.
+Dialog: 0,0:30:27.32,0:30:29.39,Lalai,Kus3,0,0,0,,Memandangkan anda memahami perkara ini,
+Dialog: 0,0:30:29.39,0:30:31.36,Lalai,Kus3,0,0,0,,yang bermaksud saya tidak makan apa-apa sejak semalam.
+Dialog: 0,0:30:38.21,0:30:40.78,Lalai,Kus3,0,0,0,,Kenduri yang kamu minta diadakan,
+Dialog: 0,0:30:40.78,0:30:42.71,Lalai,Kus3,0,0,0,,akan bermula tidak lama lagi.
+Dialog: 0,0:30:44.64,0:30:46.18,Lalai,Kus3,0,0,0,,Saya menantikannya.
+Dialog: 0,0:31:11.41,0:31:13.67,Lalai,Kus3,0,0,0,,Setiap jamuan di Rumah Biru bertemakan,
+Dialog: 0,0:31:14.48,0:31:17.21,Default,Kus3,0,0,0,,kerana ini politik, bukan sekadar makanan.
+Dialog: 0,0:31:19.30,0:31:20.87,Lalai,Kus3,0,0,0,,Masak apa?
+Dialog: 0,0:31:22.11,0:31:23.92,Lalai,Kus3,0,0,0,,Apakah tujuan jamuan ini?
+Dialog: 0,0:31:27.96,0:31:28.99,Lalai,Kus3,0,0,0,,Apakah ini?
+Dialog: 0,0:31:29.35,0:31:31.35,Default,Kus3,0,0,0,,Menu itu dibuat oleh raja sendiri.
+Dialog: 0,0:31:31.35,0:31:33.96,Lalai,Kus3,0,0,0,,Dan ini ialah senarai lengkap tetamu.
+Dialog: 0,0:31:36.39,0:31:38.79,Lalai,Kus3,0,0,0,,Jadi semua orang bercakap tentang menu "riser" ini?
+Dialog: 0,0:31:42.20,0:31:44.36, Lalai, Kus3,0,0,0,,Saya akan mencipta menu baharu daripada produk ini.
+Dialog: 0,0:32:00.42,0:32:01.61,Lalai,Kus3,0,0,0,,Bagaimana keadaannya?
+Dialog: 0,0:32:02.52,0:32:03.69,Lalai,Kus3,0,0,0,,Maaf.
+Dialog: 0,0:32:04.69,0:32:07.70,Lalai,Kus3,0,0,0,,Saya bercakap dengan perompak, tetapi mereka bukan orang yang memburu makanan.
+Dialog: 0,0:32:47.39,0:32:48.94,Lalai,Kus3,0,0,0,,Akhirnya, jamuan bermula.
+Dialog: 0,0:33:01.92,0:33:03.48,Lalai,Kus3,0,0,0,,Ini adalah jamuan diraja.
+Dialog: 0,0:33:03.92,0:33:06.69,Lalai,Kus3,0,0,0,,Hanya satu hidangan akan dihidangkan?
+Dialog: 0,0:33:07.11,0:33:09.28,Lalai,Kus3,0,0,0,,Ini tidak boleh dipanggil hidangan diraja.
+Dialog: 0,0:33:09.55,0:33:11.16,Lalai,Kus3,0,0,0,,Tidak boleh. Ini sahaja?
+Dialog: 0,0:33:11.28,0:33:13.46,Lalai,Kus3,0,0,0,,Saya pasti akan ada lagi hidangan.
+Dialog: 0,0:33:13.46,0:33:16.82,Lalai,Kus3,0,0,0,,Tuanku boleh jelaskan?
+Dialog: 0,0:33:17.09,0:33:19.47,Lalai,Kus3,0,0,0,,Orang ramai menderita kelaparan setiap tahun.
+Dialog: 0,0:33:19.77,0:33:22.06,Lalai,Kus3,0,0,0,,Malah ada yang mati.
+Dialog: 0,0:33:23.03,0:33:25.27,Lalai,Kus3,0,0,0,,Untuk mengingatkan penderitaan mereka,
+Dialog: 0,0:33:25.80,0:33:28.60,Lalai,Kus3,0,0,0,,mereka telah menyediakan hidangan sederhana untuk anda untuk orang biasa.
+Dialog: 0,0:33:29.63,0:33:31.14,Lalai,Kus3,0,0,0,,Dengan segala hormatnya,
+Dialog: 0,0:33:31.14,0:33:33.84,Lalai,Kus3,0,0,0,,perkataan "sederhana" tidak sesuai di sini.
+Dialog: 0,0:33:34.11,0:33:36.84,Lalai,Kus3,0,0,0,,Anda ingin memaklumkan kepada pegawai,
+Dialog: 0,0:33:36.95,0:33:39.34,Lalai,Kus3,0,0,0,,tetapi ini tidak boleh disampaikan kepada golongan bangsawan,
+Dialog: 0,0:33:39.34,0:33:41.35,Default,Kus3,0,0,0,,yang datang kenduri dari jauh.
+Dialog: 0,0:33:41.35,0:33:42.49,Lalai,Kus3,0,0,0,,Saya setuju.
+Dialog: 0,0:33:42.72,0:33:45.08,Lalai,Kus3,0,0,0,,Hidangkan hidangan ini kepada tetamu jemputan
+Dialog: 0,0:33:45.62,0:33:47.19,Lalai,Kus3,0,0,0,,sama seperti hukuman.
+Dialog: 0,0:33:48.03,0:33:51.47,Lalai,Kus3,0,0,0,,Mungkin anda menjangkakan makanan yang berbeza, tetapi saya harap
+Dialog: 0,0:33:52.73,0:33:54.33,Lalai,Kus3,0,0,0,,anda akan faham apa yang saya ingin tunjukkan.
+Dialog: 0,0:34:07.37,0:34:08.95,Lalai,Kus3,0,0,0,,30 minit sebelum
+Dialog: 0,0:34:11.24,0:34:12.68,Default,Kus3,0,0,0,,Jom tusuk dengan jarum macam ni.
+Dialog: 0,0:34:13.72,0:34:15.08,Lalai,Kus3,0,0,0,,Contengan jenis apakah ini?
+Dialog: 0,0:34:15.62,0:34:17.79,Lalai,Kus3,0,0,0,,Baling kentang. Saya akan menunjukkan kepada anda bagaimana untuk melakukannya.
+Dialog: 0,0:34:49.01,0:34:51.35,Lalai,Kus3,0,0,0,,Akhirnya, jarum itu berguna.
+Dialog: 0,0:34:54.39,0:34:56.10,Lalai,Kus3,0,0,0,,Panaskan minyak.
+Dialog: 0,0:34:58.66,0:34:59.70,Lalai,Kus3,0,0,0,,Minyak?
+Dialog: 0,0:35:05.26,0:35:07.87,Lalai,Kus3,0,0,0,,Beraninya awak menggoreng jarum saya?
+Dialog: 0,0:35:07.97,0:35:10.01,Lalai,Kus3,0,0,0,,Bertenang. Saya akan sterilkan dia.
+Dialog: 0,0:35:10.41,0:35:11.74,Lalai,Kus3,0,0,0,,Adakah anda tahu maksudnya?
+Dialog: 0,0:35:12.04,0:35:14.87,Lalai,Kus3,0,0,0,,50 tahun lalu mentor saya memberikannya kepada saya.
+Dialog: 0,0:35:15.12,0:35:16.35,Lalai,Kus3,0,0,0,,Bertenang.
+Dialog: 0,0:35:16.35,0:35:18.99,Lalai,Kus3,0,0,0,,50 tahun? Nah, itu sahaja, tarikh akhir dia tamat.
+Dialog: 0,0:35:19.31,0:35:20.81,Lalai,Kus3,0,0,0,,Tidak! Saya perlukan dia!
+Dialog: 0,0:35:20.81,0:35:22.49,Lalai,Kus3,0,0,0,,Saya akan menyampaikannya kepada pelajar saya!
+Dialog: 0,0:35:22.76,0:35:23.91,Lalai,Kus3,0,0,0,,Jangan berani letak dia!
+Dialog: 0,0:35:31.89,0:35:32.93,Lalai,Kus3,0,0,0,,Itu sahaja.
+Dialog: 0,0:35:40.06,0:35:42.68,Default,Kus3,0,0,0,,Nampak cantik dan harmoni dengan jarum di tengah.
+Dialog: 0,0:35:42.68,0:35:46.14,Lalai,Kus3,0,0,0,,Dengan cara ini, inti pun cepat masak.
+Dialog: 0,0:35:47.85,0:35:51.79,Lalai,Kus3,0,0,0,,Bagaimana anda mendapat idea yang begitu hebat?
+Dialog: 0,0:35:51.79,0:35:53.89,Lalai,Kus3,0,0,0,,Kelajuan penting dalam memasak makanan jalanan.
+Dialog: 0,0:35:54.06,0:35:56.12,Lalai,Kus3,0,0,0,,Sesuai untuk situasi yang mendesak.
+Dialog: 0,0:35:57.01,0:35:58.03,Lalai,Kus3,0,0,0,,Jalan?
+Dialog: 0,0:35:58.45,0:36:00.85,Lalai,Kus3,0,0,0,,Ia kelihatan seperti zon perang.
+Dialog: 0,0:36:01.49,0:36:03.62,Lalai,Kus3,0,0,0,,Dia terselamat daripada pertempuran sengit itu.
+Dialog: 0,0:36:08.33,0:36:09.37,Lalai,Kus3,0,0,0,,Tahan.
+Dialog: 0,0:36:11.43,0:36:12.64,Lalai,Kus3,0,0,0,,Kupas kentang.
+Dialog: 0,0:36:12.76,0:36:13.93,Lalai,Kus3,0,0,0,,Saya?
+Dialog: 0,0:36:14.58,0:36:15.91,Lalai,Kus3,0,0,0,,Siapa lagi?
+Dialog: 0,0:36:19.64,0:36:20.97,Lalai,Kus3,0,0,0,,Perlukan gula-gula beras?
+Dialog: 0,0:36:22.97,0:36:25.14,Lalai,Kus3,0,0,0,,Saya telah dihantar untuk menyemak keadaan.
+Dialog: 0,0:36:44.06,0:36:45.47,Lalai,Kus3,0,0,0,,Berhati-hati.
+Dialog: 0,0:36:47.41,0:36:49.83,Lalai,Kus3,0,0,0,,Hiris setipis mungkin. Malah lebih kurus.
+Dialog: 0,0:36:49.83,0:36:50.97,Lalai,Kus3,0,0,0,,Itu sahaja.
+Dialog: 0,0:36:51.04,0:36:53.10,Lalai,Kus3,0,0,0,,Hujungnya lebih tajam. Malah lebih tajam.
+Dialog: 0,0:36:53.14,0:36:54.72,Lalai,Kus3,0,0,0,,Kami akan cucuk kentang dengannya.
+Dialog: 0,0:36:54.97,0:36:56.68,Lalai,Kus3,0,0,0,,Syabas.
+Dialog: 0,0:36:57.72,0:36:59.41,Lalai,Kus3,0,0,0,,-Nyalanya terlalu besar.\N-Baiklah.
+Dialog: 0,0:37:00.81,0:37:02.99,Lalai,Kus3,0,0,0,,-Dan di sini anda perlu menjadi lebih kuat.\N-Baiklah.
+Dialog: 0,0:37:04.01,0:37:06.72,Lalai,Kus3,0,0,0,,Cemerlang. Ingat semuanya.
+Dialog: 0,0:37:07.60,0:37:10.45,Lalai,Kus3,0,0,0,,Kami bukan sekadar menyediakan makanan hari ini.
+Dialog: 0,0:37:11.43,0:37:13.79,Lalai,Kus3,0,0,0,,Ini adalah wajah presiden.
+Dialog: 0,0:37:20.41,0:37:24.54,Lalai,Kus3,0,0,0,,Iaitu wajah Baginda.
+Dialog: 0,0:37:33.08,0:37:35.76,Lalai,Kus3,0,0,0,,Bolehkah itu, Tuanku?
+Dialog: 0,0:37:36.26,0:37:37.93,Lalai,Kus3,0,0,0,,Iaitu tukang masak.
+Dialog: 0,0:37:39.16,0:37:40.33,Lalai,Kus3,0,0,0,,Jom tengok.
+Dialog: 0,0:37:42.43,0:37:44.56,Lalai,Kus3,0,0,0,,Syabas.
+Dialog: 0,0:37:49.70,0:37:52.91,Lalai,Kus3,0,0,0,,Saya harap Cheoljong akan memahami idea asas.
+Dialog: 0,0:38:08.01,0:38:11.35,Default,Kus3,0,0,0,,Adakah ini makanan sederhana orang biasa?
+Dialog: 0,0:38:11.35,0:38:14.76,Lalai,Kus3,0,0,0,,Hanya saya tidak tahu apa yang orang biasa makan?
+Dialog: 0,0:38:17.66,0:38:19.76,Lalai,Kus3,0,0,0,,Kentang Lingkaran
+Dialog: 0,0:38:28.08,0:38:29.74,Lalai,Kus3,0,0,0,,Niat saya murni,
+Dialog: 0,0:38:30.37,0:38:34.04,Lalai,Kus3,0,0,0,,namun, saya mesti menghormati tetamu saya.
+Dialog: 0,0:38:34.45,0:38:36.95,Lalai,Kus3,0,0,0,,Oleh itu produk mudah digunakan,
+Dialog: 0,0:38:37.24,0:38:39.35,Lalai,Kus3,0,0,0,,tetapi ia disediakan dengan cara yang baharu.
+Dialog: 0,0:38:40.64,0:38:44.95,Lalai,Kus3,0,0,0,,Hidangan pertama jamuan itu ialah kentang.
+Dialog: 0,0:38:45.83,0:38:47.06,Lalai,Kus3,0,0,0,,Adakah ini kentang?
+Dialog: 0,0:38:49.79,0:38:51.12,Lalai,Kus3,0,0,0,,Ini bukan kentang biasa.
+Dialog: 0,0:38:51.83,0:38:52.97,Lalai,Kus3,0,0,0,,Hidangan itu dipanggil...
+Dialog: 0,0:38:55.99,0:38:57.29,Lalai,Kus3,0,0,0,,Meraba
+Dialog: 0,0:38:58.70,0:38:59.76,Lalai,Kus3,0,0,0,,seperti spring?
+Dialog: 0,0:39:02.87,0:39:04.04,Lalai,Kus3,0,0,0,,Kentang Lingkaran!
+Dialog: 0,0:39:04.54,0:39:05.58,Lalai,Kus3,0,0,0,,Okey.
+Dialog: 0,0:39:05.58,0:39:07.81,Lalai,Kus3,0,0,0,,Serupa misai naga.
+Dialog: 0,0:39:07.81,0:39:09.24,Lalai,Kus3,0,0,0,,Ia dipanggil "Spiral".
+Dialog: 0,0:39:10.74,0:39:12.64,Lalai,Kus3,0,0,0,,Hidangan gembira untuk hari bahagia.
+Dialog: 0,0:39:12.64,0:39:14.35,Lalai,Kus3,0,0,0,,Ia hanya kentang.
+Dialog: 0,0:39:14.35,0:39:17.16,Lalai,Kus3,0,0,0,,Naga? Anda berlebih-lebihan, Yang Mulia.
+Dialog: 0,0:39:17.56,0:39:19.22,Lalai,Kus3,0,0,0,,Jika tiada kentang,
+Dialog: 0,0:39:19.22,0:39:21.45,Lalai,Kus3,0,0,0,,kita akan kehilangan lebih banyak nyawa.
+Dialog: 0,0:39:22.26,0:39:23.76,Lalai,Kus3,0,0,0,,Kentang kampung
+Dialog: 0,0:39:23.76,0:39:26.39,Lalai,Kus3,0,0,0,,tumbuh walaupun dalam tanah tandus dan mudah disimpan.
+Dialog: 0,0:39:26.60,0:39:29.20,Lalai,Kus3,0,0,0,,Ini adalah produk makanan utama semasa penanaman barli.
+Dialog: 0,0:39:29.76,0:39:33.43,Lalai,Kus3,0,0,0,,Produk suci yang menyelamatkan nyawa.
+Dialog: 0,0:39:33.81,0:39:36.01,Lalai,Kus3,0,0,0,,Ini bukan "sekadar kentang."
+Dialog: 0,0:39:37.64,0:39:38.74,Lalai,Kus3,0,0,0,,Rasa hidangan.
+Dialog: 0,0:39:57.35,0:40:00.03,Lalai,Kus3,0,0,0,,Gila. sangat sedap.
+Dialog: 0,0:40:00.60,0:40:02.26,Lalai,Kus3,0,0,0,,Saya tidak pernah makan apa-apa seperti ini.
+Dialog: 0,0:40:03.70,0:40:07.54,Lalai,Kus3,0,0,0,,Penasihat yang betul nampaknya benar-benar lapar.
+Dialog: 0,0:40:16.47,0:40:17.74,Lalai,Kus3,0,0,0,,Adakah ini kentang?
+Dialog: 0,0:40:30.33,0:40:33.22,Lalai,Kus4,0,0,0,,Terdapat tiga perasa di hadapan anda.
+Dialog: 0,0:40:33.22,0:40:35.64,Lalai,Kus4,0,0,0,,Hijau ialah garam pain daripada keluarga Namyang Khon.
+Dialog: 0,0:40:36.06,0:40:38.81,Lalai,Kus4,0,0,0,,Ia disediakan daripada garam laut dan jarum pain
+Dialog: 0,0:40:38.81,0:40:40.20,Lalai,Kus4,0,0,0,,di Istana Hwaseong.
+Dialog: 0,0:40:41.74,0:40:44.87,Lalai,Kus4,0,0,0,,Serbuk merah muda - gula anggur.
+Dialog: 0,0:40:45.54,0:40:47.54,Lalai,Kus4,0,0,0,,Gula? Adalah lebih baik jika mereka menanam barli.
+Dialog: 0,0:40:48.24,0:40:50.37,Lalai,Kus4,0,0,0,,Dengan makanan yang begitu lazat tiada apa yang perlu dirisaukan,
+Dialog: 0,0:40:50.37,0:40:52.41,Lalai,Kus4,0,0,0,,semua kesulitan akan diselesaikan.
+Dialog: 0,0:40:54.12,0:40:57.16,Lalai,Kus4,0,0,0,,Iris hancur dicampur dengan anggur liar.
+Dialog: 0,0:40:57.99,0:40:59.66,Lalai,Kus4,0,0,0,,Anggur dikumpulkan di Gunung Kamaksan
+Dialog: 0,0:40:59.66,0:41:01.66,Lalai,Kus4,0,0,0,,di wilayah keluarga Phapyeong Yun.
+Dialog: 0,0:41:01.66,0:41:03.72,Lalai,Kus4,0,0,0,,Ia memberikan gula warna dan aroma yang cantik.
+Dialog: 0,0:41:04.79,0:41:07.10,Lalai,Kus4,0,0,0,,Sos kuning diperbuat daripada pic.
+Dialog: 0,0:41:07.62,0:41:09.70,Lalai,Kus4,0,0,0,,Peach terbaik telah dipilih
+Dialog: 0,0:41:09.70,0:41:12.16,Lalai,Kus4,0,0,0,,dari Yoju, tempat tinggal puak Yohyn Min.
+Dialog: 0,0:41:13.04,0:41:16.83,Default,Kus4,0,0,0,,Tema kenduri hari ini ialah harmoni.
+Dialog: 0,0:41:18.91,0:41:21.04,Lalai,Kus4,0,0,0,,Politik memecah belahkan rakyat,
+Dialog: 0,0:41:21.04,0:41:24.18,Lalai,Kus4,0,0,0,,tetapi makanan yang lazat menyatukan mereka.
+Dialog: 0,0:41:24.62,0:41:28.08,Default,Kus4,0,0,0,,Saya harap anda dapat merasai keharmonian tiga puak,
+Dialog: 0,0:41:28.49,0:41:30.29,Lalai,Kus4,0,0,0,,menyertai kami hari ini.
+Dialog: 0,0:41:40.47,0:41:43.47,Lalai,Kus4,0,0,0,,Potong dan goreng ubi keledek, zucchini dan terung.
+Dialog: 0,0:41:43.47,0:41:45.37,Lalai,Kus4,0,0,0,,Saya akan buat rebusan sayur dalam tomato utuh
+Dialog: 0,0:41:45.37,0:41:46.87,Lalai,Kus4,0,0,0,,dengan sup dan telur.
+Dialog: 0,0:41:48.51,0:41:49.64,Lalai,Kus4,0,0,0,,Idea yang luar biasa,
+Dialog: 0,0:41:49.64,0:41:52.20,Lalai,Kus4,0,0,0,,cara makan bejana itu sendiri akan membuatkan mereka gila.
+Dialog: 0,0:41:55.18,0:41:56.31,Lalai,Kus4,0,0,0,,Belum selesai?
+Dialog: 0,0:41:57.01,0:41:58.12,Lalai,Kus4,0,0,0,,Di mana ada.
+Dialog: 0,0:41:58.12,0:42:00.68,Lalai,Kus4,0,0,0,,Saya mengisar barli dan kacang menjadi serbuk.
+Dialog: 0,0:42:00.68,0:42:03.56,Lalai,Kus4,0,0,0,,Saya mempunyai semua jenis serbuk yang mungkin, dan saya mencampurkannya dan mencampurkannya.
+Dialog: 0,0:42:04.35,0:42:08.26,Lalai,Kus4,0,0,0,,Hidangan yang anda sediakan sekarang akan menjadi kemuncak jamuan itu.
+Dialog: 0,0:42:08.26,0:42:09.26,Lalai,Kus4,0,0,0,,Baiklah.
+Dialog: 0,0:42:11.99,0:42:14.47,Lalai,Kus4,0,0,0,,Apa yang awak buat? Uli lebih kuat, seperti saya.
+Dialog: 0,0:42:15.43,0:42:18.76,Lalai,Kus4,0,0,0,,Ia berbahaya kepada sendi bahu dan pergelangan tangan.
+Dialog: 0,0:42:18.76,0:42:21.33,Lalai,Kus4,0,0,0,,Ayuh. Gunakan lebih banyak kekuatan. buatlah.
+Dialog: 0,0:42:21.33,0:42:24.04,Lalai,Kus4,0,0,0,,Kerja dengan bahu dan pergelangan tangan anda jika perlu.
+Dialog: 0,0:42:24.04,0:42:25.87,Lalai,Kus4,0,0,0,,Tekan doh.
+Dialog: 0,0:42:29.18,0:42:31.51,Default,Kus4,0,0,0,,Cikgu, semua dah siap.
+Dialog: 0,0:42:31.51,0:42:32.51,Lalai,Kus4,0,0,0,,Betulkah?
+Dialog: 0,0:42:33.58,0:42:35.89,Lalai,Kus4,0,0,0,,Okey.
+Dialog: 0,0:42:36.35,0:42:38.72,Lalai,Kus4,0,0,0,,Apa sahaja yang anda katakan, ini adalah jamuan. Tiada cara tanpa daging.
+Dialog: 0,0:42:39.22,0:42:41.08,Lalai,Kus4,0,0,0,,Melengkapkan hidangan utama kami -
+Dialog: 0,0:42:41.08,0:42:42.83, Lalai, Kus4,0,0,0,,burger dengan stik vegan.
+Dialog: 0,0:43:01.37,0:43:05.12,Lalai,Kus4,0,0,0,,McDonald's
+Dialog: 0,0:43:05.12,0:43:06.72,Lalai,Kus4,0,0,0,,Bejana tomato yang boleh dimakan.
+Dialog: 0,0:43:07.18,0:43:08.49,Lalai,Kus4,0,0,0,,Tomato merah
+Dialog: 0,0:43:08.49,0:43:10.95,Lalai,Kus4,0,0,0,,pada Hari Troli menghalau nasib malang
+Dialog: 0,0:43:10.95,0:43:12.89,Lalai,Kus4,0,0,0,,dan roh jahat.
+Dialog: 0,0:43:20.97,0:43:22.64,Lalai,Kus4,0,0,0,,Sedapnya rasa!
+Dialog: 0,0:43:30.20,0:43:31.35,Lalai,Kus4,0,0,0,,Adakah ini potongan daging?
+Dialog: 0,0:43:31.68,0:43:34.45,Lalai,Kus4,0,0,0,,Mustahil. Daging tidak dapat dihantar...
+Dialog: 0,0:43:37.14,0:43:40.64,Lalai,Kus4,0,0,0,,Saya ingin mengatakan bahawa sukar untuk mendapatkan daging sekarang.
+Dialog: 0,0:43:42.85,0:43:44.49,Lalai,Kus4,0,0,0,,Ada satu peribahasa Cina:
+Dialog: 0,0:43:44.49,0:43:46.22,Lalai,Kus4,0,0,0,,"Ada daging naga di langit,
+Dialog: 0,0:43:46.22,0:43:47.89,Lalai,Kus4,0,0,0,,dan di bumi - daripada monyet."
+Dialog: 0,0:43:48.16,0:43:51.93,Lalai,Kus4,0,0,0,,Dan kami akan menambah: "Daging daripada kacang dalam masa sukar."
+Dialog: 0,0:43:52.56,0:43:56.64,Lalai,Kus4,0,0,0,,Dengan barli dan kacang kita akan membesar.
+Dialog: 0,0:43:56.99,0:43:59.81,Lalai,Kus4,0,0,0,,Inilah intipati McDonald's.
+Dialog: 0,0:44:00.26,0:44:01.93,Lalai,Kus4,0,0,0,,McDonald's.
+Dialog: 0,0:44:02.74,0:44:04.14,Lalai,Kus4,0,0,0,,
+Dialog: 0,0:44:04.14,0:44:08.14,Lalai,Kus4,0,0,0,,Berkhasiat dan lazat, seperti daging sebenar.
+Dialog: 0,0:44:08.87,0:44:10.14,Lalai,Kus4,0,0,0,,Ada sesuatu dalam ini.
+Dialog: 0,0:44:43.78,0:44:44.85,Lalai,Kus4,0,0,0,,Betapa cantiknya.
+Dialog: 0,0:44:45.24,0:44:48.49,Lalai,Kus4,0,0,0,,Hias dengan bunga, dan jeli manis yang telah disejukkan akan sedia.
+Dialog: 0,0:44:48.49,0:44:49.79,Lalai,Kus4,0,0,0,,Sesuatu untuk mata.
+Dialog: 0,0:44:50.31,0:44:53.03,Lalai,Kus4,0,0,0,,Pencuci mulut mestilah sedap dan cantik.
+Dialog: 0,0:44:55.43,0:44:56.95,Lalai,Kus4,0,0,0,,-Menakjubkan.\N-Lihat sahaja warna ini.
+Dialog: 0,0:44:56.95,0:44:59.43,Lalai,Kus4,0,0,0,,Dan akhirnya, mari buat semua orang berkata "wow."
+Dialog: 0,0:44:59.72,0:45:01.70,Lalai,Kus4,0,0,0,,Tamat yang sempurna untuk parti.
+Dialog: 0,0:45:12.47,0:45:13.81,Lalai,Kus4,0,0,0,,Jeli tuah
+Dialog: 0,0:45:13.81,0:45:15.24,Lalai,Kus4,0,0,0,,Cantik, sudah tentu,
+Dialog: 0,0:45:15.24,0:45:17.85,Lalai,Kus4,0,0,0,,tetapi ia hanya jeli biasa.
+Dialog: 0,0:45:18.04,0:45:22.22,Lalai,Kus4,0,0,0,,Saya rasa anda tidak mempunyai cukup untuk lebih.
+Dialog: 0,0:45:24.39,0:45:26.93,Lalai,Kus4,0,0,0,,Berkat tongkat, makan jeli adalah lebih mudah.
+Dialog: 0,0:45:27.39,0:45:29.12,Lalai,Kus4,0,0,0,,Dan dia juga akan meramalkan nasib anda.
+Dialog: 0,0:45:29.62,0:45:30.62,Lalai,Kus4,0,0,0,,Semoga berjaya?
+Dialog: 0,0:45:30.85,0:45:32.62,Lalai,Kus4,0,0,0,,Hidangan ini seperti permulaan yang baru,
+Dialog: 0,0:45:32.62,0:45:35.83, Lalai, Kus4,0,0,0,, itulah sebabnya ia dipanggil jeli nasib baik.
+Dialog: 0,0:45:36.47,0:45:40.01,Default,Kus4,0,0,0,,Saya harap masa depan awak akan berjaya, seperti permulaan yang baru.
+Dialog: 0,0:45:46.01,0:45:49.72,Lalai,Kus4,0,0,0,,Mungkin kita akan menghabiskan jamuan kita dengan mengetahui nasib kita?
+Dialog: 0,0:45:50.31,0:45:54.14,Lalai,Kus4,0,0,0,,Bagaimana kita boleh melakukan perkara seperti ini di istana keramat?
+Dialog: 0,0:45:58.58,0:45:59.79,Lalai,Kus4,0,0,0,,Satu lagi
+Dialog: 0,0:46:01.18,0:46:02.29,Lalai,Kus4,0,0,0,,Satu lagi.
+Dialog: 0,0:46:02.29,0:46:03.35,Lalai,Kus4,0,0,0,,Satu lagi?
+Dialog: 0,0:46:05.26,0:46:07.12,Lalai,Kus4,0,0,0,,"Cuba lain kali."
+Dialog: 0,0:46:11.14,0:46:13.93,Lalai,Kus4,0,0,0,,Loser
+Dialog: 0,0:46:18.92,0:46:21.22,Lalai,Kus4,0,0,0,,Sakit pinggang saya.
+Dialog: 0,0:46:24.52,0:46:26.03,Lalai,Kus4,0,0,0,,Saya akan berbaring sekarang.
+Dialog: 0,0:46:29.90,0:46:32.97,Lalai,Kus4,0,0,0,,Saya meletakkan jiwa saya ke dalam hidangan ini, bukan bahan-bahannya.
+Dialog: 0,0:46:33.20,0:46:35.24,Lalai,Kus4,0,0,0,,Saya akan mati.
+Dialog: 0,0:46:37.77,0:46:39.07,Lalai,Kus4,0,0,0,,Kami melakukannya.
+Dialog: 0,0:46:39.67,0:46:40.91,Lalai,Kus4,0,0,0,,Kami dapat.
+Dialog: 0,0:46:43.91,0:46:45.78,Lalai,Kus4,0,0,0,,Adakah anda tahu apa yang saya fikirkan sekarang?
+Dialog: 0,0:46:47.65,0:46:50.25,Lalai,Kus4,0,0,0,,Saya tahu. Saya juga merasakan perkara yang sama.
+Dialog: 0,0:46:52.55,0:46:54.12,Lalai,Kus4,0,0,0,,-Potong ikan.\N-Apa?
+Dialog: 0,0:46:54.69,0:46:56.32,Lalai,Kus4,0,0,0,,Saya sedang memikirkan tentang kek ikan.
+Dialog: 0,0:46:58.69,0:47:01.09,Lalai,Kus4,0,0,0,, Tukang masak yang hampir mati di tangan Maharaja Qin Shihuang,
+Dialog: 0,0:47:01.09,0:47:03.26,Lalai,Kus4,0,0,0,,masak kek ikan pada malam sebelumnya.
+Dialog: 0,0:47:03.26,0:47:05.53,Lalai,Kus4,0,0,0,,Saya fikir dia hanya bernasib baik.
+Dialog: 0,0:47:06.23,0:47:07.37,Lalai,Kus4,0,0,0,,Tetapi tidak.
+Dialog: 0,0:47:07.57,0:47:08.60,Lalai,Kus4,0,0,0,,Dia menyediakan mereka,
+Dialog: 0,0:47:08.60,0:47:10.64,Lalai,Kus4,0,0,0,,cuba yang terbaik untuk bertahan.
+Dialog: 0,0:47:10.87,0:47:12.34,Lalai,Kus4,0,0,0,,Inspirasi -
+Dialog: 0,0:47:12.34,0:47:14.34,Lalai,Kus4,0,0,0,,ini bukan perkara biasa yang datang,
+Dialog: 0,0:47:14.44,0:47:15.88,Lalai,Kus4,0,0,0,,apabila anda berputus asa.
+Dialog: 0,0:47:17.18,0:47:18.31,Lalai,Kus4,0,0,0,,Yang Mulia.
+Dialog: 0,0:47:19.35,0:47:20.41,Lalai,Kus4,0,0,0,,Yang Mulia.
+Dialog: 0,0:47:22.28,0:47:24.79,Lalai,Kus4,0,0,0,,Nah, kenapa awak tergesa-gesa!
+Dialog: 0,0:47:24.79,0:47:28.46,Lalai,Kus4,0,0,0,,Di sini. Ada air di sini. Minumlah.
+Dialog: 0,0:47:33.96,0:47:35.80,Lalai,Kus4,0,0,0,,Ratu, nama keluarga dia Khan.
+Dialog: 0,0:47:36.36,0:47:38.50,Lalai,Kus4,0,0,0,,Betulkah? Adakah nama belakangnya benar-benar Khan?
+Dialog: 0,0:47:38.50,0:47:39.53,Lalai,Kus4,0,0,0,,Ya.
+Dialog: 0,0:47:40.30,0:47:41.64,Lalai,Kus4,0,0,0,,Namanya Simon.
+Dialog: 0,0:47:41.77,0:47:43.27,Lalai,Kus4,0,0,0,,Namanya Khan Simon.
+Dialog: 0,0:47:43.30,0:47:45.81,Lalai,Kus4,0,0,0,,Simon? Siapakah namanya sebagai orang asing?
+Dialog: 0,0:47:48.68,0:47:50.88,Lalai,Kus4,0,0,0,,Khan Simon.
+Dialog: 0,0:47:51.38,0:47:52.38,Lalai,Kus4,0,0,0,,Ya.
+Dialog: 0,0:47:53.81,0:47:55.42,Lalai,Kus4,0,0,0,,Apakah ini?
+Dialog: 0,0:47:55.42,0:47:57.68,Lalai,Kus4,0,0,0,,Oh tidak. Tiada yang seperti itu.
+Dialog: 0,0:47:59.32,0:48:01.02,Lalai,Kus4,0,0,0,,Semasa saya berada di luar istana,
+Dialog: 0,0:48:01.02,0:48:02.89,Lalai,Kus4,0,0,0,,Saya sampai ke Hanseongbu
+Dialog: 0,0:48:02.89,0:48:05.16,Lalai,Kus4,0,0,0,,dan melihat melalui daftar keluarga mereka.
+Dialog: 0,0:48:07.39,0:48:10.23,Lalai,Kus4,0,0,0,,Saya pasti daftar keluarga ini palsu.
+Dialog: 0,0:48:11.67,0:48:15.07,Lalai,Kus4,0,0,0,,Saya tidak mengharapkan apa-apa lagi daripada nenek moyang Pengarah Khan.
+Dialog: 0,0:48:15.30,0:48:17.10,Lalai,Kus4,0,0,0,,Kami buang dia kerana memalsukan identitinya,
+Dialog: 0,0:48:17.10,0:48:19.71,Lalai,Kus4,0,0,0,,jadi dia memutuskan untuk memenanginya dengan cara yang kotor?
+Dialog: 0,0:48:19.71,0:48:22.08,Lalai,Kus4,0,0,0,,Ratu, kamu tidak sepatutnya tinggal di sini.
+Dialog: 0,0:48:22.18,0:48:24.04,Lalai,Kus4,0,0,0,,Anda sudah lama tidak hadir.
+Dialog: 0,0:48:24.04,0:48:25.18,Lalai,Kus4,0,0,0,,Tepat sekali.
+Dialog: 0,0:48:25.41,0:48:26.78,Lalai,Kus4,0,0,0,,Anda melakukannya dengan baik, Puan Choi.
+Dialog: 0,0:48:26.78,0:48:28.82,Lalai,Kus4,0,0,0,,-Mari kita pergi cepat.\N-Yang Mulia.
+Dialog: 0,0:48:28.82,0:48:30.48,Lalai,Kus4,0,0,0,,-Tunggu.\N-Berhati-hati.
+Dialog: 0,0:48:30.48,0:48:31.52,Lalai,Kus4,0,0,0,,Yang Mulia.
+Dialog: 0,0:48:33.69,0:48:35.52,Lalai,Kus4,0,0,0,,Yang Mulia.
+Dialog: 0,0:48:35.92,0:48:37.02,Lalai,Kus4,0,0,0,,Yang Mulia.
+Dialog: 0,0:48:37.92,0:48:40.46,Lalai,Kus4,0,0,0,,Apa? apa dah jadi?
+Dialog: 0,0:48:43.63,0:48:45.23,Lalai,Kus4,0,0,0,,Perut saya...
+Dialog: 0,0:48:46.87,0:48:49.54,Lalai,Kus4,0,0,0,,Seolah-olah seluruh kumpulan sedang bermain dram di dalam perut saya.
+Dialog: 0,0:48:50.30,0:48:51.51,Lalai,Kus4,0,0,0,,Apa yang sedang berlaku?
+Dialog: 0,0:48:53.01,0:48:54.07,Lalai,Kus4,0,0,0,,Air...
+Dialog: 0,0:48:54.91,0:48:57.48,Lalai,Kus4,0,0,0,,Tiada siapa yang menukar air?
+Dialog: 0,0:48:57.48,0:48:59.85,Lalai,Kus4,0,0,0,,Apa yang salah dengan ini
+Dialog: 0,0:49:00.91,0:49:02.05,Lalai,Kus4,0,0,0,,air?
+Dialog: 0,0:49:02.32,0:49:04.42,Lalai,Kus4,0,0,0,,Air ini telah diracun.
+Dialog: 0,0:49:04.95,0:49:06.92,Lalai,Kus4,0,0,0,,Racun?
+Dialog: 0,0:49:08.26,0:49:09.49,Lalai,Kus4,0,0,0,,Racun?
+Dialog: 0,0:49:10.32,0:49:11.32,Lalai,Kus4,0,0,0,,Puan mahkamah!
+Dialog: 0,0:49:13.43,0:49:14.93,Lalai,Kus4,0,0,0,,Saya nampak awak sudah sampai.
+Dialog: 0,0:49:16.03,0:49:17.40,Lalai,Kus4,0,0,0,,Sudah tentu dia datang.
+Dialog: 0,0:49:18.63,0:49:22.10,Lalai,Kus4,0,0,0,,Ini adalah jamuan sempena pemulihan permaisuri.
+Dialog: 0,0:49:22.40,0:49:24.24,Lalai,Kus4,0,0,0,,Mulai sekarang, buka mata anda.
+Dialog: 0,0:49:24.87,0:49:27.81,Lalai,Kus4,0,0,0,,Lihat hasil tindakan anda.
+Dialog: 0,0:49:40.82,0:49:42.02,Lalai,Kus4,0,0,0,,Tuhan.
+Dialog: 0,0:49:43.09,0:49:46.13,Lalai,Kus4,0,0,0,,Memasak ternyata lebih sukar daripada yang saya sangka.
+Dialog: 0,0:49:47.53,0:49:50.33,Lalai,Kus4,0,0,0,,Setiap sentimeter badan saya sakit.
+Dialog: 0,0:49:51.10,0:49:55.67,Default,Kus4,0,0,0,,Selain itu, tukang masak diraja terus menjerit kepada saya.
+Dialog: 0,0:49:56.57,0:49:59.47,Lalai,Kus4,0,0,0,,-Bajingan ini.\N-Cepat ke sini!
+Dialog: 0,0:50:02.71,0:50:04.44,Lalai,Kus4,0,0,0,,Adakah anda masih perlu mengupas kentang?
+Dialog: 0,0:50:04.44,0:50:07.01,Lalai,Kus4,0,0,0,,Tolong wanita mahkamah Choi.
+Dialog: 0,0:50:07.05,0:50:08.18,Lalai,Kus4,0,0,0,,Sila.
+Dialog: 0,0:50:20.59,0:50:21.83,Lalai,Kus5,0,0,0,,Teruskan kerja yang baik.
+Dialog: 0,0:50:27.27,0:50:28.40,Lalai,Kus5,0,0,0,,Maaf.
+Dialog: 0,0:50:38.41,0:50:39.98,Lalai,Kus5,0,0,0,,Sedang memakai topeng tokkebi
+Dialog: 0,0:50:40.81,0:50:42.88,Lalai,Kus5,0,0,0,,dan dia mempunyai parut lama di mukanya.
+Dialog: 0,0:50:49.96,0:50:51.02,Lalai,Kus5,0,0,0,,Maaf.
+Dialog: 0,0:50:59.17,0:51:00.23,Lalai,Kus5,0,0,0,,Tuhan.
+Dialog: 0,0:51:01.43,0:51:02.50,Lalai,Kus5,0,0,0,,Maaf.
+Dialog: 0,0:51:24.46,0:51:27.73,Lalai,Kus5,0,0,0,,Lihat, dia sedang mengalami kesakitan.
+Dialog: 0,0:51:28.13,0:51:30.70,Lalai,Kus5,0,0,0,,Lakukan akupunktur, bakar dengan rumput, lakukan sesuatu.
+Dialog: 0,0:51:30.70,0:51:32.73,Lalai,Kus5,0,0,0,,Dan berikan dia penawar.
+Dialog: 0,0:51:32.73,0:51:35.30,Lalai,Kus5,0,0,0,,Hei, fikirkan urusan anda sendiri.
+Dialog: 0,0:51:35.44,0:51:37.27,Lalai,Kus5,0,0,0,,Saya bertanggungjawab dalam bidang ini.
+Dialog: 0,0:51:45.75,0:51:47.31,Lalai,Kus5,0,0,0,,Saya patuh.
+Dialog: 0,0:51:47.55,0:51:49.48,Lalai,Kus5,0,0,0,,Kamu hebat di dapur diraja,
+Dialog: 0,0:51:49.48,0:51:51.42,Lalai,Kus5,0,0,0,,tetapi di hospital diraja anda ideal.
+Dialog: 0,0:51:52.45,0:51:54.72,Lalai,Kus5,0,0,0,,Sama ada orang atau objek,
+Dialog: 0,0:51:54.72,0:51:56.99,Lalai,Kus5,0,0,0,,semua orang harus berada di tempat mereka.
+Dialog: 0,0:51:58.86,0:52:01.33, Lalai, Kus5,0,0,0,,Jarum anda berfungsi lebih baik di dapur.
+Dialog: 0,0:52:01.33,0:52:02.33, Lalai, Kus5,0,0,0,,Itu tidak benar!
+Dialog: 0,0:52:02.33,0:52:04.53,Lalai,Kus5,0,0,0,,Jarum ini sesuai untuk menindik kentang.
+Dialog: 0,0:52:04.53,0:52:05.63,Lalai,Kus5,0,0,0,,Biar saya menggunakannya.
+Dialog: 0,0:52:05.77,0:52:07.20,Lalai,Kus5,0,0,0,,Beraninya awak merancang dia! tidak pernah.
+Dialog: 0,0:52:07.20,0:52:08.97,Lalai,Kus5,0,0,0,,Dan ini sesuai untuk mengupas kentang.
+Dialog: 0,0:52:08.97,0:52:11.54,Lalai,Kus5,0,0,0,,-Berikan kepada saya.\N-Tidak.
+Dialog: 0,0:52:11.54,0:52:13.27,Lalai,Kus5,0,0,0,,Tuan tidak dibenarkan, Tuanku!
+Dialog: 0,0:52:20.85,0:52:25.75,Lalai,Kus5,0,0,0,,Tarian dalam perut saya telah berhenti.
+Dialog: 0,0:52:27.52,0:52:29.16,Lalai,Kus5,0,0,0,,Saya tidak sepatutnya berada di sini.
+Dialog: 0,0:52:30.56,0:52:32.26,Lalai,Kus5,0,0,0,,-Yang Mulia.\N-Mahkamah Choi!
+Dialog: 0,0:52:32.53,0:52:35.70,Lalai,Kus5,0,0,0,,Tidak mungkin dia boleh pulih secepat itu.
+Dialog: 0,0:52:39.63,0:52:41.60,Lalai,Kus5,0,0,0,,Dia seorang wanita yang kuat.
+Dialog: 0,0:52:53.11,0:52:54.31,Lalai,Kus5,0,0,0,,Dia berbau minyak.
+Dialog: 0,0:52:54.31,0:52:56.48,Lalai,Kus5,0,0,0,,Kenapa awak pergi begitu lama?
+Dialog: 0,0:52:57.25,0:52:59.12,Lalai,Kus5,0,0,0,,Nah, perkara itu...
+Dialog: 0,0:52:59.15,0:53:00.29,Lalai,Kus5,0,0,0,,Saya minta maaf.
+Dialog: 0,0:53:01.12,0:53:03.06,Lalai,Kus5,0,0,0,,Tangan saya tergelincir,
+Dialog: 0,0:53:03.32,0:53:05.49,Lalai,Kus5,0,0,0,,dan anak panah saya terkena ratu.
+Dialog: 0,0:53:06.93,0:53:10.50,Lalai,Kus5,0,0,0,,Adakah anda cedera?
+Dialog: 0,0:53:10.76,0:53:12.67,Lalai,Kus5,0,0,0,,Tidak, saya tidak apa-apa.
+Dialog: 0,0:53:13.10,0:53:15.00,Lalai,Kus5,0,0,0,,Pemburuan itu sangat memenatkan,
+Dialog: 0,0:53:15.00,0:53:17.67,Lalai,Kus5,0,0,0,,bahawa saya tertidur semasa persiapan sedang berjalan.
+Dialog: 0,0:53:17.84,0:53:18.91,Lalai,Kus5,0,0,0,,Tengok apa.
+Dialog: 0,0:53:34.19,0:53:35.36,Lalai,Kus5,0,0,0,,Celemek?
+Dialog: 0,0:53:44.16,0:53:46.93,Lalai,Kus5,0,0,0,,Bilakah persiapan anda akan berjaya?
+Dialog: 0,0:53:47.03,0:53:48.50,Lalai,Kus5,0,0,0,,Tunggu.
+Dialog: 0,0:53:48.77,0:53:51.37,Lalai,Kus5,0,0,0,,Raja telah berusaha keras dalam jamuan ini.
+Dialog: 0,0:53:51.84,0:53:54.84,Lalai,Kus5,0,0,0,,Sekarang dia sepatutnya menjadi pusat perhatian.
+Dialog: 0,0:54:18.53,0:54:21.00,Lalai,Kus5,0,0,0,,Semua yang datang ke sini sebagai saintis mesti menunjukkan contoh
+Dialog: 0,0:54:21.40,0:54:23.14,Lalai,Kus5,0,0,0,,kesederhanaan dalam makanan,
+Dialog: 0,0:54:23.14,0:54:25.64,Lalai,Kus5,0,0,0,,untuk menunjukkan bahawa anda memahami bahawa orang sedang kelaparan.
+Dialog: 0,0:54:26.04,0:54:28.84,Lalai,Kus5,0,0,0,,Saya akan mengambil kesempatan ini untuk mengumumkan.
+Dialog: 0,0:54:31.54,0:54:33.15,Lalai,Kus5,0,0,0,,Bermula dengan jamuan ini,
+Dialog: 0,0:54:33.71,0:54:35.22,Lalai,Kus5,0,0,0,,kami akan mengurangkan bilangan hidangan dalam makanan kami.
+Dialog: 0,0:54:36.78,0:54:38.05,Lalai,Kus5,0,0,0,,Kurang hidangan?
+Dialog: 0,0:54:38.95,0:54:41.02,Default,Kus5,0,0,0,,Karut apa yang dia cakapkan?
+Dialog: 0,0:54:41.12,0:54:44.19,Lalai,Kus5,0,0,0,,Apabila masa sukar di negara ini,
+Dialog: 0,0:54:44.19,0:54:46.83,Lalai,Kus5,0,0,0,,raja harus menjadi sebahagian daripada hidangan,
+Dialog: 0,0:54:46.99,0:54:48.80,Default,Kus5,0,0,0,,untuk berkongsi keperitan umatnya.
+Dialog: 0,0:54:49.16,0:54:53.43,Lalai,Kus5,0,0,0,,Dengan mengurangkan bilangan hidangan, kami merasai keperitan rakyat kami,
+Dialog: 0,0:54:53.73,0:54:55.57,Lalai,Kus5,0,0,0,,dan kita boleh mengatasi segala-galanya bersama-sama.
+Dialog: 0,0:54:56.37,0:55:00.07,Lalai,Kus5,0,0,0,,Dalam masa seperti ini, pilih bijirin untuk menggembirakan sedozen orang
+Dialog: 0,0:55:00.07,0:55:02.88,Lalai,Kus5,0,0,0,,dan sedapkan bahagian dalam anda dengan sekeping daging -
+Dialog: 0,0:55:03.38,0:55:04.51,Lalai,Kus5,0,0,0,,dosa.
+Dialog: 0,0:55:05.58,0:55:08.15,Default,Kus5,0,0,0,,Akhirnya mereka yang berada di dalam istana
+Dialog: 0,0:55:08.38,0:55:11.58,Lalai,Kus5,0,0,0,,mereka akan menghidangkan daging di atas meja, mereka akan dihukum.
+Dialog: 0,0:55:14.22,0:55:17.76,Lalai,Kus5,0,0,0,,Saya melarang bukan sahaja daging, tetapi juga sebarang makanan yang mahal.
+Dialog: 0,0:55:18.22,0:55:21.53,Lalai,Kus5,0,0,0,,Menteri-menteri seharusnya tidak menikmati minum, menyanyi dan menari,
+Dialog: 0,0:55:21.96,0:55:23.83,Lalai,Kus5,0,0,0,,dan mesti menghentikan perjuangan puak-puak untuk mendapatkan kuasa.
+Dialog: 0,0:55:24.73,0:55:26.27,Lalai,Kus5,0,0,0,,Mereka yang tidak menerima syarat ini,
+Dialog: 0,0:55:27.17,0:55:30.14,Lalai,Kus5,0,0,0,,Saya akan menganggap mereka dahagakan hukuman.
+Dialog: 0,0:55:32.47,0:55:33.61,Lalai,Kus5,0,0,0,,Yang Mulia.
+Dialog: 0,0:55:47.09,0:55:49.29,Lalai,Kus5,0,0,0,,Saya, Kim Jwageun, maafkan saya
+Dialog: 0,0:55:49.46,0:55:52.03,Lalai,Kus5,0,0,0,,untuk berita buruk.
+Dialog: 0,0:56:24.72,0:56:26.49,Lalai,Kus5,0,0,0,,Penjenayah ini berbohong tentang status mereka
+Dialog: 0,0:56:26.49,0:56:28.26,Lalai,Kus5,0,0,0,,dan bersembunyi di dalam pengawal diraja.
+Dialog: 0,0:56:29.40,0:56:31.33,Lalai,Kus5,0,0,0,,Untuk melaksanakan perintah anda dan berkhidmat kepada anda,
+Dialog: 0,0:56:31.33,0:56:33.13,Lalai,Kus5,0,0,0,,mereka menggunakan identiti palsu.
+Dialog: 0,0:56:35.17,0:56:38.34,Lalai,Kus5,0,0,0,,Masanya sudah tiba untuk berurusan dengan mereka yang dia sembunyikan.
+Dialog: 0,0:56:38.50,0:56:40.47,Lalai,Kus5,0,0,0,,Saya pasti dia percaya bahawa asas kuasanya adalah
+Dialog: 0,0:56:40.47,0:56:42.34,Lalai,Kus5,0,0,0,,yang dia jaga dan lindungi dengan baik.
+Dialog: 0,0:56:42.78,0:56:45.35,Lalai,Kus5,0,0,0,,Kita mesti menghapuskan ini dengan segera.
+Dialog: 0,0:56:47.28,0:56:49.25,Lalai,Kus5,0,0,0,,Supaya dia tidak bangkit lagi.
+Dialog: 0,0:57:12.31,0:57:15.28,Lalai,Kus5,0,0,0,,Adakah anda perlu merosakkan hari penting ini?
+Dialog: 0,0:57:15.28,0:57:18.01,Lalai,Kus5,0,0,0,,Adakah anda tahu siapa mereka sebenarnya?
+Dialog: 0,0:57:19.41,0:57:21.58,Lalai,Kus5,0,0,0,,Sesetengah keluarga yang melakukan pengkhianatan besar.
+Dialog: 0,0:57:21.58,0:57:24.18,Lalai,Kus5,0,0,0,,Lain-lain adalah penyamun yang menyerang pegawai saintis,
+Dialog: 0,0:57:24.18,0:57:26.69,Lalai,Kus5,0,0,0,,dan sesetengahnya dikehendaki untuk panggilan terbuka terhadap pihak berkuasa.
+Dialog: 0,0:57:27.02,0:57:29.92,Lalai,Kus5,0,0,0,,Mereka semua adalah penentang istana diraja,
+Dialog: 0,0:57:29.92,0:57:31.46,Lalai,Kus5,0,0,0,,tetapi mereka, dalam menyamar,
+Dialog: 0,0:57:31.46,0:57:33.93,Lalai,Kus5,0,0,0,,menjaga Tuanku.
+Dialog: 0,0:57:34.06,0:57:36.16,Lalai,Kus5,0,0,0,,Matlamat utama mereka adalah untuk melakukan rampasan kuasa.
+Dialog: 0,0:57:36.46,0:57:38.46,Lalai,Kus5,0,0,0,,Disebabkan isu yang mendesak, saya tiada pilihan,
+Dialog: 0,0:57:38.46,0:57:40.40,Lalai,Kus5,0,0,0,,kecuali untuk segera memaklumkan Tuanku.
+Dialog: 0,0:57:45.24,0:57:46.31,Lalai,Kus5,0,0,0,,Ini tidak boleh.
+Dialog: 0,0:57:46.31,0:57:49.51,Lalai,Kus5,0,0,0,,Seseorang menuduh pengawal saya secara palsu,
+Dialog: 0,0:57:49.84,0:57:53.15,Lalai,Kus5,0,0,0,,untuk melemahkan pertahanan dan membahayakan saya.
+Dialog: 0,0:57:53.65,0:57:54.88,Lalai,Kus5,0,0,0,,Siapa awak
+Dialog: 0,0:57:56.32,0:57:58.65,Lalai,Kus5,0,0,0,,adakah anda maksudkan seseorang?
+Dialog: 0,0:57:58.82,0:58:02.56,Lalai,Kus5,0,0,0,,Anda, komander tentera Kim Jwageun.
+Dialog: 0,0:58:09.00,0:58:10.36,Lalai,Kus5,0,0,0,,Anda berkelakuan seperti ini,
+Dialog: 0,0:58:10.36,0:58:13.70,Lalai,Kus5,0,0,0,, menyangka bahawa ketiga-tiga puak ini akan menyokong anda?
+Dialog: 0,0:58:14.63,0:58:16.94,Lalai,Kus5,0,0,0,,Adakah anda rasa cukup ucapan manis,
+Dialog: 0,0:58:16.94,0:58:19.17,Lalai,Kus5,0,0,0,,untuk meyakinkan mereka supaya menyebelahi anda?
+Dialog: 0,0:58:20.84,0:58:22.34,Lalai,Kus5,0,0,0,,Awak memang bodoh.
+Dialog: 0,0:58:22.91,0:58:25.08,Lalai,Kus5,0,0,0,,Sudah tiba masanya untuk bangun dan menyedari realiti.
+Dialog: 0,0:58:40.69,0:58:42.23,Lalai,Kus5,0,0,0,,Sungguh kurang ajar!
+Dialog: 0,0:58:45.20,0:58:47.37,Default,Kus5,0,0,0,,Beraninya kamu menghina raja begitu?
+Dialog: 0,0:58:48.03,0:58:51.34,Lalai,Kus5,0,0,0,,Ini adalah pengkhianatan dan pengkhianatan!
+Dialog: 0,0:58:51.34,0:58:53.74,Lalai,Kus5,0,0,0,,Betapa berbezanya Tuanku. bertenang!
+Dialog: 0,0:58:53.74,0:58:56.11,Lalai,Kus5,0,0,0,,Beraninya kamu memerintahkan raja?
+Dialog: 0,0:59:06.69,0:59:10.62,Lalai,Kus5,0,0,0,,Yang Mulia, nampaknya ada sesuatu yang anda harapkan.
+Dialog: 0,0:59:10.79,0:59:13.19,Lalai,Kus5,0,0,0,,Walau apa pun itu,\Anda tidak akan dapat menggunakannya,
+Dialog: 0,0:59:13.96,0:59:16.16,Lalai,Kus5,0,0,0,,jika anda kehilangan anggota badan.
+Dialog: 0,0:59:18.00,0:59:21.03,Lalai,Kus5,0,0,0,,Anda perlu membayar untuk kecerobohan anda.
+Dialog: 0,0:59:26.87,0:59:29.58,Lalai,Kus5,0,0,0,,Atas jenayah kamu kamu akan dipenggal.
+Dialog: 0,0:59:34.31,0:59:37.45,Lalai,Kus5,0,0,0,,Tuanku, kita mesti mengikut undang-undang tentera.
+Dialog: 0,0:59:38.12,0:59:39.49,Lalai,Kus5,0,0,0,,Mereka bersalah melakukan pengkhianatan, yang bermaksud
+Dialog: 0,0:59:39.49,0:59:41.39,Lalai,Kus5,0,0,0,,kes ini di luar bidang kuasa pengawal diraja.
+Dialog: 0,0:59:41.39,0:59:43.32,Lalai,Kus5,0,0,0,,Jabatan Detektif akan menangani isu ini!
+Dialog: 0,0:59:48.86,0:59:49.86,Lalai,Kus5,0,0,0,,Yang Mulia!
+Dialog: 0,0:59:51.23,0:59:52.83, Lalai, Kus5,0,0,0,, Pengawal Diraja akan menguruskan perkara ini!
+Dialog: 0,0:59:52.83,0:59:55.20,Lalai,Kus5,0,0,0,,-Kami membantah, Yang Mulia!\N-Kami membantah, Yang Mulia!
+Dialog: 0,0:59:55.64,0:59:59.34,Lalai,Kus5,0,0,0,,Ketua pengawal diraja tahu siapa mereka sebenarnya!
+Dialog: 0,0:59:59.47,1:00:02.51,Lalai,Kus5,0,0,0,,Mungkin semua orang yang berkawal adalah pengkhianat.
+Dialog: 0,1:00:02.51,1:00:04.81,Lalai,Kus5,0,0,0,,Pengawal diraja tidak boleh dibenarkan untuk menyiasat apa
+Dialog: 0,1:00:04.81,1:00:05.91,Lalai,Kus5,0,0,0,,apa yang berlaku dalam dirinya!
+Dialog: 0,1:00:05.91,1:00:08.75,Lalai,Kus5,0,0,0,,-Ubah keputusan Tuanku!\N-Ubah keputusan Tuanku!
+Dialog: 0,1:00:08.75,1:00:11.18,Lalai,Kus5,0,0,0,,Ubah keputusan Tuanku!
+Dialog: 0,1:00:23.00,1:00:24.56,Lalai,Kus5,0,0,0,,Kita boleh bubarkan pengawal diraja
+Dialog: 0,1:00:24.56,1:00:27.33,Lalai,Kus5,0,0,0,,dan hakim komandernya.
+Dialog: 0,1:00:27.33,1:00:28.37,Lalai,Kus5,0,0,0,,Namun,
+Dialog: 0,1:00:30.04,1:00:32.87,Lalai,Kus5,0,0,0,,jika anda mengarahkan saya untuk menghukum penjenayah,
+Dialog: 0,1:00:33.37,1:00:37.44,Lalai,Kus5,0,0,0,,Saya akan mengambil ini sebagai janji untuk tidak melakukan apa-apa lagi
+Dialog: 0,1:00:38.61,1:00:40.65,Lalai,Kus5,0,0,0,,dan saya akan berhenti di situ.
+Dialog: 0,1:01:04.47,1:01:05.67,Lalai,Kus5,0,0,0,,Apa sahaja yang saya lakukan,
+Dialog: 0,1:01:07.91,1:01:09.11,Lalai,Kus5,0,0,0,,tiada apa yang akan berubah.
+Dialog: 0,1:01:12.35,1:01:14.08,Lalai,Kus5,0,0,0,,Apa yang Tuanku harapkan?
+Dialog: 0,1:01:26.66,1:01:27.73,Lalai,Kus5,0,0,0,,Okay.
+Dialog: 0,1:01:32.67,1:01:34.13,Lalai,Kus5,0,0,0,,Saya berikan kes ini
+Dialog: 0,1:01:38.30,1:01:39.44,Lalai,Kus5,0,0,0,,di tangan anda.
+Dialog: 0,1:04:01.68,1:04:04.28,Lalai,Kus5,0,0,0,,Tuhan Bumi
+Dialog: 0,1:04:05.42,1:04:08.65,Lalai,Kus5,0,0,0,,dan tuan penuaian, saya berdoa kepadamu.
+Dialog: 0,1:04:10.22,1:04:12.26,Lalai,Kus5,0,0,0,,Berkatilah kami,
+Dialog: 0,1:04:13.03,1:04:16.73,Default,Kus5,0,0,0,,semoga hasil tanaman melimpah ruah.
+Dialog: 0,1:04:17.60,1:04:21.10,Lalai,Kus5,0,0,0,,Semoga rahmatMu
+Dialog: 0,1:04:25.34,1:04:27.64,Lalai,Kus5,0,0,0,,untuk membantu penduduk tanah ini\N dan semoga mereka tidak pernah tahu kelaparan selama-lamanya.
+Dialog: 0,1:04:36.82,1:04:37.85,Lalai,Kus5,0,0,0,,Sila.
+Dialog: 0,1:05:29.14,1:05:31.07,Lalai,Kus5,0,0,0,,-Yang Mulia!\N-Yang Mulia!
+Dialog: 0,1:05:47.05,1:05:51.12,Lalai,Kus5,0,0,0,,Bagaimana saya menjadi seorang ratu
+Dialog: 0,1:06:06.91,1:06:09.48,Lalai,Kus5,0,0,0,,Letupan itu merosakkan pendengarannya.
+Dialog: 0,1:06:09.48,1:06:10.54,Lalai,Kus5,0,0,0,,Oh, tidak.
+Dialog: 0,1:06:10.94,1:06:13.15,Lalai,Kus5,0,0,0,,-Tidak akan ada sebarang masalah?\N-Sudah tentu.
+Dialog: 0,1:06:13.15,1:06:14.58,Lalai,Kus5,0,0,0,,Tiada sesiapa di belakang ini?
+Dialog: 0,1:06:14.58,1:06:16.62,Lalai,Kus5,0,0,0,,Saya memutuskan untuk bertahan,
+Dialog: 0,1:06:16.62,1:06:17.82,Lalai,Kus5,0,0,0,,jadi jangan mati.
+Dialog: 0,1:06:17.82,1:06:19.32,Lalai,Kus5,0,0,0,,Pulih seolah-olah tiada apa-apa yang berlaku,
+Dialog: 0,1:06:19.32,1:06:20.59,Lalai,Kus5,0,0,0,,dan saya boleh tikam kamu dari belakang.
+Dialog: 0,1:06:20.59,1:06:23.22,Lalai,Kus5,0,0,0,,Musuh dalaman sentiasa dahsyat.
+Dialog: 0,1:06:23.22,1:06:25.26,Lalai,Kus5,0,0,0,,Yang Mulia! Baginda...{\i}
+Dialog: 0,1:06:25.93,1:06:27.39,Lalai,Kus5,0,0,0,,Baginda...
+Dialog: 0,1:06:27.69,1:06:30.70,Lalai,Kus5,0,0,0,,Saya cadangkan anda hentikan regency.
+Dialog: 0,1:06:30.70,1:06:31.76,Lalai,Kus5,0,0,0,,Yang Mulia!
+Dialog: 0,1:06:31.76,1:06:34.87,Lalai,Kus5,0,0,0,,Semua orang di istana ini membunuh Kim So-yeon.
+Dialog: 0,0:50:08.18,0:50:10.18,Lalai,,0,0,0,,
+
+Comment: 0,0:53:37.22,0:53:38.78,Default,Kus5,0,0,0,,Mari kita jadikan teladan kepada rakyat dengan mengurangkan hidangan.
