@@ -1,2169 +1,2163 @@
 WEBVTT
 
-﻿1
+1
 00:00:11.300 --> 00:00:14.899
-這個多項式要加減法的話
+To add or subtract polynomials,
 
 2
 00:00:14.900 --> 00:00:17.570
-要先知道多項式是什麼
+you first need to know what a polynomial is.
 
 3
 00:00:18.800 --> 00:00:23.660
-首先 單項式是由1個項組成的式子
+First, a monomial is an expression consisting of 1 term.
 
 4
 00:00:24.810 --> 00:00:31.870
-然後 多項式是由1個項以上的幾個項
-組合成的式子
+And a polynomial is an expression
+composed of one or more terms.
 
 5
 00:00:32.980 --> 00:00:37.740
-項是指
-只由數字或字母的次數組成式子…
+A term refers to an expression
+made up only of numbers or variables with exponents...
 
 6
 00:00:42.970 --> 00:00:44.489
-唉 這些榆木腦袋們
+Sigh, these blockheads...
 
 7
 00:00:44.490 --> 00:00:47.079
-都聽不懂是什麼意思 不知道這有什麼意義
+They don't understand what this means or what the point is.
 
 8
 00:00:47.080 --> 00:00:47.860
-唉
+Sigh.
 
 9
 00:00:51.180 --> 00:00:53.239
-來 舉例來說
+Here, for example.
 
 10
 00:00:53.240 --> 00:00:57.800
-假如有個式子是x平方加2x減3這樣
+Let's say there is an expression like $x^2 + 2x - 3$.
 
 11
 00:00:58.310 --> 00:01:00.572
-那這裡總共有幾項
+How many terms are there in total?
 
 12
 00:01:00.573 --> 00:01:02.209
-(單項式是指由1個項組成的式子
-多項式是由1個項以上的幾個項)
+(A monomial is an expression consisting of 1 term.
+A polynomial is composed of 1 or more terms.)
 
 13
 00:01:02.210 --> 00:01:04.349
-(單項式是指由1個項組成的式子
-多項式是由1個項以上的幾個項)
-問你們才是我的錯
+(A monomial is an expression consisting of 1 term.
+A polynomial is composed of 1 or more terms.)
+It's my fault for asking you.
 
 14
 00:01:04.350 --> 00:01:05.080
-(組合成的式子
-項是指只由數字或字母的次數組成)
-問你們才是我的錯
+(composed expression.
+A term is made up only of numbers or variables with exponents)
+It's my fault for asking you.
 
 15
 00:01:05.081 --> 00:01:08.689
-(組合成的式子
-項是指只由數字或字母的次數組成)
-x平方加2x減3
+(composed expression.
+A term is made up only of numbers or variables with exponents)
+$x^2 + 2x - 3$
 
 16
 00:01:08.690 --> 00:01:09.729
-(這些榆木腦袋們
-都聽不懂是什麼意思 不知道這有什麼意義)
-x平方加2x減3
+(These blockheads
+don't understand what this means or what the point is)
+$x^2 + 2x - 3$
 
 17
 00:01:09.730 --> 00:01:12.860
-(這些榆木腦袋們
-都聽不懂是什麼意思 不知道這有什麼意義)
-那就是由3個項組成
+(These blockheads
+don't understand what this means or what the point is)
+Then that consists of 3 terms.
 
 18
 00:01:14.230 --> 00:01:15.630
-雖然可能難以置信
+Although it might be hard to believe,
 
 19
 00:01:16.790 --> 00:01:17.430
-(尹佳敏 流星高工1年級)
+(Yin Jiamin, Meteor Vocational High School 1st Year)
 
 20
 00:01:17.431 --> 00:01:19.200
-(尹佳敏 流星高工1年級)
-但我不擅長讀書
+(Yin Jiamin, Meteor Vocational High School 1st Year)
+I'm not very good at studying.
 
 21
 00:01:28.450 --> 00:01:31.010
-媽媽 讓我補習
+Mom, let me go to cram school.
 
 22
 00:01:33.840 --> 00:01:36.250
-(名次 26/28)
+(Rank: 26/28)
 
 23
 00:01:38.540 --> 00:01:39.919
-媽
+Mom.
 
 24
 00:01:39.920 --> 00:01:41.500
-媽媽 我要上家教
+Mom, I want a private tutor.
 
 25
 00:01:42.750 --> 00:01:43.750
-老師
+Teacher.
 
 26
 00:01:44.420 --> 00:01:46.210
-我現在真的好像懂了
+I think I really understand it now.
 
 27
 00:01:46.960 --> 00:01:48.099
-(名次 278/280)
+(Rank: 278/280)
 
 28
 00:01:48.100 --> 00:01:49.190
-佳敏
+Jiamin.
 
 29
 00:01:51.440 --> 00:01:54.740
-你該不會是畫錯答案卡吧
+Did you bubble in the answer sheet wrong?
 
 30
 00:01:56.650 --> 00:01:58.490
-那所以是我腦袋太笨嗎
+So, is it because I'm just too stupid?
 
 31
 00:01:59.760 --> 00:02:00.990
-不可能
+Impossible.
 
 32
 00:02:01.440 --> 00:02:03.210
-那是因為我不夠努力嗎
+Is it because I'm not working hard enough?
 
 33
 00:02:12.250 --> 00:02:14.220
-(名次 279/280)
+(Rank: 279/280)
 
 34
 00:02:19.890 --> 00:02:22.260
-反正讀書不是人生的全部
+Anyway, studying isn't everything in life.
 
 35
 00:02:24.230 --> 00:02:25.489
-話是這樣說…
+People say that, but...
 
 36
 00:02:25.490 --> 00:02:27.570
-非常想要讀好書的我
+For someone who desperately wants to study well,
 
 37
 00:02:27.940 --> 00:02:29.779
-終於找到方法了
+I finally found a way.
 
 38
 00:02:29.780 --> 00:02:31.679
-好想上大學
+I really want to go to college.
 
 39
 00:02:31.680 --> 00:02:34.199
-你如果這麼想上大學
+If you want to go to college that badly,
 
 40
 00:02:34.200 --> 00:02:35.679
-不如去流星高工
+why not go to Meteor Vocational High School
 
 41
 00:02:35.680 --> 00:02:37.099
-爭取高職的特色招生
+and aim for the vocational special admissions?
 
 42
 00:02:37.100 --> 00:02:43.350
-不如去流星高工 爭取高職的特色招生…
+Why not go to Meteor Vocational High School and aim for the vocational special admissions...
 
 43
 00:02:45.860 --> 00:02:47.369
-喂 你有聽說了嗎
+Hey, did you hear?
 
 44
 00:02:47.370 --> 00:02:50.269
-去流星高工 還不如去死
+I'd rather die than go to Meteor Vocational High School.
 
 45
 00:02:50.270 --> 00:02:51.230
-認同
+Agreed.
 
 46
 00:02:53.760 --> 00:02:55.990
-(歡迎入學流星高工!)
+(Welcome to Meteor Vocational High School!)
 
 47
 00:03:03.070 --> 00:03:06.600
-(流星高級工業學校)
+(Meteor Senior Vocational High School)
 
 48
 00:03:34.510 --> 00:03:37.243
-雖然跟我本來想的 有點…
+Even though it's a bit...
 
 49
 00:03:37.243 --> 00:03:38.280
-不一樣
+different from what I imagined.
 
 50
 00:03:41.800 --> 00:03:45.519
--看屁啊 他X的臭小子 -真的是 X的臭小子
+- What the f*** are you looking at, punk? - Seriously, f***ing punk.
 
 51
 00:03:45.520 --> 00:03:46.430
--過來啊 -死小子
+- Come here! - You little brat!
 
 52
 00:03:46.431 --> 00:03:47.499
--喂 -放馬過來啊
+- Hey! - Bring it on!
 
 53
 00:03:47.500 --> 00:03:50.719
--王八蛋
--總之只要在這的時間裡 拿到好的內審成績
+- Bastard!
+- Anyway, as long as I get good internal grades while I'm here,
 
 54
 00:03:50.720 --> 00:03:51.550
-就能上大學了…
+I can go to college...
 
 55
 00:03:51.551 --> 00:03:53.680
-(名次 219/220)
+(Rank: 219/220)
 
 56
 00:03:54.180 --> 00:03:55.629
-太大意了
+I was too careless.
 
 57
 00:03:55.630 --> 00:03:57.840
-居然光看外表 就有了先入為主的想法
+To think I had preconceived notions just by looking at their appearances.
 
 58
 00:03:58.450 --> 00:04:01.219
-雖然在學校 表現得假裝對成績漠不關心
+Even though they act like they don't care about their grades at school,
 
 59
 00:04:01.220 --> 00:04:03.950
-但大家在家 一定都很努力讀書
+everyone must be studying really hard at home.
 
 60
 00:04:06.190 --> 00:04:07.140
-但是
+However,
 
 61
 00:04:07.520 --> 00:04:08.950
-現在放棄還太早
+it's too early to give up.
 
 62
 00:04:11.520 --> 00:04:13.459
-(即使處於地獄般的情況 我也會創造機會)
-因為對我而言 還有從未嘗試過的
+(Even in a hellish situation, I will create opportunities)
+Because for me, there is still a method I haven't tried yet,
 
 63
 00:04:13.460 --> 00:04:14.420
-(即使處於地獄般的情況 我也會創造機會)
+(Even in a hellish situation, I will create opportunities)
 
 64
 00:04:14.421 --> 00:04:16.270
-最後手段
+my last resort.
 
 65
 00:04:18.710 --> 00:04:19.540
-《流氓讀書會》
+"Study Group"
 
 66
 00:04:21.180 --> 00:04:22.279
-(第三節課 英語領域 單數型)
+(3rd Period: English - Singular Form)
 
 67
 00:04:22.280 --> 00:04:23.850
-(國語領域 第三節課 英語領域 單數型
-數學領域)
+(National Language. 3rd Period: English - Singular Form. Math.)
 
 68
 00:04:30.790 --> 00:04:32.789
-(想讀書的人 來聚集吧!)
+(Those who want to study, gather around!)
 
 69
 00:04:32.790 --> 00:04:34.960
-(黃旼炫)
+(Hwang Min-hyun)
 
 70
 00:04:35.360 --> 00:04:37.259
-(韓智恩)
+(Han Ji-eun)
 
 71
 00:04:37.260 --> 00:04:38.530
-(車禹閔)
+(Cha Woo-min)
 
 72
 00:04:48.510 --> 00:04:49.570
-(李宗賢)
+(Lee Jong-hyun)
 
 73
 00:04:49.910 --> 00:04:51.140
-(申帥賢)
+(Shin Soo-hyun)
 
 74
 00:04:52.080 --> 00:04:54.480
-(尹相貞 孔道宥)
+(Yoon Sang-jeong, Gong Do-yu)
 
 75
 00:04:59.920 --> 00:05:04.789
-《流氓讀書會》
+"Study Group"
 
 76
 00:05:04.790 --> 00:05:06.250
-快去訓練吧
+Go train quickly.
 
 77
 00:05:08.920 --> 00:05:09.860
-不對
+No.
 
 78
 00:05:10.900 --> 00:05:11.840
-不對
+No.
 
 79
 00:05:12.670 --> 00:05:13.830
-他沒有
+He doesn't have it.
 
 80
 00:05:14.450 --> 00:05:15.470
-他也沒有
+He doesn't have it either.
 
 81
 00:05:22.170 --> 00:05:23.609
-找到了
+Found it.
 
 82
 00:05:23.610 --> 00:05:24.850
-讀書的眼神
+The look of wanting to study.
 
 83
 00:05:44.320 --> 00:05:46.380
-我們一起組讀書會吧
+Let's form a study group together.
 
 84
 00:05:48.390 --> 00:05:51.250
-果然是對讀書感興趣的表情
+Just as I thought, that's the expression of someone interested in studying.
 
 85
 00:05:54.760 --> 00:05:55.630
-那個…
+Umm...
 
 86
 00:05:57.170 --> 00:05:59.379
-(173名)
+(Rank 173)
 
 87
 00:05:59.380 --> 00:06:01.090
-你就是170吧
+You must be number 170.
 
 88
 00:06:01.720 --> 00:06:03.770
-跟我打一架吧 混蛋
+Fight me, you bastard.
 
 89
 00:06:09.660 --> 00:06:11.930
-173名大戰170名
+Rank 173 vs Rank 170.
 
 90
 00:06:12.760 --> 00:06:15.920
-是大亂鬥啊
+It's a brawl!
 
 91
 00:06:22.610 --> 00:06:24.839
--起來 -起來 傻子
+- Get up! - Get up, idiot.
 
 92
 00:06:24.840 --> 00:06:26.100
-喂 170
+Hey, 170.
 
 93
 00:06:26.830 --> 00:06:29.499
-你不好好打 我就去學生會告狀
+If you don't fight properly, I'll report you to the student council.
 
 94
 00:06:29.500 --> 00:06:30.270
-知道嗎
+Got it?
 
 95
 00:06:31.020 --> 00:06:33.730
-幹嘛 打架啊 臭小子
+What are you doing? Fight, you punk!
 
 96
 00:06:45.260 --> 00:06:45.830
-上啊
+Go!
 
 97
 00:06:45.831 --> 00:06:48.960
--什麼啊 結束了嗎 -很會裝痛欸
+- What? Is it over? - You're really good at faking it.
 
 98
 00:06:50.760 --> 00:06:53.579
-真的有夠無趣的 X的
+This is so f***ing boring.
 
 99
 00:06:53.580 --> 00:06:55.029
-這小子是在裝痛啊
+This guy is pretending to be hurt.
 
 100
 00:06:55.030 --> 00:06:56.360
-173名獲勝
+Rank 173 wins!
 
 101
 00:06:59.010 --> 00:07:00.289
-認證囉
+Verified.
 
 102
 00:07:00.290 --> 00:07:02.509
-沒有 還可以再來…
+No, we can go again...
 
 103
 00:07:02.510 --> 00:07:03.140
-(173名升至170名)
-沒有 還可以再來…
+(Rank 173 rises to 170)
+No, we can go again...
 
 104
 00:07:03.141 --> 00:07:04.740
-(173名升至170名)
-如果要這樣 幹嘛打架
+(Rank 173 rises to 170)
+If you're going to be like this, why fight?
 
 105
 00:07:05.540 --> 00:07:08.179
-(170名降至171名)
+(Rank 170 drops to 171)
 
 106
 00:07:08.180 --> 00:07:09.579
-(169名 趙京勳 170名 金輝奎 171名 金世炫)
+(Rank 169 Jo Kyung-hoon, Rank 170 Kim Hwi-kyu, Rank 171 Kim Se-hyun)
 
 107
 00:07:09.580 --> 00:07:12.250
--啊 -這是怎樣 -有夠無聊
+- Ah - What's this? - So boring.
 
 108
 00:07:12.950 --> 00:07:14.499
-都打鐘多久了
+How long has it been since the bell rang?
 
 109
 00:07:14.500 --> 00:07:16.329
-坐下吧 臭小子們
+Sit down, you punks.
 
 110
 00:07:16.330 --> 00:07:17.990
-訓導主任
+The Dean of Students.
 
 111
 00:07:21.280 --> 00:07:22.310
-還好嗎
+Are you okay?
 
 112
 00:07:27.100 --> 00:07:28.270
-來 注意
+Everyone, attention.
 
 113
 00:07:28.770 --> 00:07:33.589
-朴浩振老師突然因為私事 暫時停職了
+Teacher Park Ho-jin suddenly took a temporary leave of absence for personal reasons.
 
 114
 00:07:33.590 --> 00:07:38.960
-所以從今天開始 新來了一位老師
-擔任你們班的班導
+So starting today, a new teacher has arrived
+to be your homeroom teacher.
 
 115
 00:07:40.250 --> 00:07:41.210
-請打個招呼吧
+Please say hello.
 
 116
 00:07:44.700 --> 00:07:49.390
-我是從今天起擔任一年四班班導的李瀚瓊
+I am Lee Han-kyung, taking over as the homeroom teacher for Class 1-4 starting today.
 
 117
 00:07:49.860 --> 00:07:50.850
-很高興見到你們
+Nice to meet you all.
 
 118
 00:07:52.810 --> 00:07:55.130
-嗯 瀚瓊老師嗎
+Hmm, Teacher Han-kyung?
 
 119
 00:07:55.860 --> 00:07:59.669
-我總有一天也會變得很會讀書嗎
+Will I eventually become really good at studying too?
 
 120
 00:07:59.670 --> 00:08:00.890
-當然
+Of course.
 
 121
 00:08:01.680 --> 00:08:03.010
-你有天賦
+You have talent.
 
 122
 00:08:04.650 --> 00:08:05.650
-我嗎
+Me?
 
 123
 00:08:06.540 --> 00:08:07.870
-這就是你的天賦
+This is your talent.
 
 124
 00:08:09.270 --> 00:08:10.660
-這個最終
+This will ultimately
 
 125
 00:08:12.810 --> 00:08:14.080
-會贏過這個
+win against this.
 
 126
 00:08:14.660 --> 00:08:16.209
-好 那麼
+Alright, then
 
 127
 00:08:16.210 --> 00:08:18.020
-我來點名
+I'll take roll call.
 
 128
 00:08:18.540 --> 00:08:19.820
-申亨旭
+Shin Hyung-wook.
 
 129
 00:08:20.180 --> 00:08:21.870
-去抽菸了
+Went to smoke.
 
 130
 00:08:22.430 --> 00:08:23.430
-喔 是嗎
+Oh, is that so?
 
 131
 00:08:24.600 --> 00:08:25.650
-那就曠課
+Then he's absent.
 
 132
 00:08:26.870 --> 00:08:27.990
-劉勝延
+Yoo Seung-yeon.
 
 133
 00:08:38.320 --> 00:08:39.379
-啊 X的
+Ah, f***.
 
 134
 00:08:39.380 --> 00:08:41.940
-我要睏死了 還他X的這麼吵
+I'm dying for sleep and it's so f***ing noisy.
 
 135
 00:08:42.510 --> 00:08:43.710
-哪個小子
+Which punk is it?
 
 136
 00:08:44.420 --> 00:08:46.050
-放屁的小子不出來是不是
+The punk who farted, aren't you going to show yourself?
 
 137
 00:09:04.350 --> 00:09:05.950
-喂 你在做什麼
+Hey, what are you doing?
 
 138
 00:09:08.310 --> 00:09:09.970
-你要謝謝老師救了你
+You should thank the teacher for saving you.
 
 139
 00:09:13.080 --> 00:09:14.680
-我說你 李賢宇
+I'm talking to you, Lee Hyun-woo.
 
 140
 00:09:15.470 --> 00:09:19.479
-你他X的剛才丟的是我的咖啡嗎
+Did you just f***ing throw my coffee?
 
 141
 00:09:19.480 --> 00:09:21.760
--'他X' -對 你他X的
+- "F***ing"? - Yes, you f***er.
 
 142
 00:09:29.860 --> 00:09:30.989
-喂 你要賭誰
+Hey, who are you betting on?
 
 143
 00:09:30.990 --> 00:09:32.489
-當然是李賢宇啊 靠
+Of course it's Lee Hyun-woo, damn it.
 
 144
 00:09:32.490 --> 00:09:33.390
-神經病 那分紅很低啊
+Are you crazy? The payout for that is too low.
 
 145
 00:09:33.391 --> 00:09:34.960
-你別只會賭熱門的
+Don't just bet on the favorites.
 
 146
 00:09:47.490 --> 00:09:48.850
-回座位坐好
+Go back to your seat and sit down.
 
 147
 00:09:55.940 --> 00:09:58.510
-喂 你們沒聽到老師說話嗎
+Hey, didn't you hear the teacher talking?
 
 148
 00:10:11.720 --> 00:10:12.800
-哎 真是
+Sigh, seriously.
 
 149
 00:10:38.550 --> 00:10:39.600
-老師
+Teacher.
 
 150
 00:10:43.440 --> 00:10:45.630
-你是…
+You are...
 
 151
 00:10:46.370 --> 00:10:47.650
-佳敏
+Jiamin.
 
 152
 00:10:48.970 --> 00:10:51.136
-(流星工業高中)
+(Meteor Vocational High School)
 
 153
 00:10:51.570 --> 00:10:53.919
-怎麼回事 這麼久不見你長大好多
+What happened? You've grown so much since I last saw you.
 
 154
 00:10:53.920 --> 00:10:55.390
-我都認不出你了
+I almost couldn't recognize you.
 
 155
 00:10:58.510 --> 00:11:00.289
-不過那時候
+But back then,
 
 156
 00:11:00.290 --> 00:11:02.789
-我突然辭職不告而別
+I suddenly quit without saying goodbye.
 
 157
 00:11:02.790 --> 00:11:04.210
-你應該很不知所措吧
+You must have been very confused.
 
 158
 00:11:06.710 --> 00:11:07.850
-對 有點
+Yeah, a little.
 
 159
 00:11:08.400 --> 00:11:10.990
-對不起 因為有點事情
+I'm sorry, something came up.
 
 160
 00:11:11.510 --> 00:11:12.650
-沒關係
+It's okay.
 
 161
 00:11:17.160 --> 00:11:19.459
-不過老師
+But Teacher.
 
 162
 00:11:19.460 --> 00:11:20.340
-嗯
+Yes?
 
 163
 00:11:20.980 --> 00:11:23.090
-妳要繼續待在這裡任教嗎
+Are you going to continue teaching here?
 
 164
 00:11:23.720 --> 00:11:25.140
-嗯 怎麼了嗎
+Yes, why?
 
 165
 00:11:25.720 --> 00:11:27.299
-因為之前的班導
+Because the previous homeroom teacher
 
 166
 00:11:27.300 --> 00:11:29.969
-也撐不到一個月就辭職不做了
+also quit before even lasting a month.
 
 167
 00:11:29.970 --> 00:11:31.620
-我今天才第一天耶
+Today is only my first day!
 
 168
 00:11:32.190 --> 00:11:33.979
--什麼 -很丟臉啊
+- What? - It's embarrassing!
 
 169
 00:11:33.980 --> 00:11:35.300
-第一天就辭職
+Quitting on the first day.
 
 170
 00:11:36.010 --> 00:11:37.660
-但還是…
+But still...
 
 171
 00:11:39.900 --> 00:11:41.329
-謝謝你
+Thank you.
 
 172
 00:11:41.330 --> 00:11:44.260
-變得這麼懂事 還知道要擔心老師
+You've become so mature, even knowing how to worry about your teacher.
 
 173
 00:11:46.420 --> 00:11:47.310
-不過那個
+By the way,
 
 174
 00:11:47.311 --> 00:11:50.220
-那你最近書讀得怎麼樣
+how have your studies been going lately?
 
 175
 00:11:51.410 --> 00:11:53.930
-我正在準備一項計畫
+I am preparing for a project.
 
 176
 00:12:25.490 --> 00:12:27.370
-(圖書館)
+(Library)
 
 177
 00:12:33.830 --> 00:12:35.199
-哇
+Wow.
 
 178
 00:12:35.200 --> 00:12:37.630
-原來我們學校有這種好地方啊
+I didn't know our school had such a nice place.
 
 179
 00:12:38.760 --> 00:12:41.880
-要是能有一起讀書的朋友該有多好
+How great would it be if I had friends to study with.
 
 180
 00:12:47.380 --> 00:12:49.889
-這個人也是跟朋友一起讀書
+This person also studied with friends,
 
 181
 00:12:49.890 --> 00:12:51.649
-才變成這樣啊
+and that's how they turned out like this.
 
 182
 00:12:51.650 --> 00:12:52.770
-真羨慕
+I'm so jealous.
 
 183
 00:12:53.360 --> 00:12:55.770
-但是我沒有能一起讀書的朋友啊
+But I don't have any friends to study with.
 
 184
 00:13:00.900 --> 00:13:02.290
-聽說這能醒腦
+I heard this wakes up the brain.
 
 185
 00:13:17.470 --> 00:13:20.930
-奇怪 昨天明明懂了 怎麼突然又不懂了
+That's weird. I understood it yesterday, why don't I get it suddenly?
 
 186
 00:13:24.520 --> 00:13:26.909
-如果有人能教我這一題就太好了
+It would be great if someone could teach me this question.
 
 187
 00:13:26.910 --> 00:13:28.270
-拜託
+Please.
 
 188
 00:13:30.320 --> 00:13:31.320
-對不起
+I'm sorry.
 
 189
 00:14:02.300 --> 00:14:04.339
-喂 好啦 拿過來
+Hey, fine, bring it here.
 
 190
 00:14:04.340 --> 00:14:06.180
-但我教你之後就別再煩我了
+But after I teach you, don't bother me again.
 
 191
 00:14:08.570 --> 00:14:11.789
-所以0.9999是
+So 0.9999 is
 
 192
 00:14:11.790 --> 00:14:12.610
-1
+1.
 
 193
 00:14:13.720 --> 00:14:14.769
-行了吧
+Got it?
 
 194
 00:14:14.770 --> 00:14:17.549
-但是不管0.9999變得再長
+But no matter how long 0.9999 gets,
 
 195
 00:14:17.550 --> 00:14:19.030
-也跟1是不一樣的啊
+it's still different from 1.
 
 196
 00:14:21.360 --> 00:14:22.320
-看好了
+Watch closely.
 
 197
 00:14:23.350 --> 00:14:25.040
-這裡有一塊蛋糕
+Here is a piece of cake.
 
 198
 00:14:27.020 --> 00:14:28.659
-但是把這個切成3等分
+But if you cut this into 3 equal parts,
 
 199
 00:14:28.660 --> 00:14:30.620
-那麼一片蛋糕的大小是多少
+how big is one piece of cake?
 
 200
 00:14:31.290 --> 00:14:33.509
--3分之1 -沒錯
+- 1/3 - Exactly.
 
 201
 00:14:33.510 --> 00:14:34.519
-那麼把3分之1換成小數呢
+Then what is 1/3 converted to a decimal?
 
 202
 00:14:34.520 --> 00:14:36.149
--0.33 -沒錯
+- 0.33 - Exactly.
 
 203
 00:14:36.150 --> 00:14:37.040
-那麼再把3片蛋糕合起來
+Then if you combine 3 pieces of cake again,
 
 204
 00:14:37.040 --> 00:14:38.040
-那會變成什麼
+what does it become?
 
 205
 00:14:38.790 --> 00:14:40.560
--會變成一塊蛋糕吧 -對
+- It becomes one whole cake, right? - Yes.
 
 206
 00:14:41.080 --> 00:14:45.219
-把原本3個0.3333加起來是0.9999
+Adding the original three 0.3333s gives 0.9999,
 
 207
 00:14:45.220 --> 00:14:46.690
-結果變成了1
+and the result becomes 1.
 
 208
 00:14:48.540 --> 00:14:50.579
-奇怪 怎麼了嗎 哪裡…
+Weird, what's wrong? Where...
 
 209
 00:14:50.580 --> 00:14:51.879
-哪裡讓你搞不懂了
+Where are you getting confused?
 
 210
 00:14:51.880 --> 00:14:52.900
-但是
+But
 
 211
 00:14:54.070 --> 00:14:55.300
-這裡沾到的呢
+what about the part smeared here?
 
 212
 00:14:55.710 --> 00:14:56.590
-什麼
+What?
 
 213
 00:15:02.170 --> 00:15:05.170
-不是 什麼
+No, what?
 
 214
 00:15:08.310 --> 00:15:09.430
-所以呢
+So what?
 
 215
 00:15:09.910 --> 00:15:10.830
-什麼
+What?
 
 216
 00:15:11.970 --> 00:15:13.359
-也就是說 那個…
+In other words, um...
 
 217
 00:15:13.360 --> 00:15:15.190
-這裡畢竟是學校
+This is a school after all.
 
 218
 00:15:15.700 --> 00:15:18.509
-把鐵桶放在各個地方當作菸灰缸
+Placing metal buckets everywhere as ashtrays,
 
 219
 00:15:18.510 --> 00:15:20.370
-這樣不太妥當吧
+that's not very appropriate, is it?
 
 220
 00:15:21.810 --> 00:15:23.670
-單憑這樣就行了嗎
+Will just doing that be enough?
 
 221
 00:15:24.040 --> 00:15:24.610
-什麼
+What?
 
 222
 00:15:24.611 --> 00:15:26.899
-只要把鐵桶都收掉
+If we just remove all the metal buckets,
 
 223
 00:15:26.900 --> 00:15:29.620
-學生們就會戒菸了嗎
+will the students quit smoking?
 
 224
 00:15:30.850 --> 00:15:34.320
-我自己都抽了40年也戒不掉
+I've been smoking for 40 years myself and still can't quit.
 
 225
 00:15:38.500 --> 00:15:41.159
-可是 副校長
+But, Vice Principal.
 
 226
 00:15:41.160 --> 00:15:43.230
-學校在法律上…
+Legally, the school...
 
 227
 00:15:45.800 --> 00:15:47.350
-李瀚瓊老師
+Teacher Lee Han-kyung.
 
 228
 00:15:48.120 --> 00:15:50.639
-與其操心那區區一個鐵桶
+Instead of worrying about a mere metal bucket,
 
 229
 00:15:50.640 --> 00:15:52.739
-不如多考慮一下怎麼不讓上頭不高興
+wouldn't it be better to think more about how not to upset the higher-ups?
 
 230
 00:15:52.740 --> 00:15:55.630
-對妳的轉正應該更有幫助吧
+It should be more helpful for you to become a permanent teacher.
 
 231
 00:15:56.920 --> 00:15:57.979
-對不起
+I'm sorry.
 
 232
 00:15:57.980 --> 00:15:59.970
-也沒什麼好對不起的
+There's nothing to be sorry about.
 
 233
 00:16:03.150 --> 00:16:05.969
-妳想收掉的話 就自己去收吧
+If you want to remove them, go remove them yourself.
 
 234
 00:16:05.970 --> 00:16:09.780
-我會在後面全力支持妳的
+I will fully support you from behind.
 
 235
 00:16:10.250 --> 00:16:11.470
-加油
+Cheer up.
 
 236
 00:16:18.030 --> 00:16:20.320
-哇 你真厲害
+Wow, you're amazing.
 
 237
 00:16:21.340 --> 00:16:22.999
-怎麼有辦法一字不漏地…
+How can you memorize it word for word...
 
 238
 00:16:23.000 --> 00:16:24.569
-我對抄筆記可是很認真…
+I'm very serious about taking notes...
 
 239
 00:16:24.570 --> 00:16:26.940
-不是 這明明是數學啊
+No, this is clearly math.
 
 240
 00:16:27.580 --> 00:16:28.610
-那又怎樣
+So what?
 
 241
 00:16:29.240 --> 00:16:31.370
-哪知道考試會考到什麼
+You never know what will be on the exam.
 
 242
 00:16:35.530 --> 00:16:38.040
-我本來不想這麼說的
+I originally didn't want to say this.
 
 243
 00:16:38.850 --> 00:16:40.970
--說什麼 -但我覺得
+- Say what? - But I think,
 
 244
 00:16:42.490 --> 00:16:43.880
-你是笨蛋
+you're an idiot.
 
 245
 00:16:55.060 --> 00:16:56.070
-但是
+But,
 
 246
 00:16:56.650 --> 00:16:59.200
-你為什麼想把書讀好
+why do you want to be good at studying?
 
 247
 00:17:00.040 --> 00:17:01.940
-就是想讀好
+I just want to be good at it.
 
 248
 00:17:03.470 --> 00:17:04.779
-你不也一樣嗎
+Aren't you the same?
 
 249
 00:17:04.780 --> 00:17:05.710
-我嗎
+Me?
 
 250
 00:17:06.400 --> 00:17:07.560
-我沒有啊
+I'm not.
 
 251
 00:17:07.960 --> 00:17:08.860
-騙人
+Liar.
 
 252
 00:17:08.861 --> 00:17:10.879
-奇怪 我都說沒有了 你憑什麼說我騙人
+Weird, I already said I'm not. Why are you calling me a liar?
 
 253
 00:17:10.880 --> 00:17:13.079
-看你因為讀太多書而微駝的烏龜頸
+Look at your forward head posture from studying too much,
 
 254
 00:17:13.080 --> 00:17:16.059
-還有因為寫太多字而長繭的右手中指
+and the calluses on your right middle finger from writing too much,
 
 255
 00:17:16.060 --> 00:17:19.269
-再加上為了看書不刺眼
-而剪到合適長度的瀏海
+plus your bangs cut to a suitable length so it doesn't poke your eyes when reading.
 
 256
 00:17:19.270 --> 00:17:20.560
-還有最重要的是
+And most importantly,
 
 257
 00:17:22.690 --> 00:17:23.840
-你那雙眼神
+that look in your eyes.
 
 258
 00:17:24.670 --> 00:17:26.040
-你明明就想讀書
+You clearly want to study.
 
 259
 00:17:27.540 --> 00:17:29.850
-我們一起組讀書會吧
+Let's form a study group together.
 
 260
 00:17:30.290 --> 00:17:31.930
--什麼 -讀書會
+- What? - A study group.
 
 261
 00:17:35.450 --> 00:17:36.899
-喂 原來你不是普通的笨蛋
+Hey, turns out you're not just a regular idiot,
 
 262
 00:17:36.900 --> 00:17:39.149
-而是個超級大笨蛋啊
+you're a massive idiot.
 
 263
 00:17:39.150 --> 00:17:40.449
-讀書會嗎
+A study group?
 
 264
 00:17:40.450 --> 00:17:41.719
-這裡可是流星高工
+This is Meteor Vocational High School.
 
 265
 00:17:41.720 --> 00:17:43.719
-你覺得皮韓蔚會坐視不管嗎
+Do you think Pi Han-wool will just sit back and watch?
 
 266
 00:17:43.720 --> 00:17:44.920
-皮韓蔚嗎
+Pi Han-wool?
 
 267
 00:17:52.990 --> 00:17:54.669
-製作這個排名app的人
+The creator of this ranking app.
 
 268
 00:17:54.670 --> 00:17:55.709
-這是什麼
+What is this?
 
 269
 00:17:55.710 --> 00:17:57.039
-這你也不知道嗎
+You don't even know this?
 
 270
 00:17:57.040 --> 00:17:58.570
-不知道 這是什麼
+I don't know. What is this?
 
 271
 00:18:03.290 --> 00:18:07.139
-以極度殘忍聞名的全國性黑幫延白幫
+The national gang known for its extreme cruelty, the Yeonbaek Gang.
 
 272
 00:18:07.140 --> 00:18:09.349
-他既是幫派首領皮延白會長的兒子
+He is both the son of the gang's boss, Chairman Pi Yeon-baek,
 
 273
 00:18:09.350 --> 00:18:11.000
-也是這所學校的全校排名第一
+and the number one ranker in this school.
 
 274
 00:18:13.090 --> 00:18:14.809
-創建這個排名app
+The culprit who created this ranking app,
 
 275
 00:18:14.810 --> 00:18:17.229
-讓大家為打架排名賭上性命的罪魁禍首
+making everyone risk their lives for fighting ranks,
 
 276
 00:18:17.230 --> 00:18:18.430
-就是皮韓蔚
+is Pi Han-wool.
 
 277
 00:18:18.880 --> 00:18:20.919
-那跟我們讀書有什麼關係
+What does that have to do with us studying?
 
 278
 00:18:20.920 --> 00:18:21.960
-我是說…
+What I mean is...
 
 279
 00:18:22.340 --> 00:18:24.660
-在這所學校讀書是不可能的
+Studying at this school is impossible.
 
 280
 00:18:26.090 --> 00:18:27.960
-(流星高級工業學校 高一分班考試)
+(Meteor Senior Vocational High School - 1st Year Placement Exam)
 
 281
 00:18:34.200 --> 00:18:36.430
-(流星高級工業學校 排名 2/220)
+(Meteor Senior Vocational High School Rank 2/220)
 
 282
 00:18:39.550 --> 00:18:41.509
-我們一起組讀書會吧
+Let's form a study group together.
 
 283
 00:18:41.510 --> 00:18:43.320
-一起讀書上大學吧
+Let's study together and go to college.
 
 284
 00:18:47.980 --> 00:18:52.720
-(流星高級工業學校 高一分班考試
-排名 2/220)
+(Meteor Senior Vocational High School 1st Year Placement Exam
+Rank 2/220)
 
 285
 00:19:05.960 --> 00:19:07.060
-給我滾
+Get lost.
 
 286
 00:19:08.250 --> 00:19:10.680
--世炫 -我叫你滾開 X的
+- Se-hyun - I told you to get lost, f***.
 
 287
 00:19:11.100 --> 00:19:12.540
-我不讀書
+I don't study.
 
 288
 00:19:13.020 --> 00:19:14.509
-適可而止吧 你懂什麼啊
+Cut it out. What do you even know?
 
 289
 00:19:14.510 --> 00:19:16.989
--世炫 我只是…
--X的 你明明什麼都不知道
+- Se-hyun, I just...
+- F***, you don't know anything.
 
 290
 00:19:16.990 --> 00:19:18.930
-不要隨隨便便就開口要我讀書
+Don't just casually tell me to study.
 
 291
 00:19:22.560 --> 00:19:23.660
-X的
+F***.
 
 292
 00:19:33.440 --> 00:19:36.120
-高二八班 皮韓蔚
+Class 2-8, Pi Han-wool.
 
 293
 00:19:54.360 --> 00:19:57.329
-該學生成績優異
+This student has excellent grades,
 
 294
 00:19:57.330 --> 00:19:59.569
-在各方面都成為其他學生的楷模
+and serves as a model for other students in all aspects.
 
 295
 00:19:59.570 --> 00:20:01.560
-特此頒發本獎狀
+I hereby present this certificate.
 
 296
 00:20:01.900 --> 00:20:04.350
-(2024年成績特優獎學金證書頒獎典禮)
+(2024 Academic Excellence Scholarship Certificate Award Ceremony)
 
 297
 00:20:05.370 --> 00:20:11.860
--皮韓蔚 -皮韓蔚
+- Pi Han-wool - Pi Han-wool
 
 298
 00:20:23.590 --> 00:20:26.150
-真是的 我都叫你適可而止了
+Seriously, I told you to cut it out.
 
 299
 00:20:30.260 --> 00:20:32.740
-不是…我不是在說你
+No... I wasn't talking about you.
 
 300
 00:20:37.410 --> 00:20:39.529
-171名的廢物
+Rank 171 trash.
 
 301
 00:20:39.530 --> 00:20:41.129
-這是在找我麻煩嗎
+Are you trying to pick a fight with me?
 
 302
 00:20:41.130 --> 00:20:43.080
-抱歉
+Sorry.
 
 303
 00:20:46.350 --> 00:20:47.260
-說聲抱歉就能了事嗎
+Do you think just saying sorry will settle it?
 
 304
 00:20:47.261 --> 00:20:49.289
-真的不是你想的那樣
+It's really not what you think.
 
 305
 00:20:49.290 --> 00:20:50.950
-既然覺得抱歉 那就要補償我啊
+Since you feel sorry, you should compensate me.
 
 306
 00:20:51.580 --> 00:20:53.300
-明天之前帶20萬韓元過來
-(註:約為新台幣4557元)
+Bring 200,000 won by tomorrow.
 
 307
 00:20:54.250 --> 00:20:56.470
-那個…錢…
+Um... money...
 
 308
 00:20:59.050 --> 00:21:01.740
-X的 嘴上說著抱歉
+F***. Saying sorry with your mouth,
 
 309
 00:21:02.240 --> 00:21:03.940
-結果到最後都做著對不起我的事呢
+but ending up doing things that wrong me in the end.
 
 310
 00:21:05.400 --> 00:21:06.489
-喂 拿一支球棒過來
+Hey, bring me a baseball bat.
 
 311
 00:21:06.490 --> 00:21:07.700
-這傢伙還沒搞清楚狀況
+This guy hasn't grasped the situation yet.
 
 312
 00:21:08.060 --> 00:21:08.880
-球棒嗎
+A baseball bat?
 
 313
 00:21:30.610 --> 00:21:31.490
-喂 會痛嗎
+Hey, does it hurt?
 
 314
 00:21:35.650 --> 00:21:36.950
-這傢伙好像哭了欸
+Seems like this guy is crying.
 
 315
 00:21:39.130 --> 00:21:40.870
-那個 老師
+Um, Teacher.
 
 316
 00:21:56.680 --> 00:21:57.890
-我來吧
+I'll do it.
 
 317
 00:21:58.470 --> 00:22:02.319
-世炫是我們讀書會的儲備成員
+Se-hyun is a prospective member of our study group.
 
 318
 00:22:02.320 --> 00:22:03.320
-起來
+Get up.
 
 319
 00:22:05.020 --> 00:22:07.070
-這傢伙在耍小聰明呢
+This guy is trying to be smart.
 
 320
 00:23:03.780 --> 00:23:04.840
-你還好嗎
+Are you okay?
 
 321
 00:23:07.830 --> 00:23:09.830
-你到底為什麼要這樣搞我
+Why exactly are you messing with me like this?
 
 322
 00:23:10.360 --> 00:23:12.720
--什麼 -我不是讓你別管我嗎
+- What? - Didn't I tell you to leave me alone?
 
 323
 00:23:13.180 --> 00:23:14.570
-你為什麼總是這樣
+Why do you always do this?
 
 324
 00:23:15.080 --> 00:23:16.639
-我只是想幫你
+I just wanted to help you.
 
 325
 00:23:16.640 --> 00:23:19.350
-你只是幫個忙後感到心滿意足
-然後就沒事了吧
+You just feel satisfied after helping out,
+and then you're done, right?
 
 326
 00:23:24.240 --> 00:23:25.379
-什麼意思…
+What do you mean...
 
 327
 00:23:25.380 --> 00:23:26.450
-無法理解嗎
+Can't you understand?
 
 328
 00:23:26.910 --> 00:23:28.530
-我已經快被打完了
+I was almost done getting beaten up.
 
 329
 00:23:29.160 --> 00:23:31.630
-但是就這樣逃走的話
+But if I just run away like this,
 
 330
 00:23:32.700 --> 00:23:35.640
-你沒想過我會被他們盯上
-三不五時就被欺負嗎
+haven't you thought about how I'll be targeted by them
+and bullied all the time?
 
 331
 00:23:38.500 --> 00:23:40.430
-讀書嗎 很好啊
+Studying? That's great.
 
 332
 00:23:40.920 --> 00:23:44.860
-我也想像你一樣 開口閉口都是讀書
+I also want to be like you, talking about studying all the time.
 
 333
 00:23:46.130 --> 00:23:47.160
-但是這個…
+But this...
 
 334
 00:23:48.430 --> 00:23:51.130
-對我來說是比讀書更重要的生存問題
+For me, it's a survival issue more important than studying.
 
 335
 00:24:26.490 --> 00:24:27.730
-喂 那傢伙在哪裡
+Hey, where is that guy?
 
 336
 00:24:35.660 --> 00:24:36.490
-你說誰
+Who are you talking about?
 
 337
 00:24:39.290 --> 00:24:40.890
-你在跟我開玩笑嗎
+Are you kidding me?
 
 338
 00:24:42.650 --> 00:24:44.240
-那個噴滅火器的傢伙
+The guy who sprayed the fire extinguisher.
 
 339
 00:24:44.890 --> 00:24:46.060
-他是我們班的吧
+Is he from our class?
 
 340
 00:24:46.860 --> 00:24:48.160
-我也沒看清楚
+I didn't see clearly either.
 
 341
 00:24:49.980 --> 00:24:51.890
-給我起來 他X的臭小子
+Get up, you f***ing punk.
 
 342
 00:24:57.650 --> 00:24:59.060
-我問你最後一次
+I'll ask you one last time.
 
 343
 00:25:00.160 --> 00:25:01.490
-那傢伙在哪裡
+Where is that guy?
 
 344
 00:25:03.140 --> 00:25:04.380
-很抱歉
+I'm very sorry.
 
 345
 00:25:05.090 --> 00:25:06.210
-我真的不知道
+I really don't know.
 
 346
 00:25:18.060 --> 00:25:20.699
-俗話說'健全的心靈寓於健全的身體'
+As the saying goes, 'A sound mind in a sound body.'
 
 347
 00:25:20.700 --> 00:25:22.439
-因為想要成為學霸
+Because I wanted to become a top student,
 
 348
 00:25:22.440 --> 00:25:24.119
-從小學三年級到現在為止
+from third grade until now,
 
 349
 00:25:24.120 --> 00:25:26.799
-我便天天運動 從未間斷
+I have exercised every day without interruption.
 
 350
 00:25:26.800 --> 00:25:31.249
-佳敏 你所有天賦果然都集中在身體上
+Jiamin, all your talent is indeed concentrated in your physical abilities.
 
 351
 00:25:31.250 --> 00:25:32.509
-所以相較於讀書
+So compared to studying,
 
 352
 00:25:32.510 --> 00:25:33.659
-(翰林體育館)
-所以相較於讀書
+(Hanlim Gymnasium)
+So compared to studying,
 
 353
 00:25:33.660 --> 00:25:38.620
-(翰林體育館)
-你要不要跟隨叔叔 走上習武之路
+(Hanlim Gymnasium)
+do you want to follow your uncle and take the path of martial arts?
 
 354
 00:25:39.630 --> 00:25:40.949
-看看這傢伙
+Look at this kid.
 
 355
 00:25:40.950 --> 00:25:41.960
-挺厲害的嘛
+Pretty impressive, huh.
 
 356
 00:25:49.450 --> 00:25:50.370
-喂
+Hey.
 
 357
 00:25:50.910 --> 00:25:51.870
-你沒事吧
+Are you alright?
 
 358
 00:25:54.210 --> 00:25:56.020
-喔 謝天謝地
+Oh, thank goodness.
 
 359
 00:26:04.980 --> 00:26:06.570
-你不要有其他顧慮
+Don't have any other worries.
 
 360
 00:26:07.190 --> 00:26:08.930
-跟我一起組讀書會吧
+Form a study group with me.
 
 361
 00:26:16.760 --> 00:26:17.690
-不要
+No.
 
 362
 00:26:29.610 --> 00:26:32.240
-我說我不要 我不幹
+I said no. I won't do it.
 
 363
 00:26:35.930 --> 00:26:36.730
-為什麼
+Why?
 
 364
 00:26:36.731 --> 00:26:38.739
-老實說 你也沒信心吧
+Honestly, you don't have confidence either, do you?
 
 365
 00:26:38.740 --> 00:26:39.470
-什麼
+What?
 
 366
 00:26:39.471 --> 00:26:41.080
-幹嘛裝作不知道
+Why pretend you don't know?
 
 367
 00:26:41.940 --> 00:26:43.860
-所以你才會戴面罩吧
+That's why you wear a mask, right?
 
 368
 00:26:45.350 --> 00:26:47.560
-因為你害怕被他們盯上
+Because you're afraid of being targeted by them.
 
 369
 00:27:40.590 --> 00:27:42.130
-好好學焊接
+Learn welding properly.
 
 370
 00:27:48.500 --> 00:27:50.030
-你怎麼不回答
+Why aren't you answering?
 
 371
 00:27:50.510 --> 00:27:51.660
-知道了
+Got it.
 
 372
 00:27:54.700 --> 00:27:56.979
-上大學根本就沒用
+Going to college is completely useless.
 
 373
 00:27:56.980 --> 00:27:58.419
-不久前來工地工作的老么
+The youngest guy who came to work at the construction site recently,
 
 374
 00:27:58.420 --> 00:28:00.450
-也是從4年制大學出來的
+also graduated from a 4-year university.
 
 375
 00:28:02.880 --> 00:28:05.749
-人要有技術才會被禮遇
+You have to have skills to be respected.
 
 376
 00:28:05.750 --> 00:28:06.640
-知道了嗎
+Understood?
 
 377
 00:28:13.800 --> 00:28:16.270
-我已經聽懂了 你可以別說了嗎
+I understand already, can you stop talking about it?
 
 378
 00:28:18.110 --> 00:28:20.020
-我不是沒在讀書了嗎
+Aren't I not studying anymore?
 
 379
 00:28:20.670 --> 00:28:23.329
-我會去學焊接 不會上大學
+I will learn welding and won't go to college.
 
 380
 00:28:23.330 --> 00:28:25.550
-所以我才會來讀流星高工
+That's why I came to Meteor Vocational High School.
 
 381
 00:28:26.340 --> 00:28:28.160
-你這小子還敢頂嘴
+You little brat, how dare you talk back.
 
 382
 00:29:16.940 --> 00:29:20.710
-(數學錯題筆記 金世炫)
+(Math Mistakes Notebook, Kim Se-hyun)
 
 383
 00:29:38.310 --> 00:29:39.990
-佳敏不參加讀書會嗎
+Is Jiamin not joining a study group?
 
 384
 00:29:40.570 --> 00:29:43.609
-我兒子和同學一起組讀書會之後
+After my son formed a study group with his classmates,
 
 385
 00:29:43.610 --> 00:29:46.139
-期中考名次馬上進步了10名
+his midterm rank improved by 10 places immediately.
 
 386
 00:29:46.140 --> 00:29:47.409
-真的嗎
+Really?
 
 387
 00:29:47.410 --> 00:29:48.980
-妳叫佳敏也去參加
+Tell Jiamin to join one too.
 
 388
 00:29:49.800 --> 00:29:51.879
-我們讀書會沒辦法讓你加入耶
+Our study group can't let you join.
 
 389
 00:29:51.880 --> 00:29:52.810
-為什麼
+Why?
 
 390
 00:29:53.430 --> 00:29:54.980
-你不是我們班的墊底嗎
+Aren't you at the bottom of our class?
 
 391
 00:29:55.750 --> 00:29:58.490
-抱歉 我們的成員是大家的媽媽決定的
+Sorry, our members are decided by everyone's moms.
 
 392
 00:29:58.870 --> 00:30:00.060
-不能隨便讓人加入
+We can't just let anyone join.
 
 393
-00:30:02.550 --> 00:30:04.120
-我們讀書會人數已經滿了
+00:30:25.550 --> 00:30:30.120
+Our study group is already full.
 
 394
 00:30:10.380 --> 00:30:11.790
-喂 別跟他對到眼
+Hey, don't make eye contact with him.
 
 395
 00:30:12.640 --> 00:30:15.390
-他還真沒良心 只想坐享其成
+He really has no conscience, just wanting to reap the benefits without working.
 
 396
 00:30:15.810 --> 00:30:17.849
-比起加入讀書會
+Rather than joining a study group,
 
 397
 00:30:17.850 --> 00:30:19.340
-他重新投胎還比較快
+it would be faster for him to be reincarnated.
 
 398
 00:30:25.330 --> 00:30:26.330
-佳敏
+Jiamin.
 
 399
 00:30:26.730 --> 00:30:30.310
-瀚瓊老師突然有事…
+Teacher Han-kyung suddenly had something...
 
 400
 00:30:33.180 --> 00:30:34.030
-你哭了嗎
+Are you crying?
 
 401
 00:30:34.570 --> 00:30:35.470
-你怎麼哭了
+Why are you crying?
 
 402
 00:30:36.570 --> 00:30:37.760
-發生什麼事了嗎
+Did something happen?
 
 403
 00:30:41.610 --> 00:30:42.919
-沒關係啦
+It's okay.
 
 404
 00:30:42.920 --> 00:30:45.100
-書讀得不好也沒關係
+It's okay if you're not good at studying.
 
 405
 00:30:45.920 --> 00:30:46.770
-不是
+No.
 
 406
 00:30:48.010 --> 00:30:49.030
-我不是因為這個哭的
+I'm not crying because of that.
 
 407
 00:31:22.520 --> 00:31:23.890
-不想去學校
+I don't want to go to school.
 
 408
 00:31:28.320 --> 00:31:30.400
-不行 還是要去
+No, I still have to go.
 
 409
 00:31:31.780 --> 00:31:33.470
-畢竟我是老師
+After all, I'm a teacher.
 
 410
 00:31:54.380 --> 00:31:56.899
-喂 別抽了 快進去
+Hey, stop smoking. Go inside quickly.
 
 411
 00:31:56.900 --> 00:31:58.289
-快進去 你們還不把菸熄了
+Go inside quickly. Why aren't you putting out your cigarettes?
 
 412
 00:31:58.290 --> 00:31:59.679
-剛剛才點的耶
+I just lit it!
 
 413
 00:31:59.680 --> 00:32:01.410
-臭小子們 還不快進去
+You punks, go inside now!
 
 414
 00:32:02.650 --> 00:32:03.879
-喂 那邊的 你們也快進去
+Hey, you guys over there, go inside quickly too!
 
 415
 00:32:03.880 --> 00:32:04.880
-訓導主任來了 走吧
+The Dean of Students is coming. Let's go.
 
 416
 00:32:04.881 --> 00:32:06.579
-訓導長早安
+Good morning, Dean.
 
 417
 00:32:06.580 --> 00:32:07.899
-別說什麼早不早的了
+Stop saying good morning.
 
 418
 00:32:07.900 --> 00:32:09.429
-快把油桶全部清掉
+Hurry up and clear out all the oil drums.
 
 419
 00:32:09.430 --> 00:32:10.320
-什麼
+What?
 
 420
 00:32:10.321 --> 00:32:11.899
-因為督學突然過來
+Because the inspector is suddenly coming,
 
 421
 00:32:11.900 --> 00:32:13.289
-副校長都快急死了
+the Vice Principal is worried sick.
 
 422
 00:32:13.290 --> 00:32:15.029
-這些油桶就交給妳處理了
+I'll leave these oil drums to you to handle.
 
 423
 00:32:15.030 --> 00:32:15.930
-可是…
+But...
 
 424
 00:32:40.030 --> 00:32:41.219
-謝謝你
+Thank you.
 
 425
 00:32:41.220 --> 00:32:43.050
-話說你叫什麼名字
+By the way, what's your name?
 
 426
 00:32:43.650 --> 00:32:45.500
-我叫朴建燁
+My name is Park Geon-yeop.
 
 427
 00:32:46.410 --> 00:32:47.400
-好 建燁
+Okay, Geon-yeop.
 
 428
 00:32:47.400 --> 00:32:48.160
-對
+Yes.
 
 429
 00:32:49.400 --> 00:32:51.369
-不過這菸灰缸
+But these ashtrays,
 
 430
 00:32:51.370 --> 00:32:54.180
-放著讓督學看到不是更好嗎
+wouldn't it be better to just leave them for the inspector to see?
 
 431
 00:32:56.610 --> 00:32:59.500
-其實我也這麼想
+Actually, I thought so too.
 
 432
 00:32:59.890 --> 00:33:01.370
-但這畢竟是我們學校嘛
+But this is our school after all.
 
 433
 00:33:03.000 --> 00:33:05.859
-即使妳一人煞費苦心 這學校也不會改變
+Even if you go through all this trouble alone, this school won't change.
 
 434
 00:33:05.860 --> 00:33:08.690
-你說的雖然也沒錯
+Although what you're saying is not wrong,
 
 435
 00:33:10.250 --> 00:33:12.550
-但就這樣放棄也太丟臉了
+giving up just like that would be too embarrassing.
 
 436
 00:33:13.660 --> 00:33:15.819
-總之剩下的事交給我整理
+Anyway, I'll take care of the rest.
 
 437
 00:33:15.820 --> 00:33:17.590
-你趕快進去上課吧
+You hurry inside for class.
 
 438
 00:33:18.100 --> 00:33:19.060
-再見
+Goodbye.
 
 439
 00:33:19.720 --> 00:33:20.710
-好的
+Okay.
 
 440
 00:34:12.170 --> 00:34:16.569
-(數學錯題筆記)
+(Math Mistakes Notebook)
 
 441
 00:34:16.570 --> 00:34:18.240
-(金世炫)
+(Kim Se-hyun)
 
 442
 00:34:34.250 --> 00:34:35.160
-這本筆記…
+This notebook...
 
 443
 00:34:36.380 --> 00:34:37.460
-這是我要丟掉的
+It's the one I was going to throw away.
 
 444
 00:34:40.480 --> 00:34:41.420
-謝謝你
+Thank you.
 
 445
 00:34:48.790 --> 00:34:50.460
-還敢騙我啊 該死
+How dare you trick me, damn it.
 
 446
 00:34:53.900 --> 00:34:55.489
-就是你這小子對吧
+It's you, isn't it?
 
 447
 00:34:55.490 --> 00:34:56.530
-焊接面具
+Welding mask.
 
 448
 00:35:08.950 --> 00:35:11.590
-哇 真是個神經病
+Wow, what a psychopath.
 
 449
 00:35:12.020 --> 00:35:13.050
-還給我
+Give it back.
 
 450
 00:35:14.990 --> 00:35:18.069
-流星高工今年也沒能確保員額編制
+Meteor Vocational High School couldn't secure its enrollment quota again this year.
 
 451
 00:35:18.070 --> 00:35:21.069
-督學 但像最近這種就業困難的情況
+Inspector, but in a difficult employment situation like recently,
 
 452
 00:35:21.070 --> 00:35:22.419
-我們的就業率無論跟誰比
+our employment rate, no matter who you compare it to,
 
 453
 00:35:22.420 --> 00:35:25.419
-都是不遜色的程度
+is second to none.
 
 454
 00:35:25.420 --> 00:35:27.589
-總之我希望您知道
+Anyway, I hope you know
 
 455
 00:35:27.590 --> 00:35:30.680
-我們一直都密切關注著流星高工
+that we have always been paying close attention to Meteor Vocational High School.
 
 456
 00:35:31.250 --> 00:35:33.119
-這反倒是我們的榮幸
+That is rather an honor for us.
 
 457
 00:35:33.120 --> 00:35:35.249
-您這麼關心敝校
+Since you care so much about our school,
 
 458
 00:35:35.250 --> 00:35:38.830
-我們才更用心地管理著校園
+we manage the campus with even more dedication.
 
 459
 00:35:45.680 --> 00:35:48.120
-怎麼回事 怎麼還沒清理完
+What's going on? Why isn't it cleaned up yet?
 
 460
 00:35:49.500 --> 00:35:50.450
--督學 -李老師
+- Inspector. - Teacher Lee.
 
 461
 00:35:50.451 --> 00:35:52.570
-實習大樓在這邊
+The practice building is this way.
 
 462
 00:35:54.350 --> 00:35:56.359
-督學
+Inspector.
 
 463
 00:35:56.360 --> 00:35:57.610
-等一下
+Wait a minute.
 
 464
 00:36:01.010 --> 00:36:02.060
-我嗎
+Me?
 
 465
 00:36:02.590 --> 00:36:03.640
-我嗎
+Me?
 
 466
 00:36:05.780 --> 00:36:06.730
-老師
+Teacher.
 
 467
 00:36:07.320 --> 00:36:09.279
-我們有在哪裡見過嗎
+Have we met somewhere before?
 
 468
 00:36:09.280 --> 00:36:10.609
-怎麼會呢
+How could that be?
 
 469
 00:36:10.610 --> 00:36:13.250
-她是剛來沒多久的代理教師
+She's a substitute teacher who just arrived not long ago.
 
 470
 00:36:14.500 --> 00:36:15.959
-對…對不起
+S-Sorry.
 
 471
 00:36:15.960 --> 00:36:17.659
-我沒印象
+I don't remember.
 
 472
 00:36:17.660 --> 00:36:18.849
-是嗎
+Is that so?
 
 473
 00:36:18.850 --> 00:36:19.929
-很眼熟耶
+She looks very familiar.
 
 474
 00:36:19.930 --> 00:36:21.009
-督學
+Inspector.
 
 475
 00:36:21.010 --> 00:36:22.729
-我們快去實習大樓吧
+Let's quickly go to the practice building.
 
 476
 00:36:22.730 --> 00:36:25.730
-我們已全部更換成
-可在現場實際使用的設備了
+We have completely replaced everything with equipment that can actually be used in the field.
 
 477
 00:36:39.940 --> 00:36:41.310
-那個…督學
+Um... Inspector.
 
 478
 00:36:41.710 --> 00:36:42.550
-督學
+Inspector.
 
 479
 00:36:46.760 --> 00:36:47.580
-喂
+Hey.
 
 480
 00:36:48.860 --> 00:36:50.350
-除了這傢伙 其他人都滾出去
+Everyone except this guy, get the hell out.
 
 481
 00:36:55.650 --> 00:36:56.860
-出來
+Come out.
 
 482
 00:37:01.030 --> 00:37:02.330
-你愣著幹嘛
+What are you standing there for?
 
 483
 00:37:02.820 --> 00:37:04.050
-還想被打啊
+Do you want to get beaten again?
 
 484
 00:37:08.510 --> 00:37:09.750
-我沒關係
+I'm fine.
 
 485
 00:37:23.240 --> 00:37:24.410
-你先把那個給我
+Give that to me first.
 
 486
 00:37:28.210 --> 00:37:29.300
-去死吧
+Go to hell.
 
 487
 00:37:45.150 --> 00:37:46.850
-看我啊 你在看哪
+Look at me! Where are you looking?
 
 488
 00:37:51.540 --> 00:37:52.729
-剛剛李賢宇是被推了嗎
+Was Lee Hyun-woo just pushed?
 
 489
 00:37:52.730 --> 00:37:54.049
-怎麼可能 他只是運氣好打中了吧
+Impossible. He just got lucky and hit him, right?
 
 490
 00:37:54.050 --> 00:37:56.070
-不過我們班有這麼強的人嗎
+But is there someone this strong in our class?
 
 491
 00:37:56.450 --> 00:37:57.360
-尹佳敏
+Yoon Jiamin.
 
 492
 00:37:57.361 --> 00:37:59.199
-222名
+Rank 222.
 
 493
 00:37:59.200 --> 00:38:00.810
-根本廢到爆啊
+He's absolute trash.
 
 494
 00:38:03.040 --> 00:38:04.850
-那個臭小子
+That f***ing punk.
 
 495
 00:38:11.960 --> 00:38:12.940
-不可以
+You can't!
 
 496
 00:38:32.810 --> 00:38:34.059
-道歉
+Apologize.
 
 497
 00:38:34.060 --> 00:38:35.100
-什麼
+What?
 
 498
 00:38:35.980 --> 00:38:37.579
-我叫你向世炫道歉
+I told you to apologize to Se-hyun.
 
 499
 00:38:37.580 --> 00:38:38.510
-世炫嗎
+Se-hyun?
 
 500
 00:38:39.250 --> 00:38:40.400
-他是誰
+Who is that?
 
 501
 00:38:52.180 --> 00:38:54.020
-你這傢伙死定了
+You're dead meat.
 
 502
 00:40:07.020 --> 00:40:08.210
-不准暈倒
+Don't pass out.
 
 503
 00:40:08.990 --> 00:40:10.630
-等你向世炫道歉後 要暈再暈
+Pass out only after you apologize to Se-hyun.
 
 504
 00:40:11.340 --> 00:40:12.389
-給我醒來
+Wake up.
 
 505
 00:40:12.390 --> 00:40:13.609
-世炫是誰
+Who is Se-hyun?
 
 506
 00:40:13.610 --> 00:40:14.530
-不知道
+I don't know.
 
 507
 00:40:17.480 --> 00:40:20.039
-我想…上普通高中
+I want... to go to a regular high school.
 
 508
 00:40:20.040 --> 00:40:21.149
-呵
+Heh.
 
 509
 00:40:21.150 --> 00:40:23.500
-我真的要瘋了
+I'm really going crazy.
 
 510
 00:40:23.920 --> 00:40:25.989
-上普通高中 然後呢
+Go to a regular high school, and then what?
 
 511
 00:40:25.990 --> 00:40:26.810
-大…
+Coll...
 
 512
 00:40:28.280 --> 00:40:29.630
-你還要上大學嗎
+Do you still want to go to college?
 
 513
 00:40:35.850 --> 00:40:36.700
-噓
+Shh.
 
 514
 00:40:37.950 --> 00:40:40.730
-他讀書讀到一半睡著了
+He fell asleep while studying.
 
 515
 00:40:41.370 --> 00:40:45.300
-我還是第一次看到
-流星高工的學生來圖書館
+This is my first time seeing a student from Meteor Vocational High School come to the library.
 
 516
 00:40:45.740 --> 00:40:46.520
-真是的
+Seriously.
 
 517
 00:41:05.610 --> 00:41:06.440
-奶奶
+Grandma.
 
 518
 00:41:07.370 --> 00:41:08.360
-等一下
+Wait a minute.
 
 519
 00:41:09.700 --> 00:41:10.370
-對不起
+Sorry.
 
 520
 00:41:10.371 --> 00:41:12.010
-我不小心丟錯了
+I accidentally threw away the wrong thing.
 
 521
 00:41:14.840 --> 00:41:16.130
-這是朋友的…
+This belongs to a friend...
 
 522
 00:41:36.410 --> 00:41:38.020
-世炫 對不起
+Se-hyun, I'm sorry.
 
 523
 00:41:40.360 --> 00:41:41.630
-筆記…
+The notebook...
 
 524
 00:41:52.100 --> 00:41:52.930
-這點東西算什麼
+What does this little thing matter?
 
 525
 00:41:52.931 --> 00:41:54.330
-你至於做到這種程度嗎
+Did you have to go that far?
 
 526
 00:41:57.590 --> 00:41:59.160
-但那是你認真寫的筆記啊
+But that's the notebook you took so seriously.
 
 527
 00:42:01.200 --> 00:42:04.000
-你真的整理得讓人很想好好讀書
+You really organized it in a way that makes people want to study hard.
 
 528
 00:42:05.150 --> 00:42:06.509
-這些努力卻化為灰燼…
+All that effort turned into ashes...
 
 529
 00:42:06.510 --> 00:42:07.580
-我加入
+I'll join.
 
 530
 00:42:11.560 --> 00:42:12.050
-什麼
+What?
 
 531
 00:42:12.051 --> 00:42:14.390
-我說我要加入讀書會
+I said I want to join the study group.
 
 532
 00:42:21.550 --> 00:42:22.480
-真的嗎
+Really?
 
 533
 00:42:23.120 --> 00:42:27.160
-《流氓讀書會》
+"Study Group"
 
 534
 00:42:27.200 --> 00:42:28.200
 ©2025 Tving & Studio Dragon
 All Rights Reserved
-
